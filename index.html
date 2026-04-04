@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Music League &middot; Atlanta</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  --blue: #0092D0;
+  --yellow: #FDBE43;
+  --orange: #FF7500;
+  --black: #000000;
+  --white: #FFFFFF;
+  --gray-50: #F7F7F7;
+  --gray-100: #F0F0F0;
+  --gray-200: #E0E0E0;
+  --gray-400: #AAAAAA;
+  --gray-500: #999999;
+  --gray-600: #666666;
+  --gray-800: #333333;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: var(--gray-50);
+  color: var(--black);
+  -webkit-font-smoothing: antialiased;
+}
+
+.site-wrap {
+  max-width: 640px;
+  margin: 0 auto;
+  background: var(--white);
+  min-height: 100vh;
+  border-left: 1px solid var(--gray-200);
+  border-right: 1px solid var(--gray-200);
+}
+
+/* ── HEADER ── */
+.header {
+  background: var(--black);
+  padding: 20px 24px 0;
+}
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 16px;
+}
+.logo-area { display: flex; align-items: center; gap: 14px; }
+.device {
+  width: 38px; height: 38px;
+  position: relative; overflow: hidden; flex-shrink: 0;
+}
+.device-band {
+  position: absolute; width: 140%; height: 33.33%;
+  left: -20%; transform: rotate(-45deg); transform-origin: center;
+}
+.device-band:nth-child(1) { background: var(--blue); top: -2%; }
+.device-band:nth-child(2) { background: var(--yellow); top: 31%; }
+.device-band:nth-child(3) { background: var(--orange); top: 64%; }
+.logotype {
+  font-size: 20px; font-weight: 300; letter-spacing: 6px;
+  color: var(--white); text-transform: lowercase;
+}
+.logotype-sub {
+  font-size: 9px; font-weight: 500; letter-spacing: 3px;
+  color: var(--gray-500); text-transform: uppercase; margin-top: 1px;
+}
+
+/* NAV */
+.nav-bar {
+  display: flex; gap: 0;
+  margin: 0 -24px;
+}
+.nav-tab {
+  flex: 1; text-align: center; padding: 10px 8px;
+  font-size: 10px; font-weight: 700; letter-spacing: 2px;
+  text-transform: uppercase; color: var(--gray-500);
+  cursor: pointer; border-bottom: 3px solid transparent;
+  transition: all 0.15s; background: none; border-top: none;
+  border-left: none; border-right: none;
+}
+.nav-tab:hover { color: var(--gray-400); }
+.nav-tab.active { color: var(--white); border-bottom-color: var(--yellow); }
+
+.triband { display: flex; height: 5px; }
+.triband div { flex: 1; }
+
+/* ── ROUND SELECTOR ── */
+.round-bar {
+  background: var(--gray-50);
+  padding: 12px 24px;
+  border-bottom: 1px solid var(--gray-200);
+  display: flex; align-items: center; gap: 12px;
+}
+.round-pill {
+  display: flex; align-items: center; gap: 0;
+}
+.round-num {
+  background: var(--blue); color: var(--white);
+  font-size: 13px; font-weight: 800; padding: 5px 10px;
+}
+.round-label {
+  background: var(--yellow); color: var(--black);
+  font-size: 10px; font-weight: 700; padding: 6.5px 10px;
+  letter-spacing: 2px; text-transform: uppercase;
+}
+.round-theme {
+  font-size: 13px; font-weight: 600; color: var(--black); flex: 1;
+}
+
+/* ── SECTIONS ── */
+.section { padding: 20px 24px; border-bottom: 1px solid var(--gray-200); }
+.section:last-child { border-bottom: none; }
+.sec-header {
+  display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
+}
+.sec-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.dot-blue { background: var(--blue); }
+.dot-yellow { background: var(--yellow); }
+.dot-orange { background: var(--orange); }
+.sec-title {
+  font-size: 11px; font-weight: 700; letter-spacing: 3px;
+  text-transform: uppercase; color: var(--gray-600);
+}
+.sec-line { flex: 1; height: 1px; background: var(--gray-200); }
+
+/* ── SONG OF THE WEEK ── */
+.winner-card {
+  background: var(--black); overflow: hidden; margin-bottom: 10px;
+}
+.winner-band { display: flex; height: 4px; }
+.winner-band div { flex: 1; }
+.winner-body {
+  padding: 18px 20px;
+  display: grid; grid-template-columns: 1fr auto;
+  gap: 16px; align-items: center;
+}
+.winner-tag {
+  font-size: 9px; font-weight: 700; letter-spacing: 2px;
+  text-transform: uppercase; color: var(--yellow); margin-bottom: 4px;
+}
+.winner-song { font-size: 18px; font-weight: 800; color: var(--white); line-height: 1.2; }
+.winner-artist { font-size: 13px; color: var(--gray-500); margin-top: 2px; }
+.winner-by { font-size: 11px; color: var(--yellow); margin-top: 2px; }
+.winner-pts-box {
+  text-align: center; background: var(--blue);
+  padding: 12px 18px; min-width: 60px;
+}
+.winner-pts-num { font-size: 32px; font-weight: 900; color: var(--white); line-height: 1; }
+.winner-pts-lbl {
+  font-size: 9px; font-weight: 600; letter-spacing: 2px;
+  text-transform: uppercase; color: rgba(255,255,255,0.7); margin-top: 2px;
+}
+
+.runners { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.runner {
+  background: var(--gray-50); padding: 10px 12px;
+  display: grid; grid-template-columns: 22px 1fr auto;
+  gap: 8px; align-items: center;
+}
+.runner-border-1 { border-left: 3px solid var(--blue); }
+.runner-border-2 { border-left: 3px solid var(--yellow); }
+.runner-border-3 { border-left: 3px solid var(--orange); }
+.runner-border-4 { border-left: 3px solid var(--gray-400); }
+.runner-rank { font-size: 16px; font-weight: 800; color: var(--gray-400); }
+.runner-song {
+  font-size: 12px; font-weight: 700; color: var(--black);
+  line-height: 1.2; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+}
+.runner-artist { font-size: 10px; color: var(--gray-500); }
+.runner-pts { font-size: 15px; font-weight: 800; color: var(--blue); }
+
+/* ── LEADERBOARD ── */
+.lb-tabs {
+  display: flex; gap: 0; margin-bottom: 14px; border: 1px solid var(--gray-200);
+}
+.lb-tab {
+  flex: 1; text-align: center; padding: 8px;
+  font-size: 10px; font-weight: 700; letter-spacing: 2px;
+  text-transform: uppercase; color: var(--gray-500);
+  cursor: pointer; border: none; background: var(--white);
+  border-right: 1px solid var(--gray-200); transition: all 0.15s;
+}
+.lb-tab:last-child { border-right: none; }
+.lb-tab.active { background: var(--blue); color: var(--white); }
+
+.lb-row {
+  display: grid; grid-template-columns: 30px 1fr auto;
+  gap: 10px; align-items: center;
+  padding: 8px 10px; border-bottom: 1px solid var(--gray-100);
+}
+.lb-row:last-child { border-bottom: none; }
+.lb-row.lb-first { background: var(--black); }
+.lb-first .lb-name { color: var(--white); }
+.lb-first .lb-rank { color: var(--yellow); }
+.lb-first .lb-pts { color: var(--yellow); }
+.lb-first .lb-bar { background: var(--yellow); }
+.lb-first .lb-bar-wrap { background: var(--gray-800); }
+.lb-rank { font-size: 14px; font-weight: 800; color: var(--gray-400); text-align: center; }
+.lb-name { font-size: 13px; font-weight: 600; color: var(--gray-800); }
+.lb-bar-wrap { height: 3px; background: var(--gray-100); margin-top: 4px; border-radius: 2px; }
+.lb-bar { height: 100%; background: var(--blue); border-radius: 2px; }
+.lb-pts { font-size: 15px; font-weight: 800; color: var(--blue); text-align: right; min-width: 30px; }
+
+/* ── MISSED POINTS ── */
+.shame-row {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 8px 0; border-bottom: 1px solid var(--gray-100);
+}
+.shame-row:last-child { border-bottom: none; }
+.shame-name { font-size: 13px; font-weight: 600; color: var(--gray-800); }
+.shame-detail { font-size: 10px; color: var(--gray-500); margin-top: 1px; }
+.shame-pts { font-size: 14px; font-weight: 800; color: var(--orange); white-space: nowrap; }
+
+/* ── GENEROSITY ── */
+.gen-row {
+  display: grid; grid-template-columns: 1fr auto auto;
+  gap: 12px; align-items: center;
+  padding: 6px 0; border-bottom: 1px solid var(--gray-100);
+}
+.gen-row:last-child { border-bottom: none; }
+.gen-name { font-size: 13px; font-weight: 500; color: var(--gray-800); }
+.gen-avg { font-size: 14px; font-weight: 700; color: var(--black); }
+.gen-badge {
+  font-size: 9px; font-weight: 700; padding: 3px 8px;
+  letter-spacing: 1px; text-transform: uppercase;
+}
+.badge-generous { background: var(--blue); color: var(--white); }
+.badge-mid { background: var(--gray-100); color: var(--gray-500); }
+.badge-stingy { background: var(--orange); color: var(--white); }
+
+/* ── ALL SONGS TABLE ── */
+.songs-table { width: 100%; }
+.song-row {
+  display: grid; grid-template-columns: 26px 1fr auto auto;
+  gap: 10px; align-items: center;
+  padding: 8px 4px; border-bottom: 1px solid var(--gray-100);
+}
+.song-row:last-child { border-bottom: none; }
+.song-rank { font-size: 12px; font-weight: 800; color: var(--gray-400); text-align: center; }
+.song-title { font-size: 12px; font-weight: 600; color: var(--gray-800); }
+.song-artist { font-size: 10px; color: var(--gray-500); }
+.song-sub { font-size: 10px; color: var(--blue); }
+.song-voters { font-size: 11px; color: var(--gray-500); text-align: center; }
+.song-pts { font-size: 14px; font-weight: 800; color: var(--blue); text-align: right; }
+
+/* ── STATS BOXES ── */
+.stats-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 16px; }
+.stat-box {
+  background: var(--gray-50); padding: 12px; text-align: center;
+  border: 1px solid var(--gray-200);
+}
+.stat-val { font-size: 24px; font-weight: 900; color: var(--black); line-height: 1; }
+.stat-lbl {
+  font-size: 9px; font-weight: 600; color: var(--gray-500);
+  letter-spacing: 1.5px; text-transform: uppercase; margin-top: 4px;
+}
+
+/* ── FOOTER ── */
+.footer { background: var(--black); padding: 16px 24px; }
+.footer-band { display: flex; height: 4px; margin-bottom: 12px; }
+.footer-band div { flex: 1; }
+.footer-inner { display: flex; justify-content: space-between; align-items: center; }
+.footer-left {
+  font-size: 9px; font-weight: 500; color: var(--gray-600);
+  letter-spacing: 2px; text-transform: uppercase;
+}
+.footer-right {
+  font-size: 9px; font-weight: 300; color: var(--gray-600);
+  letter-spacing: 1px;
+}
+
+/* ── PAGE VIEWS ── */
+.page { display: none; }
+.page.active { display: block; }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 480px) {
+  .runners { grid-template-columns: 1fr; }
+  .stats-row { grid-template-columns: repeat(2, 1fr); }
+  .site-wrap { border: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="site-wrap" id="app"></div>
+
+<script>
+let DATA = null;
+let currentPage = 'weekly';
+let currentRound = 0;
+
+async function loadData() {
+  const resp = await fetch('data.json');
+  DATA = await resp.json();
+  render();
+}
+
+function setPage(page) {
+  currentPage = page;
+  render();
+  window.scrollTo(0, 0);
+}
+
+function setRound(idx) {
+  currentRound = idx;
+  render();
+}
+
+function render() {
+  if (!DATA) return;
+  const app = document.getElementById('app');
+  const round = DATA.rounds[currentRound];
+
+  app.innerHTML = `
+    ${renderHeader()}
+    <div class="triband">
+      <div style="background:var(--blue)"></div>
+      <div style="background:var(--yellow)"></div>
+      <div style="background:var(--orange)"></div>
+    </div>
+    ${renderRoundBar(round)}
+    <div class="page ${currentPage === 'weekly' ? 'active' : ''}" id="page-weekly">
+      ${renderSongOfWeek(round)}
+      ${renderLeaderboard(round)}
+      ${renderMissedPoints(round)}
+      ${renderGenerosity(round)}
+    </div>
+    <div class="page ${currentPage === 'season' ? 'active' : ''}" id="page-season">
+      ${renderSeasonLeaderboard()}
+    </div>
+    <div class="page ${currentPage === 'songs' ? 'active' : ''}" id="page-songs">
+      ${renderAllSongs(round)}
+    </div>
+    ${renderFooter()}
+  `;
+}
+
+function renderHeader() {
+  return `
+    <div class="header">
+      <div class="header-top">
+        <div class="logo-area">
+          <div class="device">
+            <div class="device-band"></div>
+            <div class="device-band"></div>
+            <div class="device-band"></div>
+          </div>
+          <div>
+            <div class="logotype">music league</div>
+            <div class="logotype-sub">${DATA.league.subtitle}</div>
+          </div>
+        </div>
+      </div>
+      <div class="nav-bar">
+        <button class="nav-tab ${currentPage === 'weekly' ? 'active' : ''}" onclick="setPage('weekly')">This Week</button>
+        <button class="nav-tab ${currentPage === 'season' ? 'active' : ''}" onclick="setPage('season')">Season</button>
+        <button class="nav-tab ${currentPage === 'songs' ? 'active' : ''}" onclick="setPage('songs')">All Songs</button>
+      </div>
+    </div>`;
+}
+
+function renderRoundBar(round) {
+  const prevDisabled = currentRound <= 0;
+  const nextDisabled = currentRound >= DATA.rounds.length - 1;
+  return `
+    <div class="round-bar">
+      <div class="round-pill">
+        <div class="round-num">${String(round.number).padStart(2, '0')}</div>
+        <div class="round-label">Round</div>
+      </div>
+      <div class="round-theme">${round.name}</div>
+    </div>`;
+}
+
+function renderSongOfWeek(round) {
+  const songs = round.songs;
+  if (!songs.length) return '';
+  const winner = songs[0];
+  const runners = songs.slice(1, 5);
+  const borderClasses = ['runner-border-1', 'runner-border-2', 'runner-border-3', 'runner-border-4'];
+
+  return `
+    <div class="section">
+      <div class="sec-header">
+        <div class="sec-dot dot-yellow"></div>
+        <div class="sec-title">Song of the week</div>
+        <div class="sec-line"></div>
+      </div>
+      <div class="winner-card">
+        <div class="winner-band">
+          <div style="background:var(--blue)"></div>
+          <div style="background:var(--yellow)"></div>
+          <div style="background:var(--orange)"></div>
+        </div>
+        <div class="winner-body">
+          <div>
+            <div class="winner-tag">Song of the week</div>
+            <div class="winner-song">${winner.title}</div>
+            <div class="winner-artist">${winner.artist}</div>
+            <div class="winner-by">submitted by ${winner.submitter}</div>
+          </div>
+          <div class="winner-pts-box">
+            <div class="winner-pts-num">${winner.total_pts}</div>
+            <div class="winner-pts-lbl">Points</div>
+          </div>
+        </div>
+      </div>
+      <div class="runners">
+        ${runners.map((s, i) => `
+          <div class="runner ${borderClasses[i]}">
+            <div class="runner-rank">${i + 2}</div>
+            <div>
+              <div class="runner-song">${s.title}</div>
+              <div class="runner-artist">${s.artist} &middot; ${s.submitter}</div>
+            </div>
+            <div class="runner-pts">${s.total_pts}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>`;
+}
+
+function renderLeaderboard(round) {
+  const lb = round.leaderboard;
+  const maxPts = lb.length ? lb[0].points : 1;
+  return `
+    <div class="section">
+      <div class="sec-header">
+        <div class="sec-dot dot-blue"></div>
+        <div class="sec-title">Leaderboard</div>
+        <div class="sec-line"></div>
+      </div>
+      <div class="stats-row">
+        <div class="stat-box"><div class="stat-val">${round.stats.total_submissions}</div><div class="stat-lbl">Songs</div></div>
+        <div class="stat-box"><div class="stat-val">${round.stats.total_votes}</div><div class="stat-lbl">Votes</div></div>
+        <div class="stat-box"><div class="stat-val">${round.stats.unique_voters}</div><div class="stat-lbl">Voters</div></div>
+        <div class="stat-box"><div class="stat-val">${round.stats.unique_submitters}</div><div class="stat-lbl">Submitted</div></div>
+      </div>
+      ${lb.filter(e => e.points > 0).map((e, i) => `
+        <div class="lb-row ${i === 0 ? 'lb-first' : ''}">
+          <div class="lb-rank">${e.rank}</div>
+          <div>
+            <div class="lb-name">${e.player}</div>
+            <div class="lb-bar-wrap"><div class="lb-bar" style="width:${Math.round(e.points / maxPts * 100)}%"></div></div>
+          </div>
+          <div class="lb-pts">${e.points}</div>
+        </div>
+      `).join('')}
+    </div>`;
+}
+
+function renderMissedPoints(round) {
+  const missed = round.missed_points;
+  if (!missed.length) return '';
+  return `
+    <div class="section">
+      <div class="sec-header">
+        <div class="sec-dot dot-orange"></div>
+        <div class="sec-title">Missed points &middot; didn't vote</div>
+        <div class="sec-line"></div>
+      </div>
+      ${missed.map(m => `
+        <div class="shame-row">
+          <div>
+            <div class="shame-name">${m.player}</div>
+            <div class="shame-detail">${m.songs} song${m.songs > 1 ? 's' : ''} left undefended</div>
+          </div>
+          <div class="shame-pts">&minus;${m.total_missed} pts</div>
+        </div>
+      `).join('')}
+    </div>`;
+}
+
+function renderGenerosity(round) {
+  const gen = round.generosity;
+  if (!gen.length) return '';
+  return `
+    <div class="section">
+      <div class="sec-header">
+        <div class="sec-dot dot-blue"></div>
+        <div class="sec-title">Generosity meter</div>
+        <div class="sec-line"></div>
+      </div>
+      ${gen.map(g => {
+        let cls = 'badge-mid', label = 'Average';
+        if (g.avg_per_vote >= 2.0) { cls = 'badge-generous'; label = 'Generous'; }
+        else if (g.avg_per_vote < 0.8) { cls = 'badge-stingy'; label = 'Stingy'; }
+        return `
+          <div class="gen-row">
+            <div class="gen-name">${g.player}</div>
+            <div class="gen-avg">${g.avg_per_vote.toFixed(2)}</div>
+            <div class="gen-badge ${cls}">${label}</div>
+          </div>`;
+      }).join('')}
+    </div>`;
+}
+
+function renderSeasonLeaderboard() {
+  const lb = DATA.season_leaderboard;
+  const maxPts = lb.length ? lb[0].points : 1;
+  return `
+    <div class="section">
+      <div class="sec-header">
+        <div class="sec-dot dot-blue"></div>
+        <div class="sec-title">Season standings</div>
+        <div class="sec-line"></div>
+      </div>
+      ${lb.filter(e => e.points > 0).map((e, i) => `
+        <div class="lb-row ${i === 0 ? 'lb-first' : ''}">
+          <div class="lb-rank">${e.rank}</div>
+          <div>
+            <div class="lb-name">${e.player}</div>
+            <div class="lb-bar-wrap"><div class="lb-bar" style="width:${Math.round(e.points / maxPts * 100)}%"></div></div>
+          </div>
+          <div class="lb-pts">${e.points}</div>
+        </div>
+      `).join('')}
+    </div>`;
+}
+
+function renderAllSongs(round) {
+  const songs = round.songs;
+  return `
+    <div class="section">
+      <div class="sec-header">
+        <div class="sec-dot dot-yellow"></div>
+        <div class="sec-title">All songs &middot; Round ${round.number}</div>
+        <div class="sec-line"></div>
+      </div>
+      <div class="songs-table">
+        ${songs.map((s, i) => `
+          <div class="song-row">
+            <div class="song-rank">${i + 1}</div>
+            <div>
+              <div class="song-title">${s.title}</div>
+              <div class="song-artist">${s.artist}</div>
+              <div class="song-sub">${s.submitter}</div>
+            </div>
+            <div class="song-voters">${s.unique_voters}v</div>
+            <div class="song-pts">${s.total_pts}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>`;
+}
+
+function renderFooter() {
+  return `
+    <div class="footer">
+      <div class="footer-band">
+        <div style="background:var(--blue)"></div>
+        <div style="background:var(--yellow)"></div>
+        <div style="background:var(--orange)"></div>
+      </div>
+      <div class="footer-inner">
+        <div class="footer-left">Music League Transit Authority</div>
+        <div class="footer-right">Season One &middot; 2026</div>
+      </div>
+    </div>`;
+}
+
+loadData();
+</script>
+</body>
+</html>

@@ -1,0 +1,443 @@
+{
+  "league": {
+    "name": "Music League",
+    "subtitle": "Atlanta \u00b7 Season One"
+  },
+  "players": {
+    "0795aaf6eeca40eaac6661edd291cce2": "Brooks K.",
+    "0a831b84b60a4aaca7c6f3150bbccb88": "Dray E.",
+    "25fef29f0b2243548626ee1713e3b1f9": "Blake A.",
+    "2b989686f7054740af2017ae1a829d68": "Frank L.",
+    "2fed7a01277b4496a86f52fd504a9dcd": "TR C.",
+    "43941604052d45488a63065923e84f19": "Emory L.",
+    "4610c4dc5b5c44f09d2c378332135b67": "Jack A.",
+    "4c65c5fb8d1b4ea498df50e2d87a7da6": "Haris V.",
+    "5838e19081f440598e554c420f257ab7": "Mills T.",
+    "605a6a083d2d4ad781df783c4a21b505": "Hunter A.",
+    "62ce05b4abe5441b9504d25b59208a99": "Jake C.",
+    "68f0f9e3004b481999ceb5b8f1ac79e4": "Patrick C.",
+    "7167404f66594c58a6bda0cce98ca1f2": "Hilton H.",
+    "76a55817271e454fad8f84efdc032dc5": "Kevin D.",
+    "79cab84806c54bf0b59b34c5b2977d78": "Henry L.",
+    "90defa7481ce45f4acfc02ba3792e834": "Schuyler M.",
+    "98834c6ee0d14f6594017b865fa4d1fb": "Ford L.",
+    "aa8ede356a524849b6e3fe40fea7ea4f": "Ben Z.",
+    "b250f6659575461db5ee96f4e5705023": "Kennon S.",
+    "c220447f3f8d4e6aa50cbff707c6f3b1": "Giles G.",
+    "c2de60ec7be74e74ba5ebbd9af18056a": "Will B.",
+    "e004e6544dff44bdb1687ec8fb03f137": "Will I.",
+    "f9f6d12c4c7240ee83db9fd0774fc416": "Danny C.",
+    "fa73648bd3f34bc6980fe57087f351f5": "Chris V."
+  },
+  "rounds": [
+    {
+      "id": "dfe9b9869abc4553bb98ef5f5059206a",
+      "number": 1,
+      "name": "Country Song For Driving To Your Divorce Hearing",
+      "songs": [
+        {
+          "title": "Good Lookin'",
+          "artist": "Dixon Dallas",
+          "album": "Good Lookin'",
+          "submitter": "Jake C.",
+          "total_pts": 12,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:1BHse4ulQefGTZZIeziZqr"
+        },
+        {
+          "title": "Fuck You Bitch",
+          "artist": "Wheeler Walker Jr.",
+          "album": "Redneck Shit",
+          "submitter": "Kennon S.",
+          "total_pts": 8,
+          "unique_voters": 7,
+          "spotify_uri": "spotify:track:43JK3XJKQ5MJ7ddlF0ylUX"
+        },
+        {
+          "title": "Drinkin' Problem",
+          "artist": "Midland",
+          "album": "On The Rocks",
+          "submitter": "Ben Z.",
+          "total_pts": 7,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:1vBpwxsLVwaR4evBIaFmqD"
+        },
+        {
+          "title": "Bad Luck",
+          "artist": "Zach Top",
+          "album": "Cold Beer & Country Music",
+          "submitter": "Jake C.",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:1OYHXCuHdzHjpHqHlY1g1r"
+        },
+        {
+          "title": "That Ain't My Truck",
+          "artist": "Rhett Akins",
+          "album": "A Thousand Memories",
+          "submitter": "Jack A.",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:7riuy1t0Kt3SRgMtFxX0FR"
+        },
+        {
+          "title": "Everybody Needs Love",
+          "artist": "Drive-By Truckers",
+          "album": "Go-Go Boots",
+          "submitter": "Kennon S.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:1CL3L1bkgT8R3gVzD4n4sW"
+        },
+        {
+          "title": "See You Later, I'm Gone",
+          "artist": "The Marshall Tucker Band",
+          "album": "The Marshall Tucker Band",
+          "submitter": "Giles G.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:3focQYPGDbgrvbKhoWVj7T"
+        },
+        {
+          "title": "Cocaine",
+          "artist": "Heidecker & Wood",
+          "album": "Some Things Never Stay The Same",
+          "submitter": "Schuyler M.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:0gIsZ80J2vyACADWuRhl21"
+        },
+        {
+          "title": "It's A Great Day To Be Alive",
+          "artist": "Travis Tritt",
+          "album": "Down The Road I Go",
+          "submitter": "Will B.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:3oW6SWwGqiZSPTiAp7ZQoH"
+        },
+        {
+          "title": "That Smell",
+          "artist": "Lynyrd Skynyrd",
+          "album": "Street Survivors",
+          "submitter": "Kevin D.",
+          "total_pts": 5,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:52DKGPMQ21DauCR19pQ0BK"
+        }
+      ],
+      "leaderboard": [
+        {
+          "player": "Jake C.",
+          "points": 18,
+          "rank": 1
+        },
+        {
+          "player": "Kennon S.",
+          "points": 13,
+          "rank": 2
+        },
+        {
+          "player": "Ben Z.",
+          "points": 9,
+          "rank": 3
+        },
+        {
+          "player": "Jack A.",
+          "points": 9,
+          "rank": 3
+        },
+        {
+          "player": "Dray E.",
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "player": "Chris V.",
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "player": "Schuyler M.",
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "player": "Ford L.",
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "player": "Mills T.",
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "player": "Danny C.",
+          "points": 5,
+          "rank": 10
+        },
+        {
+          "player": "Patrick C.",
+          "points": 4,
+          "rank": 11
+        },
+        {
+          "player": "Hilton H.",
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "player": "Henry L.",
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "player": "Will I.",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "player": "Will B.",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "player": "Brooks K.",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "player": "Giles G.",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "player": "Kevin D.",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "player": "TR C.",
+          "points": 0,
+          "rank": 14
+        }
+      ],
+      "missed_points": [
+        {
+          "player": "Will B.",
+          "total_missed": 7,
+          "songs": 2
+        },
+        {
+          "player": "Giles G.",
+          "total_missed": 7,
+          "songs": 2
+        },
+        {
+          "player": "Kevin D.",
+          "total_missed": 7,
+          "songs": 2
+        },
+        {
+          "player": "Will I.",
+          "total_missed": 5,
+          "songs": 2
+        },
+        {
+          "player": "Brooks K.",
+          "total_missed": 3,
+          "songs": 2
+        },
+        {
+          "player": "TR C.",
+          "total_missed": 3,
+          "songs": 2
+        }
+      ],
+      "generosity": [
+        {
+          "player": "Kennon S.",
+          "avg_per_vote": 2.5,
+          "total_songs_voted": 4,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Ben Z.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Chris V.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Jack A.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Danny C.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Ford L.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Jake C.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Patrick C.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Mills T.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Hilton H.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Henry L.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Schuyler M.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player": "Dray E.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        }
+      ],
+      "stats": {
+        "total_submissions": 38,
+        "total_votes": 107,
+        "unique_voters": 13,
+        "unique_submitters": 19
+      }
+    }
+  ],
+  "season_leaderboard": [
+    {
+      "player": "Jake C.",
+      "points": 18,
+      "rank": 1
+    },
+    {
+      "player": "Kennon S.",
+      "points": 13,
+      "rank": 2
+    },
+    {
+      "player": "Ben Z.",
+      "points": 9,
+      "rank": 3
+    },
+    {
+      "player": "Jack A.",
+      "points": 9,
+      "rank": 3
+    },
+    {
+      "player": "Dray E.",
+      "points": 8,
+      "rank": 5
+    },
+    {
+      "player": "Chris V.",
+      "points": 8,
+      "rank": 5
+    },
+    {
+      "player": "Schuyler M.",
+      "points": 6,
+      "rank": 7
+    },
+    {
+      "player": "Ford L.",
+      "points": 6,
+      "rank": 7
+    },
+    {
+      "player": "Mills T.",
+      "points": 6,
+      "rank": 7
+    },
+    {
+      "player": "Danny C.",
+      "points": 5,
+      "rank": 10
+    },
+    {
+      "player": "Patrick C.",
+      "points": 4,
+      "rank": 11
+    },
+    {
+      "player": "Hilton H.",
+      "points": 3,
+      "rank": 12
+    },
+    {
+      "player": "Henry L.",
+      "points": 3,
+      "rank": 12
+    },
+    {
+      "player": "Will I.",
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "player": "Will B.",
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "player": "Brooks K.",
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "player": "Giles G.",
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "player": "Kevin D.",
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "player": "TR C.",
+      "points": 0,
+      "rank": 14
+    }
+  ]
+}
