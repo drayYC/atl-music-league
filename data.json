@@ -1,7 +1,8 @@
 {
   "league": {
     "name": "Music League",
-    "subtitle": "Atlanta \u00b7 Season One"
+    "subtitle": "Atlanta \u00b7 Season One",
+    "total_rounds": 2
   },
   "players": {
     "0795aaf6eeca40eaac6661edd291cce2": "Brooks K.",
@@ -12,6 +13,7 @@
     "43941604052d45488a63065923e84f19": "Emory L.",
     "4610c4dc5b5c44f09d2c378332135b67": "Jack A.",
     "4c65c5fb8d1b4ea498df50e2d87a7da6": "Haris V.",
+    "5210623e41984e4684fd204317a73149": "Coates C.",
     "5838e19081f440598e554c420f257ab7": "Mills T.",
     "605a6a083d2d4ad781df783c4a21b505": "Hunter A.",
     "62ce05b4abe5441b9504d25b59208a99": "Jake C.",
@@ -34,190 +36,539 @@
       "id": "dfe9b9869abc4553bb98ef5f5059206a",
       "number": 1,
       "name": "Country Song For Driving To Your Divorce Hearing",
+      "description": "",
+      "playlist_url": "https://open.spotify.com/playlist/1hEr3ye5XPi3EYaBLoLjC9",
       "songs": [
         {
           "title": "Good Lookin'",
           "artist": "Dixon Dallas",
           "album": "Good Lookin'",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
           "submitter": "Jake C.",
           "total_pts": 12,
           "unique_voters": 5,
-          "spotify_uri": "spotify:track:1BHse4ulQefGTZZIeziZqr"
+          "spotify_uri": "spotify:track:1BHse4ulQefGTZZIeziZqr",
+          "comment": 0
         },
         {
           "title": "Fuck You Bitch",
           "artist": "Wheeler Walker Jr.",
           "album": "Redneck Shit",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
           "submitter": "Kennon S.",
           "total_pts": 8,
           "unique_voters": 7,
-          "spotify_uri": "spotify:track:43JK3XJKQ5MJ7ddlF0ylUX"
+          "spotify_uri": "spotify:track:43JK3XJKQ5MJ7ddlF0ylUX",
+          "comment": 0
         },
         {
           "title": "Drinkin' Problem",
           "artist": "Midland",
           "album": "On The Rocks",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "submitter": "Ben Z.",
           "total_pts": 7,
           "unique_voters": 5,
-          "spotify_uri": "spotify:track:1vBpwxsLVwaR4evBIaFmqD"
+          "spotify_uri": "spotify:track:1vBpwxsLVwaR4evBIaFmqD",
+          "comment": 0
         },
         {
           "title": "Bad Luck",
           "artist": "Zach Top",
           "album": "Cold Beer & Country Music",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
           "submitter": "Jake C.",
           "total_pts": 6,
           "unique_voters": 4,
-          "spotify_uri": "spotify:track:1OYHXCuHdzHjpHqHlY1g1r"
+          "spotify_uri": "spotify:track:1OYHXCuHdzHjpHqHlY1g1r",
+          "comment": 0
         },
         {
           "title": "That Ain't My Truck",
           "artist": "Rhett Akins",
           "album": "A Thousand Memories",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
           "submitter": "Jack A.",
           "total_pts": 6,
           "unique_voters": 4,
-          "spotify_uri": "spotify:track:7riuy1t0Kt3SRgMtFxX0FR"
+          "spotify_uri": "spotify:track:7riuy1t0Kt3SRgMtFxX0FR",
+          "comment": "This is sadboi vibes"
         },
         {
           "title": "Everybody Needs Love",
           "artist": "Drive-By Truckers",
           "album": "Go-Go Boots",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
           "submitter": "Kennon S.",
           "total_pts": 5,
           "unique_voters": 5,
-          "spotify_uri": "spotify:track:1CL3L1bkgT8R3gVzD4n4sW"
+          "spotify_uri": "spotify:track:1CL3L1bkgT8R3gVzD4n4sW",
+          "comment": 0
         },
         {
           "title": "See You Later, I'm Gone",
           "artist": "The Marshall Tucker Band",
           "album": "The Marshall Tucker Band",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "submitter": "Giles G.",
           "total_pts": 5,
           "unique_voters": 5,
-          "spotify_uri": "spotify:track:3focQYPGDbgrvbKhoWVj7T"
+          "spotify_uri": "spotify:track:3focQYPGDbgrvbKhoWVj7T",
+          "comment": 0
         },
         {
           "title": "Cocaine",
           "artist": "Heidecker & Wood",
           "album": "Some Things Never Stay The Same",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
           "submitter": "Schuyler M.",
           "total_pts": 5,
           "unique_voters": 4,
-          "spotify_uri": "spotify:track:0gIsZ80J2vyACADWuRhl21"
+          "spotify_uri": "spotify:track:0gIsZ80J2vyACADWuRhl21",
+          "comment": 0
         },
         {
           "title": "It's A Great Day To Be Alive",
           "artist": "Travis Tritt",
           "album": "Down The Road I Go",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
           "submitter": "Will B.",
           "total_pts": 5,
           "unique_voters": 4,
-          "spotify_uri": "spotify:track:3oW6SWwGqiZSPTiAp7ZQoH"
+          "spotify_uri": "spotify:track:3oW6SWwGqiZSPTiAp7ZQoH",
+          "comment": 0
         },
         {
           "title": "That Smell",
           "artist": "Lynyrd Skynyrd",
           "album": "Street Survivors",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
           "submitter": "Kevin D.",
           "total_pts": 5,
           "unique_voters": 3,
-          "spotify_uri": "spotify:track:52DKGPMQ21DauCR19pQ0BK"
+          "spotify_uri": "spotify:track:52DKGPMQ21DauCR19pQ0BK",
+          "comment": 0
+        },
+        {
+          "title": "All My Rowdy Friends Are Coming Over Tonight",
+          "artist": "Hank Williams, Jr.",
+          "album": "Greatest Hits, Vol. 2",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:1yzyhrCfdwPgfWixsCELlH",
+          "comment": 0
+        },
+        {
+          "title": "Here's a Quarter (Call Someone Who Cares)",
+          "artist": "Travis Tritt",
+          "album": "It's All About to Change",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:6BTCpaBTxlqGMOl0P6hvvX",
+          "comment": 0
+        },
+        {
+          "title": "She Got the Goldmine (I Got the Shaft)",
+          "artist": "Jerry Reed",
+          "album": "The Essential Jerry Reed",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:0AbYscoIblUGiNqn2Iw6fq",
+          "comment": 0
+        },
+        {
+          "title": "I Wanna Talk About Me",
+          "artist": "Toby Keith",
+          "album": "Pull My Chain",
+          "submitter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "submitter": "Danny C.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:3VHevS1BocAcrihLnl11DG",
+          "comment": 0
+        },
+        {
+          "title": "Psycho",
+          "artist": "Eddie Noack",
+          "album": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:3Vtcjs5wVanh6LocIRrpwy",
+          "comment": 0
+        },
+        {
+          "title": "Gin and Juice",
+          "artist": "The Gourds",
+          "album": "Shinebox",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:6CeszonFOlgp7HiawTSqCu",
+          "comment": 0
+        },
+        {
+          "title": "No Sense in Lovin'",
+          "artist": "Uncle Tupelo",
+          "album": "Anodyne",
+          "submitter_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "submitter": "Will I.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:080AdFXuopE7WinKKKzVLQ",
+          "comment": 0
+        },
+        {
+          "title": "Starting Over",
+          "artist": "Chris Stapleton",
+          "album": "Starting Over",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:3TNSVsiFngfe68UJpMq1oS",
+          "comment": 0
+        },
+        {
+          "title": "Queen Of My Double Wide Trailer",
+          "artist": "Sammy Kershaw",
+          "album": "Haunted Heart",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:3Wz9Fm9ZyhpaRGxMlSR5G4",
+          "comment": "This is fuck you vibes"
+        },
+        {
+          "title": "The Fireman",
+          "artist": "George Strait",
+          "album": "Does Fort Worth Ever Cross Your Mind",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:5CwZU4BVFX0dyqG1gKfHHr",
+          "comment": " "
+        },
+        {
+          "title": "Bye Bye",
+          "artist": "Phil Vassar",
+          "album": "Greatest Hits Volume 1",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:6CebGuHR99xrFitTnOgeu2",
+          "comment": 0
+        },
+        {
+          "title": "Wear My Ring",
+          "artist": "Bart Crow",
+          "album": "Finally\u2026",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:6VSCXbO0lkIFar5tuGDasA",
+          "comment": 0
+        },
+        {
+          "title": "Gone",
+          "artist": "Montgomery Gentry",
+          "album": "You Do Your Thing",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:71lXNAROGX1zo6tX0MSnCS",
+          "comment": 0
+        },
+        {
+          "title": "I Don't Wanna Play House",
+          "artist": "Tammy Wynette",
+          "album": "Take Me To Your World/I Don't Want To Play House",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5p5ToI0sTdyXRUByijkDYL",
+          "comment": 0
+        },
+        {
+          "title": "Some Beach",
+          "artist": "Blake Shelton",
+          "album": "The Blake Shelton Collection",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0ZhwjSovRmeXfoOKVItfhS",
+          "comment": 0
+        },
+        {
+          "title": "Smoke A Little Smoke",
+          "artist": "Eric Church",
+          "album": "Carolina",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:1ESipSqVefdknPg5IBKFND",
+          "comment": 0
+        },
+        {
+          "title": "I Hope You Have Learned",
+          "artist": "Tony Rice Unit",
+          "album": "Manzanita",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:204eP0Bi3fbvMWN4PxawON",
+          "comment": 0
+        },
+        {
+          "title": "Dead Flowers - 2009 Mix",
+          "artist": "The Rolling Stones",
+          "album": "Sticky Fingers (Remastered)",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:3oJtUnnt5uYPtzulIbLw3D",
+          "comment": 0
+        },
+        {
+          "title": "Quits",
+          "artist": "Gary Stewart",
+          "album": "The Essential Gary Stewart",
+          "submitter_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "submitter": "Will I.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:71crNoinQPLsNDRVcPbPfJ",
+          "comment": 0
+        },
+        {
+          "title": "The Whirl and the Suck",
+          "artist": "Johnny Cash",
+          "album": "From Sea to Shining Sea",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:7724bTdkYtVD7m6MYFUljC",
+          "comment": 0
+        },
+        {
+          "title": "Decoration Day - Live",
+          "artist": "Jason Isbell and the 400 Unit",
+          "album": "Live from Alabama",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:7A1dkV9p6d9IH2NiV5yCsQ",
+          "comment": 0
+        },
+        {
+          "title": "She Thinks My Tractor's Sexy",
+          "artist": "Kenny Chesney",
+          "album": "Everywhere We Go",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:3QV7NYkrmV0Q0IHdFJw9hO",
+          "comment": 0
+        },
+        {
+          "title": "Save a Horse (Ride a Cowboy)",
+          "artist": "Big & Rich",
+          "album": "Horse of a Different Color",
+          "submitter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "submitter": "Danny C.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:5s7m2xNZWgz5FqVSIvJcGA",
+          "comment": 0
+        },
+        {
+          "title": "As She's Walking Away (feat. Alan Jackson)",
+          "artist": "Zac Brown Band, Alan Jackson",
+          "album": "You Get What You Give",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:65UCejW01DAovmluVYHWAt",
+          "comment": 0
+        },
+        {
+          "title": "Back Down South",
+          "artist": "Kings of Leon",
+          "album": "Come Around Sundown (Expanded Edition)",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:6HfFLqjxyFJYx1V0olSKof",
+          "comment": 0
+        },
+        {
+          "title": "Chicks Dig It - Single Edit",
+          "artist": "Chris Cagle",
+          "album": "Chris Cagle",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:0nprj2O0teCglthuhzTG5o",
+          "comment": 0
+        },
+        {
+          "title": "Before He Cheats",
+          "artist": "Carrie Underwood",
+          "album": "Some Hearts",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:0ZUo4YjG4saFnEJhdWp9Bt",
+          "comment": 0
+        },
+        {
+          "title": "Long Haired Country Boy",
+          "artist": "The Charlie Daniels Band",
+          "album": "A Decade Of Hits",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:5pihM63Tj50g1XjLxq0iU8",
+          "comment": 0
         }
       ],
       "leaderboard": [
         {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "points": 18,
           "rank": 1
         },
         {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 13,
           "rank": 2
         },
         {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "points": 9,
           "rank": 3
         },
         {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
           "points": 9,
           "rank": 3
         },
         {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "points": 8,
           "rank": 5
         },
         {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
           "player": "Chris V.",
           "points": 8,
           "rank": 5
         },
         {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "points": 6,
           "rank": 7
         },
         {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
           "player": "Ford L.",
           "points": 6,
           "rank": 7
         },
         {
+          "player_id": "5838e19081f440598e554c420f257ab7",
           "player": "Mills T.",
           "points": 6,
           "rank": 7
         },
         {
+          "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
           "player": "Danny C.",
           "points": 5,
           "rank": 10
         },
         {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
           "player": "Patrick C.",
           "points": 4,
           "rank": 11
         },
         {
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
           "player": "Hilton H.",
           "points": 3,
           "rank": 12
         },
         {
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
           "player": "Henry L.",
           "points": 3,
           "rank": 12
         },
         {
+          "player_id": "e004e6544dff44bdb1687ec8fb03f137",
           "player": "Will I.",
           "points": 0,
           "rank": 14
         },
         {
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
           "player": "Will B.",
           "points": 0,
           "rank": 14
         },
         {
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
           "player": "Brooks K.",
           "points": 0,
           "rank": 14
         },
         {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "player": "Giles G.",
           "points": 0,
           "rank": 14
         },
         {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
           "player": "Kevin D.",
           "points": 0,
           "rank": 14
         },
         {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
           "player": "TR C.",
           "points": 0,
           "rank": 14
@@ -252,87 +603,958 @@
         {
           "player": "TR C.",
           "total_missed": 3,
-          "songs": 2
+          "songs": 1
         }
       ],
       "generosity": [
         {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "avg_per_vote": 2.5,
           "total_songs_voted": 4,
           "total_pts_given": 10
         },
         {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "avg_per_vote": 1.67,
           "total_songs_voted": 6,
           "total_pts_given": 10
         },
         {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
           "player": "Chris V.",
           "avg_per_vote": 1.67,
           "total_songs_voted": 6,
           "total_pts_given": 10
         },
         {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
           "avg_per_vote": 1.67,
           "total_songs_voted": 6,
           "total_pts_given": 10
         },
         {
+          "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
           "player": "Danny C.",
           "avg_per_vote": 1.43,
           "total_songs_voted": 7,
           "total_pts_given": 10
         },
         {
-          "player": "Ford L.",
-          "avg_per_vote": 1.11,
-          "total_songs_voted": 9,
-          "total_pts_given": 10
-        },
-        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "avg_per_vote": 1.11,
           "total_songs_voted": 9,
           "total_pts_given": 10
         },
         {
-          "player": "Patrick C.",
-          "avg_per_vote": 1.0,
-          "total_songs_voted": 10,
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
           "total_pts_given": 10
         },
         {
-          "player": "Mills T.",
-          "avg_per_vote": 1.0,
-          "total_songs_voted": 10,
-          "total_pts_given": 10
-        },
-        {
-          "player": "Hilton H.",
-          "avg_per_vote": 1.0,
-          "total_songs_voted": 10,
-          "total_pts_given": 10
-        },
-        {
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
           "player": "Henry L.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
         },
         {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
         },
         {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
+        },
+        {
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        }
+      ],
+      "vote_details": [
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Dead Flowers - 2009 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Psycho",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "The Fireman",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Bye Bye",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wear My Ring",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "submitter": "Will I.",
+          "song": "Quits",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "The Whirl and the Suck",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Good Lookin'",
+          "points": 5
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Queen Of My Double Wide Trailer",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wear My Ring",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "The Whirl and the Suck",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Good Lookin'",
+          "points": 2
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Bad Luck",
+          "points": 3
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "That Smell",
+          "points": 3
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Gin and Juice",
+          "points": 2
+        },
+        {
+          "voter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "voter": "Danny C.",
+          "submitter_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "submitter": "Will I.",
+          "song": "No Sense in Lovin'",
+          "points": 1
+        },
+        {
+          "voter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "voter": "Danny C.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Cocaine",
+          "points": 2
+        },
+        {
+          "voter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "voter": "Danny C.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Some Beach",
+          "points": 1
+        },
+        {
+          "voter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "voter": "Danny C.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points": 3
+        },
+        {
+          "voter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "voter": "Danny C.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "She Thinks My Tractor's Sexy",
+          "points": 1
+        },
+        {
+          "voter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "voter": "Danny C.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Starting Over",
+          "points": 1
+        },
+        {
+          "voter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "voter": "Danny C.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Decoration Day - Live",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Cocaine",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Bad Luck",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Queen Of My Double Wide Trailer",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "The Fireman",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "submitter": "Danny C.",
+          "song": "Save a Horse (Ride a Cowboy)",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Back Down South",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "submitter": "Will I.",
+          "song": "No Sense in Lovin'",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Cocaine",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Bad Luck",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Gin and Juice",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Decoration Day - Live",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Some Beach",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Good Lookin'",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Smoke A Little Smoke",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hope You Have Learned",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Dead Flowers - 2009 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "voter": "Henry L.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "She Got the Goldmine (I Got the Shaft)",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Starting Over",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "submitter": "Danny C.",
+          "song": "I Wanna Talk About Me",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Psycho",
+          "points": 2
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Queen Of My Double Wide Trailer",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "I Don't Wanna Play House",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "submitter": "Will I.",
+          "song": "No Sense in Lovin'",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Good Lookin'",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "The Fireman",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "As She's Walking Away (feat. Alan Jackson)",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Bye Bye",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "submitter": "Will I.",
+          "song": "Quits",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "She Got the Goldmine (I Got the Shaft)",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hope You Have Learned",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Starting Over",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "submitter": "Danny C.",
+          "song": "I Wanna Talk About Me",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "That Smell",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "I Don't Wanna Play House",
+          "points": 2
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Good Lookin'",
+          "points": 3
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Bad Luck",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wear My Ring",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points": 3
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "She Got the Goldmine (I Got the Shaft)",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Cocaine",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+          "submitter": "Danny C.",
+          "song": "I Wanna Talk About Me",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Psycho",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points": 2
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Smoke A Little Smoke",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "That Smell",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Bye Bye",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Gin and Juice",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points": 1
         }
       ],
       "stats": {
@@ -341,103 +1563,4435 @@
         "unique_voters": 13,
         "unique_submitters": 19
       }
+    },
+    {
+      "id": "e6636e825c8441758c52e55158289b84",
+      "number": 2,
+      "name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "description": "It\u2019s a perfect blue-sky day, windows down, light breeze\u2014and you\u2019re cruising in a hearse like it\u2019s just another commute. There\u2019s something weirdly peaceful about it, but also just off enough to make people do a double take at stoplights. This is the soundtrack for that contrast: bright, smooth, almost carefree music with an undercurrent of irony. Lean 70s soft rock / yacht rock / breezy indie / something more on brand for a hearse owner\u2014something that feels like a Sunday drive, just\u2026 not in the vehicle anyone expected.",
+      "playlist_url": "https://open.spotify.com/playlist/6Hzxqh6WdhRIgrluB1EGfM",
+      "songs": [
+        {
+          "title": "Wakin on a Pretty Day",
+          "artist": "Kurt Vile",
+          "album": "Wakin On A Pretty Daze",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 13,
+          "unique_voters": 7,
+          "spotify_uri": "spotify:track:4cCoZML1dPIQxNjOwDmJGf",
+          "comment": 0
+        },
+        {
+          "title": "Jesus Was Way Cool",
+          "artist": "King Missile",
+          "album": "Mystical Shit (Remastered 2024)",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 12,
+          "unique_voters": 7,
+          "spotify_uri": "spotify:track:0w3DyN1XAw8pBBF0t4B2uU",
+          "comment": 0
+        },
+        {
+          "title": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "artist": "The Velvet Underground",
+          "album": "Loaded: Re-Loaded 45th Anniversary Edition",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 9,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:0i19MAZbyn8uTir7FprXId",
+          "comment": 0
+        },
+        {
+          "title": "Everywhere - 2017 Remaster",
+          "artist": "Fleetwood Mac",
+          "album": "Tango In the Night (Deluxe Edition)",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 9,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:254bXAqt3zP6P50BdQvEsq",
+          "comment": 0
+        },
+        {
+          "title": "Thunder Island",
+          "artist": "Jay Ferguson",
+          "album": "Thunder Island",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 8,
+          "unique_voters": 7,
+          "spotify_uri": "spotify:track:3FkQN4NyCFlfn7fWzBkWCj",
+          "comment": 0
+        },
+        {
+          "title": "The Funeral",
+          "artist": "Band of Horses",
+          "album": "Everything All The Time",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "total_pts": 8,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:5lRzWDEe7UuedU2QPsFg0K",
+          "comment": 0
+        },
+        {
+          "title": "Where'd All the Time Go?",
+          "artist": "Dr. Dog",
+          "album": "Shame, Shame (Deluxe Edition)",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "total_pts": 7,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:0UV5zxRMz6AO4ZwUOZNIKI",
+          "comment": 0
+        },
+        {
+          "title": "Shining Star",
+          "artist": "Earth, Wind & Fire",
+          "album": "That's The Way Of The World",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "total_pts": 6,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:0RgcOUQg4qYAEt9RIdf3oB",
+          "comment": 0
+        },
+        {
+          "title": "Gimme a Ride to Heaven Boy",
+          "artist": "Terry Allen, The Panhandle Mystery Band",
+          "album": "Gimme a Ride to Heaven Boy",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 6,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:1M2UpFI7Tpf995H1jEZptw",
+          "comment": 0
+        },
+        {
+          "title": "I Got a Name - Stereo Version",
+          "artist": "Jim Croce",
+          "album": "I Got a Name",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 6,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:4UEgKxYLP0bPG6EwD0DgYK",
+          "comment": 0
+        },
+        {
+          "title": "The Wreck of the Edmund Fitzgerald",
+          "artist": "Gordon Lightfoot",
+          "album": "Summertime Dream",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 6,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:536L9C0N7vhYdibCJx3cI2",
+          "comment": 0
+        },
+        {
+          "title": "King Of The Road",
+          "artist": "Roger Miller",
+          "album": "Golden Hits",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:3XG7bMVcMWLIn2k9jLAaAt",
+          "comment": 0
+        },
+        {
+          "title": "Pumped Up Kicks",
+          "artist": "Foster The People",
+          "album": "Torches",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
+          "comment": 0
+        },
+        {
+          "title": "This Kiss",
+          "artist": "Faith Hill",
+          "album": "Faith",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 6,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:5EYWGM3Ns3iYew8ws0FatB",
+          "comment": 0
+        },
+        {
+          "title": "Keep On Dreamin'",
+          "artist": "The Arcs",
+          "album": "Electrophonic Chronic",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:1Dlk7nlSEdhYwbqXbVcqBW",
+          "comment": 0
+        },
+        {
+          "title": "Lookin' Out My Back Door",
+          "artist": "Creedence Clearwater Revival",
+          "album": "Cosmo's Factory (Expanded Edition)",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:3RTUfvRgq3pYTf7XY0FIcS",
+          "comment": 0
+        },
+        {
+          "title": "Running on Empty",
+          "artist": "Jackson Browne",
+          "album": "Running on Empty / Nothing but Time (Digital 45)",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 5,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:6aqm56xP40foYBBtAWWrnY",
+          "comment": 0
+        },
+        {
+          "title": "Helena",
+          "artist": "My Chemical Romance",
+          "album": "Three Cheers for Sweet Revenge",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
+          "comment": 0
+        },
+        {
+          "title": "Enter Sandman - triple j Like a Version",
+          "artist": "Art vs Science",
+          "album": "Enter Sandman (triple j Like a Version)",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:73t2Pgt4t7TCIK7Zl68uhS",
+          "comment": 0
+        },
+        {
+          "title": "Last Caress",
+          "artist": "Misfits",
+          "album": "Static Age",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:1C7kuQ0TjfxvEHSFqLEl42",
+          "comment": 0
+        },
+        {
+          "title": "Ride Like the Wind (2019 Remaster)",
+          "artist": "Christopher Cross",
+          "album": "Christopher Cross (2019 Remaster)",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:2ibiJCDgb0N53RXRtYsDtg",
+          "comment": 0
+        },
+        {
+          "title": "Dance With The Devil",
+          "artist": "Immortal Technique",
+          "album": "Revolutionary, Vol. 1",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:4LCzEYKPFcd2FCOmZdVDnM",
+          "comment": 0
+        },
+        {
+          "title": "Demons",
+          "artist": "Guster",
+          "album": "Goldfly",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:0oMH1Q4pMYy7fGio9rDxil",
+          "comment": 0
+        },
+        {
+          "title": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "artist": "Molchat Doma",
+          "album": "\u042d\u0442\u0430\u0436\u0438",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
+          "comment": 0
+        },
+        {
+          "title": "Stayin Alive",
+          "artist": "Bee Gees",
+          "album": "How Can You Mend A Broken Heart",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:5ubvP9oKmxLUVq506fgLhk",
+          "comment": 0
+        },
+        {
+          "title": "24's (Vocals Only)",
+          "artist": "T.I.",
+          "album": "Trap Muzik",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:33j4CLU9UyRjO63ry5J61Q",
+          "comment": 0
+        },
+        {
+          "title": "Last Resort",
+          "artist": "Papa Roach",
+          "album": "Infest",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5W8YXBz9MTIDyrpYaCg2Ky",
+          "comment": 0
+        },
+        {
+          "title": "Touch of Grey",
+          "artist": "Grateful Dead",
+          "album": "The Very Best of the Grateful Dead",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5YzzWlWfAVNvtduNDHKhHc",
+          "comment": 0
+        },
+        {
+          "title": "Revival",
+          "artist": "Soulsavers",
+          "album": "It's Not How Far You Fall, It's the Way You Land",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:7GEo5JQN8lcqBaj6qyvWw1",
+          "comment": 0
+        },
+        {
+          "title": "I Saw Your Mommy...",
+          "artist": "Suicidal Tendencies",
+          "album": "Suicidal Tendencies",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 0,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:4UEQ45wYDdFCvCDhRk6AbC",
+          "comment": 0
+        },
+        {
+          "title": "Mess",
+          "artist": "Noah Kahan",
+          "album": "Busyhead",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:1BlQWQgGP84r4GYUVty4Ar",
+          "comment": 0
+        },
+        {
+          "title": "Hope",
+          "artist": "Alex G",
+          "album": "House of Sugar",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:35UO6dWrEPLmeSVXtAysS4",
+          "comment": 0
+        }
+      ],
+      "leaderboard": [
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "points": 19,
+          "rank": 1
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "player_id": "605a6a083d2d4ad781df783c4a21b505",
+          "player": "Hunter A.",
+          "points": 15,
+          "rank": 3
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 14,
+          "rank": 4
+        },
+        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 14,
+          "rank": 4
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "points": 13,
+          "rank": 6
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
+          "points": 9,
+          "rank": 10
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "points": 8,
+          "rank": 11
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "points": 6,
+          "rank": 12
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 5,
+          "rank": 13
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
+          "points": 3,
+          "rank": 14
+        }
+      ],
+      "missed_points": [],
+      "generosity": [
+        {
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
+          "avg_per_vote": 2.0,
+          "total_songs_voted": 5,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "605a6a083d2d4ad781df783c4a21b505",
+          "player": "Hunter A.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "avg_per_vote": 0.91,
+          "total_songs_voted": 11,
+          "total_pts_given": 10
+        }
+      ],
+      "vote_details": [
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points": 2
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Ride Like the Wind (2019 Remaster)",
+          "points": 1
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Thunder Island",
+          "points": 1
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points": 1
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Dance With The Devil",
+          "points": 2
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "The Funeral",
+          "points": 3
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Last Caress",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Thunder Island",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "I Saw Your Mommy...",
+          "points": 0
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "The Funeral",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points": 2
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Shining Star",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points": 4
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Shining Star",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points": 2
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Shining Star",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "24's (Vocals Only)",
+          "points": 2
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Thunder Island",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Running on Empty",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Shining Star",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Helena",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "This Kiss",
+          "points": 2
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Stayin Alive",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Touch of Grey",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Running on Empty",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Shining Star",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Thunder Island",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "This Kiss",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Stayin Alive",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Ride Like the Wind (2019 Remaster)",
+          "points": 2
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Thunder Island",
+          "points": 2
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points": 2
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "This Kiss",
+          "points": 2
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Demons",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Ride Like the Wind (2019 Remaster)",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Thunder Island",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "King Of The Road",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points": 2
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Dance With The Devil",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Helena",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Last Resort",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Demons",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points": 2
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Last Caress",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "The Funeral",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Last Resort",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points": 2
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points": 2
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "King Of The Road",
+          "points": 2
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Helena",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "The Funeral",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points": 2
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Demons",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Helena",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "The Funeral",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points": 3
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points": 2
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points": 2
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points": 2
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Dance With The Devil",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points": 5
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Thunder Island",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "King Of The Road",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "The Funeral",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Running on Empty",
+          "points": 2
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "24's (Vocals Only)",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "King Of The Road",
+          "points": 2
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points": 2
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Last Caress",
+          "points": 2
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Stayin Alive",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Touch of Grey",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Revival",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points": 1
+        }
+      ],
+      "stats": {
+        "total_submissions": 32,
+        "total_votes": 120,
+        "unique_voters": 16,
+        "unique_submitters": 16
+      }
     }
   ],
   "season_leaderboard": [
     {
+      "player_id": "62ce05b4abe5441b9504d25b59208a99",
       "player": "Jake C.",
-      "points": 18,
+      "points": 32,
+      "rounds_played": 2,
+      "wins": 1,
+      "avg_per_round": 16.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 18,
+          "rank": 1
+        },
+        {
+          "round": 2,
+          "points": 14,
+          "rank": 4
+        }
+      ],
       "rank": 1
     },
     {
+      "player_id": "b250f6659575461db5ee96f4e5705023",
       "player": "Kennon S.",
-      "points": 13,
+      "points": 29,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 14.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 13,
+          "rank": 2
+        },
+        {
+          "round": 2,
+          "points": 16,
+          "rank": 2
+        }
+      ],
       "rank": 2
     },
     {
-      "player": "Ben Z.",
-      "points": 9,
-      "rank": 3
-    },
-    {
-      "player": "Jack A.",
-      "points": 9,
-      "rank": 3
-    },
-    {
-      "player": "Dray E.",
-      "points": 8,
-      "rank": 5
-    },
-    {
-      "player": "Chris V.",
-      "points": 8,
-      "rank": 5
-    },
-    {
-      "player": "Schuyler M.",
-      "points": 6,
-      "rank": 7
-    },
-    {
-      "player": "Ford L.",
-      "points": 6,
-      "rank": 7
-    },
-    {
+      "player_id": "5838e19081f440598e554c420f257ab7",
       "player": "Mills T.",
-      "points": 6,
+      "points": 25,
+      "rounds_played": 2,
+      "wins": 1,
+      "avg_per_round": 12.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 19,
+          "rank": 1
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+      "player": "Chris V.",
+      "points": 22,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 11.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "round": 2,
+          "points": 14,
+          "rank": 4
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+      "player": "Dray E.",
+      "points": 20,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 10.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "round": 2,
+          "points": 12,
+          "rank": 7
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+      "player": "Ben Z.",
+      "points": 17,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 8.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 9,
+          "rank": 3
+        },
+        {
+          "round": 2,
+          "points": 8,
+          "rank": 11
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+      "player": "Ford L.",
+      "points": 16,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 8.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 10,
+          "rank": 8
+        }
+      ],
       "rank": 7
     },
     {
-      "player": "Danny C.",
-      "points": 5,
-      "rank": 10
+      "player_id": "605a6a083d2d4ad781df783c4a21b505",
+      "player": "Hunter A.",
+      "points": 15,
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 15.0,
+      "weekly": [
+        {
+          "round": 2,
+          "points": 15,
+          "rank": 3
+        }
+      ],
+      "rank": 8
     },
     {
-      "player": "Patrick C.",
-      "points": 4,
+      "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+      "player": "Hilton H.",
+      "points": 13,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 6.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "round": 2,
+          "points": 10,
+          "rank": 8
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+      "player": "Giles G.",
+      "points": 13,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 6.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 13,
+          "rank": 6
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+      "player": "Jack A.",
+      "points": 12,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 6.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 9,
+          "rank": 3
+        },
+        {
+          "round": 2,
+          "points": 3,
+          "rank": 14
+        }
+      ],
       "rank": 11
     },
     {
-      "player": "Hilton H.",
-      "points": 3,
-      "rank": 12
+      "player_id": "90defa7481ce45f4acfc02ba3792e834",
+      "player": "Schuyler M.",
+      "points": 12,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 6.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 6,
+          "rank": 12
+        }
+      ],
+      "rank": 11
     },
     {
+      "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+      "player": "Blake A.",
+      "points": 9,
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 9.0,
+      "weekly": [
+        {
+          "round": 2,
+          "points": 9,
+          "rank": 10
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+      "player": "Patrick C.",
+      "points": 7,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 3.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 4,
+          "rank": 11
+        },
+        {
+          "round": 2,
+          "points": 3,
+          "rank": 14
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
+      "player": "Danny C.",
+      "points": 5,
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 5.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 5,
+          "rank": 10
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "player_id": "76a55817271e454fad8f84efdc032dc5",
+      "player": "Kevin D.",
+      "points": 5,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 2.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 5,
+          "rank": 13
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "player_id": "79cab84806c54bf0b59b34c5b2977d78",
       "player": "Henry L.",
       "points": 3,
-      "rank": 12
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 3.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 3,
+          "rank": 12
+        }
+      ],
+      "rank": 17
     },
     {
+      "player_id": "2b989686f7054740af2017ae1a829d68",
+      "player": "Frank L.",
+      "points": 3,
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 3.0,
+      "weekly": [
+        {
+          "round": 2,
+          "points": 3,
+          "rank": 14
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "player_id": "e004e6544dff44bdb1687ec8fb03f137",
       "player": "Will I.",
       "points": 0,
-      "rank": 14
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 0.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        }
+      ],
+      "rank": 19
     },
     {
+      "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
       "player": "Will B.",
       "points": 0,
-      "rank": 14
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 0.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        }
+      ],
+      "rank": 19
     },
     {
+      "player_id": "0795aaf6eeca40eaac6661edd291cce2",
       "player": "Brooks K.",
       "points": 0,
-      "rank": 14
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 0.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        }
+      ],
+      "rank": 19
     },
     {
-      "player": "Giles G.",
-      "points": 0,
-      "rank": 14
-    },
-    {
-      "player": "Kevin D.",
-      "points": 0,
-      "rank": 14
-    },
-    {
+      "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
       "player": "TR C.",
       "points": 0,
-      "rank": 14
+      "rounds_played": 1,
+      "wins": 0,
+      "avg_per_round": 0.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        }
+      ],
+      "rank": 19
+    }
+  ],
+  "player_profiles": {
+    "0795aaf6eeca40eaac6661edd291cce2": {
+      "id": "0795aaf6eeca40eaac6661edd291cce2",
+      "name": "Brooks K.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "I Hope You Have Learned",
+          "artist": "Tony Rice Unit",
+          "total_pts": 2,
+          "unique_voters": 2
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "As She's Walking Away (feat. Alan Jackson)",
+          "artist": "Zac Brown Band, Alan Jackson",
+          "total_pts": 1,
+          "unique_voters": 1
+        }
+      ],
+      "voting_history": [],
+      "season_points": 0,
+      "rounds_played": 1
+    },
+    "0a831b84b60a4aaca7c6f3150bbccb88": {
+      "id": "0a831b84b60a4aaca7c6f3150bbccb88",
+      "name": "Dray E.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Here's a Quarter (Call Someone Who Cares)",
+          "artist": "Travis Tritt",
+          "total_pts": 4,
+          "unique_voters": 4
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "She Got the Goldmine (I Got the Shaft)",
+          "artist": "Jerry Reed",
+          "total_pts": 4,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Gimme a Ride to Heaven Boy",
+          "artist": "Terry Allen, The Panhandle Mystery Band",
+          "total_pts": 6,
+          "unique_voters": 5
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "King Of The Road",
+          "artist": "Roger Miller",
+          "total_pts": 6,
+          "unique_voters": 4
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kevin D.",
+          "song": "Dead Flowers - 2009 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ford L.",
+          "song": "Psycho",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Mills T.",
+          "song": "The Fireman",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Hilton H.",
+          "song": "Bye Bye",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Mills T.",
+          "song": "Wear My Ring",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will I.",
+          "song": "Quits",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Giles G.",
+          "song": "The Whirl and the Suck",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Last Caress",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "Thunder Island",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jack A.",
+          "song": "I Saw Your Mommy...",
+          "points_given": 0
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "The Funeral",
+          "points_given": 1
+        }
+      ],
+      "season_points": 20,
+      "rounds_played": 2
+    },
+    "25fef29f0b2243548626ee1713e3b1f9": {
+      "id": "25fef29f0b2243548626ee1713e3b1f9",
+      "name": "Blake A.",
+      "submissions": [
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Keep On Dreamin'",
+          "artist": "The Arcs",
+          "total_pts": 5,
+          "unique_voters": 4
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Enter Sandman - triple j Like a Version",
+          "artist": "Art vs Science",
+          "total_pts": 4,
+          "unique_voters": 4
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Frank L.",
+          "song": "Demons",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "Helena",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "The Funeral",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points_given": 3
+        }
+      ],
+      "season_points": 9,
+      "rounds_played": 1
+    },
+    "2b989686f7054740af2017ae1a829d68": {
+      "id": "2b989686f7054740af2017ae1a829d68",
+      "name": "Frank L.",
+      "submissions": [
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Demons",
+          "artist": "Guster",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Mess",
+          "artist": "Noah Kahan",
+          "total_pts": 0,
+          "unique_voters": 0
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Ride Like the Wind (2019 Remaster)",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "Thunder Island",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Dance With The Devil",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "The Funeral",
+          "points_given": 3
+        }
+      ],
+      "season_points": 3,
+      "rounds_played": 1
+    },
+    "2fed7a01277b4496a86f52fd504a9dcd": {
+      "id": "2fed7a01277b4496a86f52fd504a9dcd",
+      "name": "TR C.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Gone",
+          "artist": "Montgomery Gentry",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Long Haired Country Boy",
+          "artist": "The Charlie Daniels Band",
+          "total_pts": 0,
+          "unique_voters": 0
+        }
+      ],
+      "voting_history": [],
+      "season_points": 0,
+      "rounds_played": 1
+    },
+    "43941604052d45488a63065923e84f19": {
+      "id": "43941604052d45488a63065923e84f19",
+      "name": "Emory L.",
+      "submissions": [],
+      "voting_history": [],
+      "season_points": 0,
+      "rounds_played": 0
+    },
+    "4610c4dc5b5c44f09d2c378332135b67": {
+      "id": "4610c4dc5b5c44f09d2c378332135b67",
+      "name": "Jack A.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "That Ain't My Truck",
+          "artist": "Rhett Akins",
+          "total_pts": 6,
+          "unique_voters": 4
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Queen Of My Double Wide Trailer",
+          "artist": "Sammy Kershaw",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "artist": "Molchat Doma",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "I Saw Your Mommy...",
+          "artist": "Suicidal Tendencies",
+          "total_pts": 0,
+          "unique_voters": 1
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Dray E.",
+          "song": "She Got the Goldmine (I Got the Shaft)",
+          "points_given": 2
+        },
+        {
+          "round": 1,
+          "voted_for": "Schuyler M.",
+          "song": "Cocaine",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points_given": 2
+        },
+        {
+          "round": 1,
+          "voted_for": "Danny C.",
+          "song": "I Wanna Talk About Me",
+          "points_given": 2
+        },
+        {
+          "round": 1,
+          "voted_for": "Ford L.",
+          "song": "Psycho",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Shining Star",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "Thunder Island",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ben Z.",
+          "song": "This Kiss",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Kevin D.",
+          "song": "Stayin Alive",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points_given": 1
+        }
+      ],
+      "season_points": 12,
+      "rounds_played": 2
+    },
+    "4c65c5fb8d1b4ea498df50e2d87a7da6": {
+      "id": "4c65c5fb8d1b4ea498df50e2d87a7da6",
+      "name": "Haris V.",
+      "submissions": [],
+      "voting_history": [],
+      "season_points": 0,
+      "rounds_played": 0
+    },
+    "5210623e41984e4684fd204317a73149": {
+      "id": "5210623e41984e4684fd204317a73149",
+      "name": "Coates C.",
+      "submissions": [],
+      "voting_history": [],
+      "season_points": 0,
+      "rounds_played": 0
+    },
+    "5838e19081f440598e554c420f257ab7": {
+      "id": "5838e19081f440598e554c420f257ab7",
+      "name": "Mills T.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "The Fireman",
+          "artist": "George Strait",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Wear My Ring",
+          "artist": "Bart Crow",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Wakin on a Pretty Day",
+          "artist": "Kurt Vile",
+          "total_pts": 13,
+          "unique_voters": 7
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Pumped Up Kicks",
+          "artist": "Foster The People",
+          "total_pts": 6,
+          "unique_voters": 4
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Will I.",
+          "song": "No Sense in Lovin'",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Schuyler M.",
+          "song": "Cocaine",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Bad Luck",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Chris V.",
+          "song": "Gin and Juice",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ford L.",
+          "song": "Decoration Day - Live",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Shining Star",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points_given": 2
+        }
+      ],
+      "season_points": 25,
+      "rounds_played": 2
+    },
+    "605a6a083d2d4ad781df783c4a21b505": {
+      "id": "605a6a083d2d4ad781df783c4a21b505",
+      "name": "Hunter A.",
+      "submissions": [
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "The Funeral",
+          "artist": "Band of Horses",
+          "total_pts": 8,
+          "unique_voters": 6
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Where'd All the Time Go?",
+          "artist": "Dr. Dog",
+          "total_pts": 7,
+          "unique_voters": 5
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Last Caress",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kevin D.",
+          "song": "Stayin Alive",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kevin D.",
+          "song": "Touch of Grey",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Schuyler M.",
+          "song": "Revival",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points_given": 1
+        }
+      ],
+      "season_points": 15,
+      "rounds_played": 1
+    },
+    "62ce05b4abe5441b9504d25b59208a99": {
+      "id": "62ce05b4abe5441b9504d25b59208a99",
+      "name": "Jake C.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Good Lookin'",
+          "artist": "Dixon Dallas",
+          "total_pts": 12,
+          "unique_voters": 5
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Bad Luck",
+          "artist": "Zach Top",
+          "total_pts": 6,
+          "unique_voters": 4
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Thunder Island",
+          "artist": "Jay Ferguson",
+          "total_pts": 8,
+          "unique_voters": 7
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "I Got a Name - Stereo Version",
+          "artist": "Jim Croce",
+          "total_pts": 6,
+          "unique_voters": 5
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Dray E.",
+          "song": "She Got the Goldmine (I Got the Shaft)",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Henry L.",
+          "song": "Starting Over",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Danny C.",
+          "song": "I Wanna Talk About Me",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ford L.",
+          "song": "Psycho",
+          "points_given": 2
+        },
+        {
+          "round": 1,
+          "voted_for": "Jack A.",
+          "song": "Queen Of My Double Wide Trailer",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Patrick C.",
+          "song": "I Don't Wanna Play House",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "King Of The Road",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "Helena",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "The Funeral",
+          "points_given": 1
+        }
+      ],
+      "season_points": 32,
+      "rounds_played": 2
+    },
+    "68f0f9e3004b481999ceb5b8f1ac79e4": {
+      "id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+      "name": "Patrick C.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "I Don't Wanna Play House",
+          "artist": "Tammy Wynette",
+          "total_pts": 3,
+          "unique_voters": 2
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "She Thinks My Tractor's Sexy",
+          "artist": "Kenny Chesney",
+          "total_pts": 1,
+          "unique_voters": 1
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "24's (Vocals Only)",
+          "artist": "T.I.",
+          "total_pts": 3,
+          "unique_voters": 2
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Hope",
+          "artist": "Alex G",
+          "total_pts": 0,
+          "unique_voters": 0
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Will I.",
+          "song": "No Sense in Lovin'",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Good Lookin'",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Mills T.",
+          "song": "The Fireman",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Brooks K.",
+          "song": "As She's Walking Away (feat. Alan Jackson)",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Hilton H.",
+          "song": "Bye Bye",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will I.",
+          "song": "Quits",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "TR C.",
+          "song": "Gone",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Frank L.",
+          "song": "Demons",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Ride Like the Wind (2019 Remaster)",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "Thunder Island",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "King Of The Road",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Dance With The Devil",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "Helena",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ben Z.",
+          "song": "Last Resort",
+          "points_given": 1
+        }
+      ],
+      "season_points": 7,
+      "rounds_played": 2
+    },
+    "7167404f66594c58a6bda0cce98ca1f2": {
+      "id": "7167404f66594c58a6bda0cce98ca1f2",
+      "name": "Hilton H.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Bye Bye",
+          "artist": "Phil Vassar",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Chicks Dig It - Single Edit",
+          "artist": "Chris Cagle",
+          "total_pts": 0,
+          "unique_voters": 0
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Shining Star",
+          "artist": "Earth, Wind & Fire",
+          "total_pts": 6,
+          "unique_voters": 5
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Ride Like the Wind (2019 Remaster)",
+          "artist": "Christopher Cross",
+          "total_pts": 4,
+          "unique_voters": 3
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Schuyler M.",
+          "song": "Cocaine",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Bad Luck",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jack A.",
+          "song": "Queen Of My Double Wide Trailer",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Mills T.",
+          "song": "The Fireman",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Danny C.",
+          "song": "Save a Horse (Ride a Cowboy)",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Schuyler M.",
+          "song": "Back Down South",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "TR C.",
+          "song": "Gone",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points_given": 5
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "Thunder Island",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "King Of The Road",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "The Funeral",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Schuyler M.",
+          "song": "Running on Empty",
+          "points_given": 2
+        }
+      ],
+      "season_points": 13,
+      "rounds_played": 2
+    },
+    "76a55817271e454fad8f84efdc032dc5": {
+      "id": "76a55817271e454fad8f84efdc032dc5",
+      "name": "Kevin D.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "That Smell",
+          "artist": "Lynyrd Skynyrd",
+          "total_pts": 5,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Dead Flowers - 2009 Mix",
+          "artist": "The Rolling Stones",
+          "total_pts": 2,
+          "unique_voters": 2
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Stayin Alive",
+          "artist": "Bee Gees",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Touch of Grey",
+          "artist": "Grateful Dead",
+          "total_pts": 2,
+          "unique_voters": 2
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Ride Like the Wind (2019 Remaster)",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "Thunder Island",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Lookin' Out My Back Door",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ben Z.",
+          "song": "This Kiss",
+          "points_given": 2
+        }
+      ],
+      "season_points": 5,
+      "rounds_played": 2
+    },
+    "79cab84806c54bf0b59b34c5b2977d78": {
+      "id": "79cab84806c54bf0b59b34c5b2977d78",
+      "name": "Henry L.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Starting Over",
+          "artist": "Chris Stapleton",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Before He Cheats",
+          "artist": "Carrie Underwood",
+          "total_pts": 0,
+          "unique_voters": 0
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Ben Z.",
+          "song": "Some Beach",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Good Lookin'",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will B.",
+          "song": "Smoke A Little Smoke",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Brooks K.",
+          "song": "I Hope You Have Learned",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kevin D.",
+          "song": "Dead Flowers - 2009 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will B.",
+          "song": "It's A Great Day To Be Alive",
+          "points_given": 1
+        }
+      ],
+      "season_points": 3,
+      "rounds_played": 1
+    },
+    "90defa7481ce45f4acfc02ba3792e834": {
+      "id": "90defa7481ce45f4acfc02ba3792e834",
+      "name": "Schuyler M.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Cocaine",
+          "artist": "Heidecker & Wood",
+          "total_pts": 5,
+          "unique_voters": 4
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Back Down South",
+          "artist": "Kings of Leon",
+          "total_pts": 1,
+          "unique_voters": 1
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Running on Empty",
+          "artist": "Jackson Browne",
+          "total_pts": 5,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Revival",
+          "artist": "Soulsavers",
+          "total_pts": 1,
+          "unique_voters": 1
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Will B.",
+          "song": "Smoke A Little Smoke",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Chris V.",
+          "song": "All My Rowdy Friends Are Coming Over Tonight",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kevin D.",
+          "song": "That Smell",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Hilton H.",
+          "song": "Bye Bye",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Chris V.",
+          "song": "Gin and Juice",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jack A.",
+          "song": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Patrick C.",
+          "song": "24's (Vocals Only)",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "King Of The Road",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Pumped Up Kicks",
+          "points_given": 1
+        }
+      ],
+      "season_points": 12,
+      "rounds_played": 2
+    },
+    "98834c6ee0d14f6594017b865fa4d1fb": {
+      "id": "98834c6ee0d14f6594017b865fa4d1fb",
+      "name": "Ford L.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Psycho",
+          "artist": "Eddie Noack",
+          "total_pts": 4,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Decoration Day - Live",
+          "artist": "Jason Isbell and the 400 Unit",
+          "total_pts": 2,
+          "unique_voters": 2
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "The Wreck of the Edmund Fitzgerald",
+          "artist": "Gordon Lightfoot",
+          "total_pts": 6,
+          "unique_voters": 5
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Helena",
+          "artist": "My Chemical Romance",
+          "total_pts": 4,
+          "unique_voters": 4
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Dray E.",
+          "song": "She Got the Goldmine (I Got the Shaft)",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Everybody Needs Love",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Brooks K.",
+          "song": "I Hope You Have Learned",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Giles G.",
+          "song": "See You Later, I'm Gone",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Henry L.",
+          "song": "Starting Over",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Danny C.",
+          "song": "I Wanna Talk About Me",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kevin D.",
+          "song": "That Smell",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Patrick C.",
+          "song": "I Don't Wanna Play House",
+          "points_given": 2
+        },
+        {
+          "round": 1,
+          "voted_for": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Frank L.",
+          "song": "Demons",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "Where'd All the Time Go?",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Last Caress",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hunter A.",
+          "song": "The Funeral",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ben Z.",
+          "song": "Last Resort",
+          "points_given": 1
+        }
+      ],
+      "season_points": 16,
+      "rounds_played": 2
+    },
+    "aa8ede356a524849b6e3fe40fea7ea4f": {
+      "id": "aa8ede356a524849b6e3fe40fea7ea4f",
+      "name": "Ben Z.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Drinkin' Problem",
+          "artist": "Midland",
+          "total_pts": 7,
+          "unique_voters": 5
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Some Beach",
+          "artist": "Blake Shelton",
+          "total_pts": 2,
+          "unique_voters": 2
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "This Kiss",
+          "artist": "Faith Hill",
+          "total_pts": 6,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Last Resort",
+          "artist": "Papa Roach",
+          "total_pts": 2,
+          "unique_voters": 2
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Good Lookin'",
+          "points_given": 3
+        },
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Bad Luck",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Dray E.",
+          "song": "Here's a Quarter (Call Someone Who Cares)",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Mills T.",
+          "song": "Wear My Ring",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Jack A.",
+          "song": "That Ain't My Truck",
+          "points_given": 3
+        },
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Chris V.",
+          "song": "Everywhere - 2017 Remaster",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Dance With The Devil",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points_given": 1
+        }
+      ],
+      "season_points": 17,
+      "rounds_played": 2
+    },
+    "b250f6659575461db5ee96f4e5705023": {
+      "id": "b250f6659575461db5ee96f4e5705023",
+      "name": "Kennon S.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Fuck You Bitch",
+          "artist": "Wheeler Walker Jr.",
+          "total_pts": 8,
+          "unique_voters": 7
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Everybody Needs Love",
+          "artist": "Drive-By Truckers",
+          "total_pts": 5,
+          "unique_voters": 5
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Jesus Was Way Cool",
+          "artist": "King Missile",
+          "total_pts": 12,
+          "unique_voters": 7
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Dance With The Devil",
+          "artist": "Immortal Technique",
+          "total_pts": 4,
+          "unique_voters": 3
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Good Lookin'",
+          "points_given": 2
+        },
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Bad Luck",
+          "points_given": 3
+        },
+        {
+          "round": 1,
+          "voted_for": "Kevin D.",
+          "song": "That Smell",
+          "points_given": 3
+        },
+        {
+          "round": 1,
+          "voted_for": "Chris V.",
+          "song": "Gin and Juice",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Giles G.",
+          "song": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Shining Star",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jack A.",
+          "song": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Mills T.",
+          "song": "Wakin on a Pretty Day",
+          "points_given": 4
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Enter Sandman - triple j Like a Version",
+          "points_given": 1
+        }
+      ],
+      "season_points": 29,
+      "rounds_played": 2
+    },
+    "c220447f3f8d4e6aa50cbff707c6f3b1": {
+      "id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+      "name": "Giles G.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "See You Later, I'm Gone",
+          "artist": "The Marshall Tucker Band",
+          "total_pts": 5,
+          "unique_voters": 5
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "The Whirl and the Suck",
+          "artist": "Johnny Cash",
+          "total_pts": 2,
+          "unique_voters": 2
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Oh! Sweet Nuthin' - 2015 Remaster",
+          "artist": "The Velvet Underground",
+          "total_pts": 9,
+          "unique_voters": 6
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Last Caress",
+          "artist": "Misfits",
+          "total_pts": 4,
+          "unique_voters": 3
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Shining Star",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kennon S.",
+          "song": "Jesus Was Way Cool",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Blake A.",
+          "song": "Keep On Dreamin'",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jack A.",
+          "song": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Patrick C.",
+          "song": "24's (Vocals Only)",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "Thunder Island",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "The Wreck of the Edmund Fitzgerald",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Schuyler M.",
+          "song": "Running on Empty",
+          "points_given": 1
+        }
+      ],
+      "season_points": 13,
+      "rounds_played": 2
+    },
+    "c2de60ec7be74e74ba5ebbd9af18056a": {
+      "id": "c2de60ec7be74e74ba5ebbd9af18056a",
+      "name": "Will B.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "It's A Great Day To Be Alive",
+          "artist": "Travis Tritt",
+          "total_pts": 5,
+          "unique_voters": 4
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Smoke A Little Smoke",
+          "artist": "Eric Church",
+          "total_pts": 2,
+          "unique_voters": 2
+        }
+      ],
+      "voting_history": [],
+      "season_points": 0,
+      "rounds_played": 1
+    },
+    "e004e6544dff44bdb1687ec8fb03f137": {
+      "id": "e004e6544dff44bdb1687ec8fb03f137",
+      "name": "Will I.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "No Sense in Lovin'",
+          "artist": "Uncle Tupelo",
+          "total_pts": 3,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Quits",
+          "artist": "Gary Stewart",
+          "total_pts": 2,
+          "unique_voters": 2
+        }
+      ],
+      "voting_history": [],
+      "season_points": 0,
+      "rounds_played": 1
+    },
+    "f9f6d12c4c7240ee83db9fd0774fc416": {
+      "id": "f9f6d12c4c7240ee83db9fd0774fc416",
+      "name": "Danny C.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "I Wanna Talk About Me",
+          "artist": "Toby Keith",
+          "total_pts": 4,
+          "unique_voters": 3
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Save a Horse (Ride a Cowboy)",
+          "artist": "Big & Rich",
+          "total_pts": 1,
+          "unique_voters": 1
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Will I.",
+          "song": "No Sense in Lovin'",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Schuyler M.",
+          "song": "Cocaine",
+          "points_given": 2
+        },
+        {
+          "round": 1,
+          "voted_for": "Ben Z.",
+          "song": "Some Beach",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ben Z.",
+          "song": "Drinkin' Problem",
+          "points_given": 3
+        },
+        {
+          "round": 1,
+          "voted_for": "Patrick C.",
+          "song": "She Thinks My Tractor's Sexy",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Henry L.",
+          "song": "Starting Over",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Ford L.",
+          "song": "Decoration Day - Live",
+          "points_given": 1
+        }
+      ],
+      "season_points": 5,
+      "rounds_played": 1
+    },
+    "fa73648bd3f34bc6980fe57087f351f5": {
+      "id": "fa73648bd3f34bc6980fe57087f351f5",
+      "name": "Chris V.",
+      "submissions": [
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "All My Rowdy Friends Are Coming Over Tonight",
+          "artist": "Hank Williams, Jr.",
+          "total_pts": 4,
+          "unique_voters": 4
+        },
+        {
+          "round": 1,
+          "round_name": "Country Song For Driving To Your Divorce Hearing",
+          "title": "Gin and Juice",
+          "artist": "The Gourds",
+          "total_pts": 4,
+          "unique_voters": 3
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Everywhere - 2017 Remaster",
+          "artist": "Fleetwood Mac",
+          "total_pts": 9,
+          "unique_voters": 6
+        },
+        {
+          "round": 2,
+          "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+          "title": "Lookin' Out My Back Door",
+          "artist": "Creedence Clearwater Revival",
+          "total_pts": 5,
+          "unique_voters": 4
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 1,
+          "voted_for": "Jake C.",
+          "song": "Good Lookin'",
+          "points_given": 5
+        },
+        {
+          "round": 1,
+          "voted_for": "Jack A.",
+          "song": "Queen Of My Double Wide Trailer",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Kennon S.",
+          "song": "Fuck You Bitch",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Mills T.",
+          "song": "Wear My Ring",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "TR C.",
+          "song": "Gone",
+          "points_given": 1
+        },
+        {
+          "round": 1,
+          "voted_for": "Giles G.",
+          "song": "The Whirl and the Suck",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Hilton H.",
+          "song": "Shining Star",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Dray E.",
+          "song": "Gimme a Ride to Heaven Boy",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Jake C.",
+          "song": "I Got a Name - Stereo Version",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ford L.",
+          "song": "Helena",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Ben Z.",
+          "song": "This Kiss",
+          "points_given": 2
+        },
+        {
+          "round": 2,
+          "voted_for": "Kevin D.",
+          "song": "Stayin Alive",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Kevin D.",
+          "song": "Touch of Grey",
+          "points_given": 1
+        },
+        {
+          "round": 2,
+          "voted_for": "Schuyler M.",
+          "song": "Running on Empty",
+          "points_given": 2
+        }
+      ],
+      "season_points": 22,
+      "rounds_played": 2
+    }
+  },
+  "voting_affinities": [
+    {
+      "voter": "Chris V.",
+      "submitter": "Jake C.",
+      "total_pts": 6,
+      "times": 2
+    },
+    {
+      "voter": "Hilton H.",
+      "submitter": "Kennon S.",
+      "total_pts": 6,
+      "times": 2
+    },
+    {
+      "voter": "Kennon S.",
+      "submitter": "Jake C.",
+      "total_pts": 5,
+      "times": 2
+    },
+    {
+      "voter": "Jake C.",
+      "submitter": "Dray E.",
+      "total_pts": 5,
+      "times": 3
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Giles G.",
+      "total_pts": 4,
+      "times": 4
+    },
+    {
+      "voter": "Danny C.",
+      "submitter": "Ben Z.",
+      "total_pts": 4,
+      "times": 2
+    },
+    {
+      "voter": "Hilton H.",
+      "submitter": "Schuyler M.",
+      "total_pts": 4,
+      "times": 3
+    },
+    {
+      "voter": "Ben Z.",
+      "submitter": "Jake C.",
+      "total_pts": 4,
+      "times": 2
+    },
+    {
+      "voter": "Jack A.",
+      "submitter": "Kennon S.",
+      "total_pts": 4,
+      "times": 2
+    },
+    {
+      "voter": "Kennon S.",
+      "submitter": "Mills T.",
+      "total_pts": 4,
+      "times": 1
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Mills T.",
+      "total_pts": 3,
+      "times": 3
+    },
+    {
+      "voter": "Kennon S.",
+      "submitter": "Kevin D.",
+      "total_pts": 3,
+      "times": 1
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Jake C.",
+      "total_pts": 3,
+      "times": 2
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Giles G.",
+      "total_pts": 3,
+      "times": 2
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Chris V.",
+      "total_pts": 3,
+      "times": 2
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Ford L.",
+      "total_pts": 3,
+      "times": 2
+    },
+    {
+      "voter": "Jake C.",
+      "submitter": "Ford L.",
+      "total_pts": 3,
+      "times": 2
+    },
+    {
+      "voter": "Patrick C.",
+      "submitter": "Mills T.",
+      "total_pts": 3,
+      "times": 2
+    },
+    {
+      "voter": "Ford L.",
+      "submitter": "Giles G.",
+      "total_pts": 3,
+      "times": 3
+    },
+    {
+      "voter": "Ben Z.",
+      "submitter": "Kennon S.",
+      "total_pts": 3,
+      "times": 3
+    }
+  ],
+  "hall_of_fame": [
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Wakin on a Pretty Day",
+      "artist": "Kurt Vile",
+      "submitter": "Mills T.",
+      "total_pts": 13,
+      "unique_voters": 7
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Jesus Was Way Cool",
+      "artist": "King Missile",
+      "submitter": "Kennon S.",
+      "total_pts": 12,
+      "unique_voters": 7
+    },
+    {
+      "round": 1,
+      "round_name": "Country Song For Driving To Your Divorce Hearing",
+      "title": "Good Lookin'",
+      "artist": "Dixon Dallas",
+      "submitter": "Jake C.",
+      "total_pts": 12,
+      "unique_voters": 5
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Oh! Sweet Nuthin' - 2015 Remaster",
+      "artist": "The Velvet Underground",
+      "submitter": "Giles G.",
+      "total_pts": 9,
+      "unique_voters": 6
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Everywhere - 2017 Remaster",
+      "artist": "Fleetwood Mac",
+      "submitter": "Chris V.",
+      "total_pts": 9,
+      "unique_voters": 6
+    },
+    {
+      "round": 1,
+      "round_name": "Country Song For Driving To Your Divorce Hearing",
+      "title": "Fuck You Bitch",
+      "artist": "Wheeler Walker Jr.",
+      "submitter": "Kennon S.",
+      "total_pts": 8,
+      "unique_voters": 7
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Thunder Island",
+      "artist": "Jay Ferguson",
+      "submitter": "Jake C.",
+      "total_pts": 8,
+      "unique_voters": 7
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "The Funeral",
+      "artist": "Band of Horses",
+      "submitter": "Hunter A.",
+      "total_pts": 8,
+      "unique_voters": 6
+    },
+    {
+      "round": 1,
+      "round_name": "Country Song For Driving To Your Divorce Hearing",
+      "title": "Drinkin' Problem",
+      "artist": "Midland",
+      "submitter": "Ben Z.",
+      "total_pts": 7,
+      "unique_voters": 5
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Where'd All the Time Go?",
+      "artist": "Dr. Dog",
+      "submitter": "Hunter A.",
+      "total_pts": 7,
+      "unique_voters": 5
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Shining Star",
+      "artist": "Earth, Wind & Fire",
+      "submitter": "Hilton H.",
+      "total_pts": 6,
+      "unique_voters": 5
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Gimme a Ride to Heaven Boy",
+      "artist": "Terry Allen, The Panhandle Mystery Band",
+      "submitter": "Dray E.",
+      "total_pts": 6,
+      "unique_voters": 5
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "I Got a Name - Stereo Version",
+      "artist": "Jim Croce",
+      "submitter": "Jake C.",
+      "total_pts": 6,
+      "unique_voters": 5
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "The Wreck of the Edmund Fitzgerald",
+      "artist": "Gordon Lightfoot",
+      "submitter": "Ford L.",
+      "total_pts": 6,
+      "unique_voters": 5
+    },
+    {
+      "round": 1,
+      "round_name": "Country Song For Driving To Your Divorce Hearing",
+      "title": "Bad Luck",
+      "artist": "Zach Top",
+      "submitter": "Jake C.",
+      "total_pts": 6,
+      "unique_voters": 4
+    },
+    {
+      "round": 1,
+      "round_name": "Country Song For Driving To Your Divorce Hearing",
+      "title": "That Ain't My Truck",
+      "artist": "Rhett Akins",
+      "submitter": "Jack A.",
+      "total_pts": 6,
+      "unique_voters": 4
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "King Of The Road",
+      "artist": "Roger Miller",
+      "submitter": "Dray E.",
+      "total_pts": 6,
+      "unique_voters": 4
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "Pumped Up Kicks",
+      "artist": "Foster The People",
+      "submitter": "Mills T.",
+      "total_pts": 6,
+      "unique_voters": 4
+    },
+    {
+      "round": 2,
+      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
+      "title": "This Kiss",
+      "artist": "Faith Hill",
+      "submitter": "Ben Z.",
+      "total_pts": 6,
+      "unique_voters": 3
+    },
+    {
+      "round": 1,
+      "round_name": "Country Song For Driving To Your Divorce Hearing",
+      "title": "Everybody Needs Love",
+      "artist": "Drive-By Truckers",
+      "submitter": "Kennon S.",
+      "total_pts": 5,
+      "unique_voters": 5
     }
   ]
 }
