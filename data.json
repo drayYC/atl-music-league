@@ -691,13 +691,6 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
-          "player": "Ben Z.",
-          "avg_per_vote": 1.67,
-          "total_songs_voted": 6,
-          "total_pts_given": 10
-        },
-        {
           "player_id": "fa73648bd3f34bc6980fe57087f351f5",
           "player": "Chris V.",
           "avg_per_vote": 1.67,
@@ -712,17 +705,17 @@
           "total_pts_given": 10
         },
         {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
           "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
           "player": "Danny C.",
           "avg_per_vote": 1.43,
           "total_songs_voted": 7,
-          "total_pts_given": 10
-        },
-        {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
-          "avg_per_vote": 1.11,
-          "total_songs_voted": 9,
           "total_pts_given": 10
         },
         {
@@ -733,22 +726,15 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
-          "player": "Henry L.",
-          "avg_per_vote": 1.0,
-          "total_songs_voted": 10,
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
           "total_pts_given": 10
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
-          "avg_per_vote": 1.0,
-          "total_songs_voted": 10,
-          "total_pts_given": 10
-        },
-        {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
@@ -761,8 +747,8 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
-          "player": "Hilton H.",
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
@@ -770,6 +756,20 @@
         {
           "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
           "player": "Patrick C.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "player": "Henry L.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
@@ -2179,6 +2179,13 @@
           "total_pts_given": 10
         },
         {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
           "player_id": "5838e19081f440598e554c420f257ab7",
           "player": "Mills T.",
           "avg_per_vote": 1.67,
@@ -2188,13 +2195,6 @@
         {
           "player_id": "76a55817271e454fad8f84efdc032dc5",
           "player": "Kevin D.",
-          "avg_per_vote": 1.67,
-          "total_songs_voted": 6,
-          "total_pts_given": 10
-        },
-        {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
           "avg_per_vote": 1.67,
           "total_songs_voted": 6,
           "total_pts_given": 10
@@ -2242,8 +2242,8 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "605a6a083d2d4ad781df783c4a21b505",
-          "player": "Hunter A.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "avg_per_vote": 1.11,
           "total_songs_voted": 9,
           "total_pts_given": 10
@@ -2256,8 +2256,8 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "605a6a083d2d4ad781df783c4a21b505",
+          "player": "Hunter A.",
           "avg_per_vote": 1.11,
           "total_songs_voted": 9,
           "total_pts_given": 10
@@ -2272,8 +2272,8 @@
         {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
-          "avg_per_vote": 0.91,
-          "total_songs_voted": 11,
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
           "total_pts_given": 10
         }
       ],

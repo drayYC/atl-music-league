@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Music League · Atlanta</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
@@ -30,9 +30,7 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .device-band:nth-child(1){background:var(--blue);top:-2%}
 .device-band:nth-child(2){background:var(--yellow);top:31%}
 .device-band:nth-child(3){background:var(--orange);top:64%}
-.logotype{display:flex;align-items:baseline;gap:7px}
-.logotype-atl{font-family:'Libre Caslon Display',Georgia,serif;font-size:22px;font-weight:400;font-style:italic;color:var(--white);text-transform:lowercase}
-.logotype-ml{font-size:16px;font-weight:300;letter-spacing:5px;color:var(--text-secondary);text-transform:lowercase}
+.logotype{font-size:20px;font-weight:300;letter-spacing:6px;color:var(--white);text-transform:lowercase}
 .logotype-sub{font-size:9px;font-weight:500;letter-spacing:3px;color:var(--text-muted);text-transform:uppercase;margin-top:2px}
 
 /* TRIBAND */
@@ -101,15 +99,15 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .winner-pts-num{font-size:28px;font-weight:900;color:var(--white);line-height:1}
 .winner-pts-lbl{font-size:9px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,.7);margin-top:2px}
 
-.runners{display:grid;grid-template-columns:1fr 1fr;gap:6px}
-.runner{background:var(--bg-card);padding:10px 12px;display:grid;grid-template-columns:40px 1fr auto;gap:8px;align-items:center;transition:all .15s}
-.runner:hover{background:var(--bg-surface)}
+.runners{display:flex;flex-direction:column;gap:6px}
+.runner{background:var(--bg-card);padding:10px 12px;display:grid;grid-template-columns:40px 1fr auto;gap:10px;align-items:center;transition:all .15s}
+.runner:hover{background:var(--bg-surface);padding-left:16px}
 .runner-art{width:40px;height:40px;background:var(--bg-surface);border-radius:3px;overflow:hidden}
 .runner-art img{width:100%;height:100%;object-fit:cover}
 .runner-border-1{border-left:3px solid var(--blue)}.runner-border-2{border-left:3px solid var(--yellow)}.runner-border-3{border-left:3px solid var(--orange)}.runner-border-4{border-left:3px solid var(--text-dim)}
-.runner-song{font-size:12px;font-weight:700;color:var(--text-primary);line-height:1.2;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
-.runner-artist{font-size:10px;color:var(--text-secondary)}
-.runner-pts{font-size:15px;font-weight:800;color:var(--blue)}
+.runner-song{font-size:13px;font-weight:700;color:var(--text-primary);line-height:1.3}
+.runner-artist{font-size:11px;color:var(--text-secondary);margin-top:1px}
+.runner-pts{font-size:16px;font-weight:800;color:var(--blue)}
 
 /* STATS */
 .stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:16px}
@@ -205,7 +203,7 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .footer-left{font-size:9px;font-weight:500;color:var(--text-muted);letter-spacing:2px;text-transform:uppercase}
 .footer-right{font-size:9px;font-weight:300;color:var(--text-muted);letter-spacing:1px}
 
-@media(max-width:480px){.runners{grid-template-columns:1fr}.stats-row{grid-template-columns:repeat(2,1fr)}.site-wrap{border:none}}
+@media(max-width:480px){.stats-row{grid-template-columns:repeat(2,1fr)}.site-wrap{border:none}}
 </style>
 </head>
 <body>
@@ -576,7 +574,7 @@ function App() {
         <div className="header-top">
           <div className="logo-area" onClick={() => navigate('weekly')}>
             <div className="device"><div className="device-band" /><div className="device-band" /><div className="device-band" /></div>
-            <div><div className="logotype"><span className="logotype-atl">Atlanta</span><span className="logotype-ml">music league</span></div><div className="logotype-sub">Season One</div></div>
+            <div><div className="logotype">atlanta music league</div><div className="logotype-sub">Season One</div></div>
           </div>
         </div>
       </div>
