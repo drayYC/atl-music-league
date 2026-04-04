@@ -48,7 +48,9 @@
           "total_pts": 12,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1BHse4ulQefGTZZIeziZqr",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1BHse4ulQefGTZZIeziZqr",
+          "spotify_url": "https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"
         },
         {
           "title": "Fuck You Bitch",
@@ -59,7 +61,9 @@
           "total_pts": 8,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:43JK3XJKQ5MJ7ddlF0ylUX",
-          "comment": 0
+          "comment": 0,
+          "track_id": "43JK3XJKQ5MJ7ddlF0ylUX",
+          "spotify_url": "https://open.spotify.com/track/43JK3XJKQ5MJ7ddlF0ylUX"
         },
         {
           "title": "Drinkin' Problem",
@@ -70,7 +74,9 @@
           "total_pts": 7,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1vBpwxsLVwaR4evBIaFmqD",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1vBpwxsLVwaR4evBIaFmqD",
+          "spotify_url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD"
         },
         {
           "title": "Bad Luck",
@@ -81,7 +87,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:1OYHXCuHdzHjpHqHlY1g1r",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1OYHXCuHdzHjpHqHlY1g1r",
+          "spotify_url": "https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r"
         },
         {
           "title": "That Ain't My Truck",
@@ -92,7 +100,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:7riuy1t0Kt3SRgMtFxX0FR",
-          "comment": "This is sadboi vibes"
+          "comment": "This is sadboi vibes",
+          "track_id": "7riuy1t0Kt3SRgMtFxX0FR",
+          "spotify_url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
         },
         {
           "title": "Everybody Needs Love",
@@ -103,7 +113,9 @@
           "total_pts": 5,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1CL3L1bkgT8R3gVzD4n4sW",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1CL3L1bkgT8R3gVzD4n4sW",
+          "spotify_url": "https://open.spotify.com/track/1CL3L1bkgT8R3gVzD4n4sW"
         },
         {
           "title": "See You Later, I'm Gone",
@@ -114,7 +126,9 @@
           "total_pts": 5,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:3focQYPGDbgrvbKhoWVj7T",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3focQYPGDbgrvbKhoWVj7T",
+          "spotify_url": "https://open.spotify.com/track/3focQYPGDbgrvbKhoWVj7T"
         },
         {
           "title": "Cocaine",
@@ -125,7 +139,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:0gIsZ80J2vyACADWuRhl21",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0gIsZ80J2vyACADWuRhl21",
+          "spotify_url": "https://open.spotify.com/track/0gIsZ80J2vyACADWuRhl21"
         },
         {
           "title": "It's A Great Day To Be Alive",
@@ -136,7 +152,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:3oW6SWwGqiZSPTiAp7ZQoH",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3oW6SWwGqiZSPTiAp7ZQoH",
+          "spotify_url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
         },
         {
           "title": "That Smell",
@@ -147,7 +165,9 @@
           "total_pts": 5,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:52DKGPMQ21DauCR19pQ0BK",
-          "comment": 0
+          "comment": 0,
+          "track_id": "52DKGPMQ21DauCR19pQ0BK",
+          "spotify_url": "https://open.spotify.com/track/52DKGPMQ21DauCR19pQ0BK"
         },
         {
           "title": "All My Rowdy Friends Are Coming Over Tonight",
@@ -158,7 +178,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:1yzyhrCfdwPgfWixsCELlH",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1yzyhrCfdwPgfWixsCELlH",
+          "spotify_url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
         },
         {
           "title": "Here's a Quarter (Call Someone Who Cares)",
@@ -169,7 +191,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:6BTCpaBTxlqGMOl0P6hvvX",
-          "comment": 0
+          "comment": 0,
+          "track_id": "6BTCpaBTxlqGMOl0P6hvvX",
+          "spotify_url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
         },
         {
           "title": "She Got the Goldmine (I Got the Shaft)",
@@ -180,7 +204,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:0AbYscoIblUGiNqn2Iw6fq",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0AbYscoIblUGiNqn2Iw6fq",
+          "spotify_url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
         },
         {
           "title": "I Wanna Talk About Me",
@@ -191,7 +217,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3VHevS1BocAcrihLnl11DG",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3VHevS1BocAcrihLnl11DG",
+          "spotify_url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
         },
         {
           "title": "Psycho",
@@ -202,7 +230,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3Vtcjs5wVanh6LocIRrpwy",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3Vtcjs5wVanh6LocIRrpwy",
+          "spotify_url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy"
         },
         {
           "title": "Gin and Juice",
@@ -213,7 +243,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6CeszonFOlgp7HiawTSqCu",
-          "comment": 0
+          "comment": 0,
+          "track_id": "6CeszonFOlgp7HiawTSqCu",
+          "spotify_url": "https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu"
         },
         {
           "title": "No Sense in Lovin'",
@@ -224,7 +256,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:080AdFXuopE7WinKKKzVLQ",
-          "comment": 0
+          "comment": 0,
+          "track_id": "080AdFXuopE7WinKKKzVLQ",
+          "spotify_url": "https://open.spotify.com/track/080AdFXuopE7WinKKKzVLQ"
         },
         {
           "title": "Starting Over",
@@ -235,7 +269,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3TNSVsiFngfe68UJpMq1oS",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3TNSVsiFngfe68UJpMq1oS",
+          "spotify_url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
         },
         {
           "title": "Queen Of My Double Wide Trailer",
@@ -246,7 +282,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3Wz9Fm9ZyhpaRGxMlSR5G4",
-          "comment": "This is fuck you vibes"
+          "comment": "This is fuck you vibes",
+          "track_id": "3Wz9Fm9ZyhpaRGxMlSR5G4",
+          "spotify_url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4"
         },
         {
           "title": "The Fireman",
@@ -257,7 +295,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:5CwZU4BVFX0dyqG1gKfHHr",
-          "comment": " "
+          "comment": " ",
+          "track_id": "5CwZU4BVFX0dyqG1gKfHHr",
+          "spotify_url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
         },
         {
           "title": "Bye Bye",
@@ -268,7 +308,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6CebGuHR99xrFitTnOgeu2",
-          "comment": 0
+          "comment": 0,
+          "track_id": "6CebGuHR99xrFitTnOgeu2",
+          "spotify_url": "https://open.spotify.com/track/6CebGuHR99xrFitTnOgeu2"
         },
         {
           "title": "Wear My Ring",
@@ -279,7 +321,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6VSCXbO0lkIFar5tuGDasA",
-          "comment": 0
+          "comment": 0,
+          "track_id": "6VSCXbO0lkIFar5tuGDasA",
+          "spotify_url": "https://open.spotify.com/track/6VSCXbO0lkIFar5tuGDasA"
         },
         {
           "title": "Gone",
@@ -290,7 +334,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:71lXNAROGX1zo6tX0MSnCS",
-          "comment": 0
+          "comment": 0,
+          "track_id": "71lXNAROGX1zo6tX0MSnCS",
+          "spotify_url": "https://open.spotify.com/track/71lXNAROGX1zo6tX0MSnCS"
         },
         {
           "title": "I Don't Wanna Play House",
@@ -301,7 +347,9 @@
           "total_pts": 3,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:5p5ToI0sTdyXRUByijkDYL",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5p5ToI0sTdyXRUByijkDYL",
+          "spotify_url": "https://open.spotify.com/track/5p5ToI0sTdyXRUByijkDYL"
         },
         {
           "title": "Some Beach",
@@ -312,7 +360,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:0ZhwjSovRmeXfoOKVItfhS",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0ZhwjSovRmeXfoOKVItfhS",
+          "spotify_url": "https://open.spotify.com/track/0ZhwjSovRmeXfoOKVItfhS"
         },
         {
           "title": "Smoke A Little Smoke",
@@ -323,7 +373,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:1ESipSqVefdknPg5IBKFND",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1ESipSqVefdknPg5IBKFND",
+          "spotify_url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
         },
         {
           "title": "I Hope You Have Learned",
@@ -334,7 +386,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:204eP0Bi3fbvMWN4PxawON",
-          "comment": 0
+          "comment": 0,
+          "track_id": "204eP0Bi3fbvMWN4PxawON",
+          "spotify_url": "https://open.spotify.com/track/204eP0Bi3fbvMWN4PxawON"
         },
         {
           "title": "Dead Flowers - 2009 Mix",
@@ -345,7 +399,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:3oJtUnnt5uYPtzulIbLw3D",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3oJtUnnt5uYPtzulIbLw3D",
+          "spotify_url": "https://open.spotify.com/track/3oJtUnnt5uYPtzulIbLw3D"
         },
         {
           "title": "Quits",
@@ -356,7 +412,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:71crNoinQPLsNDRVcPbPfJ",
-          "comment": 0
+          "comment": 0,
+          "track_id": "71crNoinQPLsNDRVcPbPfJ",
+          "spotify_url": "https://open.spotify.com/track/71crNoinQPLsNDRVcPbPfJ"
         },
         {
           "title": "The Whirl and the Suck",
@@ -367,7 +425,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:7724bTdkYtVD7m6MYFUljC",
-          "comment": 0
+          "comment": 0,
+          "track_id": "7724bTdkYtVD7m6MYFUljC",
+          "spotify_url": "https://open.spotify.com/track/7724bTdkYtVD7m6MYFUljC"
         },
         {
           "title": "Decoration Day - Live",
@@ -378,7 +438,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:7A1dkV9p6d9IH2NiV5yCsQ",
-          "comment": 0
+          "comment": 0,
+          "track_id": "7A1dkV9p6d9IH2NiV5yCsQ",
+          "spotify_url": "https://open.spotify.com/track/7A1dkV9p6d9IH2NiV5yCsQ"
         },
         {
           "title": "She Thinks My Tractor's Sexy",
@@ -389,7 +451,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:3QV7NYkrmV0Q0IHdFJw9hO",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3QV7NYkrmV0Q0IHdFJw9hO",
+          "spotify_url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
         },
         {
           "title": "Save a Horse (Ride a Cowboy)",
@@ -400,7 +464,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:5s7m2xNZWgz5FqVSIvJcGA",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5s7m2xNZWgz5FqVSIvJcGA",
+          "spotify_url": "https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA"
         },
         {
           "title": "As She's Walking Away (feat. Alan Jackson)",
@@ -411,7 +477,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:65UCejW01DAovmluVYHWAt",
-          "comment": 0
+          "comment": 0,
+          "track_id": "65UCejW01DAovmluVYHWAt",
+          "spotify_url": "https://open.spotify.com/track/65UCejW01DAovmluVYHWAt"
         },
         {
           "title": "Back Down South",
@@ -422,7 +490,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:6HfFLqjxyFJYx1V0olSKof",
-          "comment": 0
+          "comment": 0,
+          "track_id": "6HfFLqjxyFJYx1V0olSKof",
+          "spotify_url": "https://open.spotify.com/track/6HfFLqjxyFJYx1V0olSKof"
         },
         {
           "title": "Chicks Dig It - Single Edit",
@@ -433,7 +503,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:0nprj2O0teCglthuhzTG5o",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0nprj2O0teCglthuhzTG5o",
+          "spotify_url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
         },
         {
           "title": "Before He Cheats",
@@ -444,7 +516,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:0ZUo4YjG4saFnEJhdWp9Bt",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0ZUo4YjG4saFnEJhdWp9Bt",
+          "spotify_url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
         },
         {
           "title": "Long Haired Country Boy",
@@ -455,7 +529,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:5pihM63Tj50g1XjLxq0iU8",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5pihM63Tj50g1XjLxq0iU8",
+          "spotify_url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
         }
       ],
       "leaderboard": [
@@ -1580,7 +1656,9 @@
           "total_pts": 13,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:4cCoZML1dPIQxNjOwDmJGf",
-          "comment": 0
+          "comment": 0,
+          "track_id": "4cCoZML1dPIQxNjOwDmJGf",
+          "spotify_url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
         },
         {
           "title": "Jesus Was Way Cool",
@@ -1591,7 +1669,9 @@
           "total_pts": 12,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:0w3DyN1XAw8pBBF0t4B2uU",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0w3DyN1XAw8pBBF0t4B2uU",
+          "spotify_url": "https://open.spotify.com/track/0w3DyN1XAw8pBBF0t4B2uU"
         },
         {
           "title": "Oh! Sweet Nuthin' - 2015 Remaster",
@@ -1602,7 +1682,9 @@
           "total_pts": 9,
           "unique_voters": 6,
           "spotify_uri": "spotify:track:0i19MAZbyn8uTir7FprXId",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0i19MAZbyn8uTir7FprXId",
+          "spotify_url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
         },
         {
           "title": "Everywhere - 2017 Remaster",
@@ -1613,7 +1695,9 @@
           "total_pts": 9,
           "unique_voters": 6,
           "spotify_uri": "spotify:track:254bXAqt3zP6P50BdQvEsq",
-          "comment": 0
+          "comment": 0,
+          "track_id": "254bXAqt3zP6P50BdQvEsq",
+          "spotify_url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
         },
         {
           "title": "Thunder Island",
@@ -1624,7 +1708,9 @@
           "total_pts": 8,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:3FkQN4NyCFlfn7fWzBkWCj",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3FkQN4NyCFlfn7fWzBkWCj",
+          "spotify_url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
         },
         {
           "title": "The Funeral",
@@ -1635,7 +1721,9 @@
           "total_pts": 8,
           "unique_voters": 6,
           "spotify_uri": "spotify:track:5lRzWDEe7UuedU2QPsFg0K",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5lRzWDEe7UuedU2QPsFg0K",
+          "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
         },
         {
           "title": "Where'd All the Time Go?",
@@ -1646,7 +1734,9 @@
           "total_pts": 7,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:0UV5zxRMz6AO4ZwUOZNIKI",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0UV5zxRMz6AO4ZwUOZNIKI",
+          "spotify_url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
         },
         {
           "title": "Shining Star",
@@ -1657,7 +1747,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:0RgcOUQg4qYAEt9RIdf3oB",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0RgcOUQg4qYAEt9RIdf3oB",
+          "spotify_url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
         },
         {
           "title": "Gimme a Ride to Heaven Boy",
@@ -1668,7 +1760,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1M2UpFI7Tpf995H1jEZptw",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1M2UpFI7Tpf995H1jEZptw",
+          "spotify_url": "https://open.spotify.com/track/1M2UpFI7Tpf995H1jEZptw"
         },
         {
           "title": "I Got a Name - Stereo Version",
@@ -1679,7 +1773,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:4UEgKxYLP0bPG6EwD0DgYK",
-          "comment": 0
+          "comment": 0,
+          "track_id": "4UEgKxYLP0bPG6EwD0DgYK",
+          "spotify_url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK"
         },
         {
           "title": "The Wreck of the Edmund Fitzgerald",
@@ -1690,7 +1786,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:536L9C0N7vhYdibCJx3cI2",
-          "comment": 0
+          "comment": 0,
+          "track_id": "536L9C0N7vhYdibCJx3cI2",
+          "spotify_url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
         },
         {
           "title": "King Of The Road",
@@ -1701,7 +1799,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:3XG7bMVcMWLIn2k9jLAaAt",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3XG7bMVcMWLIn2k9jLAaAt",
+          "spotify_url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
         },
         {
           "title": "Pumped Up Kicks",
@@ -1712,7 +1812,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
-          "comment": 0
+          "comment": 0,
+          "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
+          "spotify_url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
         },
         {
           "title": "This Kiss",
@@ -1723,7 +1825,9 @@
           "total_pts": 6,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:5EYWGM3Ns3iYew8ws0FatB",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5EYWGM3Ns3iYew8ws0FatB",
+          "spotify_url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
         },
         {
           "title": "Keep On Dreamin'",
@@ -1734,7 +1838,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:1Dlk7nlSEdhYwbqXbVcqBW",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1Dlk7nlSEdhYwbqXbVcqBW",
+          "spotify_url": "https://open.spotify.com/track/1Dlk7nlSEdhYwbqXbVcqBW"
         },
         {
           "title": "Lookin' Out My Back Door",
@@ -1745,7 +1851,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:3RTUfvRgq3pYTf7XY0FIcS",
-          "comment": 0
+          "comment": 0,
+          "track_id": "3RTUfvRgq3pYTf7XY0FIcS",
+          "spotify_url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
         },
         {
           "title": "Running on Empty",
@@ -1756,7 +1864,9 @@
           "total_pts": 5,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6aqm56xP40foYBBtAWWrnY",
-          "comment": 0
+          "comment": 0,
+          "track_id": "6aqm56xP40foYBBtAWWrnY",
+          "spotify_url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
         },
         {
           "title": "Helena",
@@ -1767,7 +1877,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5dTHtzHFPyi8TlTtzoz1J9",
+          "spotify_url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
         },
         {
           "title": "Enter Sandman - triple j Like a Version",
@@ -1778,7 +1890,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:73t2Pgt4t7TCIK7Zl68uhS",
-          "comment": 0
+          "comment": 0,
+          "track_id": "73t2Pgt4t7TCIK7Zl68uhS",
+          "spotify_url": "https://open.spotify.com/track/73t2Pgt4t7TCIK7Zl68uhS"
         },
         {
           "title": "Last Caress",
@@ -1789,7 +1903,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:1C7kuQ0TjfxvEHSFqLEl42",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1C7kuQ0TjfxvEHSFqLEl42",
+          "spotify_url": "https://open.spotify.com/track/1C7kuQ0TjfxvEHSFqLEl42"
         },
         {
           "title": "Ride Like the Wind (2019 Remaster)",
@@ -1800,7 +1916,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:2ibiJCDgb0N53RXRtYsDtg",
-          "comment": 0
+          "comment": 0,
+          "track_id": "2ibiJCDgb0N53RXRtYsDtg",
+          "spotify_url": "https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg"
         },
         {
           "title": "Dance With The Devil",
@@ -1811,7 +1929,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:4LCzEYKPFcd2FCOmZdVDnM",
-          "comment": 0
+          "comment": 0,
+          "track_id": "4LCzEYKPFcd2FCOmZdVDnM",
+          "spotify_url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
         },
         {
           "title": "Demons",
@@ -1822,7 +1942,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:0oMH1Q4pMYy7fGio9rDxil",
-          "comment": 0
+          "comment": 0,
+          "track_id": "0oMH1Q4pMYy7fGio9rDxil",
+          "spotify_url": "https://open.spotify.com/track/0oMH1Q4pMYy7fGio9rDxil"
         },
         {
           "title": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
@@ -1833,7 +1955,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1SHB1hp6267UK9bJQUxYvO",
+          "spotify_url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"
         },
         {
           "title": "Stayin Alive",
@@ -1844,7 +1968,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:5ubvP9oKmxLUVq506fgLhk",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5ubvP9oKmxLUVq506fgLhk",
+          "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
         },
         {
           "title": "24's (Vocals Only)",
@@ -1855,7 +1981,9 @@
           "total_pts": 3,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:33j4CLU9UyRjO63ry5J61Q",
-          "comment": 0
+          "comment": 0,
+          "track_id": "33j4CLU9UyRjO63ry5J61Q",
+          "spotify_url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
         },
         {
           "title": "Last Resort",
@@ -1866,7 +1994,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:5W8YXBz9MTIDyrpYaCg2Ky",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5W8YXBz9MTIDyrpYaCg2Ky",
+          "spotify_url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
         },
         {
           "title": "Touch of Grey",
@@ -1877,7 +2007,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:5YzzWlWfAVNvtduNDHKhHc",
-          "comment": 0
+          "comment": 0,
+          "track_id": "5YzzWlWfAVNvtduNDHKhHc",
+          "spotify_url": "https://open.spotify.com/track/5YzzWlWfAVNvtduNDHKhHc"
         },
         {
           "title": "Revival",
@@ -1888,7 +2020,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:7GEo5JQN8lcqBaj6qyvWw1",
-          "comment": 0
+          "comment": 0,
+          "track_id": "7GEo5JQN8lcqBaj6qyvWw1",
+          "spotify_url": "https://open.spotify.com/track/7GEo5JQN8lcqBaj6qyvWw1"
         },
         {
           "title": "I Saw Your Mommy...",
@@ -1899,7 +2033,9 @@
           "total_pts": 0,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:4UEQ45wYDdFCvCDhRk6AbC",
-          "comment": 0
+          "comment": 0,
+          "track_id": "4UEQ45wYDdFCvCDhRk6AbC",
+          "spotify_url": "https://open.spotify.com/track/4UEQ45wYDdFCvCDhRk6AbC"
         },
         {
           "title": "Mess",
@@ -1910,7 +2046,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:1BlQWQgGP84r4GYUVty4Ar",
-          "comment": 0
+          "comment": 0,
+          "track_id": "1BlQWQgGP84r4GYUVty4Ar",
+          "spotify_url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
         },
         {
           "title": "Hope",
@@ -1921,7 +2059,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:35UO6dWrEPLmeSVXtAysS4",
-          "comment": 0
+          "comment": 0,
+          "track_id": "35UO6dWrEPLmeSVXtAysS4",
+          "spotify_url": "https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4"
         }
       ],
       "leaderboard": [
@@ -3537,7 +3677,9 @@
           "title": "I Hope You Have Learned",
           "artist": "Tony Rice Unit",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "204eP0Bi3fbvMWN4PxawON",
+          "spotify_url": "https://open.spotify.com/track/204eP0Bi3fbvMWN4PxawON"
         },
         {
           "round": 1,
@@ -3545,7 +3687,9 @@
           "title": "As She's Walking Away (feat. Alan Jackson)",
           "artist": "Zac Brown Band, Alan Jackson",
           "total_pts": 1,
-          "unique_voters": 1
+          "unique_voters": 1,
+          "track_id": "65UCejW01DAovmluVYHWAt",
+          "spotify_url": "https://open.spotify.com/track/65UCejW01DAovmluVYHWAt"
         }
       ],
       "voting_history": [],
@@ -3562,7 +3706,9 @@
           "title": "Here's a Quarter (Call Someone Who Cares)",
           "artist": "Travis Tritt",
           "total_pts": 4,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "6BTCpaBTxlqGMOl0P6hvvX",
+          "spotify_url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
         },
         {
           "round": 1,
@@ -3570,7 +3716,9 @@
           "title": "She Got the Goldmine (I Got the Shaft)",
           "artist": "Jerry Reed",
           "total_pts": 4,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "0AbYscoIblUGiNqn2Iw6fq",
+          "spotify_url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
         },
         {
           "round": 2,
@@ -3578,7 +3726,9 @@
           "title": "Gimme a Ride to Heaven Boy",
           "artist": "Terry Allen, The Panhandle Mystery Band",
           "total_pts": 6,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "1M2UpFI7Tpf995H1jEZptw",
+          "spotify_url": "https://open.spotify.com/track/1M2UpFI7Tpf995H1jEZptw"
         },
         {
           "round": 2,
@@ -3586,7 +3736,9 @@
           "title": "King Of The Road",
           "artist": "Roger Miller",
           "total_pts": 6,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "3XG7bMVcMWLIn2k9jLAaAt",
+          "spotify_url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
         }
       ],
       "voting_history": [
@@ -3730,7 +3882,9 @@
           "title": "Keep On Dreamin'",
           "artist": "The Arcs",
           "total_pts": 5,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "1Dlk7nlSEdhYwbqXbVcqBW",
+          "spotify_url": "https://open.spotify.com/track/1Dlk7nlSEdhYwbqXbVcqBW"
         },
         {
           "round": 2,
@@ -3738,7 +3892,9 @@
           "title": "Enter Sandman - triple j Like a Version",
           "artist": "Art vs Science",
           "total_pts": 4,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "73t2Pgt4t7TCIK7Zl68uhS",
+          "spotify_url": "https://open.spotify.com/track/73t2Pgt4t7TCIK7Zl68uhS"
         }
       ],
       "voting_history": [
@@ -3798,7 +3954,9 @@
           "title": "Demons",
           "artist": "Guster",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "0oMH1Q4pMYy7fGio9rDxil",
+          "spotify_url": "https://open.spotify.com/track/0oMH1Q4pMYy7fGio9rDxil"
         },
         {
           "round": 2,
@@ -3806,7 +3964,9 @@
           "title": "Mess",
           "artist": "Noah Kahan",
           "total_pts": 0,
-          "unique_voters": 0
+          "unique_voters": 0,
+          "track_id": "1BlQWQgGP84r4GYUVty4Ar",
+          "spotify_url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
         }
       ],
       "voting_history": [
@@ -3860,7 +4020,9 @@
           "title": "Gone",
           "artist": "Montgomery Gentry",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "71lXNAROGX1zo6tX0MSnCS",
+          "spotify_url": "https://open.spotify.com/track/71lXNAROGX1zo6tX0MSnCS"
         },
         {
           "round": 1,
@@ -3868,7 +4030,9 @@
           "title": "Long Haired Country Boy",
           "artist": "The Charlie Daniels Band",
           "total_pts": 0,
-          "unique_voters": 0
+          "unique_voters": 0,
+          "track_id": "5pihM63Tj50g1XjLxq0iU8",
+          "spotify_url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
         }
       ],
       "voting_history": [],
@@ -3893,7 +4057,9 @@
           "title": "That Ain't My Truck",
           "artist": "Rhett Akins",
           "total_pts": 6,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "7riuy1t0Kt3SRgMtFxX0FR",
+          "spotify_url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
         },
         {
           "round": 1,
@@ -3901,7 +4067,9 @@
           "title": "Queen Of My Double Wide Trailer",
           "artist": "Sammy Kershaw",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "3Wz9Fm9ZyhpaRGxMlSR5G4",
+          "spotify_url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4"
         },
         {
           "round": 2,
@@ -3909,7 +4077,9 @@
           "title": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
           "artist": "Molchat Doma",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "1SHB1hp6267UK9bJQUxYvO",
+          "spotify_url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"
         },
         {
           "round": 2,
@@ -3917,7 +4087,9 @@
           "title": "I Saw Your Mommy...",
           "artist": "Suicidal Tendencies",
           "total_pts": 0,
-          "unique_voters": 1
+          "unique_voters": 1,
+          "track_id": "4UEQ45wYDdFCvCDhRk6AbC",
+          "spotify_url": "https://open.spotify.com/track/4UEQ45wYDdFCvCDhRk6AbC"
         }
       ],
       "voting_history": [
@@ -4029,7 +4201,9 @@
           "title": "The Fireman",
           "artist": "George Strait",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "5CwZU4BVFX0dyqG1gKfHHr",
+          "spotify_url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
         },
         {
           "round": 1,
@@ -4037,7 +4211,9 @@
           "title": "Wear My Ring",
           "artist": "Bart Crow",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "6VSCXbO0lkIFar5tuGDasA",
+          "spotify_url": "https://open.spotify.com/track/6VSCXbO0lkIFar5tuGDasA"
         },
         {
           "round": 2,
@@ -4045,7 +4221,9 @@
           "title": "Wakin on a Pretty Day",
           "artist": "Kurt Vile",
           "total_pts": 13,
-          "unique_voters": 7
+          "unique_voters": 7,
+          "track_id": "4cCoZML1dPIQxNjOwDmJGf",
+          "spotify_url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
         },
         {
           "round": 2,
@@ -4053,7 +4231,9 @@
           "title": "Pumped Up Kicks",
           "artist": "Foster The People",
           "total_pts": 6,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
+          "spotify_url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
         }
       ],
       "voting_history": [
@@ -4167,7 +4347,9 @@
           "title": "The Funeral",
           "artist": "Band of Horses",
           "total_pts": 8,
-          "unique_voters": 6
+          "unique_voters": 6,
+          "track_id": "5lRzWDEe7UuedU2QPsFg0K",
+          "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
         },
         {
           "round": 2,
@@ -4175,7 +4357,9 @@
           "title": "Where'd All the Time Go?",
           "artist": "Dr. Dog",
           "total_pts": 7,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "0UV5zxRMz6AO4ZwUOZNIKI",
+          "spotify_url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
         }
       ],
       "voting_history": [
@@ -4247,7 +4431,9 @@
           "title": "Good Lookin'",
           "artist": "Dixon Dallas",
           "total_pts": 12,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "1BHse4ulQefGTZZIeziZqr",
+          "spotify_url": "https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"
         },
         {
           "round": 1,
@@ -4255,7 +4441,9 @@
           "title": "Bad Luck",
           "artist": "Zach Top",
           "total_pts": 6,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "1OYHXCuHdzHjpHqHlY1g1r",
+          "spotify_url": "https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r"
         },
         {
           "round": 2,
@@ -4263,7 +4451,9 @@
           "title": "Thunder Island",
           "artist": "Jay Ferguson",
           "total_pts": 8,
-          "unique_voters": 7
+          "unique_voters": 7,
+          "track_id": "3FkQN4NyCFlfn7fWzBkWCj",
+          "spotify_url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
         },
         {
           "round": 2,
@@ -4271,7 +4461,9 @@
           "title": "I Got a Name - Stereo Version",
           "artist": "Jim Croce",
           "total_pts": 6,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "4UEgKxYLP0bPG6EwD0DgYK",
+          "spotify_url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK"
         }
       ],
       "voting_history": [
@@ -4385,7 +4577,9 @@
           "title": "I Don't Wanna Play House",
           "artist": "Tammy Wynette",
           "total_pts": 3,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "5p5ToI0sTdyXRUByijkDYL",
+          "spotify_url": "https://open.spotify.com/track/5p5ToI0sTdyXRUByijkDYL"
         },
         {
           "round": 1,
@@ -4393,7 +4587,9 @@
           "title": "She Thinks My Tractor's Sexy",
           "artist": "Kenny Chesney",
           "total_pts": 1,
-          "unique_voters": 1
+          "unique_voters": 1,
+          "track_id": "3QV7NYkrmV0Q0IHdFJw9hO",
+          "spotify_url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
         },
         {
           "round": 2,
@@ -4401,7 +4597,9 @@
           "title": "24's (Vocals Only)",
           "artist": "T.I.",
           "total_pts": 3,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "33j4CLU9UyRjO63ry5J61Q",
+          "spotify_url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
         },
         {
           "round": 2,
@@ -4409,7 +4607,9 @@
           "title": "Hope",
           "artist": "Alex G",
           "total_pts": 0,
-          "unique_voters": 0
+          "unique_voters": 0,
+          "track_id": "35UO6dWrEPLmeSVXtAysS4",
+          "spotify_url": "https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4"
         }
       ],
       "voting_history": [
@@ -4541,7 +4741,9 @@
           "title": "Bye Bye",
           "artist": "Phil Vassar",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "6CebGuHR99xrFitTnOgeu2",
+          "spotify_url": "https://open.spotify.com/track/6CebGuHR99xrFitTnOgeu2"
         },
         {
           "round": 1,
@@ -4549,7 +4751,9 @@
           "title": "Chicks Dig It - Single Edit",
           "artist": "Chris Cagle",
           "total_pts": 0,
-          "unique_voters": 0
+          "unique_voters": 0,
+          "track_id": "0nprj2O0teCglthuhzTG5o",
+          "spotify_url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
         },
         {
           "round": 2,
@@ -4557,7 +4761,9 @@
           "title": "Shining Star",
           "artist": "Earth, Wind & Fire",
           "total_pts": 6,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "0RgcOUQg4qYAEt9RIdf3oB",
+          "spotify_url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
         },
         {
           "round": 2,
@@ -4565,7 +4771,9 @@
           "title": "Ride Like the Wind (2019 Remaster)",
           "artist": "Christopher Cross",
           "total_pts": 4,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "2ibiJCDgb0N53RXRtYsDtg",
+          "spotify_url": "https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg"
         }
       ],
       "voting_history": [
@@ -4673,7 +4881,9 @@
           "title": "That Smell",
           "artist": "Lynyrd Skynyrd",
           "total_pts": 5,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "52DKGPMQ21DauCR19pQ0BK",
+          "spotify_url": "https://open.spotify.com/track/52DKGPMQ21DauCR19pQ0BK"
         },
         {
           "round": 1,
@@ -4681,7 +4891,9 @@
           "title": "Dead Flowers - 2009 Mix",
           "artist": "The Rolling Stones",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "3oJtUnnt5uYPtzulIbLw3D",
+          "spotify_url": "https://open.spotify.com/track/3oJtUnnt5uYPtzulIbLw3D"
         },
         {
           "round": 2,
@@ -4689,7 +4901,9 @@
           "title": "Stayin Alive",
           "artist": "Bee Gees",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "5ubvP9oKmxLUVq506fgLhk",
+          "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
         },
         {
           "round": 2,
@@ -4697,7 +4911,9 @@
           "title": "Touch of Grey",
           "artist": "Grateful Dead",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "5YzzWlWfAVNvtduNDHKhHc",
+          "spotify_url": "https://open.spotify.com/track/5YzzWlWfAVNvtduNDHKhHc"
         }
       ],
       "voting_history": [
@@ -4751,7 +4967,9 @@
           "title": "Starting Over",
           "artist": "Chris Stapleton",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "3TNSVsiFngfe68UJpMq1oS",
+          "spotify_url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
         },
         {
           "round": 1,
@@ -4759,7 +4977,9 @@
           "title": "Before He Cheats",
           "artist": "Carrie Underwood",
           "total_pts": 0,
-          "unique_voters": 0
+          "unique_voters": 0,
+          "track_id": "0ZUo4YjG4saFnEJhdWp9Bt",
+          "spotify_url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
         }
       ],
       "voting_history": [
@@ -4837,7 +5057,9 @@
           "title": "Cocaine",
           "artist": "Heidecker & Wood",
           "total_pts": 5,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "0gIsZ80J2vyACADWuRhl21",
+          "spotify_url": "https://open.spotify.com/track/0gIsZ80J2vyACADWuRhl21"
         },
         {
           "round": 1,
@@ -4845,7 +5067,9 @@
           "title": "Back Down South",
           "artist": "Kings of Leon",
           "total_pts": 1,
-          "unique_voters": 1
+          "unique_voters": 1,
+          "track_id": "6HfFLqjxyFJYx1V0olSKof",
+          "spotify_url": "https://open.spotify.com/track/6HfFLqjxyFJYx1V0olSKof"
         },
         {
           "round": 2,
@@ -4853,7 +5077,9 @@
           "title": "Running on Empty",
           "artist": "Jackson Browne",
           "total_pts": 5,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "6aqm56xP40foYBBtAWWrnY",
+          "spotify_url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
         },
         {
           "round": 2,
@@ -4861,7 +5087,9 @@
           "title": "Revival",
           "artist": "Soulsavers",
           "total_pts": 1,
-          "unique_voters": 1
+          "unique_voters": 1,
+          "track_id": "7GEo5JQN8lcqBaj6qyvWw1",
+          "spotify_url": "https://open.spotify.com/track/7GEo5JQN8lcqBaj6qyvWw1"
         }
       ],
       "voting_history": [
@@ -4987,7 +5215,9 @@
           "title": "Psycho",
           "artist": "Eddie Noack",
           "total_pts": 4,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "3Vtcjs5wVanh6LocIRrpwy",
+          "spotify_url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy"
         },
         {
           "round": 1,
@@ -4995,7 +5225,9 @@
           "title": "Decoration Day - Live",
           "artist": "Jason Isbell and the 400 Unit",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "7A1dkV9p6d9IH2NiV5yCsQ",
+          "spotify_url": "https://open.spotify.com/track/7A1dkV9p6d9IH2NiV5yCsQ"
         },
         {
           "round": 2,
@@ -5003,7 +5235,9 @@
           "title": "The Wreck of the Edmund Fitzgerald",
           "artist": "Gordon Lightfoot",
           "total_pts": 6,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "536L9C0N7vhYdibCJx3cI2",
+          "spotify_url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
         },
         {
           "round": 2,
@@ -5011,7 +5245,9 @@
           "title": "Helena",
           "artist": "My Chemical Romance",
           "total_pts": 4,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "5dTHtzHFPyi8TlTtzoz1J9",
+          "spotify_url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
         }
       ],
       "voting_history": [
@@ -5137,7 +5373,9 @@
           "title": "Drinkin' Problem",
           "artist": "Midland",
           "total_pts": 7,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "1vBpwxsLVwaR4evBIaFmqD",
+          "spotify_url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD"
         },
         {
           "round": 1,
@@ -5145,7 +5383,9 @@
           "title": "Some Beach",
           "artist": "Blake Shelton",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "0ZhwjSovRmeXfoOKVItfhS",
+          "spotify_url": "https://open.spotify.com/track/0ZhwjSovRmeXfoOKVItfhS"
         },
         {
           "round": 2,
@@ -5153,7 +5393,9 @@
           "title": "This Kiss",
           "artist": "Faith Hill",
           "total_pts": 6,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "5EYWGM3Ns3iYew8ws0FatB",
+          "spotify_url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
         },
         {
           "round": 2,
@@ -5161,7 +5403,9 @@
           "title": "Last Resort",
           "artist": "Papa Roach",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "5W8YXBz9MTIDyrpYaCg2Ky",
+          "spotify_url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
         }
       ],
       "voting_history": [
@@ -5257,7 +5501,9 @@
           "title": "Fuck You Bitch",
           "artist": "Wheeler Walker Jr.",
           "total_pts": 8,
-          "unique_voters": 7
+          "unique_voters": 7,
+          "track_id": "43JK3XJKQ5MJ7ddlF0ylUX",
+          "spotify_url": "https://open.spotify.com/track/43JK3XJKQ5MJ7ddlF0ylUX"
         },
         {
           "round": 1,
@@ -5265,7 +5511,9 @@
           "title": "Everybody Needs Love",
           "artist": "Drive-By Truckers",
           "total_pts": 5,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "1CL3L1bkgT8R3gVzD4n4sW",
+          "spotify_url": "https://open.spotify.com/track/1CL3L1bkgT8R3gVzD4n4sW"
         },
         {
           "round": 2,
@@ -5273,7 +5521,9 @@
           "title": "Jesus Was Way Cool",
           "artist": "King Missile",
           "total_pts": 12,
-          "unique_voters": 7
+          "unique_voters": 7,
+          "track_id": "0w3DyN1XAw8pBBF0t4B2uU",
+          "spotify_url": "https://open.spotify.com/track/0w3DyN1XAw8pBBF0t4B2uU"
         },
         {
           "round": 2,
@@ -5281,7 +5531,9 @@
           "title": "Dance With The Devil",
           "artist": "Immortal Technique",
           "total_pts": 4,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "4LCzEYKPFcd2FCOmZdVDnM",
+          "spotify_url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
         }
       ],
       "voting_history": [
@@ -5359,7 +5611,9 @@
           "title": "See You Later, I'm Gone",
           "artist": "The Marshall Tucker Band",
           "total_pts": 5,
-          "unique_voters": 5
+          "unique_voters": 5,
+          "track_id": "3focQYPGDbgrvbKhoWVj7T",
+          "spotify_url": "https://open.spotify.com/track/3focQYPGDbgrvbKhoWVj7T"
         },
         {
           "round": 1,
@@ -5367,7 +5621,9 @@
           "title": "The Whirl and the Suck",
           "artist": "Johnny Cash",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "7724bTdkYtVD7m6MYFUljC",
+          "spotify_url": "https://open.spotify.com/track/7724bTdkYtVD7m6MYFUljC"
         },
         {
           "round": 2,
@@ -5375,7 +5631,9 @@
           "title": "Oh! Sweet Nuthin' - 2015 Remaster",
           "artist": "The Velvet Underground",
           "total_pts": 9,
-          "unique_voters": 6
+          "unique_voters": 6,
+          "track_id": "0i19MAZbyn8uTir7FprXId",
+          "spotify_url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
         },
         {
           "round": 2,
@@ -5383,7 +5641,9 @@
           "title": "Last Caress",
           "artist": "Misfits",
           "total_pts": 4,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "1C7kuQ0TjfxvEHSFqLEl42",
+          "spotify_url": "https://open.spotify.com/track/1C7kuQ0TjfxvEHSFqLEl42"
         }
       ],
       "voting_history": [
@@ -5455,7 +5715,9 @@
           "title": "It's A Great Day To Be Alive",
           "artist": "Travis Tritt",
           "total_pts": 5,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "3oW6SWwGqiZSPTiAp7ZQoH",
+          "spotify_url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
         },
         {
           "round": 1,
@@ -5463,7 +5725,9 @@
           "title": "Smoke A Little Smoke",
           "artist": "Eric Church",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "1ESipSqVefdknPg5IBKFND",
+          "spotify_url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
         }
       ],
       "voting_history": [],
@@ -5480,7 +5744,9 @@
           "title": "No Sense in Lovin'",
           "artist": "Uncle Tupelo",
           "total_pts": 3,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "080AdFXuopE7WinKKKzVLQ",
+          "spotify_url": "https://open.spotify.com/track/080AdFXuopE7WinKKKzVLQ"
         },
         {
           "round": 1,
@@ -5488,7 +5754,9 @@
           "title": "Quits",
           "artist": "Gary Stewart",
           "total_pts": 2,
-          "unique_voters": 2
+          "unique_voters": 2,
+          "track_id": "71crNoinQPLsNDRVcPbPfJ",
+          "spotify_url": "https://open.spotify.com/track/71crNoinQPLsNDRVcPbPfJ"
         }
       ],
       "voting_history": [],
@@ -5505,7 +5773,9 @@
           "title": "I Wanna Talk About Me",
           "artist": "Toby Keith",
           "total_pts": 4,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "3VHevS1BocAcrihLnl11DG",
+          "spotify_url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
         },
         {
           "round": 1,
@@ -5513,7 +5783,9 @@
           "title": "Save a Horse (Ride a Cowboy)",
           "artist": "Big & Rich",
           "total_pts": 1,
-          "unique_voters": 1
+          "unique_voters": 1,
+          "track_id": "5s7m2xNZWgz5FqVSIvJcGA",
+          "spotify_url": "https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA"
         }
       ],
       "voting_history": [
@@ -5573,7 +5845,9 @@
           "title": "All My Rowdy Friends Are Coming Over Tonight",
           "artist": "Hank Williams, Jr.",
           "total_pts": 4,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "1yzyhrCfdwPgfWixsCELlH",
+          "spotify_url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
         },
         {
           "round": 1,
@@ -5581,7 +5855,9 @@
           "title": "Gin and Juice",
           "artist": "The Gourds",
           "total_pts": 4,
-          "unique_voters": 3
+          "unique_voters": 3,
+          "track_id": "6CeszonFOlgp7HiawTSqCu",
+          "spotify_url": "https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu"
         },
         {
           "round": 2,
@@ -5589,7 +5865,9 @@
           "title": "Everywhere - 2017 Remaster",
           "artist": "Fleetwood Mac",
           "total_pts": 9,
-          "unique_voters": 6
+          "unique_voters": 6,
+          "track_id": "254bXAqt3zP6P50BdQvEsq",
+          "spotify_url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
         },
         {
           "round": 2,
@@ -5597,7 +5875,9 @@
           "title": "Lookin' Out My Back Door",
           "artist": "Creedence Clearwater Revival",
           "total_pts": 5,
-          "unique_voters": 4
+          "unique_voters": 4,
+          "track_id": "3RTUfvRgq3pYTf7XY0FIcS",
+          "spotify_url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
         }
       ],
       "voting_history": [
@@ -5820,7 +6100,9 @@
       "artist": "Kurt Vile",
       "submitter": "Mills T.",
       "total_pts": 13,
-      "unique_voters": 7
+      "unique_voters": 7,
+      "track_id": "4cCoZML1dPIQxNjOwDmJGf",
+      "spotify_url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
     },
     {
       "round": 2,
@@ -5829,7 +6111,9 @@
       "artist": "King Missile",
       "submitter": "Kennon S.",
       "total_pts": 12,
-      "unique_voters": 7
+      "unique_voters": 7,
+      "track_id": "0w3DyN1XAw8pBBF0t4B2uU",
+      "spotify_url": "https://open.spotify.com/track/0w3DyN1XAw8pBBF0t4B2uU"
     },
     {
       "round": 1,
@@ -5838,7 +6122,9 @@
       "artist": "Dixon Dallas",
       "submitter": "Jake C.",
       "total_pts": 12,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "1BHse4ulQefGTZZIeziZqr",
+      "spotify_url": "https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"
     },
     {
       "round": 2,
@@ -5847,7 +6133,9 @@
       "artist": "The Velvet Underground",
       "submitter": "Giles G.",
       "total_pts": 9,
-      "unique_voters": 6
+      "unique_voters": 6,
+      "track_id": "0i19MAZbyn8uTir7FprXId",
+      "spotify_url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
     },
     {
       "round": 2,
@@ -5856,7 +6144,9 @@
       "artist": "Fleetwood Mac",
       "submitter": "Chris V.",
       "total_pts": 9,
-      "unique_voters": 6
+      "unique_voters": 6,
+      "track_id": "254bXAqt3zP6P50BdQvEsq",
+      "spotify_url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "round": 1,
@@ -5865,7 +6155,9 @@
       "artist": "Wheeler Walker Jr.",
       "submitter": "Kennon S.",
       "total_pts": 8,
-      "unique_voters": 7
+      "unique_voters": 7,
+      "track_id": "43JK3XJKQ5MJ7ddlF0ylUX",
+      "spotify_url": "https://open.spotify.com/track/43JK3XJKQ5MJ7ddlF0ylUX"
     },
     {
       "round": 2,
@@ -5874,7 +6166,9 @@
       "artist": "Jay Ferguson",
       "submitter": "Jake C.",
       "total_pts": 8,
-      "unique_voters": 7
+      "unique_voters": 7,
+      "track_id": "3FkQN4NyCFlfn7fWzBkWCj",
+      "spotify_url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
     },
     {
       "round": 2,
@@ -5883,7 +6177,9 @@
       "artist": "Band of Horses",
       "submitter": "Hunter A.",
       "total_pts": 8,
-      "unique_voters": 6
+      "unique_voters": 6,
+      "track_id": "5lRzWDEe7UuedU2QPsFg0K",
+      "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     },
     {
       "round": 1,
@@ -5892,7 +6188,9 @@
       "artist": "Midland",
       "submitter": "Ben Z.",
       "total_pts": 7,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "1vBpwxsLVwaR4evBIaFmqD",
+      "spotify_url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD"
     },
     {
       "round": 2,
@@ -5901,7 +6199,9 @@
       "artist": "Dr. Dog",
       "submitter": "Hunter A.",
       "total_pts": 7,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "0UV5zxRMz6AO4ZwUOZNIKI",
+      "spotify_url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
       "round": 2,
@@ -5910,7 +6210,9 @@
       "artist": "Earth, Wind & Fire",
       "submitter": "Hilton H.",
       "total_pts": 6,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "0RgcOUQg4qYAEt9RIdf3oB",
+      "spotify_url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "round": 2,
@@ -5919,7 +6221,9 @@
       "artist": "Terry Allen, The Panhandle Mystery Band",
       "submitter": "Dray E.",
       "total_pts": 6,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "1M2UpFI7Tpf995H1jEZptw",
+      "spotify_url": "https://open.spotify.com/track/1M2UpFI7Tpf995H1jEZptw"
     },
     {
       "round": 2,
@@ -5928,7 +6232,9 @@
       "artist": "Jim Croce",
       "submitter": "Jake C.",
       "total_pts": 6,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "4UEgKxYLP0bPG6EwD0DgYK",
+      "spotify_url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK"
     },
     {
       "round": 2,
@@ -5937,7 +6243,9 @@
       "artist": "Gordon Lightfoot",
       "submitter": "Ford L.",
       "total_pts": 6,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "536L9C0N7vhYdibCJx3cI2",
+      "spotify_url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
     },
     {
       "round": 1,
@@ -5946,7 +6254,9 @@
       "artist": "Zach Top",
       "submitter": "Jake C.",
       "total_pts": 6,
-      "unique_voters": 4
+      "unique_voters": 4,
+      "track_id": "1OYHXCuHdzHjpHqHlY1g1r",
+      "spotify_url": "https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r"
     },
     {
       "round": 1,
@@ -5955,7 +6265,9 @@
       "artist": "Rhett Akins",
       "submitter": "Jack A.",
       "total_pts": 6,
-      "unique_voters": 4
+      "unique_voters": 4,
+      "track_id": "7riuy1t0Kt3SRgMtFxX0FR",
+      "spotify_url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "round": 2,
@@ -5964,7 +6276,9 @@
       "artist": "Roger Miller",
       "submitter": "Dray E.",
       "total_pts": 6,
-      "unique_voters": 4
+      "unique_voters": 4,
+      "track_id": "3XG7bMVcMWLIn2k9jLAaAt",
+      "spotify_url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "round": 2,
@@ -5973,7 +6287,9 @@
       "artist": "Foster The People",
       "submitter": "Mills T.",
       "total_pts": 6,
-      "unique_voters": 4
+      "unique_voters": 4,
+      "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
+      "spotify_url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "round": 2,
@@ -5982,7 +6298,9 @@
       "artist": "Faith Hill",
       "submitter": "Ben Z.",
       "total_pts": 6,
-      "unique_voters": 3
+      "unique_voters": 3,
+      "track_id": "5EYWGM3Ns3iYew8ws0FatB",
+      "spotify_url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "round": 1,
@@ -5991,7 +6309,9 @@
       "artist": "Drive-By Truckers",
       "submitter": "Kennon S.",
       "total_pts": 5,
-      "unique_voters": 5
+      "unique_voters": 5,
+      "track_id": "1CL3L1bkgT8R3gVzD4n4sW",
+      "spotify_url": "https://open.spotify.com/track/1CL3L1bkgT8R3gVzD4n4sW"
     }
   ]
 }

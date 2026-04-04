@@ -39,9 +39,9 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 
 /* NAV - below triband */
 .nav-bar{display:flex;background:var(--bg-card);border-bottom:1px solid var(--border)}
-.nav-tab{flex:1;text-align:center;padding:12px 8px;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);cursor:pointer;border:none;background:transparent;transition:all .2s;position:relative}
+.nav-tab{flex:1;text-align:center;padding:12px 8px;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);cursor:pointer;border:none;border-bottom:3px solid transparent;background:transparent;transition:all .2s;position:relative}
 .nav-tab:hover{color:var(--text-secondary);background:var(--bg-surface)}
-.nav-tab.active{color:var(--white);background:var(--blue)}
+.nav-tab.active{color:var(--white);border-bottom-color:var(--white);background:var(--bg-surface)}
 
 /* ROUND BAR */
 .round-bar{background:var(--bg-card);padding:10px 24px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:10px}
@@ -87,21 +87,24 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .winner-card{background:var(--black);overflow:hidden;margin-bottom:10px}
 .winner-band{display:flex;height:4px}
 .winner-band div{flex:1}
-.winner-body{padding:18px 20px;display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center}
+.winner-body{padding:18px 20px;display:grid;grid-template-columns:64px 1fr auto;gap:14px;align-items:center}
+.winner-art{width:64px;height:64px;background:var(--bg-surface);border-radius:4px;overflow:hidden;flex-shrink:0}
+.winner-art img{width:100%;height:100%;object-fit:cover}
 .winner-tag{font-size:9px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--yellow);margin-bottom:4px}
-.winner-song{font-size:18px;font-weight:800;color:var(--white);line-height:1.2}
-.winner-artist{font-size:13px;color:var(--text-secondary);margin-top:2px}
+.winner-song{font-size:16px;font-weight:800;color:var(--white);line-height:1.2}
+.winner-artist{font-size:12px;color:var(--text-secondary);margin-top:2px}
 .winner-by{font-size:11px;color:var(--yellow);margin-top:2px;cursor:pointer;transition:all .15s}
 .winner-by:hover{text-decoration:underline;color:var(--white)}
-.winner-pts-box{text-align:center;background:var(--blue);padding:12px 18px;min-width:60px;animation:pulseGlow 2s ease-in-out infinite}
-.winner-pts-num{font-size:32px;font-weight:900;color:var(--white);line-height:1}
+.winner-pts-box{text-align:center;background:var(--blue);padding:12px 16px;min-width:54px;animation:pulseGlow 2s ease-in-out infinite}
+.winner-pts-num{font-size:28px;font-weight:900;color:var(--white);line-height:1}
 .winner-pts-lbl{font-size:9px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,.7);margin-top:2px}
 
 .runners{display:grid;grid-template-columns:1fr 1fr;gap:6px}
-.runner{background:var(--bg-card);padding:10px 12px;display:grid;grid-template-columns:22px 1fr auto;gap:8px;align-items:center;transition:all .15s}
+.runner{background:var(--bg-card);padding:10px 12px;display:grid;grid-template-columns:40px 1fr auto;gap:8px;align-items:center;transition:all .15s}
 .runner:hover{background:var(--bg-surface)}
+.runner-art{width:40px;height:40px;background:var(--bg-surface);border-radius:3px;overflow:hidden}
+.runner-art img{width:100%;height:100%;object-fit:cover}
 .runner-border-1{border-left:3px solid var(--blue)}.runner-border-2{border-left:3px solid var(--yellow)}.runner-border-3{border-left:3px solid var(--orange)}.runner-border-4{border-left:3px solid var(--text-dim)}
-.runner-rank{font-size:16px;font-weight:800;color:var(--text-dim)}
 .runner-song{font-size:12px;font-weight:700;color:var(--text-primary);line-height:1.2;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
 .runner-artist{font-size:10px;color:var(--text-secondary)}
 .runner-pts{font-size:15px;font-weight:800;color:var(--blue)}
@@ -227,6 +230,23 @@ function ChartCanvas({ id, height, renderChart }) {
   return <div className="chart-wrap anim-fade"><canvas ref={canvasRef} height={height} /></div>;
 }
 
+// ── SPOTIFY ART COMPONENT ──
+function SpotifyArt({ trackId, size, className }) {
+  const [src, setSrc] = useState(null);
+  useEffect(() => {
+    if (!trackId) return;
+    fetch(`https://open.spotify.com/oembed?url=https://open.spotify.com/track/${trackId}`)
+      .then(r => r.json())
+      .then(d => { if (d.thumbnail_url) setSrc(d.thumbnail_url); })
+      .catch(() => {});
+  }, [trackId]);
+  return (
+    <div className={className} style={{width:size,height:size,background:'var(--bg-surface)',borderRadius:3,overflow:'hidden',flexShrink:0}}>
+      {src && <img src={src} alt="" style={{width:'100%',height:'100%',objectFit:'cover'}} />}
+    </div>
+  );
+}
+
 // ── SECTION HEADER ──
 function SectionHeader({ color, title }) {
   return <div className="sec-header"><div className={`sec-dot dot-${color}`} /><div className="sec-title">{title}</div><div className="sec-line" /></div>;
@@ -238,6 +258,7 @@ function WinnerCard({ song, onPlayerClick }) {
     <div className="winner-card anim-fade">
       <div className="winner-band"><div style={{background:'var(--blue)'}} /><div style={{background:'var(--yellow)'}} /><div style={{background:'var(--orange)'}} /></div>
       <div className="winner-body">
+        <SpotifyArt trackId={song.track_id} size={64} className="winner-art" />
         <div>
           <div className="winner-tag">Song of the week</div>
           <div className="winner-song">{song.title}</div>
@@ -260,7 +281,7 @@ function RunnerCards({ songs }) {
     <div className="runners">
       {songs.map((s, i) => (
         <div key={i} className={`runner ${borders[i]} anim-fade-d${i+1}`}>
-          <div className="runner-rank">{i + 2}</div>
+          <SpotifyArt trackId={s.track_id} size={40} className="runner-art" />
           <div><div className="runner-song">{s.title}</div><div className="runner-artist">{s.artist} · {s.submitter}</div></div>
           <div className="runner-pts">{s.total_pts}</div>
         </div>
