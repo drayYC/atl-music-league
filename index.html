@@ -7,29 +7,23 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 <style>
-:root {
-  --blue: #0092D0;
-  --yellow: #FDBE43;
-  --orange: #FF7500;
-  --black: #000000;
-  --white: #FFFFFF;
-  --bg-body: #0A0A0A;
-  --bg-main: #111111;
-  --bg-card: #1A1A1A;
-  --bg-surface: #222222;
-  --border: #2A2A2A;
-  --border-light: #1E1E1E;
-  --text-primary: #F0F0F0;
-  --text-secondary: #999999;
-  --text-muted: #666666;
-  --text-dim: #444444;
+:root{
+  --blue:#0092D0;--yellow:#FDBE43;--orange:#FF7500;--black:#000;--white:#FFF;
+  --bg-body:#0A0A0A;--bg-main:#111;--bg-card:#1A1A1A;--bg-surface:#222;
+  --border:#2A2A2A;--border-light:#1E1E1E;
+  --text-primary:#F0F0F0;--text-secondary:#999;--text-muted:#666;--text-dim:#444;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:var(--bg-body);color:var(--text-primary);-webkit-font-smoothing:antialiased}
 .site-wrap{max-width:640px;margin:0 auto;background:var(--bg-main);min-height:100vh;border-left:1px solid var(--border);border-right:1px solid var(--border)}
-.header{background:var(--black);padding:20px 24px 0}
-.header-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:16px}
+
+/* HEADER */
+.header{background:var(--black);padding:20px 24px 16px}
+.header-top{display:flex;justify-content:space-between;align-items:flex-start}
 .logo-area{display:flex;align-items:center;gap:14px;cursor:pointer}
 .device{width:38px;height:38px;position:relative;overflow:hidden;flex-shrink:0}
 .device-band{position:absolute;width:140%;height:33.33%;left:-20%;transform:rotate(-45deg);transform-origin:center}
@@ -38,21 +32,28 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .device-band:nth-child(3){background:var(--orange);top:64%}
 .logotype{font-size:20px;font-weight:300;letter-spacing:6px;color:var(--white);text-transform:lowercase}
 .logotype-sub{font-size:9px;font-weight:500;letter-spacing:3px;color:var(--text-secondary);text-transform:uppercase;margin-top:1px}
-.nav-bar{display:flex;gap:0;margin:0 -24px}
-.nav-tab{flex:1;text-align:center;padding:10px 8px;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);cursor:pointer;border-bottom:3px solid transparent;transition:all .15s;background:none;border-top:none;border-left:none;border-right:none}
-.nav-tab:hover{color:var(--text-secondary)}
-.nav-tab.active{color:var(--white);border-bottom-color:var(--yellow)}
+
+/* TRIBAND */
 .triband{display:flex;height:5px}
 .triband div{flex:1}
+
+/* NAV - below triband */
+.nav-bar{display:flex;background:var(--bg-card);border-bottom:1px solid var(--border)}
+.nav-tab{flex:1;text-align:center;padding:12px 8px;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);cursor:pointer;border:none;background:transparent;transition:all .2s;position:relative}
+.nav-tab:hover{color:var(--text-secondary);background:var(--bg-surface)}
+.nav-tab.active{color:var(--white);background:var(--blue)}
+
+/* ROUND BAR */
 .round-bar{background:var(--bg-card);padding:10px 24px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:10px}
 .round-nav-btn{background:var(--bg-surface);border:1px solid var(--border);color:var(--text-secondary);width:28px;height:28px;display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:14px;font-weight:700;transition:all .15s;flex-shrink:0}
-.round-nav-btn:hover{background:var(--blue);color:var(--white);border-color:var(--blue)}
+.round-nav-btn:hover:not(:disabled){background:var(--blue);color:var(--white);border-color:var(--blue)}
 .round-nav-btn:disabled{opacity:.2;cursor:default}
-.round-nav-btn:disabled:hover{background:var(--bg-surface);color:var(--text-secondary);border-color:var(--border)}
 .round-pill{display:flex;align-items:center;flex-shrink:0}
 .round-num{background:var(--blue);color:var(--white);font-size:12px;font-weight:800;padding:4px 8px}
 .round-label{background:var(--yellow);color:var(--black);font-size:9px;font-weight:700;padding:5.5px 8px;letter-spacing:1.5px;text-transform:uppercase}
 .round-theme{font-size:12px;font-weight:600;color:var(--text-primary);flex:1;line-height:1.3}
+
+/* SECTIONS */
 .section{padding:20px 24px;border-bottom:1px solid var(--border)}
 .section:last-child{border-bottom:none}
 .sec-header{display:flex;align-items:center;gap:10px;margin-bottom:16px}
@@ -60,6 +61,29 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .dot-blue{background:var(--blue)}.dot-yellow{background:var(--yellow)}.dot-orange{background:var(--orange)}
 .sec-title{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--text-secondary)}
 .sec-line{flex:1;height:1px;background:var(--border)}
+
+/* ANIMATIONS */
+@keyframes fadeSlideIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+@keyframes barGrow{from{width:0}to{width:var(--bar-w)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes slideInRight{from{opacity:0;transform:translateX(20px)}to{opacity:1;transform:translateX(0)}}
+@keyframes slideInLeft{from{opacity:0;transform:translateX(-20px)}to{opacity:1;transform:translateX(0)}}
+@keyframes pulseGlow{0%,100%{box-shadow:0 0 0 0 rgba(0,146,208,0)}50%{box-shadow:0 0 12px 2px rgba(0,146,208,.15)}}
+.anim-fade{animation:fadeSlideIn .4s ease both}
+.anim-fade-d1{animation:fadeSlideIn .4s ease .05s both}
+.anim-fade-d2{animation:fadeSlideIn .4s ease .1s both}
+.anim-fade-d3{animation:fadeSlideIn .4s ease .15s both}
+.anim-fade-d4{animation:fadeSlideIn .4s ease .2s both}
+.anim-fade-d5{animation:fadeSlideIn .4s ease .25s both}
+.anim-fade-d6{animation:fadeSlideIn .4s ease .3s both}
+.anim-fade-d7{animation:fadeSlideIn .4s ease .35s both}
+.anim-fade-d8{animation:fadeSlideIn .4s ease .4s both}
+.anim-fade-d9{animation:fadeSlideIn .4s ease .45s both}
+.anim-slide-r{animation:slideInRight .35s ease both}
+.anim-slide-l{animation:slideInLeft .35s ease both}
+.bar-anim{animation:barGrow .6s ease .2s both}
+
+/* WINNER */
 .winner-card{background:var(--black);overflow:hidden;margin-bottom:10px}
 .winner-band{display:flex;height:4px}
 .winner-band div{flex:1}
@@ -67,194 +91,507 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .winner-tag{font-size:9px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--yellow);margin-bottom:4px}
 .winner-song{font-size:18px;font-weight:800;color:var(--white);line-height:1.2}
 .winner-artist{font-size:13px;color:var(--text-secondary);margin-top:2px}
-.winner-by{font-size:11px;color:var(--yellow);margin-top:2px;cursor:pointer}
-.winner-by:hover{text-decoration:underline}
-.winner-pts-box{text-align:center;background:var(--blue);padding:12px 18px;min-width:60px}
+.winner-by{font-size:11px;color:var(--yellow);margin-top:2px;cursor:pointer;transition:all .15s}
+.winner-by:hover{text-decoration:underline;color:var(--white)}
+.winner-pts-box{text-align:center;background:var(--blue);padding:12px 18px;min-width:60px;animation:pulseGlow 2s ease-in-out infinite}
 .winner-pts-num{font-size:32px;font-weight:900;color:var(--white);line-height:1}
 .winner-pts-lbl{font-size:9px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,.7);margin-top:2px}
+
 .runners{display:grid;grid-template-columns:1fr 1fr;gap:6px}
-.runner{background:var(--bg-card);padding:10px 12px;display:grid;grid-template-columns:22px 1fr auto;gap:8px;align-items:center}
+.runner{background:var(--bg-card);padding:10px 12px;display:grid;grid-template-columns:22px 1fr auto;gap:8px;align-items:center;transition:all .15s}
+.runner:hover{background:var(--bg-surface)}
 .runner-border-1{border-left:3px solid var(--blue)}.runner-border-2{border-left:3px solid var(--yellow)}.runner-border-3{border-left:3px solid var(--orange)}.runner-border-4{border-left:3px solid var(--text-dim)}
 .runner-rank{font-size:16px;font-weight:800;color:var(--text-dim)}
 .runner-song{font-size:12px;font-weight:700;color:var(--text-primary);line-height:1.2;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
 .runner-artist{font-size:10px;color:var(--text-secondary)}
 .runner-pts{font-size:15px;font-weight:800;color:var(--blue)}
+
+/* STATS */
 .stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:16px}
-.stat-box{background:var(--bg-card);padding:12px;text-align:center;border:1px solid var(--border)}
+.stat-box{background:var(--bg-card);padding:12px;text-align:center;border:1px solid var(--border);transition:border-color .2s}
+.stat-box:hover{border-color:var(--blue)}
 .stat-val{font-size:24px;font-weight:900;color:var(--text-primary);line-height:1}
 .stat-lbl{font-size:9px;font-weight:600;color:var(--text-secondary);letter-spacing:1.5px;text-transform:uppercase;margin-top:4px}
-.lb-row{display:grid;grid-template-columns:30px 1fr auto;gap:10px;align-items:center;padding:8px 10px;border-bottom:1px solid var(--border-light);cursor:pointer;transition:background .1s}
-.lb-row:hover{background:var(--bg-card)}
+
+/* LEADERBOARD */
+.lb-row{display:grid;grid-template-columns:30px 1fr auto;gap:10px;align-items:center;padding:8px 10px;border-bottom:1px solid var(--border-light);cursor:pointer;transition:all .15s}
+.lb-row:hover{background:var(--bg-card);padding-left:14px}
 .lb-row:last-child{border-bottom:none}
 .lb-row.lb-first{background:var(--black)}
-.lb-row.lb-first:hover{background:#0a0a0a}
+.lb-row.lb-first:hover{background:#0a0a0a;padding-left:14px}
 .lb-first .lb-name{color:var(--white)}.lb-first .lb-rank{color:var(--yellow)}.lb-first .lb-pts{color:var(--yellow)}.lb-first .lb-bar{background:var(--yellow)}.lb-first .lb-bar-wrap{background:var(--text-dim)}
 .lb-rank{font-size:14px;font-weight:800;color:var(--text-dim);text-align:center}
 .lb-name{font-size:13px;font-weight:600;color:var(--text-primary)}
 .lb-detail{font-size:10px;color:var(--text-muted);margin-top:1px}
-.lb-bar-wrap{height:3px;background:var(--border);margin-top:4px;border-radius:2px}
-.lb-bar{height:100%;background:var(--blue);border-radius:2px;transition:width .3s}
+.lb-bar-wrap{height:3px;background:var(--border);margin-top:4px;border-radius:2px;overflow:hidden}
+.lb-bar{height:100%;background:var(--blue);border-radius:2px}
 .lb-pts{font-size:15px;font-weight:800;color:var(--blue);text-align:right;min-width:30px}
-.shame-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid var(--border-light)}
+
+/* SHAME */
+.shame-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid var(--border-light);transition:all .15s}
 .shame-row:last-child{border-bottom:none}
+.shame-row:hover{padding-left:4px}
 .shame-name{font-size:13px;font-weight:600;color:var(--text-primary)}
 .shame-detail{font-size:10px;color:var(--text-secondary);margin-top:1px}
 .shame-pts{font-size:14px;font-weight:800;color:var(--orange);white-space:nowrap}
-.gen-row{display:grid;grid-template-columns:1fr auto auto;gap:12px;align-items:center;padding:6px 0;border-bottom:1px solid var(--border-light)}
+
+/* GENEROSITY */
+.gen-row{display:grid;grid-template-columns:1fr auto auto;gap:12px;align-items:center;padding:6px 0;border-bottom:1px solid var(--border-light);transition:all .15s}
 .gen-row:last-child{border-bottom:none}
+.gen-row:hover{padding-left:4px}
 .gen-name{font-size:13px;font-weight:500;color:var(--text-primary)}
 .gen-avg{font-size:14px;font-weight:700;color:var(--text-primary)}
-.gen-badge{font-size:9px;font-weight:700;padding:3px 8px;letter-spacing:1px;text-transform:uppercase}
+.gen-badge{font-size:9px;font-weight:700;padding:3px 8px;letter-spacing:1px;text-transform:uppercase;transition:transform .15s}
+.gen-row:hover .gen-badge{transform:scale(1.05)}
 .badge-generous{background:var(--blue);color:var(--white)}.badge-mid{background:var(--bg-surface);color:var(--text-secondary)}.badge-stingy{background:var(--orange);color:var(--white)}
+
+/* CHART */
 .chart-wrap{background:var(--bg-card);border:1px solid var(--border);padding:16px;margin-bottom:16px}
 .chart-wrap canvas{width:100%!important}
-.aff-row{display:grid;grid-template-columns:1fr auto 1fr auto;gap:8px;align-items:center;padding:6px 0;border-bottom:1px solid var(--border-light)}
+
+/* AFFINITY */
+.aff-row{display:grid;grid-template-columns:1fr auto 1fr auto;gap:8px;align-items:center;padding:6px 0;border-bottom:1px solid var(--border-light);transition:all .15s}
 .aff-row:last-child{border-bottom:none}
+.aff-row:hover{background:var(--bg-card);margin:0 -8px;padding:6px 8px;border-radius:4px}
 .aff-voter{font-size:12px;font-weight:500;color:var(--text-primary);text-align:right}
 .aff-arrow{font-size:10px;color:var(--yellow)}
 .aff-sub{font-size:12px;font-weight:500;color:var(--text-primary)}
 .aff-pts{font-size:13px;font-weight:800;color:var(--blue);text-align:right}
-.profile-back{font-size:12px;color:var(--blue);cursor:pointer;margin-bottom:16px;display:inline-block}
-.profile-back:hover{text-decoration:underline}
+
+/* PROFILE */
+.profile-back{font-size:12px;color:var(--blue);cursor:pointer;margin-bottom:16px;display:inline-block;transition:all .15s}
+.profile-back:hover{transform:translateX(-3px)}
 .profile-header{display:flex;align-items:center;gap:16px;margin-bottom:20px}
 .profile-avatar{width:52px;height:52px;background:var(--blue);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:800;color:var(--white);flex-shrink:0}
 .profile-name{font-size:20px;font-weight:800;color:var(--text-primary)}
 .profile-meta{font-size:12px;color:var(--text-secondary);margin-top:2px}
 .profile-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:20px}
-.profile-stat{background:var(--bg-card);border:1px solid var(--border);padding:12px;text-align:center}
+.profile-stat{background:var(--bg-card);border:1px solid var(--border);padding:12px;text-align:center;transition:border-color .2s}
+.profile-stat:hover{border-color:var(--blue)}
 .profile-stat-val{font-size:22px;font-weight:900;color:var(--text-primary)}
 .profile-stat-lbl{font-size:9px;color:var(--text-secondary);letter-spacing:1.5px;text-transform:uppercase;margin-top:3px}
-.profile-sub-row{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--border-light)}
+.profile-sub-row{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--border-light);transition:all .15s}
 .profile-sub-row:last-child{border-bottom:none}
+.profile-sub-row:hover{padding-left:4px}
 .profile-rd{font-size:10px;font-weight:700;color:var(--text-dim);background:var(--bg-surface);padding:2px 6px}
 .profile-sub-title{font-size:12px;font-weight:600;color:var(--text-primary)}
 .profile-sub-artist{font-size:10px;color:var(--text-secondary)}
 .profile-sub-pts{font-size:14px;font-weight:800;color:var(--blue)}
-.hof-row{display:grid;grid-template-columns:26px 1fr auto;gap:10px;align-items:center;padding:8px 4px;border-bottom:1px solid var(--border-light)}
+
+/* HOF */
+.hof-row{display:grid;grid-template-columns:26px 1fr auto;gap:10px;align-items:center;padding:8px 4px;border-bottom:1px solid var(--border-light);transition:all .15s}
 .hof-row:last-child{border-bottom:none}
+.hof-row:hover{padding-left:8px}
 .hof-rank{font-size:12px;font-weight:800;color:var(--text-dim);text-align:center}
 .hof-title{font-size:12px;font-weight:600;color:var(--text-primary)}
 .hof-meta{font-size:10px;color:var(--text-secondary)}
 .hof-pts{font-size:14px;font-weight:800;color:var(--blue);text-align:right}
 .hof-round-tag{font-size:9px;color:var(--text-dim);background:var(--bg-surface);padding:1px 5px;margin-left:4px}
+
+/* FOOTER */
 .footer{background:var(--black);padding:16px 24px}
 .footer-band{display:flex;height:4px;margin-bottom:12px}
 .footer-band div{flex:1}
 .footer-inner{display:flex;justify-content:space-between;align-items:center}
 .footer-left{font-size:9px;font-weight:500;color:var(--text-muted);letter-spacing:2px;text-transform:uppercase}
 .footer-right{font-size:9px;font-weight:300;color:var(--text-muted);letter-spacing:1px}
-.page{display:none}.page.active{display:block}
+
 @media(max-width:480px){.runners{grid-template-columns:1fr}.stats-row{grid-template-columns:repeat(2,1fr)}.site-wrap{border:none}}
 </style>
 </head>
 <body>
-<div class="site-wrap" id="app"></div>
-<script>
-let D=null,charts={},state={page:'weekly',round:0,profileId:null};
+<div id="root"></div>
+<script type="text/babel">
+const {useState,useEffect,useRef,useCallback} = React;
 
-async function init(){const r=await fetch('data.json');D=await r.json();state.round=D.rounds.length-1;render()}
-function go(page,opts){Object.assign(state,{page},opts||{});render();window.scrollTo(0,0)}
-function setRound(i){state.round=Math.max(0,Math.min(D.rounds.length-1,i));render()}
-
-function render(){
-  if(!D)return;
-  Object.values(charts).forEach(c=>c.destroy());charts={};
-  document.getElementById('app').innerHTML=
-    renderHeader()+
-    '<div class="triband"><div style="background:var(--blue)"></div><div style="background:var(--yellow)"></div><div style="background:var(--orange)"></div></div>'+
-    renderPages()+renderFooter();
-  requestAnimationFrame(initCharts);
+// ── ANIMATION HOOK ──
+function useStagger(items, baseDelay = 50) {
+  return items.map((_, i) => ({
+    className: `anim-fade-d${Math.min(i, 9)}`,
+  }));
 }
 
-function renderHeader(){
-  const tabs=[{id:'weekly',l:'This Week'},{id:'season',l:'Season'},{id:'songs',l:'Songs'},{id:'players',l:'Players'}];
-  return`<div class="header"><div class="header-top"><div class="logo-area" onclick="go('weekly')"><div class="device"><div class="device-band"></div><div class="device-band"></div><div class="device-band"></div></div><div><div class="logotype">music league</div><div class="logotype-sub">${D.league.subtitle}</div></div></div></div><div class="nav-bar">${tabs.map(t=>`<button class="nav-tab ${state.page===t.id||(state.page==='profile'&&t.id==='players')?'active':''}" onclick="go('${t.id}')">${t.l}</button>`).join('')}</div></div>`;
+// ── CHART COMPONENT ──
+function ChartCanvas({ id, height, renderChart }) {
+  const canvasRef = useRef(null);
+  const chartRef = useRef(null);
+  useEffect(() => {
+    if (!canvasRef.current) return;
+    if (chartRef.current) chartRef.current.destroy();
+    Chart.defaults.color = '#999';
+    Chart.defaults.borderColor = '#2A2A2A';
+    Chart.defaults.font.family = "'Inter',sans-serif";
+    chartRef.current = renderChart(canvasRef.current);
+    return () => { if (chartRef.current) chartRef.current.destroy(); };
+  }, [renderChart]);
+  return <div className="chart-wrap anim-fade"><canvas ref={canvasRef} height={height} /></div>;
 }
 
-function renderPages(){
-  const rd=D.rounds[state.round];
-  return`<div class="page ${state.page==='weekly'?'active':''}">${renderRoundBar(rd)}${renderWeekly(rd)}</div>`+
-    `<div class="page ${state.page==='season'?'active':''}">${renderSeason()}</div>`+
-    `<div class="page ${state.page==='songs'?'active':''}">${renderSongsPage()}</div>`+
-    `<div class="page ${state.page==='players'?'active':''}">${renderPlayersPage()}</div>`+
-    `<div class="page ${state.page==='profile'?'active':''}">${renderProfile()}</div>`;
+// ── SECTION HEADER ──
+function SectionHeader({ color, title }) {
+  return <div className="sec-header"><div className={`sec-dot dot-${color}`} /><div className="sec-title">{title}</div><div className="sec-line" /></div>;
 }
 
-function renderRoundBar(rd){
-  return`<div class="round-bar"><button class="round-nav-btn" onclick="setRound(${state.round-1})" ${state.round<=0?'disabled':''}>‹</button><div class="round-pill"><div class="round-num">${String(rd.number).padStart(2,'0')}</div><div class="round-label">Round</div></div><div class="round-theme">${rd.name}</div><button class="round-nav-btn" onclick="setRound(${state.round+1})" ${state.round>=D.rounds.length-1?'disabled':''}>›</button></div>`;
+// ── WINNER CARD ──
+function WinnerCard({ song, onPlayerClick }) {
+  return (
+    <div className="winner-card anim-fade">
+      <div className="winner-band"><div style={{background:'var(--blue)'}} /><div style={{background:'var(--yellow)'}} /><div style={{background:'var(--orange)'}} /></div>
+      <div className="winner-body">
+        <div>
+          <div className="winner-tag">Song of the week</div>
+          <div className="winner-song">{song.title}</div>
+          <div className="winner-artist">{song.artist}</div>
+          <div className="winner-by" onClick={() => onPlayerClick(song.submitter_id)}>submitted by {song.submitter}</div>
+        </div>
+        <div className="winner-pts-box">
+          <div className="winner-pts-num">{song.total_pts}</div>
+          <div className="winner-pts-lbl">Points</div>
+        </div>
+      </div>
+    </div>
+  );
 }
 
-function renderWeekly(rd){
-  const s=rd.songs,w=s[0],ru=s.slice(1,5),b=['runner-border-1','runner-border-2','runner-border-3','runner-border-4'];
-  const lb=rd.leaderboard.filter(e=>e.points>0),mx=lb.length?lb[0].points:1;
-  return`<div class="section"><div class="sec-header"><div class="sec-dot dot-yellow"></div><div class="sec-title">Song of the week</div><div class="sec-line"></div></div><div class="winner-card"><div class="winner-band"><div style="background:var(--blue)"></div><div style="background:var(--yellow)"></div><div style="background:var(--orange)"></div></div><div class="winner-body"><div><div class="winner-tag">Song of the week</div><div class="winner-song">${w.title}</div><div class="winner-artist">${w.artist}</div><div class="winner-by" onclick="go('profile',{profileId:'${w.submitter_id}'})">submitted by ${w.submitter}</div></div><div class="winner-pts-box"><div class="winner-pts-num">${w.total_pts}</div><div class="winner-pts-lbl">Points</div></div></div></div><div class="runners">${ru.map((s,i)=>`<div class="runner ${b[i]}"><div class="runner-rank">${i+2}</div><div><div class="runner-song">${s.title}</div><div class="runner-artist">${s.artist} · ${s.submitter}</div></div><div class="runner-pts">${s.total_pts}</div></div>`).join('')}</div></div>`+
-  `<div class="section"><div class="sec-header"><div class="sec-dot dot-blue"></div><div class="sec-title">Leaderboard</div><div class="sec-line"></div></div><div class="stats-row"><div class="stat-box"><div class="stat-val">${rd.stats.total_submissions}</div><div class="stat-lbl">Songs</div></div><div class="stat-box"><div class="stat-val">${rd.stats.total_votes}</div><div class="stat-lbl">Votes</div></div><div class="stat-box"><div class="stat-val">${rd.stats.unique_voters}</div><div class="stat-lbl">Voters</div></div><div class="stat-box"><div class="stat-val">${rd.stats.unique_submitters}</div><div class="stat-lbl">Submitted</div></div></div>${lb.map((e,i)=>`<div class="lb-row ${i===0?'lb-first':''}" onclick="go('profile',{profileId:'${e.player_id}'})"><div class="lb-rank">${e.rank}</div><div><div class="lb-name">${e.player}</div><div class="lb-bar-wrap"><div class="lb-bar" style="width:${Math.round(e.points/mx*100)}%"></div></div></div><div class="lb-pts">${e.points}</div></div>`).join('')}</div>`+
-  (rd.missed_points.length?`<div class="section"><div class="sec-header"><div class="sec-dot dot-orange"></div><div class="sec-title">Missed points · didn't vote</div><div class="sec-line"></div></div>${rd.missed_points.map(m=>`<div class="shame-row"><div><div class="shame-name">${m.player}</div><div class="shame-detail">${m.songs} song${m.songs>1?'s':''} left undefended</div></div><div class="shame-pts">−${m.total_missed} pts</div></div>`).join('')}</div>`:'')+
-  `<div class="section"><div class="sec-header"><div class="sec-dot dot-blue"></div><div class="sec-title">Generosity meter</div><div class="sec-line"></div></div>${rd.generosity.map(g=>{let c='badge-mid',l='Average';if(g.avg_per_vote>=2){c='badge-generous';l='Generous'}else if(g.avg_per_vote<.8){c='badge-stingy';l='Stingy'}return`<div class="gen-row"><div class="gen-name">${g.player}</div><div class="gen-avg">${g.avg_per_vote.toFixed(2)}</div><div class="gen-badge ${c}">${l}</div></div>`}).join('')}</div>`;
+// ── RUNNER CARDS ──
+function RunnerCards({ songs }) {
+  const borders = ['runner-border-1','runner-border-2','runner-border-3','runner-border-4'];
+  return (
+    <div className="runners">
+      {songs.map((s, i) => (
+        <div key={i} className={`runner ${borders[i]} anim-fade-d${i+1}`}>
+          <div className="runner-rank">{i + 2}</div>
+          <div><div className="runner-song">{s.title}</div><div className="runner-artist">{s.artist} · {s.submitter}</div></div>
+          <div className="runner-pts">{s.total_pts}</div>
+        </div>
+      ))}
+    </div>
+  );
 }
 
-function renderSeason(){
-  const lb=D.season_leaderboard,mx=lb.length?lb[0].points:1;
-  return`<div class="section"><div class="sec-header"><div class="sec-dot dot-blue"></div><div class="sec-title">Season standings</div><div class="sec-line"></div></div><div class="chart-wrap"><canvas id="chart-season-trend" height="220"></canvas></div>${lb.map((e,i)=>`<div class="lb-row ${i===0?'lb-first':''}" onclick="go('profile',{profileId:'${e.player_id}'})"><div class="lb-rank">${e.rank}</div><div><div class="lb-name">${e.player}</div><div class="lb-detail">${e.rounds_played} rd${e.rounds_played>1?'s':''} · ${e.avg_per_round} avg${e.wins?' · '+e.wins+' win'+(e.wins>1?'s':''):''}</div><div class="lb-bar-wrap"><div class="lb-bar" style="width:${Math.round(e.points/mx*100)}%"></div></div></div><div class="lb-pts">${e.points}</div></div>`).join('')}</div>`+
-  `<div class="section"><div class="sec-header"><div class="sec-dot dot-yellow"></div><div class="sec-title">Voting affinities · who votes for whom</div><div class="sec-line"></div></div>${D.voting_affinities.slice(0,12).map(a=>`<div class="aff-row"><div class="aff-voter">${a.voter}</div><div class="aff-arrow">→</div><div class="aff-sub">${a.submitter}</div><div class="aff-pts">${a.total_pts} pts</div></div>`).join('')}</div>`;
+// ── LEADERBOARD ROW ──
+function LBRow({ entry, index, maxPts, onPlayerClick, showDetail }) {
+  const isFirst = index === 0;
+  const barW = Math.round(entry.points / maxPts * 100);
+  return (
+    <div className={`lb-row ${isFirst ? 'lb-first' : ''} anim-fade-d${Math.min(index, 9)}`}
+         onClick={() => onPlayerClick(entry.player_id)}>
+      <div className="lb-rank">{entry.rank}</div>
+      <div>
+        <div className="lb-name">{entry.player}</div>
+        {showDetail && <div className="lb-detail">{entry.rounds_played} rd{entry.rounds_played > 1 ? 's' : ''} · {entry.avg_per_round} avg{entry.wins ? ` · ${entry.wins} win${entry.wins > 1 ? 's' : ''}` : ''}</div>}
+        <div className="lb-bar-wrap"><div className="lb-bar bar-anim" style={{'--bar-w': barW + '%', width: barW + '%'}} /></div>
+      </div>
+      <div className="lb-pts">{entry.points}</div>
+    </div>
+  );
 }
 
-function renderSongsPage(){
-  return`<div class="section"><div class="sec-header"><div class="sec-dot dot-yellow"></div><div class="sec-title">Hall of fame · top songs all-time</div><div class="sec-line"></div></div><div class="chart-wrap"><canvas id="chart-song-dist" height="220"></canvas></div>${D.hall_of_fame.slice(0,20).map((s,i)=>`<div class="hof-row"><div class="hof-rank">${i+1}</div><div><div class="hof-title">${s.title}<span class="hof-round-tag">R${s.round}</span></div><div class="hof-meta">${s.artist} · ${s.submitter} · ${s.unique_voters} voters</div></div><div class="hof-pts">${s.total_pts}</div></div>`).join('')}</div>`;
+// ── STAT BOXES ──
+function StatBoxes({ stats }) {
+  const items = [
+    { val: stats.total_submissions, label: 'Songs' },
+    { val: stats.total_votes, label: 'Votes' },
+    { val: stats.unique_voters, label: 'Voters' },
+    { val: stats.unique_submitters, label: 'Submitted' },
+  ];
+  return (
+    <div className="stats-row">
+      {items.map((s, i) => <div key={i} className={`stat-box anim-fade-d${i}`}><div className="stat-val">{s.val}</div><div className="stat-lbl">{s.label}</div></div>)}
+    </div>
+  );
 }
 
-function renderPlayersPage(){
-  const sorted=D.season_leaderboard.slice().sort((a,b)=>a.player.localeCompare(b.player));
-  return`<div class="section"><div class="sec-header"><div class="sec-dot dot-blue"></div><div class="sec-title">Player directory</div><div class="sec-line"></div></div>${sorted.map(e=>{const p=D.player_profiles[e.player_id];const ts=p?p.submissions.length:0;return`<div class="lb-row" onclick="go('profile',{profileId:'${e.player_id}'})"><div class="profile-avatar" style="width:32px;height:32px;font-size:12px">${e.player.charAt(0)}</div><div><div class="lb-name">${e.player}</div><div class="lb-detail">${e.points} pts · ${e.rounds_played} rds · ${ts} songs</div></div><div class="lb-pts" style="font-size:12px;color:var(--text-muted)">→</div></div>`}).join('')}</div>`;
+// ── WEEKLY PAGE ──
+function WeeklyPage({ round, onPlayerClick }) {
+  const songs = round.songs;
+  const lb = round.leaderboard.filter(e => e.points > 0);
+  const maxPts = lb.length ? lb[0].points : 1;
+
+  return (
+    <>
+      <div className="section">
+        <SectionHeader color="yellow" title="Song of the week" />
+        <WinnerCard song={songs[0]} onPlayerClick={onPlayerClick} />
+        <RunnerCards songs={songs.slice(1, 5)} />
+      </div>
+      <div className="section">
+        <SectionHeader color="blue" title="Leaderboard" />
+        <StatBoxes stats={round.stats} />
+        {lb.map((e, i) => <LBRow key={e.player_id} entry={e} index={i} maxPts={maxPts} onPlayerClick={onPlayerClick} />)}
+      </div>
+      {round.missed_points.length > 0 && (
+        <div className="section">
+          <SectionHeader color="orange" title="Missed points · didn't vote" />
+          {round.missed_points.map((m, i) => (
+            <div key={i} className={`shame-row anim-fade-d${Math.min(i, 9)}`}>
+              <div><div className="shame-name">{m.player}</div><div className="shame-detail">{m.songs} song{m.songs > 1 ? 's' : ''} left undefended</div></div>
+              <div className="shame-pts">−{m.total_missed} pts</div>
+            </div>
+          ))}
+        </div>
+      )}
+      <div className="section">
+        <SectionHeader color="blue" title="Generosity meter" />
+        {round.generosity.map((g, i) => {
+          let cls = 'badge-mid', label = 'Average';
+          if (g.avg_per_vote >= 2) { cls = 'badge-generous'; label = 'Generous'; }
+          else if (g.avg_per_vote < 0.8) { cls = 'badge-stingy'; label = 'Stingy'; }
+          return (
+            <div key={i} className={`gen-row anim-fade-d${Math.min(i, 9)}`}>
+              <div className="gen-name">{g.player}</div>
+              <div className="gen-avg">{g.avg_per_vote.toFixed(2)}</div>
+              <div className={`gen-badge ${cls}`}>{label}</div>
+            </div>
+          );
+        })}
+      </div>
+    </>
+  );
 }
 
-function renderProfile(){
-  const pid=state.profileId;
-  if(!pid||!D.player_profiles[pid])return'<div class="section"><p>Player not found</p></div>';
-  const p=D.player_profiles[pid],se=D.season_leaderboard.find(e=>e.player_id===pid);
-  const tvg=p.voting_history.reduce((s,v)=>s+v.points_given,0);
-  const best=p.submissions.length?p.submissions.reduce((b,s)=>s.total_pts>b.total_pts?s:b):null;
-  const vt={};p.voting_history.forEach(v=>{vt[v.voted_for]=(vt[v.voted_for]||0)+v.points_given});
-  const tt=Object.entries(vt).sort((a,b)=>b[1]-a[1]).slice(0,5);
-  const fans={};D.voting_affinities.forEach(a=>{if(a.submitter===p.name)fans[a.voter]=(fans[a.voter]||0)+a.total_pts});
-  const tf=Object.entries(fans).sort((a,b)=>b[1]-a[1]).slice(0,5);
+// ── SEASON PAGE ──
+function SeasonPage({ data, onPlayerClick }) {
+  const lb = data.season_leaderboard;
+  const maxPts = lb.length ? lb[0].points : 1;
 
-  return`<div class="section"><div class="profile-back" onclick="go('players')">← All players</div><div class="profile-header"><div class="profile-avatar">${p.name.charAt(0)}</div><div><div class="profile-name">${p.name}</div><div class="profile-meta">${se?'Rank #'+se.rank+' · '+se.rounds_played+' rounds':'No rounds played'}</div></div></div><div class="profile-stats"><div class="profile-stat"><div class="profile-stat-val">${se?se.points:0}</div><div class="profile-stat-lbl">Total pts</div></div><div class="profile-stat"><div class="profile-stat-val">${p.submissions.length}</div><div class="profile-stat-lbl">Songs</div></div><div class="profile-stat"><div class="profile-stat-val">${tvg}</div><div class="profile-stat-lbl">Pts given</div></div></div>${se&&se.weekly.length>1?'<div class="chart-wrap"><canvas id="chart-player-trend" height="160"></canvas></div>':''}</div>`+
-  (best?`<div class="section"><div class="sec-header"><div class="sec-dot dot-yellow"></div><div class="sec-title">Best song</div><div class="sec-line"></div></div><div style="display:flex;justify-content:space-between;align-items:center"><div><div style="font-size:14px;font-weight:700;color:var(--text-primary)">${best.title}</div><div style="font-size:12px;color:var(--text-secondary)">${best.artist} · R${best.round}</div></div><div style="font-size:20px;font-weight:900;color:var(--blue)">${best.total_pts}</div></div></div>`:'')+
-  `<div class="section"><div class="sec-header"><div class="sec-dot dot-blue"></div><div class="sec-title">All submissions</div><div class="sec-line"></div></div>${p.submissions.length?p.submissions.map(s=>`<div class="profile-sub-row"><div class="profile-rd">R${s.round}</div><div><div class="profile-sub-title">${s.title}</div><div class="profile-sub-artist">${s.artist} · ${s.unique_voters} voters</div></div><div class="profile-sub-pts">${s.total_pts}</div></div>`).join(''):'<div style="font-size:12px;color:var(--text-muted);padding:8px 0">No submissions yet</div>'}</div>`+
-  (tt.length?`<div class="section"><div class="sec-header"><div class="sec-dot dot-yellow"></div><div class="sec-title">Gives most points to</div><div class="sec-line"></div></div>${tt.map(([n,p])=>`<div class="gen-row"><div class="gen-name">${n}</div><div class="gen-avg">${p} pts</div><div></div></div>`).join('')}</div>`:'')+
-  (tf.length?`<div class="section"><div class="sec-header"><div class="sec-dot dot-orange"></div><div class="sec-title">Biggest fans</div><div class="sec-line"></div></div>${tf.map(([n,p])=>`<div class="gen-row"><div class="gen-name">${n}</div><div class="gen-avg">${p} pts</div><div></div></div>`).join('')}</div>`:'');
+  const renderTrend = useCallback((canvas) => {
+    const top8 = lb.slice(0, 8);
+    const labels = data.rounds.map(r => 'R' + r.number);
+    const colors = ['#FDBE43','#0092D0','#FF7500','#4ade80','#f472b6','#a78bfa','#fb923c','#67e8f9'];
+    const datasets = top8.map((p, i) => {
+      let cum = 0;
+      const d = data.rounds.map(r => { const e = r.leaderboard.find(e => e.player_id === p.player_id); cum += e ? e.points : 0; return cum; });
+      return { label: p.player, data: d, borderColor: colors[i], backgroundColor: 'transparent', tension: .3, pointRadius: 4, pointBackgroundColor: colors[i], borderWidth: 2 };
+    });
+    return new Chart(canvas, { type: 'line', data: { labels, datasets }, options: { responsive: true, animation: { duration: 800, easing: 'easeOutQuart' }, plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, padding: 8, font: { size: 10 } } } }, scales: { y: { beginAtZero: true, grid: { color: '#1E1E1E' } }, x: { grid: { color: '#1E1E1E' } } } } });
+  }, [data]);
+
+  return (
+    <>
+      <div className="section">
+        <SectionHeader color="blue" title="Season standings" />
+        <ChartCanvas id="season-trend" height={220} renderChart={renderTrend} />
+        {lb.map((e, i) => <LBRow key={e.player_id} entry={e} index={i} maxPts={maxPts} onPlayerClick={onPlayerClick} showDetail />)}
+      </div>
+      <div className="section">
+        <SectionHeader color="yellow" title="Voting affinities · who votes for whom" />
+        {data.voting_affinities.slice(0, 12).map((a, i) => (
+          <div key={i} className={`aff-row anim-fade-d${Math.min(i, 9)}`}>
+            <div className="aff-voter">{a.voter}</div>
+            <div className="aff-arrow">→</div>
+            <div className="aff-sub">{a.submitter}</div>
+            <div className="aff-pts">{a.total_pts} pts</div>
+          </div>
+        ))}
+      </div>
+    </>
+  );
 }
 
-function renderFooter(){
-  return`<div class="footer"><div class="footer-band"><div style="background:var(--blue)"></div><div style="background:var(--yellow)"></div><div style="background:var(--orange)"></div></div><div class="footer-inner"><div class="footer-left">Music League Transit Authority</div><div class="footer-right">Season One · 2026</div></div></div>`;
+// ── SONGS PAGE ──
+function SongsPage({ data }) {
+  const renderSongChart = useCallback((canvas) => {
+    const ts = data.hall_of_fame.slice(0, 10);
+    return new Chart(canvas, { type: 'bar', data: { labels: ts.map(s => s.title.length > 20 ? s.title.slice(0, 20) + '…' : s.title), datasets: [{ data: ts.map(s => s.total_pts), backgroundColor: ts.map((_, i) => i === 0 ? '#FDBE43' : i < 3 ? '#0092D0' : '#2A2A2A'), borderWidth: 0 }] }, options: { responsive: true, animation: { duration: 800, easing: 'easeOutQuart' }, plugins: { legend: { display: false } }, indexAxis: 'y', scales: { x: { beginAtZero: true, grid: { color: '#1E1E1E' } }, y: { grid: { display: false }, ticks: { font: { size: 10 } } } } } });
+  }, [data]);
+
+  return (
+    <div className="section">
+      <SectionHeader color="yellow" title="Hall of fame · top songs all-time" />
+      <ChartCanvas id="song-dist" height={220} renderChart={renderSongChart} />
+      {data.hall_of_fame.slice(0, 20).map((s, i) => (
+        <div key={i} className={`hof-row anim-fade-d${Math.min(i, 9)}`}>
+          <div className="hof-rank">{i + 1}</div>
+          <div><div className="hof-title">{s.title}<span className="hof-round-tag">R{s.round}</span></div><div className="hof-meta">{s.artist} · {s.submitter} · {s.unique_voters} voters</div></div>
+          <div className="hof-pts">{s.total_pts}</div>
+        </div>
+      ))}
+    </div>
+  );
 }
 
-function initCharts(){
-  Chart.defaults.color='#999';Chart.defaults.borderColor='#2A2A2A';Chart.defaults.font.family="'Inter',sans-serif";
-  const stC=document.getElementById('chart-season-trend');
-  if(stC){
-    const top8=D.season_leaderboard.slice(0,8),labels=D.rounds.map(r=>'R'+r.number);
-    const colors=['#FDBE43','#0092D0','#FF7500','#4ade80','#f472b6','#a78bfa','#fb923c','#67e8f9'];
-    const ds=top8.map((p,i)=>{let cum=0;const data=D.rounds.map(r=>{const e=r.leaderboard.find(e=>e.player_id===p.player_id);cum+=e?e.points:0;return cum});return{label:p.player,data,borderColor:colors[i%colors.length],backgroundColor:'transparent',tension:.3,pointRadius:4,pointBackgroundColor:colors[i%colors.length],borderWidth:2}});
-    charts['st']=new Chart(stC,{type:'line',data:{labels,datasets:ds},options:{responsive:true,plugins:{legend:{display:true,position:'bottom',labels:{boxWidth:12,padding:8,font:{size:10}}}},scales:{y:{beginAtZero:true,grid:{color:'#1E1E1E'}},x:{grid:{color:'#1E1E1E'}}}}});
-  }
-  const sdC=document.getElementById('chart-song-dist');
-  if(sdC){
-    const ts=D.hall_of_fame.slice(0,10);
-    charts['sd']=new Chart(sdC,{type:'bar',data:{labels:ts.map(s=>s.title.length>20?s.title.slice(0,20)+'…':s.title),datasets:[{data:ts.map(s=>s.total_pts),backgroundColor:ts.map((_,i)=>i===0?'#FDBE43':i<3?'#0092D0':'#2A2A2A'),borderWidth:0}]},options:{responsive:true,plugins:{legend:{display:false}},indexAxis:'y',scales:{x:{beginAtZero:true,grid:{color:'#1E1E1E'}},y:{grid:{display:false},ticks:{font:{size:10}}}}}});
-  }
-  const ptC=document.getElementById('chart-player-trend');
-  if(ptC&&state.profileId){
-    const se=D.season_leaderboard.find(e=>e.player_id===state.profileId);
-    if(se&&se.weekly){
-      let cum=0;const cumD=se.weekly.map(w=>{cum+=w.points;return cum});
-      charts['pt']=new Chart(ptC,{type:'line',data:{labels:se.weekly.map(w=>'R'+w.round),datasets:[{label:'Weekly pts',data:se.weekly.map(w=>w.points),borderColor:'#FF7500',backgroundColor:'rgba(255,117,0,.1)',fill:true,tension:.3,pointRadius:5,borderWidth:2},{label:'Cumulative',data:cumD,borderColor:'#0092D0',backgroundColor:'transparent',tension:.3,pointRadius:5,borderWidth:2,borderDash:[5,5]}]},options:{responsive:true,plugins:{legend:{display:true,position:'bottom',labels:{boxWidth:12,padding:8,font:{size:10}}}},scales:{y:{beginAtZero:true,grid:{color:'#1E1E1E'}},x:{grid:{color:'#1E1E1E'}}}}});
-    }
-  }
+// ── PLAYERS PAGE ──
+function PlayersPage({ data, onPlayerClick }) {
+  const sorted = [...data.season_leaderboard].sort((a, b) => a.player.localeCompare(b.player));
+  return (
+    <div className="section">
+      <SectionHeader color="blue" title="Player directory" />
+      {sorted.map((e, i) => {
+        const p = data.player_profiles[e.player_id];
+        const ts = p ? p.submissions.length : 0;
+        return (
+          <div key={e.player_id} className={`lb-row anim-fade-d${Math.min(i, 9)}`} onClick={() => onPlayerClick(e.player_id)}>
+            <div className="profile-avatar" style={{width:32,height:32,fontSize:12}}>{e.player.charAt(0)}</div>
+            <div><div className="lb-name">{e.player}</div><div className="lb-detail">{e.points} pts · {e.rounds_played} rds · {ts} songs</div></div>
+            <div className="lb-pts" style={{fontSize:12,color:'var(--text-muted)'}}>→</div>
+          </div>
+        );
+      })}
+    </div>
+  );
 }
 
-init();
+// ── PROFILE PAGE ──
+function ProfilePage({ data, playerId, onBack, onPlayerClick }) {
+  const p = data.player_profiles[playerId];
+  if (!p) return <div className="section"><p>Player not found</p></div>;
+  const se = data.season_leaderboard.find(e => e.player_id === playerId);
+  const tvg = p.voting_history.reduce((s, v) => s + v.points_given, 0);
+  const best = p.submissions.length ? p.submissions.reduce((b, s) => s.total_pts > b.total_pts ? s : b) : null;
+
+  const vt = {};
+  p.voting_history.forEach(v => { vt[v.voted_for] = (vt[v.voted_for] || 0) + v.points_given; });
+  const topTargets = Object.entries(vt).sort((a, b) => b[1] - a[1]).slice(0, 5);
+
+  const fans = {};
+  data.voting_affinities.forEach(a => { if (a.submitter === p.name) fans[a.voter] = (fans[a.voter] || 0) + a.total_pts; });
+  const topFans = Object.entries(fans).sort((a, b) => b[1] - a[1]).slice(0, 5);
+
+  const renderPlayerChart = useCallback((canvas) => {
+    if (!se || !se.weekly || se.weekly.length < 2) return null;
+    let cum = 0;
+    const cumD = se.weekly.map(w => { cum += w.points; return cum; });
+    return new Chart(canvas, { type: 'line', data: { labels: se.weekly.map(w => 'R' + w.round), datasets: [{ label: 'Weekly pts', data: se.weekly.map(w => w.points), borderColor: '#FF7500', backgroundColor: 'rgba(255,117,0,.1)', fill: true, tension: .3, pointRadius: 5, borderWidth: 2 }, { label: 'Cumulative', data: cumD, borderColor: '#0092D0', backgroundColor: 'transparent', tension: .3, pointRadius: 5, borderWidth: 2, borderDash: [5, 5] }] }, options: { responsive: true, animation: { duration: 800 }, plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, padding: 8, font: { size: 10 } } } }, scales: { y: { beginAtZero: true, grid: { color: '#1E1E1E' } }, x: { grid: { color: '#1E1E1E' } } } } });
+  }, [playerId, se]);
+
+  return (
+    <>
+      <div className="section anim-fade">
+        <div className="profile-back" onClick={onBack}>← All players</div>
+        <div className="profile-header">
+          <div className="profile-avatar">{p.name.charAt(0)}</div>
+          <div><div className="profile-name">{p.name}</div><div className="profile-meta">{se ? `Rank #${se.rank} · ${se.rounds_played} rounds` : 'No rounds played'}</div></div>
+        </div>
+        <div className="profile-stats">
+          <div className="profile-stat anim-fade-d1"><div className="profile-stat-val">{se ? se.points : 0}</div><div className="profile-stat-lbl">Total pts</div></div>
+          <div className="profile-stat anim-fade-d2"><div className="profile-stat-val">{p.submissions.length}</div><div className="profile-stat-lbl">Songs</div></div>
+          <div className="profile-stat anim-fade-d3"><div className="profile-stat-val">{tvg}</div><div className="profile-stat-lbl">Pts given</div></div>
+        </div>
+        {se && se.weekly && se.weekly.length > 1 && <ChartCanvas id="player-trend" height={160} renderChart={renderPlayerChart} />}
+      </div>
+      {best && (
+        <div className="section anim-fade-d2">
+          <SectionHeader color="yellow" title="Best song" />
+          <div style={{display:'flex',justifyContent:'space-between',alignItems:'center'}}>
+            <div><div style={{fontSize:14,fontWeight:700,color:'var(--text-primary)'}}>{best.title}</div><div style={{fontSize:12,color:'var(--text-secondary)'}}>{best.artist} · R{best.round}</div></div>
+            <div style={{fontSize:20,fontWeight:900,color:'var(--blue)'}}>{best.total_pts}</div>
+          </div>
+        </div>
+      )}
+      <div className="section anim-fade-d3">
+        <SectionHeader color="blue" title="All submissions" />
+        {p.submissions.length ? p.submissions.map((s, i) => (
+          <div key={i} className={`profile-sub-row anim-fade-d${Math.min(i, 9)}`}>
+            <div className="profile-rd">R{s.round}</div>
+            <div><div className="profile-sub-title">{s.title}</div><div className="profile-sub-artist">{s.artist} · {s.unique_voters} voters</div></div>
+            <div className="profile-sub-pts">{s.total_pts}</div>
+          </div>
+        )) : <div style={{fontSize:12,color:'var(--text-muted)',padding:'8px 0'}}>No submissions yet</div>}
+      </div>
+      {topTargets.length > 0 && (
+        <div className="section anim-fade-d4">
+          <SectionHeader color="yellow" title="Gives most points to" />
+          {topTargets.map(([name, pts], i) => <div key={i} className={`gen-row anim-fade-d${Math.min(i, 9)}`}><div className="gen-name">{name}</div><div className="gen-avg">{pts} pts</div><div /></div>)}
+        </div>
+      )}
+      {topFans.length > 0 && (
+        <div className="section anim-fade-d5">
+          <SectionHeader color="orange" title="Biggest fans" />
+          {topFans.map(([name, pts], i) => <div key={i} className={`gen-row anim-fade-d${Math.min(i, 9)}`}><div className="gen-name">{name}</div><div className="gen-avg">{pts} pts</div><div /></div>)}
+        </div>
+      )}
+    </>
+  );
+}
+
+// ── MAIN APP ──
+function App() {
+  const [data, setData] = useState(null);
+  const [page, setPage] = useState('weekly');
+  const [roundIdx, setRoundIdx] = useState(0);
+  const [profileId, setProfileId] = useState(null);
+  const [pageKey, setPageKey] = useState(0); // forces re-render for animations
+
+  useEffect(() => {
+    fetch('data.json').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
+  }, []);
+
+  const navigate = (p, opts) => {
+    setPage(p);
+    if (opts?.profileId) setProfileId(opts.profileId);
+    setPageKey(k => k + 1);
+    window.scrollTo(0, 0);
+  };
+
+  const changeRound = (i) => {
+    if (!data) return;
+    const next = Math.max(0, Math.min(data.rounds.length - 1, i));
+    setRoundIdx(next);
+    setPageKey(k => k + 1);
+  };
+
+  if (!data) return <div className="site-wrap" style={{display:'flex',alignItems:'center',justifyContent:'center',minHeight:'100vh'}}><div style={{color:'var(--text-muted)',fontSize:12,letterSpacing:2,textTransform:'uppercase'}}>Loading...</div></div>;
+
+  const round = data.rounds[roundIdx];
+  const tabs = [{id:'weekly',l:'This Week'},{id:'season',l:'Season'},{id:'songs',l:'Songs'},{id:'players',l:'Players'}];
+  const activePage = page === 'profile' ? 'players' : page;
+
+  return (
+    <div className="site-wrap">
+      {/* HEADER */}
+      <div className="header">
+        <div className="header-top">
+          <div className="logo-area" onClick={() => navigate('weekly')}>
+            <div className="device"><div className="device-band" /><div className="device-band" /><div className="device-band" /></div>
+            <div><div className="logotype">music league</div><div className="logotype-sub">{data.league.subtitle}</div></div>
+          </div>
+        </div>
+      </div>
+
+      {/* TRIBAND */}
+      <div className="triband">
+        <div style={{background:'var(--blue)'}} />
+        <div style={{background:'var(--yellow)'}} />
+        <div style={{background:'var(--orange)'}} />
+      </div>
+
+      {/* NAV */}
+      <div className="nav-bar">
+        {tabs.map(t => (
+          <button key={t.id} className={`nav-tab ${activePage === t.id ? 'active' : ''}`} onClick={() => navigate(t.id)}>{t.l}</button>
+        ))}
+      </div>
+
+      {/* PAGES */}
+      <div key={pageKey}>
+        {page === 'weekly' && (
+          <>
+            <div className="round-bar">
+              <button className="round-nav-btn" onClick={() => changeRound(roundIdx - 1)} disabled={roundIdx <= 0}>‹</button>
+              <div className="round-pill"><div className="round-num">{String(round.number).padStart(2, '0')}</div><div className="round-label">Round</div></div>
+              <div className="round-theme">{round.name}</div>
+              <button className="round-nav-btn" onClick={() => changeRound(roundIdx + 1)} disabled={roundIdx >= data.rounds.length - 1}>›</button>
+            </div>
+            <WeeklyPage round={round} onPlayerClick={(id) => navigate('profile', { profileId: id })} />
+          </>
+        )}
+        {page === 'season' && <SeasonPage data={data} onPlayerClick={(id) => navigate('profile', { profileId: id })} />}
+        {page === 'songs' && <SongsPage data={data} />}
+        {page === 'players' && <PlayersPage data={data} onPlayerClick={(id) => navigate('profile', { profileId: id })} />}
+        {page === 'profile' && <ProfilePage data={data} playerId={profileId} onBack={() => navigate('players')} onPlayerClick={(id) => navigate('profile', { profileId: id })} />}
+      </div>
+
+      {/* FOOTER */}
+      <div className="footer">
+        <div className="footer-band"><div style={{background:'var(--blue)'}} /><div style={{background:'var(--yellow)'}} /><div style={{background:'var(--orange)'}} /></div>
+        <div className="footer-inner"><div className="footer-left">Music League Transit Authority</div><div className="footer-right">Season One · 2026</div></div>
+      </div>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 </script>
 </body>
 </html>
