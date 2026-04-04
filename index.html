@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Music League · Atlanta</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
@@ -30,8 +30,10 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .device-band:nth-child(1){background:var(--blue);top:-2%}
 .device-band:nth-child(2){background:var(--yellow);top:31%}
 .device-band:nth-child(3){background:var(--orange);top:64%}
-.logotype{font-size:20px;font-weight:300;letter-spacing:6px;color:var(--white);text-transform:lowercase}
-.logotype-sub{font-size:9px;font-weight:500;letter-spacing:3px;color:var(--text-secondary);text-transform:uppercase;margin-top:1px}
+.logotype{display:flex;align-items:baseline;gap:7px}
+.logotype-atl{font-family:'Libre Caslon Display',Georgia,serif;font-size:22px;font-weight:400;font-style:italic;color:var(--white);text-transform:lowercase}
+.logotype-ml{font-size:16px;font-weight:300;letter-spacing:5px;color:var(--text-secondary);text-transform:lowercase}
+.logotype-sub{font-size:9px;font-weight:500;letter-spacing:3px;color:var(--text-muted);text-transform:uppercase;margin-top:2px}
 
 /* TRIBAND */
 .triband{display:flex;height:5px}
@@ -173,22 +175,26 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 .profile-stat:hover{border-color:var(--blue)}
 .profile-stat-val{font-size:22px;font-weight:900;color:var(--text-primary)}
 .profile-stat-lbl{font-size:9px;color:var(--text-secondary);letter-spacing:1.5px;text-transform:uppercase;margin-top:3px}
-.profile-sub-row{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--border-light);transition:all .15s}
+.profile-sub-row{display:grid;grid-template-columns:auto 32px 1fr auto;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--border-light);transition:all .15s}
 .profile-sub-row:last-child{border-bottom:none}
 .profile-sub-row:hover{padding-left:4px}
 .profile-rd{font-size:10px;font-weight:700;color:var(--text-dim);background:var(--bg-surface);padding:2px 6px}
+.profile-sub-art{width:32px;height:32px;background:var(--bg-surface);border-radius:3px;overflow:hidden}
+.profile-sub-art img{width:100%;height:100%;object-fit:cover}
 .profile-sub-title{font-size:12px;font-weight:600;color:var(--text-primary)}
 .profile-sub-artist{font-size:10px;color:var(--text-secondary)}
 .profile-sub-pts{font-size:14px;font-weight:800;color:var(--blue)}
 
 /* HOF */
-.hof-row{display:grid;grid-template-columns:26px 1fr auto;gap:10px;align-items:center;padding:8px 4px;border-bottom:1px solid var(--border-light);transition:all .15s}
+.hof-row{display:grid;grid-template-columns:26px 36px 1fr auto;gap:10px;align-items:center;padding:8px 4px;border-bottom:1px solid var(--border-light);transition:all .15s}
 .hof-row:last-child{border-bottom:none}
 .hof-row:hover{padding-left:8px}
+.hof-art{width:36px;height:36px;background:var(--bg-surface);border-radius:3px;overflow:hidden}
+.hof-art img{width:100%;height:100%;object-fit:cover}
 .hof-rank{font-size:12px;font-weight:800;color:var(--text-dim);text-align:center}
-.hof-title{font-size:12px;font-weight:600;color:var(--text-primary)}
-.hof-meta{font-size:10px;color:var(--text-secondary)}
-.hof-pts{font-size:14px;font-weight:800;color:var(--blue);text-align:right}
+.hof-title{font-size:12px;font-weight:600;color:var(--text-primary);line-height:1.3}
+.hof-meta{font-size:10px;color:var(--text-secondary);margin-top:1px}
+.hof-pts{font-size:14px;font-weight:800;color:var(--blue);text-align:right;white-space:nowrap}
 .hof-round-tag{font-size:9px;color:var(--text-dim);background:var(--bg-surface);padding:1px 5px;margin-left:4px}
 
 /* FOOTER */
@@ -206,6 +212,9 @@ body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:
 <div id="root"></div>
 <script type="text/babel">
 const {useState,useEffect,useRef,useCallback} = React;
+
+// Trim anything after " - " in song titles (removes remaster tags etc)
+function trimTitle(t) { const i = t.indexOf(' - '); return i > 0 ? t.substring(0, i) : t; }
 
 // ── ANIMATION HOOK ──
 function useStagger(items, baseDelay = 50) {
@@ -261,7 +270,7 @@ function WinnerCard({ song, onPlayerClick }) {
         <SpotifyArt trackId={song.track_id} size={64} className="winner-art" />
         <div>
           <div className="winner-tag">Song of the week</div>
-          <div className="winner-song">{song.title}</div>
+          <div className="winner-song">{trimTitle(song.title)}</div>
           <div className="winner-artist">{song.artist}</div>
           <div className="winner-by" onClick={() => onPlayerClick(song.submitter_id)}>submitted by {song.submitter}</div>
         </div>
@@ -282,7 +291,7 @@ function RunnerCards({ songs }) {
       {songs.map((s, i) => (
         <div key={i} className={`runner ${borders[i]} anim-fade-d${i+1}`}>
           <SpotifyArt trackId={s.track_id} size={40} className="runner-art" />
-          <div><div className="runner-song">{s.title}</div><div className="runner-artist">{s.artist} · {s.submitter}</div></div>
+          <div><div className="runner-song">{trimTitle(s.title)}</div><div className="runner-artist">{s.artist} · {s.submitter}</div></div>
           <div className="runner-pts">{s.total_pts}</div>
         </div>
       ))}
@@ -414,7 +423,7 @@ function SeasonPage({ data, onPlayerClick }) {
 function SongsPage({ data }) {
   const renderSongChart = useCallback((canvas) => {
     const ts = data.hall_of_fame.slice(0, 10);
-    return new Chart(canvas, { type: 'bar', data: { labels: ts.map(s => s.title.length > 20 ? s.title.slice(0, 20) + '…' : s.title), datasets: [{ data: ts.map(s => s.total_pts), backgroundColor: ts.map((_, i) => i === 0 ? '#FDBE43' : i < 3 ? '#0092D0' : '#2A2A2A'), borderWidth: 0 }] }, options: { responsive: true, animation: { duration: 800, easing: 'easeOutQuart' }, plugins: { legend: { display: false } }, indexAxis: 'y', scales: { x: { beginAtZero: true, grid: { color: '#1E1E1E' } }, y: { grid: { display: false }, ticks: { font: { size: 10 } } } } } });
+    return new Chart(canvas, { type: 'bar', data: { labels: ts.map(s => trimTitle(s.title).length > 25 ? trimTitle(s.title).slice(0, 25) + '…' : trimTitle(s.title)), datasets: [{ data: ts.map(s => s.total_pts), backgroundColor: ts.map((_, i) => i === 0 ? '#FDBE43' : i < 3 ? '#0092D0' : '#2A2A2A'), borderWidth: 0 }] }, options: { responsive: true, animation: { duration: 800, easing: 'easeOutQuart' }, plugins: { legend: { display: false } }, indexAxis: 'y', scales: { x: { beginAtZero: true, grid: { color: '#1E1E1E' } }, y: { grid: { display: false }, ticks: { font: { size: 10 } } } } } });
   }, [data]);
 
   return (
@@ -424,7 +433,8 @@ function SongsPage({ data }) {
       {data.hall_of_fame.slice(0, 20).map((s, i) => (
         <div key={i} className={`hof-row anim-fade-d${Math.min(i, 9)}`}>
           <div className="hof-rank">{i + 1}</div>
-          <div><div className="hof-title">{s.title}<span className="hof-round-tag">R{s.round}</span></div><div className="hof-meta">{s.artist} · {s.submitter} · {s.unique_voters} voters</div></div>
+          <SpotifyArt trackId={s.track_id} size={36} className="hof-art" />
+          <div><div className="hof-title">{trimTitle(s.title)}<span className="hof-round-tag">R{s.round}</span></div><div className="hof-meta">{s.artist} · {s.submitter} · {s.unique_voters} voters</div></div>
           <div className="hof-pts">{s.total_pts}</div>
         </div>
       ))}
@@ -495,7 +505,7 @@ function ProfilePage({ data, playerId, onBack, onPlayerClick }) {
         <div className="section anim-fade-d2">
           <SectionHeader color="yellow" title="Best song" />
           <div style={{display:'flex',justifyContent:'space-between',alignItems:'center'}}>
-            <div><div style={{fontSize:14,fontWeight:700,color:'var(--text-primary)'}}>{best.title}</div><div style={{fontSize:12,color:'var(--text-secondary)'}}>{best.artist} · R{best.round}</div></div>
+            <div><div style={{fontSize:14,fontWeight:700,color:'var(--text-primary)'}}>{trimTitle(best.title)}</div><div style={{fontSize:12,color:'var(--text-secondary)'}}>{best.artist} · R{best.round}</div></div>
             <div style={{fontSize:20,fontWeight:900,color:'var(--blue)'}}>{best.total_pts}</div>
           </div>
         </div>
@@ -505,7 +515,8 @@ function ProfilePage({ data, playerId, onBack, onPlayerClick }) {
         {p.submissions.length ? p.submissions.map((s, i) => (
           <div key={i} className={`profile-sub-row anim-fade-d${Math.min(i, 9)}`}>
             <div className="profile-rd">R{s.round}</div>
-            <div><div className="profile-sub-title">{s.title}</div><div className="profile-sub-artist">{s.artist} · {s.unique_voters} voters</div></div>
+            <SpotifyArt trackId={s.track_id} size={32} className="profile-sub-art" />
+            <div><div className="profile-sub-title">{trimTitle(s.title)}</div><div className="profile-sub-artist">{s.artist} · {s.unique_voters} voters</div></div>
             <div className="profile-sub-pts">{s.total_pts}</div>
           </div>
         )) : <div style={{fontSize:12,color:'var(--text-muted)',padding:'8px 0'}}>No submissions yet</div>}
@@ -565,7 +576,7 @@ function App() {
         <div className="header-top">
           <div className="logo-area" onClick={() => navigate('weekly')}>
             <div className="device"><div className="device-band" /><div className="device-band" /><div className="device-band" /></div>
-            <div><div className="logotype">music league</div><div className="logotype-sub">{data.league.subtitle}</div></div>
+            <div><div className="logotype"><span className="logotype-atl">Atlanta</span><span className="logotype-ml">music league</span></div><div className="logotype-sub">Season One</div></div>
           </div>
         </div>
       </div>
