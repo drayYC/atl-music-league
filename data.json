@@ -9856,5 +9856,125 @@
       "track_id": "1M2UpFI7Tpf995H1jEZptw",
       "spotify_url": "https://open.spotify.com/track/1M2UpFI7Tpf995H1jEZptw"
     }
-  ]
+  ],
+  "fun_metrics": {
+    "kingmaker": {
+      "title": "Kingmaker",
+      "description": "Most points given to the eventual weekly winner",
+      "leader": {
+        "player": "Kennon S.",
+        "value": "6 pts to winners",
+        "detail": "Voted for the winning song in 2 of 3 rounds"
+      }
+    },
+    "hipster": {
+      "title": "The Hipster",
+      "description": "Most solo votes \u2014 songs nobody else voted for",
+      "leader": {
+        "player": "Danny C.",
+        "value": "14% solo rate",
+        "detail": "1 in 7 votes goes to songs nobody else picked"
+      }
+    },
+    "sheep": {
+      "title": "The Sheep",
+      "description": "Highest % of points to consensus favorites",
+      "leader": {
+        "player": "Jake C.",
+        "value": "95% consensus",
+        "detail": "19 of 20 points went to popular songs"
+      }
+    },
+    "cold_shoulder": {
+      "title": "Cold Shoulder",
+      "description": "Most songs submitted that got zero votes",
+      "players": [
+        {
+          "player": "Jack A.",
+          "value": "2 songs ghosted"
+        },
+        {
+          "player": "Hilton H.",
+          "value": "2 songs ghosted"
+        },
+        {
+          "player": "Patrick C.",
+          "value": "2 songs ghosted"
+        }
+      ]
+    },
+    "snub": {
+      "title": "Biggest Snub",
+      "description": "Most voters but lowest avg \u2014 everyone gave it just 1 point",
+      "songs": [
+        {
+          "song": "I Hate Myself And Want To Die",
+          "artist": "Nirvana",
+          "submitter": "Brooks K.",
+          "voters": 9,
+          "pts": 9,
+          "avg": 1.0,
+          "round": 3
+        },
+        {
+          "song": "All Time Low (Live)",
+          "artist": "Widespread Panic",
+          "submitter": "Dray E.",
+          "voters": 9,
+          "pts": 9,
+          "avg": 1.0,
+          "round": 3
+        }
+      ]
+    },
+    "taste_twins": {
+      "title": "Taste Twins",
+      "description": "Players who vote for the same songs most often",
+      "pairs": [
+        {
+          "player1": "Kevin D.",
+          "player2": "TR C.",
+          "overlap": "83%"
+        },
+        {
+          "player1": "Hunter A.",
+          "player2": "TR C.",
+          "overlap": "67%"
+        },
+        {
+          "player1": "Frank L.",
+          "player2": "Patrick C.",
+          "overlap": "64%"
+        }
+      ]
+    },
+    "efficiency": {
+      "title": "Submission Efficiency",
+      "description": "Average points per song submitted (min 3 songs)",
+      "leaders": [
+        {
+          "player": "Jake C.",
+          "value": "8.0 avg"
+        },
+        {
+          "player": "Mills T.",
+          "value": "7.0 avg"
+        },
+        {
+          "player": "Dray E.",
+          "value": "6.2 avg"
+        }
+      ]
+    },
+    "ghost_report": {
+      "title": "Ghost Report",
+      "description": "Players who have never voted",
+      "ghosts": [
+        "Brooks K.",
+        "Will B.",
+        "Will I.",
+        "Haris V."
+      ]
+    }
+  }
 }

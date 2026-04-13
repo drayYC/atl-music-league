@@ -19,7 +19,10 @@
 }
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;background:var(--bg-body);color:var(--text-primary);-webkit-font-smoothing:antialiased}
-.site-wrap{max-width:640px;margin:0 auto;background:var(--bg-main);min-height:100vh;border-left:1px solid var(--border);border-right:1px solid var(--border)}
+.site-wrap{max-width:640px;margin:0 auto;background:var(--bg-main);min-height:100vh;border-left:1px solid var(--border);border-right:1px solid var(--border);position:relative}
+
+/* ROUND THEMES */
+.theme-tooth{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'%3E%3Cpath d='M30 8c-3 0-5.5 1-7 3-1.5 2-2 4.5-2 7.5 0 2 .3 4 .8 6 .5 2.5 1.2 5.5 1.2 8.5 0 3-1.2 7-2.5 11-.8 2.5-1 4.5-.5 6s1.8 2 3.5 2c1.5 0 2.5-1 3.5-3s2-3 3-3 2 1 3 3 2 3 3.5 3c1.7 0 3-.5 3.5-2s.3-3.5-.5-6c-1.3-4-2.5-8-2.5-11 0-3 .7-6 1.2-8.5.5-2 .8-4 .8-6 0-3-.5-5.5-2-7.5s-4-3-7-3z' fill='none' stroke='%23222' stroke-width='.5'/%3E%3C/svg%3E");background-size:60px 60px}
 
 /* HEADER */
 .header{background:var(--black);padding:20px 24px 16px}
@@ -415,11 +418,94 @@ function SeasonPage({ data, onPlayerClick }) {
           </div>
         ))}
       </div>
+      {data.fun_metrics && <FunMetrics metrics={data.fun_metrics} />}
+    </>
+  );
+}
+// ── FUN METRICS ──
+function FunMetrics({ metrics }) {
+  const m = metrics;
+  return (
+    <>
+      <div className="section">
+        <SectionHeader color="orange" title="Season superlatives" />
+        <div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:8,marginBottom:12}}>
+          {[m.kingmaker, m.hipster, m.sheep].filter(Boolean).map((metric, i) => (
+            <div key={i} className={`stat-box anim-fade-d${i}`} style={{textAlign:'left',padding:'12px 14px'}}>
+              <div style={{fontSize:10,fontWeight:700,letterSpacing:2,textTransform:'uppercase',color:'var(--yellow)',marginBottom:6}}>{metric.title}</div>
+              <div style={{fontSize:14,fontWeight:800,color:'var(--text-primary)'}}>{metric.leader.player}</div>
+              <div style={{fontSize:11,color:'var(--text-secondary)',marginTop:2}}>{metric.leader.value}</div>
+              <div style={{fontSize:10,color:'var(--text-muted)',marginTop:2}}>{metric.leader.detail}</div>
+            </div>
+          ))}
+          {m.efficiency && (
+            <div className="stat-box anim-fade-d3" style={{textAlign:'left',padding:'12px 14px'}}>
+              <div style={{fontSize:10,fontWeight:700,letterSpacing:2,textTransform:'uppercase',color:'var(--yellow)',marginBottom:6}}>{m.efficiency.title}</div>
+              {m.efficiency.leaders.slice(0,3).map((l, j) => (
+                <div key={j} style={{display:'flex',justifyContent:'space-between',padding:'2px 0'}}>
+                  <span style={{fontSize:12,color:'var(--text-primary)'}}>{l.player}</span>
+                  <span style={{fontSize:12,fontWeight:700,color:'var(--blue)'}}>{l.value}</span>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </div>
+      {m.taste_twins && (
+        <div className="section">
+          <SectionHeader color="blue" title="Taste twins · voting overlap" />
+          {m.taste_twins.pairs.map((p, i) => (
+            <div key={i} className={`aff-row anim-fade-d${i}`}>
+              <div className="aff-voter">{p.player1}</div>
+              <div className="aff-arrow" style={{fontSize:14}}>≈</div>
+              <div className="aff-sub">{p.player2}</div>
+              <div className="aff-pts">{p.overlap}</div>
+            </div>
+          ))}
+        </div>
+      )}
+      {m.snub && (
+        <div className="section">
+          <SectionHeader color="orange" title="Biggest snubs · everyone gave just 1 point" />
+          {m.snub.songs.map((s, i) => (
+            <div key={i} className={`shame-row anim-fade-d${i}`}>
+              <div>
+                <div className="shame-name">{trimTitle(s.song)}</div>
+                <div className="shame-detail">{s.artist} · {s.submitter} · R{s.round}</div>
+              </div>
+              <div style={{textAlign:'right'}}>
+                <div style={{fontSize:14,fontWeight:800,color:'var(--blue)'}}>{s.voters} voters</div>
+                <div style={{fontSize:10,color:'var(--text-muted)'}}>{s.avg} avg</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+      {m.cold_shoulder && (
+        <div className="section">
+          <SectionHeader color="orange" title="Cold shoulder · songs that got ghosted" />
+          {m.cold_shoulder.players.map((p, i) => (
+            <div key={i} className={`shame-row anim-fade-d${i}`}>
+              <div className="shame-name">{p.player}</div>
+              <div className="shame-pts">{p.value}</div>
+            </div>
+          ))}
+        </div>
+      )}
+      {m.ghost_report && (
+        <div className="section">
+          <SectionHeader color="orange" title="Ghost report · never voted" />
+          <div style={{display:'flex',flexWrap:'wrap',gap:8}}>
+            {m.ghost_report.ghosts.map((g, i) => (
+              <div key={i} className={`gen-badge badge-stingy anim-fade-d${i}`} style={{fontSize:11,padding:'5px 12px'}}>{g}</div>
+            ))}
+          </div>
+        </div>
+      )}
     </>
   );
 }
 
-// ── SONGS PAGE ──
 function SongsPage({ data }) {
   const renderSongChart = useCallback((canvas) => {
     const ts = data.hall_of_fame.slice(0, 10);
@@ -546,7 +632,7 @@ function App() {
   const [pageKey, setPageKey] = useState(0); // forces re-render for animations
 
   useEffect(() => {
-    fetch('data.json').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
+    fetch('data.json?v=3').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
   }, []);
 
   const navigate = (p, opts) => {
@@ -569,8 +655,12 @@ function App() {
   const tabs = [{id:'weekly',l:'This Week'},{id:'season',l:'Season'},{id:'songs',l:'Songs'},{id:'players',l:'Players'}];
   const activePage = page === 'profile' ? 'players' : page;
 
+  // Round themes — add theme classes per round
+  const roundThemes = { 3: 'theme-tooth' };
+  const themeClass = (page === 'weekly' && roundThemes[round.number]) ? ' ' + roundThemes[round.number] : '';
+
   return (
-    <div className="site-wrap">
+    <div className={"site-wrap" + themeClass}>
       {/* HEADER */}
       <div className="header">
         <div className="header-top">
