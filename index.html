@@ -674,7 +674,7 @@ function App() {
 
   // Round themes — apply to body background on all pages based on current round
   const roundBodyThemes = { 1: 'theme-divorce-bg', 2: 'theme-hearse-bg', 3: 'theme-tooth-bg' };
-  const bodyTheme = roundBodyThemes[data.rounds[roundIdx] ? data.rounds[roundIdx].number : 0] || '';
+  const bodyTheme = (data && data.rounds[roundIdx]) ? (roundBodyThemes[data.rounds[roundIdx].number] || '') : '';
   useEffect(() => {
     document.body.className = bodyTheme;
     return () => { document.body.className = ''; };
