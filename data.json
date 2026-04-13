@@ -2,7 +2,7 @@
   "league": {
     "name": "Music League",
     "subtitle": "Atlanta \u00b7 Season One",
-    "total_rounds": 2
+    "total_rounds": 3
   },
   "players": {
     "0795aaf6eeca40eaac6661edd291cce2": "Brooks K.",
@@ -48,9 +48,9 @@
           "total_pts": 12,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1BHse4ulQefGTZZIeziZqr",
-          "comment": 0,
           "track_id": "1BHse4ulQefGTZZIeziZqr",
-          "spotify_url": "https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"
+          "spotify_url": "https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr",
+          "comment": 0
         },
         {
           "title": "Fuck You Bitch",
@@ -61,9 +61,9 @@
           "total_pts": 8,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:43JK3XJKQ5MJ7ddlF0ylUX",
-          "comment": 0,
           "track_id": "43JK3XJKQ5MJ7ddlF0ylUX",
-          "spotify_url": "https://open.spotify.com/track/43JK3XJKQ5MJ7ddlF0ylUX"
+          "spotify_url": "https://open.spotify.com/track/43JK3XJKQ5MJ7ddlF0ylUX",
+          "comment": 0
         },
         {
           "title": "Drinkin' Problem",
@@ -74,9 +74,9 @@
           "total_pts": 7,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1vBpwxsLVwaR4evBIaFmqD",
-          "comment": 0,
           "track_id": "1vBpwxsLVwaR4evBIaFmqD",
-          "spotify_url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD"
+          "spotify_url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD",
+          "comment": 0
         },
         {
           "title": "Bad Luck",
@@ -87,9 +87,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:1OYHXCuHdzHjpHqHlY1g1r",
-          "comment": 0,
           "track_id": "1OYHXCuHdzHjpHqHlY1g1r",
-          "spotify_url": "https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r"
+          "spotify_url": "https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r",
+          "comment": 0
         },
         {
           "title": "That Ain't My Truck",
@@ -100,9 +100,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:7riuy1t0Kt3SRgMtFxX0FR",
-          "comment": "This is sadboi vibes",
           "track_id": "7riuy1t0Kt3SRgMtFxX0FR",
-          "spotify_url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
+          "spotify_url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR",
+          "comment": "This is sadboi vibes"
         },
         {
           "title": "Everybody Needs Love",
@@ -113,9 +113,9 @@
           "total_pts": 5,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1CL3L1bkgT8R3gVzD4n4sW",
-          "comment": 0,
           "track_id": "1CL3L1bkgT8R3gVzD4n4sW",
-          "spotify_url": "https://open.spotify.com/track/1CL3L1bkgT8R3gVzD4n4sW"
+          "spotify_url": "https://open.spotify.com/track/1CL3L1bkgT8R3gVzD4n4sW",
+          "comment": 0
         },
         {
           "title": "See You Later, I'm Gone",
@@ -126,9 +126,9 @@
           "total_pts": 5,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:3focQYPGDbgrvbKhoWVj7T",
-          "comment": 0,
           "track_id": "3focQYPGDbgrvbKhoWVj7T",
-          "spotify_url": "https://open.spotify.com/track/3focQYPGDbgrvbKhoWVj7T"
+          "spotify_url": "https://open.spotify.com/track/3focQYPGDbgrvbKhoWVj7T",
+          "comment": 0
         },
         {
           "title": "Cocaine",
@@ -139,9 +139,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:0gIsZ80J2vyACADWuRhl21",
-          "comment": 0,
           "track_id": "0gIsZ80J2vyACADWuRhl21",
-          "spotify_url": "https://open.spotify.com/track/0gIsZ80J2vyACADWuRhl21"
+          "spotify_url": "https://open.spotify.com/track/0gIsZ80J2vyACADWuRhl21",
+          "comment": 0
         },
         {
           "title": "It's A Great Day To Be Alive",
@@ -152,9 +152,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:3oW6SWwGqiZSPTiAp7ZQoH",
-          "comment": 0,
           "track_id": "3oW6SWwGqiZSPTiAp7ZQoH",
-          "spotify_url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+          "spotify_url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH",
+          "comment": 0
         },
         {
           "title": "That Smell",
@@ -165,9 +165,9 @@
           "total_pts": 5,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:52DKGPMQ21DauCR19pQ0BK",
-          "comment": 0,
           "track_id": "52DKGPMQ21DauCR19pQ0BK",
-          "spotify_url": "https://open.spotify.com/track/52DKGPMQ21DauCR19pQ0BK"
+          "spotify_url": "https://open.spotify.com/track/52DKGPMQ21DauCR19pQ0BK",
+          "comment": 0
         },
         {
           "title": "All My Rowdy Friends Are Coming Over Tonight",
@@ -178,9 +178,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:1yzyhrCfdwPgfWixsCELlH",
-          "comment": 0,
           "track_id": "1yzyhrCfdwPgfWixsCELlH",
-          "spotify_url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
+          "spotify_url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH",
+          "comment": 0
         },
         {
           "title": "Here's a Quarter (Call Someone Who Cares)",
@@ -191,9 +191,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:6BTCpaBTxlqGMOl0P6hvvX",
-          "comment": 0,
           "track_id": "6BTCpaBTxlqGMOl0P6hvvX",
-          "spotify_url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+          "spotify_url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX",
+          "comment": 0
         },
         {
           "title": "She Got the Goldmine (I Got the Shaft)",
@@ -204,9 +204,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:0AbYscoIblUGiNqn2Iw6fq",
-          "comment": 0,
           "track_id": "0AbYscoIblUGiNqn2Iw6fq",
-          "spotify_url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
+          "spotify_url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq",
+          "comment": 0
         },
         {
           "title": "I Wanna Talk About Me",
@@ -217,9 +217,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3VHevS1BocAcrihLnl11DG",
-          "comment": 0,
           "track_id": "3VHevS1BocAcrihLnl11DG",
-          "spotify_url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
+          "spotify_url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG",
+          "comment": 0
         },
         {
           "title": "Psycho",
@@ -230,9 +230,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3Vtcjs5wVanh6LocIRrpwy",
-          "comment": 0,
           "track_id": "3Vtcjs5wVanh6LocIRrpwy",
-          "spotify_url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy"
+          "spotify_url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy",
+          "comment": 0
         },
         {
           "title": "Gin and Juice",
@@ -243,9 +243,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6CeszonFOlgp7HiawTSqCu",
-          "comment": 0,
           "track_id": "6CeszonFOlgp7HiawTSqCu",
-          "spotify_url": "https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu"
+          "spotify_url": "https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu",
+          "comment": 0
         },
         {
           "title": "No Sense in Lovin'",
@@ -256,9 +256,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:080AdFXuopE7WinKKKzVLQ",
-          "comment": 0,
           "track_id": "080AdFXuopE7WinKKKzVLQ",
-          "spotify_url": "https://open.spotify.com/track/080AdFXuopE7WinKKKzVLQ"
+          "spotify_url": "https://open.spotify.com/track/080AdFXuopE7WinKKKzVLQ",
+          "comment": 0
         },
         {
           "title": "Starting Over",
@@ -269,9 +269,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3TNSVsiFngfe68UJpMq1oS",
-          "comment": 0,
           "track_id": "3TNSVsiFngfe68UJpMq1oS",
-          "spotify_url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
+          "spotify_url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS",
+          "comment": 0
         },
         {
           "title": "Queen Of My Double Wide Trailer",
@@ -282,9 +282,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:3Wz9Fm9ZyhpaRGxMlSR5G4",
-          "comment": "This is fuck you vibes",
           "track_id": "3Wz9Fm9ZyhpaRGxMlSR5G4",
-          "spotify_url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4"
+          "spotify_url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4",
+          "comment": "This is fuck you vibes"
         },
         {
           "title": "The Fireman",
@@ -295,9 +295,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:5CwZU4BVFX0dyqG1gKfHHr",
-          "comment": " ",
           "track_id": "5CwZU4BVFX0dyqG1gKfHHr",
-          "spotify_url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+          "spotify_url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr",
+          "comment": " "
         },
         {
           "title": "Bye Bye",
@@ -308,9 +308,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6CebGuHR99xrFitTnOgeu2",
-          "comment": 0,
           "track_id": "6CebGuHR99xrFitTnOgeu2",
-          "spotify_url": "https://open.spotify.com/track/6CebGuHR99xrFitTnOgeu2"
+          "spotify_url": "https://open.spotify.com/track/6CebGuHR99xrFitTnOgeu2",
+          "comment": 0
         },
         {
           "title": "Wear My Ring",
@@ -321,9 +321,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6VSCXbO0lkIFar5tuGDasA",
-          "comment": 0,
           "track_id": "6VSCXbO0lkIFar5tuGDasA",
-          "spotify_url": "https://open.spotify.com/track/6VSCXbO0lkIFar5tuGDasA"
+          "spotify_url": "https://open.spotify.com/track/6VSCXbO0lkIFar5tuGDasA",
+          "comment": 0
         },
         {
           "title": "Gone",
@@ -334,9 +334,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:71lXNAROGX1zo6tX0MSnCS",
-          "comment": 0,
           "track_id": "71lXNAROGX1zo6tX0MSnCS",
-          "spotify_url": "https://open.spotify.com/track/71lXNAROGX1zo6tX0MSnCS"
+          "spotify_url": "https://open.spotify.com/track/71lXNAROGX1zo6tX0MSnCS",
+          "comment": 0
         },
         {
           "title": "I Don't Wanna Play House",
@@ -347,9 +347,9 @@
           "total_pts": 3,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:5p5ToI0sTdyXRUByijkDYL",
-          "comment": 0,
           "track_id": "5p5ToI0sTdyXRUByijkDYL",
-          "spotify_url": "https://open.spotify.com/track/5p5ToI0sTdyXRUByijkDYL"
+          "spotify_url": "https://open.spotify.com/track/5p5ToI0sTdyXRUByijkDYL",
+          "comment": 0
         },
         {
           "title": "Some Beach",
@@ -360,9 +360,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:0ZhwjSovRmeXfoOKVItfhS",
-          "comment": 0,
           "track_id": "0ZhwjSovRmeXfoOKVItfhS",
-          "spotify_url": "https://open.spotify.com/track/0ZhwjSovRmeXfoOKVItfhS"
+          "spotify_url": "https://open.spotify.com/track/0ZhwjSovRmeXfoOKVItfhS",
+          "comment": 0
         },
         {
           "title": "Smoke A Little Smoke",
@@ -373,9 +373,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:1ESipSqVefdknPg5IBKFND",
-          "comment": 0,
           "track_id": "1ESipSqVefdknPg5IBKFND",
-          "spotify_url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
+          "spotify_url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND",
+          "comment": 0
         },
         {
           "title": "I Hope You Have Learned",
@@ -386,9 +386,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:204eP0Bi3fbvMWN4PxawON",
-          "comment": 0,
           "track_id": "204eP0Bi3fbvMWN4PxawON",
-          "spotify_url": "https://open.spotify.com/track/204eP0Bi3fbvMWN4PxawON"
+          "spotify_url": "https://open.spotify.com/track/204eP0Bi3fbvMWN4PxawON",
+          "comment": 0
         },
         {
           "title": "Dead Flowers - 2009 Mix",
@@ -399,9 +399,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:3oJtUnnt5uYPtzulIbLw3D",
-          "comment": 0,
           "track_id": "3oJtUnnt5uYPtzulIbLw3D",
-          "spotify_url": "https://open.spotify.com/track/3oJtUnnt5uYPtzulIbLw3D"
+          "spotify_url": "https://open.spotify.com/track/3oJtUnnt5uYPtzulIbLw3D",
+          "comment": 0
         },
         {
           "title": "Quits",
@@ -412,9 +412,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:71crNoinQPLsNDRVcPbPfJ",
-          "comment": 0,
           "track_id": "71crNoinQPLsNDRVcPbPfJ",
-          "spotify_url": "https://open.spotify.com/track/71crNoinQPLsNDRVcPbPfJ"
+          "spotify_url": "https://open.spotify.com/track/71crNoinQPLsNDRVcPbPfJ",
+          "comment": 0
         },
         {
           "title": "The Whirl and the Suck",
@@ -425,9 +425,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:7724bTdkYtVD7m6MYFUljC",
-          "comment": 0,
           "track_id": "7724bTdkYtVD7m6MYFUljC",
-          "spotify_url": "https://open.spotify.com/track/7724bTdkYtVD7m6MYFUljC"
+          "spotify_url": "https://open.spotify.com/track/7724bTdkYtVD7m6MYFUljC",
+          "comment": 0
         },
         {
           "title": "Decoration Day - Live",
@@ -438,9 +438,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:7A1dkV9p6d9IH2NiV5yCsQ",
-          "comment": 0,
           "track_id": "7A1dkV9p6d9IH2NiV5yCsQ",
-          "spotify_url": "https://open.spotify.com/track/7A1dkV9p6d9IH2NiV5yCsQ"
+          "spotify_url": "https://open.spotify.com/track/7A1dkV9p6d9IH2NiV5yCsQ",
+          "comment": 0
         },
         {
           "title": "She Thinks My Tractor's Sexy",
@@ -451,9 +451,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:3QV7NYkrmV0Q0IHdFJw9hO",
-          "comment": 0,
           "track_id": "3QV7NYkrmV0Q0IHdFJw9hO",
-          "spotify_url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+          "spotify_url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO",
+          "comment": 0
         },
         {
           "title": "Save a Horse (Ride a Cowboy)",
@@ -464,9 +464,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:5s7m2xNZWgz5FqVSIvJcGA",
-          "comment": 0,
           "track_id": "5s7m2xNZWgz5FqVSIvJcGA",
-          "spotify_url": "https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA"
+          "spotify_url": "https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA",
+          "comment": 0
         },
         {
           "title": "As She's Walking Away (feat. Alan Jackson)",
@@ -477,9 +477,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:65UCejW01DAovmluVYHWAt",
-          "comment": 0,
           "track_id": "65UCejW01DAovmluVYHWAt",
-          "spotify_url": "https://open.spotify.com/track/65UCejW01DAovmluVYHWAt"
+          "spotify_url": "https://open.spotify.com/track/65UCejW01DAovmluVYHWAt",
+          "comment": 0
         },
         {
           "title": "Back Down South",
@@ -490,9 +490,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:6HfFLqjxyFJYx1V0olSKof",
-          "comment": 0,
           "track_id": "6HfFLqjxyFJYx1V0olSKof",
-          "spotify_url": "https://open.spotify.com/track/6HfFLqjxyFJYx1V0olSKof"
+          "spotify_url": "https://open.spotify.com/track/6HfFLqjxyFJYx1V0olSKof",
+          "comment": 0
         },
         {
           "title": "Chicks Dig It - Single Edit",
@@ -503,9 +503,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:0nprj2O0teCglthuhzTG5o",
-          "comment": 0,
           "track_id": "0nprj2O0teCglthuhzTG5o",
-          "spotify_url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
+          "spotify_url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o",
+          "comment": 0
         },
         {
           "title": "Before He Cheats",
@@ -516,9 +516,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:0ZUo4YjG4saFnEJhdWp9Bt",
-          "comment": 0,
           "track_id": "0ZUo4YjG4saFnEJhdWp9Bt",
-          "spotify_url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+          "spotify_url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt",
+          "comment": 0
         },
         {
           "title": "Long Haired Country Boy",
@@ -529,9 +529,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:5pihM63Tj50g1XjLxq0iU8",
-          "comment": 0,
           "track_id": "5pihM63Tj50g1XjLxq0iU8",
-          "spotify_url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+          "spotify_url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8",
+          "comment": 0
         }
       ],
       "leaderboard": [
@@ -733,8 +733,8 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
-          "player": "Hilton H.",
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
@@ -747,8 +747,8 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
@@ -761,15 +761,15 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
-          "player": "Henry L.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "player": "Henry L.",
           "avg_per_vote": 1.0,
           "total_songs_voted": 10,
           "total_pts_given": 10
@@ -1656,9 +1656,9 @@
           "total_pts": 13,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:4cCoZML1dPIQxNjOwDmJGf",
-          "comment": 0,
           "track_id": "4cCoZML1dPIQxNjOwDmJGf",
-          "spotify_url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
+          "spotify_url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf",
+          "comment": 0
         },
         {
           "title": "Jesus Was Way Cool",
@@ -1669,9 +1669,9 @@
           "total_pts": 12,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:0w3DyN1XAw8pBBF0t4B2uU",
-          "comment": 0,
           "track_id": "0w3DyN1XAw8pBBF0t4B2uU",
-          "spotify_url": "https://open.spotify.com/track/0w3DyN1XAw8pBBF0t4B2uU"
+          "spotify_url": "https://open.spotify.com/track/0w3DyN1XAw8pBBF0t4B2uU",
+          "comment": 0
         },
         {
           "title": "Oh! Sweet Nuthin' - 2015 Remaster",
@@ -1682,9 +1682,9 @@
           "total_pts": 9,
           "unique_voters": 6,
           "spotify_uri": "spotify:track:0i19MAZbyn8uTir7FprXId",
-          "comment": 0,
           "track_id": "0i19MAZbyn8uTir7FprXId",
-          "spotify_url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
+          "spotify_url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId",
+          "comment": 0
         },
         {
           "title": "Everywhere - 2017 Remaster",
@@ -1695,9 +1695,9 @@
           "total_pts": 9,
           "unique_voters": 6,
           "spotify_uri": "spotify:track:254bXAqt3zP6P50BdQvEsq",
-          "comment": 0,
           "track_id": "254bXAqt3zP6P50BdQvEsq",
-          "spotify_url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+          "spotify_url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq",
+          "comment": 0
         },
         {
           "title": "Thunder Island",
@@ -1708,9 +1708,9 @@
           "total_pts": 8,
           "unique_voters": 7,
           "spotify_uri": "spotify:track:3FkQN4NyCFlfn7fWzBkWCj",
-          "comment": 0,
           "track_id": "3FkQN4NyCFlfn7fWzBkWCj",
-          "spotify_url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
+          "spotify_url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj",
+          "comment": 0
         },
         {
           "title": "The Funeral",
@@ -1721,9 +1721,9 @@
           "total_pts": 8,
           "unique_voters": 6,
           "spotify_uri": "spotify:track:5lRzWDEe7UuedU2QPsFg0K",
-          "comment": 0,
           "track_id": "5lRzWDEe7UuedU2QPsFg0K",
-          "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
+          "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K",
+          "comment": 0
         },
         {
           "title": "Where'd All the Time Go?",
@@ -1734,9 +1734,9 @@
           "total_pts": 7,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:0UV5zxRMz6AO4ZwUOZNIKI",
-          "comment": 0,
           "track_id": "0UV5zxRMz6AO4ZwUOZNIKI",
-          "spotify_url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
+          "spotify_url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI",
+          "comment": 0
         },
         {
           "title": "Shining Star",
@@ -1747,9 +1747,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:0RgcOUQg4qYAEt9RIdf3oB",
-          "comment": 0,
           "track_id": "0RgcOUQg4qYAEt9RIdf3oB",
-          "spotify_url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+          "spotify_url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB",
+          "comment": 0
         },
         {
           "title": "Gimme a Ride to Heaven Boy",
@@ -1760,9 +1760,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:1M2UpFI7Tpf995H1jEZptw",
-          "comment": 0,
           "track_id": "1M2UpFI7Tpf995H1jEZptw",
-          "spotify_url": "https://open.spotify.com/track/1M2UpFI7Tpf995H1jEZptw"
+          "spotify_url": "https://open.spotify.com/track/1M2UpFI7Tpf995H1jEZptw",
+          "comment": 0
         },
         {
           "title": "I Got a Name - Stereo Version",
@@ -1773,9 +1773,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:4UEgKxYLP0bPG6EwD0DgYK",
-          "comment": 0,
           "track_id": "4UEgKxYLP0bPG6EwD0DgYK",
-          "spotify_url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK"
+          "spotify_url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK",
+          "comment": 0
         },
         {
           "title": "The Wreck of the Edmund Fitzgerald",
@@ -1786,9 +1786,9 @@
           "total_pts": 6,
           "unique_voters": 5,
           "spotify_uri": "spotify:track:536L9C0N7vhYdibCJx3cI2",
-          "comment": 0,
           "track_id": "536L9C0N7vhYdibCJx3cI2",
-          "spotify_url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
+          "spotify_url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2",
+          "comment": 0
         },
         {
           "title": "King Of The Road",
@@ -1799,9 +1799,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:3XG7bMVcMWLIn2k9jLAaAt",
-          "comment": 0,
           "track_id": "3XG7bMVcMWLIn2k9jLAaAt",
-          "spotify_url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+          "spotify_url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt",
+          "comment": 0
         },
         {
           "title": "Pumped Up Kicks",
@@ -1812,9 +1812,9 @@
           "total_pts": 6,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
-          "comment": 0,
           "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
-          "spotify_url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+          "spotify_url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT",
+          "comment": 0
         },
         {
           "title": "This Kiss",
@@ -1825,9 +1825,9 @@
           "total_pts": 6,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:5EYWGM3Ns3iYew8ws0FatB",
-          "comment": 0,
           "track_id": "5EYWGM3Ns3iYew8ws0FatB",
-          "spotify_url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+          "spotify_url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB",
+          "comment": 0
         },
         {
           "title": "Keep On Dreamin'",
@@ -1838,9 +1838,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:1Dlk7nlSEdhYwbqXbVcqBW",
-          "comment": 0,
           "track_id": "1Dlk7nlSEdhYwbqXbVcqBW",
-          "spotify_url": "https://open.spotify.com/track/1Dlk7nlSEdhYwbqXbVcqBW"
+          "spotify_url": "https://open.spotify.com/track/1Dlk7nlSEdhYwbqXbVcqBW",
+          "comment": 0
         },
         {
           "title": "Lookin' Out My Back Door",
@@ -1851,9 +1851,9 @@
           "total_pts": 5,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:3RTUfvRgq3pYTf7XY0FIcS",
-          "comment": 0,
           "track_id": "3RTUfvRgq3pYTf7XY0FIcS",
-          "spotify_url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
+          "spotify_url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS",
+          "comment": 0
         },
         {
           "title": "Running on Empty",
@@ -1864,9 +1864,9 @@
           "total_pts": 5,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:6aqm56xP40foYBBtAWWrnY",
-          "comment": 0,
           "track_id": "6aqm56xP40foYBBtAWWrnY",
-          "spotify_url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
+          "spotify_url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY",
+          "comment": 0
         },
         {
           "title": "Helena",
@@ -1877,9 +1877,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
-          "comment": 0,
           "track_id": "5dTHtzHFPyi8TlTtzoz1J9",
-          "spotify_url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+          "spotify_url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9",
+          "comment": 0
         },
         {
           "title": "Enter Sandman - triple j Like a Version",
@@ -1890,9 +1890,9 @@
           "total_pts": 4,
           "unique_voters": 4,
           "spotify_uri": "spotify:track:73t2Pgt4t7TCIK7Zl68uhS",
-          "comment": 0,
           "track_id": "73t2Pgt4t7TCIK7Zl68uhS",
-          "spotify_url": "https://open.spotify.com/track/73t2Pgt4t7TCIK7Zl68uhS"
+          "spotify_url": "https://open.spotify.com/track/73t2Pgt4t7TCIK7Zl68uhS",
+          "comment": 0
         },
         {
           "title": "Last Caress",
@@ -1903,9 +1903,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:1C7kuQ0TjfxvEHSFqLEl42",
-          "comment": 0,
           "track_id": "1C7kuQ0TjfxvEHSFqLEl42",
-          "spotify_url": "https://open.spotify.com/track/1C7kuQ0TjfxvEHSFqLEl42"
+          "spotify_url": "https://open.spotify.com/track/1C7kuQ0TjfxvEHSFqLEl42",
+          "comment": 0
         },
         {
           "title": "Ride Like the Wind (2019 Remaster)",
@@ -1916,9 +1916,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:2ibiJCDgb0N53RXRtYsDtg",
-          "comment": 0,
           "track_id": "2ibiJCDgb0N53RXRtYsDtg",
-          "spotify_url": "https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg"
+          "spotify_url": "https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg",
+          "comment": 0
         },
         {
           "title": "Dance With The Devil",
@@ -1929,9 +1929,9 @@
           "total_pts": 4,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:4LCzEYKPFcd2FCOmZdVDnM",
-          "comment": 0,
           "track_id": "4LCzEYKPFcd2FCOmZdVDnM",
-          "spotify_url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
+          "spotify_url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM",
+          "comment": 0
         },
         {
           "title": "Demons",
@@ -1942,9 +1942,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:0oMH1Q4pMYy7fGio9rDxil",
-          "comment": 0,
           "track_id": "0oMH1Q4pMYy7fGio9rDxil",
-          "spotify_url": "https://open.spotify.com/track/0oMH1Q4pMYy7fGio9rDxil"
+          "spotify_url": "https://open.spotify.com/track/0oMH1Q4pMYy7fGio9rDxil",
+          "comment": 0
         },
         {
           "title": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u044b\u0436\u0438\u0439)",
@@ -1955,9 +1955,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
-          "comment": 0,
           "track_id": "1SHB1hp6267UK9bJQUxYvO",
-          "spotify_url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"
+          "spotify_url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO",
+          "comment": 0
         },
         {
           "title": "Stayin Alive",
@@ -1968,9 +1968,9 @@
           "total_pts": 3,
           "unique_voters": 3,
           "spotify_uri": "spotify:track:5ubvP9oKmxLUVq506fgLhk",
-          "comment": 0,
           "track_id": "5ubvP9oKmxLUVq506fgLhk",
-          "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
+          "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
+          "comment": 0
         },
         {
           "title": "24's (Vocals Only)",
@@ -1981,9 +1981,9 @@
           "total_pts": 3,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:33j4CLU9UyRjO63ry5J61Q",
-          "comment": 0,
           "track_id": "33j4CLU9UyRjO63ry5J61Q",
-          "spotify_url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
+          "spotify_url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q",
+          "comment": 0
         },
         {
           "title": "Last Resort",
@@ -1994,9 +1994,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:5W8YXBz9MTIDyrpYaCg2Ky",
-          "comment": 0,
           "track_id": "5W8YXBz9MTIDyrpYaCg2Ky",
-          "spotify_url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
+          "spotify_url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky",
+          "comment": 0
         },
         {
           "title": "Touch of Grey",
@@ -2007,9 +2007,9 @@
           "total_pts": 2,
           "unique_voters": 2,
           "spotify_uri": "spotify:track:5YzzWlWfAVNvtduNDHKhHc",
-          "comment": 0,
           "track_id": "5YzzWlWfAVNvtduNDHKhHc",
-          "spotify_url": "https://open.spotify.com/track/5YzzWlWfAVNvtduNDHKhHc"
+          "spotify_url": "https://open.spotify.com/track/5YzzWlWfAVNvtduNDHKhHc",
+          "comment": 0
         },
         {
           "title": "Revival",
@@ -2020,9 +2020,9 @@
           "total_pts": 1,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:7GEo5JQN8lcqBaj6qyvWw1",
-          "comment": 0,
           "track_id": "7GEo5JQN8lcqBaj6qyvWw1",
-          "spotify_url": "https://open.spotify.com/track/7GEo5JQN8lcqBaj6qyvWw1"
+          "spotify_url": "https://open.spotify.com/track/7GEo5JQN8lcqBaj6qyvWw1",
+          "comment": 0
         },
         {
           "title": "I Saw Your Mommy...",
@@ -2033,9 +2033,9 @@
           "total_pts": 0,
           "unique_voters": 1,
           "spotify_uri": "spotify:track:4UEQ45wYDdFCvCDhRk6AbC",
-          "comment": 0,
           "track_id": "4UEQ45wYDdFCvCDhRk6AbC",
-          "spotify_url": "https://open.spotify.com/track/4UEQ45wYDdFCvCDhRk6AbC"
+          "spotify_url": "https://open.spotify.com/track/4UEQ45wYDdFCvCDhRk6AbC",
+          "comment": 0
         },
         {
           "title": "Mess",
@@ -2046,9 +2046,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:1BlQWQgGP84r4GYUVty4Ar",
-          "comment": 0,
           "track_id": "1BlQWQgGP84r4GYUVty4Ar",
-          "spotify_url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+          "spotify_url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar",
+          "comment": 0
         },
         {
           "title": "Hope",
@@ -2059,9 +2059,9 @@
           "total_pts": 0,
           "unique_voters": 0,
           "spotify_uri": "spotify:track:35UO6dWrEPLmeSVXtAysS4",
-          "comment": 0,
           "track_id": "35UO6dWrEPLmeSVXtAysS4",
-          "spotify_url": "https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4"
+          "spotify_url": "https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4",
+          "comment": 0
         }
       ],
       "leaderboard": [
@@ -2186,13 +2186,6 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
-          "avg_per_vote": 1.67,
-          "total_songs_voted": 6,
-          "total_pts_given": 10
-        },
-        {
           "player_id": "76a55817271e454fad8f84efdc032dc5",
           "player": "Kevin D.",
           "avg_per_vote": 1.67,
@@ -2200,17 +2193,10 @@
           "total_pts_given": 10
         },
         {
-          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
-          "player": "Blake A.",
-          "avg_per_vote": 1.43,
-          "total_songs_voted": 7,
-          "total_pts_given": 10
-        },
-        {
-          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
-          "player": "Ben Z.",
-          "avg_per_vote": 1.43,
-          "total_songs_voted": 7,
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
           "total_pts_given": 10
         },
         {
@@ -2221,8 +2207,22 @@
           "total_pts_given": 10
         },
         {
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
           "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
           "avg_per_vote": 1.43,
           "total_songs_voted": 7,
           "total_pts_given": 10
@@ -2249,6 +2249,13 @@
           "total_pts_given": 10
         },
         {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
           "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "player": "Giles G.",
           "avg_per_vote": 1.11,
@@ -2258,13 +2265,6 @@
         {
           "player_id": "605a6a083d2d4ad781df783c4a21b505",
           "player": "Hunter A.",
-          "avg_per_vote": 1.11,
-          "total_songs_voted": 9,
-          "total_pts_given": 10
-        },
-        {
-          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
-          "player": "Patrick C.",
           "avg_per_vote": 1.11,
           "total_songs_voted": 9,
           "total_pts_given": 10
@@ -3245,9 +3245,2123 @@
         "unique_voters": 16,
         "unique_submitters": 16
       }
+    },
+    {
+      "id": "820f095727d742649bc28ebcb5736113",
+      "number": 3,
+      "name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "description": "You\u2019re at the sink again, staring at something that absolutely shouldn\u2019t have come out, doing the math and realizing this is the second time\u2014and it\u2019s not even April. This isn\u2019t a fluke anymore, it\u2019s a pattern. There\u2019s a quiet, creeping dread that your body is starting to keep score, and you\u2019re losing. This is the soundtrack for that moment where denial starts slipping into acceptance\u2014uneasy, slightly unhinged, and darker than you want to admit. Lean moody indie, slow-burn alt rock, or stripped-down acoustic from the 2000s\u20132010s\u2014songs that feel like something\u2019s wrong, even if no one\u2019s saying it out loud.",
+      "playlist_url": "https://open.spotify.com/playlist/3OMZDcNGjBCfkF5jN9xgAn",
+      "songs": [
+        {
+          "title": "Grillz",
+          "artist": "Nelly, Paul Wall, Ali & Gipp",
+          "album": "Sweatsuit",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 14,
+          "unique_voters": 8,
+          "spotify_uri": "spotify:track:0Aqlt4N5h6rUtKnd09VXpr",
+          "track_id": "0Aqlt4N5h6rUtKnd09VXpr",
+          "spotify_url": "https://open.spotify.com/track/0Aqlt4N5h6rUtKnd09VXpr",
+          "comment": 0
+        },
+        {
+          "title": "Hurt",
+          "artist": "Johnny Cash",
+          "album": "American IV: The Man Comes Around",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 13,
+          "unique_voters": 8,
+          "spotify_uri": "spotify:track:28cnXtME493VX9NOw9cIUh",
+          "track_id": "28cnXtME493VX9NOw9cIUh",
+          "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+          "comment": 0
+        },
+        {
+          "title": "Through The Wire",
+          "artist": "Kanye West",
+          "album": "The College Dropout",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 11,
+          "unique_voters": 9,
+          "spotify_uri": "spotify:track:4mmkhcEm1Ljy1U9nwtsxUo",
+          "track_id": "4mmkhcEm1Ljy1U9nwtsxUo",
+          "spotify_url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo",
+          "comment": 0
+        },
+        {
+          "title": "Pulling Teeth",
+          "artist": "Green Day",
+          "album": "Dookie",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 10,
+          "unique_voters": 8,
+          "spotify_uri": "spotify:track:5z2XqieaqxpCJc3ntZ6Ye3",
+          "track_id": "5z2XqieaqxpCJc3ntZ6Ye3",
+          "spotify_url": "https://open.spotify.com/track/5z2XqieaqxpCJc3ntZ6Ye3",
+          "comment": 0
+        },
+        {
+          "title": "I Hate Myself And Want To Die - 2013 Mix",
+          "artist": "Nirvana",
+          "album": "In Utero (Deluxe Edition)",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 9,
+          "unique_voters": 9,
+          "spotify_uri": "spotify:track:1kwsUMjFuePZBNB56gQYoA",
+          "track_id": "1kwsUMjFuePZBNB56gQYoA",
+          "spotify_url": "https://open.spotify.com/track/1kwsUMjFuePZBNB56gQYoA",
+          "comment": 0
+        },
+        {
+          "title": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "artist": "Widespread Panic",
+          "album": "Live in the Classic City",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 9,
+          "unique_voters": 9,
+          "spotify_uri": "spotify:track:29olPahMnkf0gXlZNHK5Dd",
+          "track_id": "29olPahMnkf0gXlZNHK5Dd",
+          "spotify_url": "https://open.spotify.com/track/29olPahMnkf0gXlZNHK5Dd",
+          "comment": 0
+        },
+        {
+          "title": "Nutshell",
+          "artist": "Alice In Chains",
+          "album": "Jar Of Flies",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 9,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+          "track_id": "2JuasWPUodaUxf5nwNpciQ",
+          "spotify_url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+          "comment": 0
+        },
+        {
+          "title": "Move Along",
+          "artist": "The All-American Rejects",
+          "album": "Move Along",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "total_pts": 9,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:58HpsDKeYoLtNhXFQyQmz5",
+          "track_id": "58HpsDKeYoLtNhXFQyQmz5",
+          "spotify_url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5",
+          "comment": 0
+        },
+        {
+          "title": "My Shit's Fucked Up",
+          "artist": "Warren Zevon",
+          "album": "Life'll Kill Ya",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 8,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:6RNp2KtAPVQWRHS6FdjNWG",
+          "track_id": "6RNp2KtAPVQWRHS6FdjNWG",
+          "spotify_url": "https://open.spotify.com/track/6RNp2KtAPVQWRHS6FdjNWG",
+          "comment": 0
+        },
+        {
+          "title": "Breaking the Habit",
+          "artist": "Linkin Park",
+          "album": "Meteora",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "total_pts": 7,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:6n8TMVyFKoUmDc4apxceRD",
+          "track_id": "6n8TMVyFKoUmDc4apxceRD",
+          "spotify_url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD",
+          "comment": 0
+        },
+        {
+          "title": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "artist": "The Smiths",
+          "album": "Louder Than Bombs",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 6,
+          "unique_voters": 7,
+          "spotify_uri": "spotify:track:1H5N26VqHR4JhuaRKY2I0u",
+          "track_id": "1H5N26VqHR4JhuaRKY2I0u",
+          "spotify_url": "https://open.spotify.com/track/1H5N26VqHR4JhuaRKY2I0u",
+          "comment": 0
+        },
+        {
+          "title": "End of Beginning",
+          "artist": "Djo",
+          "album": "DECIDE",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 6,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:3qhlB30KknSejmIvZZLjOD",
+          "track_id": "3qhlB30KknSejmIvZZLjOD",
+          "spotify_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+          "comment": 0
+        },
+        {
+          "title": "Everybody Hurts",
+          "artist": "R.E.M.",
+          "album": "Automatic For The People",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "total_pts": 6,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:6PypGyiu0Y2lCDBN1XZEnP",
+          "track_id": "6PypGyiu0Y2lCDBN1XZEnP",
+          "spotify_url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP",
+          "comment": 0
+        },
+        {
+          "title": "Where Is My Mind?",
+          "artist": "Pixies",
+          "album": "Death to the Pixies",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
+          "track_id": "0KzAbK6nItSqNh8q70tb0K",
+          "spotify_url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K",
+          "comment": 0
+        },
+        {
+          "title": "Creep",
+          "artist": "Radiohead",
+          "album": "Pablo Honey",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
+          "track_id": "70LcF31zb1H0PyJoS1Sx1r",
+          "spotify_url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
+          "comment": 0
+        },
+        {
+          "title": "Methhead",
+          "artist": "Ian Noe",
+          "album": "Off This Mountaintop",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:2mLYN7Hz2czFkZugFscrrb",
+          "track_id": "2mLYN7Hz2czFkZugFscrrb",
+          "spotify_url": "https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb",
+          "comment": 0
+        },
+        {
+          "title": "Far Behind",
+          "artist": "Candlebox",
+          "album": "Candlebox",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:3mhOmh4tRKsMfnRmgZfeBm",
+          "track_id": "3mhOmh4tRKsMfnRmgZfeBm",
+          "spotify_url": "https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm",
+          "comment": 0
+        },
+        {
+          "title": "Crystal Express",
+          "artist": "Raury",
+          "album": "All We Need",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:58l702tcyPKuXe9br3Grdl",
+          "track_id": "58l702tcyPKuXe9br3Grdl",
+          "spotify_url": "https://open.spotify.com/track/58l702tcyPKuXe9br3Grdl",
+          "comment": 0
+        },
+        {
+          "title": "Too Drunk to Fuck",
+          "artist": "Dead Kennedys",
+          "album": "Give Me Convenience or Give Me Death",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:2YNBPkmoFX3uFOh1HAz82w",
+          "track_id": "2YNBPkmoFX3uFOh1HAz82w",
+          "spotify_url": "https://open.spotify.com/track/2YNBPkmoFX3uFOh1HAz82w",
+          "comment": 0
+        },
+        {
+          "title": "The Past Is A Grotesque Animal",
+          "artist": "of Montreal",
+          "album": "Hissing Fauna, Are You The Destroyer?",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:49zjoxttEw4g0ohNoA2GK5",
+          "track_id": "49zjoxttEw4g0ohNoA2GK5",
+          "spotify_url": "https://open.spotify.com/track/49zjoxttEw4g0ohNoA2GK5",
+          "comment": 0
+        },
+        {
+          "title": "Fake It",
+          "artist": "Seether",
+          "album": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:4eAwB5pnKFTmsgc3zWoYO0",
+          "track_id": "4eAwB5pnKFTmsgc3zWoYO0",
+          "spotify_url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0",
+          "comment": 0
+        },
+        {
+          "title": "We Are Fucking Fucked",
+          "artist": "Muse",
+          "album": "Will Of The People",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:5IumuUJqNO7K5SvniuDrBz",
+          "track_id": "5IumuUJqNO7K5SvniuDrBz",
+          "spotify_url": "https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz",
+          "comment": 0
+        },
+        {
+          "title": "Worms",
+          "artist": "Viagra Boys",
+          "album": "Street Worms",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0mcspj4ScW3ZF3OILnvr4i",
+          "track_id": "0mcspj4ScW3ZF3OILnvr4i",
+          "spotify_url": "https://open.spotify.com/track/0mcspj4ScW3ZF3OILnvr4i",
+          "comment": 0
+        },
+        {
+          "title": "One More Time",
+          "artist": "Daft Punk",
+          "album": "Discovery",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0DiWol3AO6WpXZgp0goxAV",
+          "track_id": "0DiWol3AO6WpXZgp0goxAV",
+          "spotify_url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV",
+          "comment": 0
+        },
+        {
+          "title": "Cotton Eye Joe",
+          "artist": "Rednex",
+          "album": "Sex & Violins",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0Jg602cHeMCnPez9baacIe",
+          "track_id": "0Jg602cHeMCnPez9baacIe",
+          "spotify_url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe",
+          "comment": 0
+        },
+        {
+          "title": "Clubbed to Death - Kurayamino Variation",
+          "artist": "Rob Dougan",
+          "album": "Furious Angels",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0vSVDF2fHaxL2L9eEmRdAK",
+          "track_id": "0vSVDF2fHaxL2L9eEmRdAK",
+          "spotify_url": "https://open.spotify.com/track/0vSVDF2fHaxL2L9eEmRdAK",
+          "comment": 0
+        },
+        {
+          "title": "Climbing Up the Walls",
+          "artist": "Radiohead",
+          "album": "OK Computer",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:2PDQReEXBViVwkrbQ34vd7",
+          "track_id": "2PDQReEXBViVwkrbQ34vd7",
+          "spotify_url": "https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7",
+          "comment": 0
+        },
+        {
+          "title": "Same Old Lie",
+          "artist": "Jim James",
+          "album": "Eternally Even",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:4brFJB8zJ09ECp5rvTwL8Z",
+          "track_id": "4brFJB8zJ09ECp5rvTwL8Z",
+          "spotify_url": "https://open.spotify.com/track/4brFJB8zJ09ECp5rvTwL8Z",
+          "comment": 0
+        },
+        {
+          "title": "Ironic",
+          "artist": "Alanis Morissette",
+          "album": "Jagged Little Pill",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:4oGTdOClZUxcM2H3UmXlwL",
+          "track_id": "4oGTdOClZUxcM2H3UmXlwL",
+          "spotify_url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL",
+          "comment": 0
+        },
+        {
+          "title": "(Don't Fear) The Reaper",
+          "artist": "Blue \u00d6yster Cult",
+          "album": "Agents Of Fortune",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5QTxFnGygVM4jFQiBovmRo",
+          "track_id": "5QTxFnGygVM4jFQiBovmRo",
+          "spotify_url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo",
+          "comment": 0
+        },
+        {
+          "title": "Bullet With Butterfly Wings - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "album": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:6GtX0jaNL8IjVQfrDBx81z",
+          "track_id": "6GtX0jaNL8IjVQfrDBx81z",
+          "spotify_url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z",
+          "comment": 0
+        },
+        {
+          "title": "Blue Pill Blues",
+          "artist": "Early James",
+          "album": "Singing for My Supper",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:6mFWXPietqhGexi0hkNH1B",
+          "track_id": "6mFWXPietqhGexi0hkNH1B",
+          "spotify_url": "https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B",
+          "comment": 0
+        },
+        {
+          "title": "Flagpole Sitta",
+          "artist": "Harvey Danger",
+          "album": "Where Have All The Merrymakers Gone?",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:7cz70nyRXlCJOE85whEkgU",
+          "track_id": "7cz70nyRXlCJOE85whEkgU",
+          "spotify_url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU",
+          "comment": 0
+        },
+        {
+          "title": "Awake and Alive",
+          "artist": "Skillet",
+          "album": "Awake",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:0nkzd3yNniB767zSDDdLZ3",
+          "track_id": "0nkzd3yNniB767zSDDdLZ3",
+          "spotify_url": "https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3",
+          "comment": 0
+        },
+        {
+          "title": "Gooey",
+          "artist": "Glass Animals",
+          "album": "ZABA",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:1gk3FhAV07q9Jg77UxnVjX",
+          "track_id": "1gk3FhAV07q9Jg77UxnVjX",
+          "spotify_url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX",
+          "comment": 0
+        },
+        {
+          "title": "Shit Outta Luck",
+          "artist": "The Mighty Mighty Bosstones",
+          "album": "A Jackknife to a Swan",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:1gTuTO8sKu9cE5OIiqEny1",
+          "track_id": "1gTuTO8sKu9cE5OIiqEny1",
+          "spotify_url": "https://open.spotify.com/track/1gTuTO8sKu9cE5OIiqEny1",
+          "comment": 0
+        },
+        {
+          "title": "do a little dope (live)",
+          "artist": "Field Medic",
+          "album": "Songs from the Sunroom",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:1sQ0QvlExFREts66IrAvEw",
+          "track_id": "1sQ0QvlExFREts66IrAvEw",
+          "spotify_url": "https://open.spotify.com/track/1sQ0QvlExFREts66IrAvEw",
+          "comment": 0
+        },
+        {
+          "title": "1985",
+          "artist": "Sumbuck, Heartless Bastards",
+          "album": "Sugarmuffin / 1985",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:1X5yy96QyQjZJRy6VOy3Ua",
+          "track_id": "1X5yy96QyQjZJRy6VOy3Ua",
+          "spotify_url": "https://open.spotify.com/track/1X5yy96QyQjZJRy6VOy3Ua",
+          "comment": 0
+        },
+        {
+          "title": "Dad I'm In Jail",
+          "artist": "Was (Not Was)",
+          "album": "What Up, Dog?",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:3mYqv3848iFXRycT1AbQ3R",
+          "track_id": "3mYqv3848iFXRycT1AbQ3R",
+          "spotify_url": "https://open.spotify.com/track/3mYqv3848iFXRycT1AbQ3R",
+          "comment": 0
+        },
+        {
+          "title": "Hammer Smashed Face",
+          "artist": "Cannibal Corpse",
+          "album": "Tomb of the Mutilated",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:4pFC6tuWErxbO61oFFq3BQ",
+          "track_id": "4pFC6tuWErxbO61oFFq3BQ",
+          "spotify_url": "https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ",
+          "comment": 0
+        },
+        {
+          "title": "In Hell",
+          "artist": "Japanese Breakfast",
+          "album": "Jubilee",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:6AbCMuMMJbBcTtt2IaC0Wq",
+          "track_id": "6AbCMuMMJbBcTtt2IaC0Wq",
+          "spotify_url": "https://open.spotify.com/track/6AbCMuMMJbBcTtt2IaC0Wq",
+          "comment": 0
+        },
+        {
+          "title": "Blow Me Away - Featuring Valora",
+          "artist": "Breaking Benjamin, Valora",
+          "album": "Shallow Bay: The Best Of Breaking Benjamin (Explicit)",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:6wDVNn4STCopwfQ9lFO2iR",
+          "track_id": "6wDVNn4STCopwfQ9lFO2iR",
+          "spotify_url": "https://open.spotify.com/track/6wDVNn4STCopwfQ9lFO2iR",
+          "comment": 0
+        }
+      ],
+      "leaderboard": [
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "points": 23,
+          "rank": 1
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "points": 17,
+          "rank": 2
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "points": 17,
+          "rank": 2
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "points": 15,
+          "rank": 4
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "points": 9,
+          "rank": 5
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "points": 8,
+          "rank": 6
+        },
+        {
+          "player_id": "605a6a083d2d4ad781df783c4a21b505",
+          "player": "Hunter A.",
+          "points": 8,
+          "rank": 6
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 5,
+          "rank": 11
+        },
+        {
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
+          "points": 5,
+          "rank": 11
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 4,
+          "rank": 13
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "points": 2,
+          "rank": 17
+        },
+        {
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
+          "points": 1,
+          "rank": 18
+        },
+        {
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "player": "Brooks K.",
+          "points": 0,
+          "rank": 19
+        },
+        {
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
+          "points": 0,
+          "rank": 19
+        },
+        {
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "player": "Henry L.",
+          "points": 0,
+          "rank": 19
+        }
+      ],
+      "missed_points": [
+        {
+          "player": "Brooks K.",
+          "total_missed": 12,
+          "songs": 2
+        },
+        {
+          "player": "Will B.",
+          "total_missed": 12,
+          "songs": 2
+        },
+        {
+          "player": "Henry L.",
+          "total_missed": 12,
+          "songs": 2
+        }
+      ],
+      "generosity": [
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "avg_per_vote": 2.0,
+          "total_songs_voted": 5,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "avg_per_vote": 2.0,
+          "total_songs_voted": 5,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "605a6a083d2d4ad781df783c4a21b505",
+          "player": "Hunter A.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        }
+      ],
+      "vote_details": [
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Cotton Eye Joe",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points": 0
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "End of Beginning",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "We Are Fucking Fucked",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Blue Pill Blues",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Far Behind",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Methhead",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Nutshell",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Ironic",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "The Past Is A Grotesque Animal",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points": 3
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "Too Drunk to Fuck",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 2
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Climbing Up the Walls",
+          "points": 1
+        },
+        {
+          "voter_id": "76a55817271e454fad8f84efdc032dc5",
+          "voter": "Kevin D.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 2
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "We Are Fucking Fucked",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Methhead",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Flagpole Sitta",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Breaking the Habit",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crystal Express",
+          "points": 1
+        },
+        {
+          "voter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "voter": "Patrick C.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Move Along",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Creep",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Breaking the Habit",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Move Along",
+          "points": 2
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "End of Beginning",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Far Behind",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Methhead",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 2
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "The Past Is A Grotesque Animal",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crystal Express",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "(Don't Fear) The Reaper",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Breaking the Habit",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Creep",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "do a little dope (live)",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 2
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "End of Beginning",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Same Old Lie",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Creep",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Nutshell",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Methhead",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "(Don't Fear) The Reaper",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Blue Pill Blues",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Worms",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crystal Express",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "End of Beginning",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Climbing Up the Walls",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Nutshell",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Clubbed to Death - Kurayamino Variation",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Flagpole Sitta",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Breaking the Habit",
+          "points": 1
+        },
+        {
+          "voter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "voter": "Blake A.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Bullet With Butterfly Wings - Remastered 2012",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Fake It",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "End of Beginning",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Far Behind",
+          "points": 2
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Nutshell",
+          "points": 3
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Clubbed to Death - Kurayamino Variation",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Worms",
+          "points": 2
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "Same Old Lie",
+          "points": 1
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 2
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crystal Express",
+          "points": 1
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 1
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Bullet With Butterfly Wings - Remastered 2012",
+          "points": 1
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Breaking the Habit",
+          "points": 1
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points": 1
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Breaking the Habit",
+          "points": 2
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "One More Time",
+          "points": 1
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Move Along",
+          "points": 5
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "We Are Fucking Fucked",
+          "points": 1
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Nutshell",
+          "points": 3
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 2
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 3
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Creep",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "submitter": "Hilton H.",
+          "song": "Awake and Alive",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Far Behind",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "submitter": "Blake A.",
+          "song": "The Past Is A Grotesque Animal",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Fake It",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Ironic",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "submitter": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points": 1
+        },
+        {
+          "voter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "voter": "TR C.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 5
+        },
+        {
+          "voter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "voter": "TR C.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Shit Outta Luck",
+          "points": 1
+        },
+        {
+          "voter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "voter": "TR C.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 1
+        },
+        {
+          "voter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "voter": "TR C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "voter": "TR C.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "Too Drunk to Fuck",
+          "points": 1
+        },
+        {
+          "voter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "voter": "TR C.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "76a55817271e454fad8f84efdc032dc5",
+          "submitter": "Kevin D.",
+          "song": "Cotton Eye Joe",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 3
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "End of Beginning",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Fake It",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 1
+        },
+        {
+          "voter_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "voter": "Hilton H.",
+          "submitter_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "submitter": "Henry L.",
+          "song": "Move Along",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Grillz",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "One More Time",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Gooey",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hurt",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "submitter": "Patrick C.",
+          "song": "Too Drunk to Fuck",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Through The Wire",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pulling Teeth",
+          "points": 1
+        },
+        {
+          "voter_id": "605a6a083d2d4ad781df783c4a21b505",
+          "voter": "Hunter A.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Creep",
+          "points": 1
+        }
+      ],
+      "stats": {
+        "total_submissions": 42,
+        "total_votes": 150,
+        "unique_voters": 18,
+        "unique_submitters": 21
+      }
     }
   ],
   "season_leaderboard": [
+    {
+      "player_id": "5838e19081f440598e554c420f257ab7",
+      "player": "Mills T.",
+      "points": 42,
+      "rounds_played": 3,
+      "wins": 1,
+      "avg_per_round": 14.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 19,
+          "rank": 1
+        },
+        {
+          "round": 3,
+          "points": 17,
+          "rank": 2
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+      "player": "Dray E.",
+      "points": 37,
+      "rounds_played": 3,
+      "wins": 0,
+      "avg_per_round": 12.3,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "round": 2,
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "round": 3,
+          "points": 17,
+          "rank": 2
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "player_id": "b250f6659575461db5ee96f4e5705023",
+      "player": "Kennon S.",
+      "points": 36,
+      "rounds_played": 3,
+      "wins": 0,
+      "avg_per_round": 12.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 13,
+          "rank": 2
+        },
+        {
+          "round": 2,
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 8
+        }
+      ],
+      "rank": 3
+    },
     {
       "player_id": "62ce05b4abe5441b9504d25b59208a99",
       "player": "Jake C.",
@@ -3267,57 +5381,15 @@
           "rank": 4
         }
       ],
-      "rank": 1
-    },
-    {
-      "player_id": "b250f6659575461db5ee96f4e5705023",
-      "player": "Kennon S.",
-      "points": 29,
-      "rounds_played": 2,
-      "wins": 0,
-      "avg_per_round": 14.5,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 13,
-          "rank": 2
-        },
-        {
-          "round": 2,
-          "points": 16,
-          "rank": 2
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "player_id": "5838e19081f440598e554c420f257ab7",
-      "player": "Mills T.",
-      "points": 25,
-      "rounds_played": 2,
-      "wins": 1,
-      "avg_per_round": 12.5,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 6,
-          "rank": 7
-        },
-        {
-          "round": 2,
-          "points": 19,
-          "rank": 1
-        }
-      ],
-      "rank": 3
+      "rank": 4
     },
     {
       "player_id": "fa73648bd3f34bc6980fe57087f351f5",
       "player": "Chris V.",
-      "points": 22,
-      "rounds_played": 2,
+      "points": 27,
+      "rounds_played": 3,
       "wins": 0,
-      "avg_per_round": 11.0,
+      "avg_per_round": 9.0,
       "weekly": [
         {
           "round": 1,
@@ -3328,59 +5400,22 @@
           "round": 2,
           "points": 14,
           "rank": 4
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
-      "player": "Dray E.",
-      "points": 20,
-      "rounds_played": 2,
-      "wins": 0,
-      "avg_per_round": 10.0,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 8,
-          "rank": 5
         },
         {
-          "round": 2,
-          "points": 12,
-          "rank": 7
+          "round": 3,
+          "points": 5,
+          "rank": 11
         }
       ],
       "rank": 5
     },
     {
-      "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
-      "player": "Ben Z.",
-      "points": 17,
-      "rounds_played": 2,
-      "wins": 0,
-      "avg_per_round": 8.5,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 9,
-          "rank": 3
-        },
-        {
-          "round": 2,
-          "points": 8,
-          "rank": 11
-        }
-      ],
-      "rank": 6
-    },
-    {
       "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
       "player": "Ford L.",
-      "points": 16,
-      "rounds_played": 2,
+      "points": 25,
+      "rounds_played": 3,
       "wins": 0,
-      "avg_per_round": 8.0,
+      "avg_per_round": 8.3,
       "weekly": [
         {
           "round": 1,
@@ -3391,6 +5426,27 @@
           "round": 2,
           "points": 10,
           "rank": 8
+        },
+        {
+          "round": 3,
+          "points": 9,
+          "rank": 5
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "player_id": "43941604052d45488a63065923e84f19",
+      "player": "Emory L.",
+      "points": 23,
+      "rounds_played": 1,
+      "wins": 1,
+      "avg_per_round": 23.0,
+      "weekly": [
+        {
+          "round": 3,
+          "points": 23,
+          "rank": 1
         }
       ],
       "rank": 7
@@ -3398,35 +5454,71 @@
     {
       "player_id": "605a6a083d2d4ad781df783c4a21b505",
       "player": "Hunter A.",
-      "points": 15,
-      "rounds_played": 1,
+      "points": 23,
+      "rounds_played": 2,
       "wins": 0,
-      "avg_per_round": 15.0,
+      "avg_per_round": 11.5,
       "weekly": [
         {
           "round": 2,
           "points": 15,
           "rank": 3
+        },
+        {
+          "round": 3,
+          "points": 8,
+          "rank": 6
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
-      "player_id": "7167404f66594c58a6bda0cce98ca1f2",
-      "player": "Hilton H.",
-      "points": 13,
-      "rounds_played": 2,
+      "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+      "player": "Ben Z.",
+      "points": 19,
+      "rounds_played": 3,
       "wins": 0,
-      "avg_per_round": 6.5,
+      "avg_per_round": 6.3,
       "weekly": [
         {
           "round": 1,
-          "points": 3,
-          "rank": 12
+          "points": 9,
+          "rank": 3
         },
         {
           "round": 2,
-          "points": 10,
+          "points": 8,
+          "rank": 11
+        },
+        {
+          "round": 3,
+          "points": 2,
+          "rank": 17
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "player_id": "90defa7481ce45f4acfc02ba3792e834",
+      "player": "Schuyler M.",
+      "points": 19,
+      "rounds_played": 3,
+      "wins": 0,
+      "avg_per_round": 6.3,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 6,
+          "rank": 12
+        },
+        {
+          "round": 3,
+          "points": 7,
           "rank": 8
         }
       ],
@@ -3435,10 +5527,10 @@
     {
       "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
       "player": "Giles G.",
-      "points": 13,
-      "rounds_played": 2,
+      "points": 16,
+      "rounds_played": 3,
       "wins": 0,
-      "avg_per_round": 6.5,
+      "avg_per_round": 5.3,
       "weekly": [
         {
           "round": 1,
@@ -3449,17 +5541,22 @@
           "round": 2,
           "points": 13,
           "rank": 6
+        },
+        {
+          "round": 3,
+          "points": 3,
+          "rank": 14
         }
       ],
-      "rank": 9
+      "rank": 11
     },
     {
       "player_id": "4610c4dc5b5c44f09d2c378332135b67",
       "player": "Jack A.",
-      "points": 12,
-      "rounds_played": 2,
+      "points": 15,
+      "rounds_played": 3,
       "wins": 0,
-      "avg_per_round": 6.0,
+      "avg_per_round": 5.0,
       "weekly": [
         {
           "round": 1,
@@ -3470,54 +5567,106 @@
           "round": 2,
           "points": 3,
           "rank": 14
+        },
+        {
+          "round": 3,
+          "points": 3,
+          "rank": 14
         }
       ],
-      "rank": 11
+      "rank": 12
     },
     {
-      "player_id": "90defa7481ce45f4acfc02ba3792e834",
-      "player": "Schuyler M.",
-      "points": 12,
-      "rounds_played": 2,
+      "player_id": "5210623e41984e4684fd204317a73149",
+      "player": "Coates C.",
+      "points": 15,
+      "rounds_played": 1,
       "wins": 0,
-      "avg_per_round": 6.0,
+      "avg_per_round": 15.0,
+      "weekly": [
+        {
+          "round": 3,
+          "points": 15,
+          "rank": 4
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+      "player": "Hilton H.",
+      "points": 14,
+      "rounds_played": 3,
+      "wins": 0,
+      "avg_per_round": 4.7,
       "weekly": [
         {
           "round": 1,
-          "points": 6,
-          "rank": 7
+          "points": 3,
+          "rank": 12
         },
         {
           "round": 2,
-          "points": 6,
-          "rank": 12
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "round": 3,
+          "points": 1,
+          "rank": 18
         }
       ],
-      "rank": 11
+      "rank": 14
     },
     {
       "player_id": "25fef29f0b2243548626ee1713e3b1f9",
       "player": "Blake A.",
-      "points": 9,
-      "rounds_played": 1,
+      "points": 14,
+      "rounds_played": 2,
       "wins": 0,
-      "avg_per_round": 9.0,
+      "avg_per_round": 7.0,
       "weekly": [
         {
           "round": 2,
           "points": 9,
           "rank": 10
+        },
+        {
+          "round": 3,
+          "points": 5,
+          "rank": 11
         }
       ],
-      "rank": 13
+      "rank": 14
+    },
+    {
+      "player_id": "2b989686f7054740af2017ae1a829d68",
+      "player": "Frank L.",
+      "points": 11,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 5.5,
+      "weekly": [
+        {
+          "round": 2,
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "round": 3,
+          "points": 8,
+          "rank": 6
+        }
+      ],
+      "rank": 16
     },
     {
       "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
       "player": "Patrick C.",
-      "points": 7,
-      "rounds_played": 2,
+      "points": 10,
+      "rounds_played": 3,
       "wins": 0,
-      "avg_per_round": 3.5,
+      "avg_per_round": 3.3,
       "weekly": [
         {
           "round": 1,
@@ -3528,9 +5677,61 @@
           "round": 2,
           "points": 3,
           "rank": 14
+        },
+        {
+          "round": 3,
+          "points": 3,
+          "rank": 14
         }
       ],
-      "rank": 14
+      "rank": 17
+    },
+    {
+      "player_id": "76a55817271e454fad8f84efdc032dc5",
+      "player": "Kevin D.",
+      "points": 9,
+      "rounds_played": 3,
+      "wins": 0,
+      "avg_per_round": 3.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 5,
+          "rank": 13
+        },
+        {
+          "round": 3,
+          "points": 4,
+          "rank": 13
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+      "player": "TR C.",
+      "points": 7,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 3.5,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 8
+        }
+      ],
+      "rank": 19
     },
     {
       "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
@@ -3546,60 +5747,28 @@
           "rank": 10
         }
       ],
-      "rank": 15
-    },
-    {
-      "player_id": "76a55817271e454fad8f84efdc032dc5",
-      "player": "Kevin D.",
-      "points": 5,
-      "rounds_played": 2,
-      "wins": 0,
-      "avg_per_round": 2.5,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 0,
-          "rank": 14
-        },
-        {
-          "round": 2,
-          "points": 5,
-          "rank": 13
-        }
-      ],
-      "rank": 15
+      "rank": 20
     },
     {
       "player_id": "79cab84806c54bf0b59b34c5b2977d78",
       "player": "Henry L.",
       "points": 3,
-      "rounds_played": 1,
+      "rounds_played": 2,
       "wins": 0,
-      "avg_per_round": 3.0,
+      "avg_per_round": 1.5,
       "weekly": [
         {
           "round": 1,
           "points": 3,
           "rank": 12
-        }
-      ],
-      "rank": 17
-    },
-    {
-      "player_id": "2b989686f7054740af2017ae1a829d68",
-      "player": "Frank L.",
-      "points": 3,
-      "rounds_played": 1,
-      "wins": 0,
-      "avg_per_round": 3.0,
-      "weekly": [
+        },
         {
-          "round": 2,
-          "points": 3,
-          "rank": 14
+          "round": 3,
+          "points": 0,
+          "rank": 19
         }
       ],
-      "rank": 17
+      "rank": 21
     },
     {
       "player_id": "e004e6544dff44bdb1687ec8fb03f137",
@@ -3615,13 +5784,13 @@
           "rank": 14
         }
       ],
-      "rank": 19
+      "rank": 22
     },
     {
       "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
       "player": "Will B.",
       "points": 0,
-      "rounds_played": 1,
+      "rounds_played": 2,
       "wins": 0,
       "avg_per_round": 0.0,
       "weekly": [
@@ -3629,15 +5798,20 @@
           "round": 1,
           "points": 0,
           "rank": 14
+        },
+        {
+          "round": 3,
+          "points": 0,
+          "rank": 19
         }
       ],
-      "rank": 19
+      "rank": 22
     },
     {
       "player_id": "0795aaf6eeca40eaac6661edd291cce2",
       "player": "Brooks K.",
       "points": 0,
-      "rounds_played": 1,
+      "rounds_played": 2,
       "wins": 0,
       "avg_per_round": 0.0,
       "weekly": [
@@ -3645,25 +5819,14 @@
           "round": 1,
           "points": 0,
           "rank": 14
-        }
-      ],
-      "rank": 19
-    },
-    {
-      "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-      "player": "TR C.",
-      "points": 0,
-      "rounds_played": 1,
-      "wins": 0,
-      "avg_per_round": 0.0,
-      "weekly": [
+        },
         {
-          "round": 1,
+          "round": 3,
           "points": 0,
-          "rank": 14
+          "rank": 19
         }
       ],
-      "rank": 19
+      "rank": 22
     }
   ],
   "player_profiles": {
@@ -3690,11 +5853,31 @@
           "unique_voters": 1,
           "track_id": "65UCejW01DAovmluVYHWAt",
           "spotify_url": "https://open.spotify.com/track/65UCejW01DAovmluVYHWAt"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "I Hate Myself And Want To Die - 2013 Mix",
+          "artist": "Nirvana",
+          "total_pts": 9,
+          "unique_voters": 9,
+          "track_id": "1kwsUMjFuePZBNB56gQYoA",
+          "spotify_url": "https://open.spotify.com/track/1kwsUMjFuePZBNB56gQYoA"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "We Are Fucking Fucked",
+          "artist": "Muse",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "5IumuUJqNO7K5SvniuDrBz",
+          "spotify_url": "https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz"
         }
       ],
       "voting_history": [],
       "season_points": 0,
-      "rounds_played": 1
+      "rounds_played": 2
     },
     "0a831b84b60a4aaca7c6f3150bbccb88": {
       "id": "0a831b84b60a4aaca7c6f3150bbccb88",
@@ -3739,6 +5922,26 @@
           "unique_voters": 4,
           "track_id": "3XG7bMVcMWLIn2k9jLAaAt",
           "spotify_url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "artist": "Widespread Panic",
+          "total_pts": 9,
+          "unique_voters": 9,
+          "track_id": "29olPahMnkf0gXlZNHK5Dd",
+          "spotify_url": "https://open.spotify.com/track/29olPahMnkf0gXlZNHK5Dd"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "My Shit's Fucked Up",
+          "artist": "Warren Zevon",
+          "total_pts": 8,
+          "unique_voters": 5,
+          "track_id": "6RNp2KtAPVQWRHS6FdjNWG",
+          "spotify_url": "https://open.spotify.com/track/6RNp2KtAPVQWRHS6FdjNWG"
         }
       ],
       "voting_history": [
@@ -3867,10 +6070,70 @@
           "voted_for": "Hunter A.",
           "song": "The Funeral",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Ford L.",
+          "song": "Nutshell",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kennon S.",
+          "song": "Methhead",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "(Don't Fear) The Reaper",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Ben Z.",
+          "song": "Blue Pill Blues",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Jack A.",
+          "song": "Worms",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points_given": 1
         }
       ],
-      "season_points": 20,
-      "rounds_played": 2
+      "season_points": 37,
+      "rounds_played": 3
     },
     "25fef29f0b2243548626ee1713e3b1f9": {
       "id": "25fef29f0b2243548626ee1713e3b1f9",
@@ -3895,6 +6158,26 @@
           "unique_voters": 4,
           "track_id": "73t2Pgt4t7TCIK7Zl68uhS",
           "spotify_url": "https://open.spotify.com/track/73t2Pgt4t7TCIK7Zl68uhS"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "The Past Is A Grotesque Animal",
+          "artist": "of Montreal",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "49zjoxttEw4g0ohNoA2GK5",
+          "spotify_url": "https://open.spotify.com/track/49zjoxttEw4g0ohNoA2GK5"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Same Old Lie",
+          "artist": "Jim James",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "4brFJB8zJ09ECp5rvTwL8Z",
+          "spotify_url": "https://open.spotify.com/track/4brFJB8zJ09ECp5rvTwL8Z"
         }
       ],
       "voting_history": [
@@ -3939,10 +6222,70 @@
           "voted_for": "Mills T.",
           "song": "Pumped Up Kicks",
           "points_given": 3
+        },
+        {
+          "round": 3,
+          "voted_for": "Chris V.",
+          "song": "Crystal Express",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "End of Beginning",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kennon S.",
+          "song": "Climbing Up the Walls",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Ford L.",
+          "song": "Nutshell",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Schuyler M.",
+          "song": "Clubbed to Death - Kurayamino Variation",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kevin D.",
+          "song": "Flagpole Sitta",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Breaking the Habit",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "TR C.",
+          "song": "Bullet With Butterfly Wings - Remastered 2012",
+          "points_given": 1
         }
       ],
-      "season_points": 9,
-      "rounds_played": 1
+      "season_points": 14,
+      "rounds_played": 2
     },
     "2b989686f7054740af2017ae1a829d68": {
       "id": "2b989686f7054740af2017ae1a829d68",
@@ -3967,6 +6310,26 @@
           "unique_voters": 0,
           "track_id": "1BlQWQgGP84r4GYUVty4Ar",
           "spotify_url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "End of Beginning",
+          "artist": "Djo",
+          "total_pts": 6,
+          "unique_voters": 6,
+          "track_id": "3qhlB30KknSejmIvZZLjOD",
+          "spotify_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "(Don't Fear) The Reaper",
+          "artist": "Blue \u00d6yster Cult",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "5QTxFnGygVM4jFQiBovmRo",
+          "spotify_url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
         }
       ],
       "voting_history": [
@@ -4005,10 +6368,40 @@
           "voted_for": "Hunter A.",
           "song": "The Funeral",
           "points_given": 3
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Breaking the Habit",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Giles G.",
+          "song": "One More Time",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Henry L.",
+          "song": "Move Along",
+          "points_given": 5
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "We Are Fucking Fucked",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 1
         }
       ],
-      "season_points": 3,
-      "rounds_played": 1
+      "season_points": 11,
+      "rounds_played": 2
     },
     "2fed7a01277b4496a86f52fd504a9dcd": {
       "id": "2fed7a01277b4496a86f52fd504a9dcd",
@@ -4033,19 +6426,158 @@
           "unique_voters": 0,
           "track_id": "5pihM63Tj50g1XjLxq0iU8",
           "spotify_url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Creep",
+          "artist": "Radiohead",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "track_id": "70LcF31zb1H0PyJoS1Sx1r",
+          "spotify_url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Bullet With Butterfly Wings - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "6GtX0jaNL8IjVQfrDBx81z",
+          "spotify_url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
         }
       ],
-      "voting_history": [],
-      "season_points": 0,
-      "rounds_played": 1
+      "voting_history": [
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 5
+        },
+        {
+          "round": 3,
+          "voted_for": "Giles G.",
+          "song": "Shit Outta Luck",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Patrick C.",
+          "song": "Too Drunk to Fuck",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 1
+        }
+      ],
+      "season_points": 7,
+      "rounds_played": 2
     },
     "43941604052d45488a63065923e84f19": {
       "id": "43941604052d45488a63065923e84f19",
       "name": "Emory L.",
-      "submissions": [],
-      "voting_history": [],
-      "season_points": 0,
-      "rounds_played": 0
+      "submissions": [
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Hurt",
+          "artist": "Johnny Cash",
+          "total_pts": 13,
+          "unique_voters": 8,
+          "track_id": "28cnXtME493VX9NOw9cIUh",
+          "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Pulling Teeth",
+          "artist": "Green Day",
+          "total_pts": 10,
+          "unique_voters": 8,
+          "track_id": "5z2XqieaqxpCJc3ntZ6Ye3",
+          "spotify_url": "https://open.spotify.com/track/5z2XqieaqxpCJc3ntZ6Ye3"
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kevin D.",
+          "song": "Cotton Eye Joe",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points_given": 0
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "End of Beginning",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "We Are Fucking Fucked",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points_given": 2
+        }
+      ],
+      "season_points": 23,
+      "rounds_played": 1
     },
     "4610c4dc5b5c44f09d2c378332135b67": {
       "id": "4610c4dc5b5c44f09d2c378332135b67",
@@ -4090,6 +6622,26 @@
           "unique_voters": 1,
           "track_id": "4UEQ45wYDdFCvCDhRk6AbC",
           "spotify_url": "https://open.spotify.com/track/4UEQ45wYDdFCvCDhRk6AbC"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Worms",
+          "artist": "Viagra Boys",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "track_id": "0mcspj4ScW3ZF3OILnvr4i",
+          "spotify_url": "https://open.spotify.com/track/0mcspj4ScW3ZF3OILnvr4i"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Hammer Smashed Face",
+          "artist": "Cannibal Corpse",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "4pFC6tuWErxbO61oFFq3BQ",
+          "spotify_url": "https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ"
         }
       ],
       "voting_history": [
@@ -4170,10 +6722,58 @@
           "voted_for": "Mills T.",
           "song": "Pumped Up Kicks",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Ironic",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Blake A.",
+          "song": "The Past Is A Grotesque Animal",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points_given": 3
         }
       ],
-      "season_points": 12,
-      "rounds_played": 2
+      "season_points": 15,
+      "rounds_played": 3
     },
     "4c65c5fb8d1b4ea498df50e2d87a7da6": {
       "id": "4c65c5fb8d1b4ea498df50e2d87a7da6",
@@ -4186,10 +6786,86 @@
     "5210623e41984e4684fd204317a73149": {
       "id": "5210623e41984e4684fd204317a73149",
       "name": "Coates C.",
-      "submissions": [],
-      "voting_history": [],
-      "season_points": 0,
-      "rounds_played": 0
+      "submissions": [
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Grillz",
+          "artist": "Nelly, Paul Wall, Ali & Gipp",
+          "total_pts": 14,
+          "unique_voters": 8,
+          "track_id": "0Aqlt4N5h6rUtKnd09VXpr",
+          "spotify_url": "https://open.spotify.com/track/0Aqlt4N5h6rUtKnd09VXpr"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "do a little dope (live)",
+          "artist": "Field Medic",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "1sQ0QvlExFREts66IrAvEw",
+          "spotify_url": "https://open.spotify.com/track/1sQ0QvlExFREts66IrAvEw"
+        }
+      ],
+      "voting_history": [
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Blake A.",
+          "song": "Same Old Lie",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Chris V.",
+          "song": "Crystal Express",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "TR C.",
+          "song": "Bullet With Butterfly Wings - Remastered 2012",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Breaking the Habit",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points_given": 1
+        }
+      ],
+      "season_points": 15,
+      "rounds_played": 1
     },
     "5838e19081f440598e554c420f257ab7": {
       "id": "5838e19081f440598e554c420f257ab7",
@@ -4234,6 +6910,26 @@
           "unique_voters": 4,
           "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
           "spotify_url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Through The Wire",
+          "artist": "Kanye West",
+          "total_pts": 11,
+          "unique_voters": 9,
+          "track_id": "4mmkhcEm1Ljy1U9nwtsxUo",
+          "spotify_url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "artist": "The Smiths",
+          "total_pts": 6,
+          "unique_voters": 7,
+          "track_id": "1H5N26VqHR4JhuaRKY2I0u",
+          "spotify_url": "https://open.spotify.com/track/1H5N26VqHR4JhuaRKY2I0u"
         }
       ],
       "voting_history": [
@@ -4332,10 +7028,58 @@
           "voted_for": "Ford L.",
           "song": "The Wreck of the Edmund Fitzgerald",
           "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Ben Z.",
+          "song": "Blue Pill Blues",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Far Behind",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kennon S.",
+          "song": "Methhead",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Ford L.",
+          "song": "Nutshell",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points_given": 1
         }
       ],
-      "season_points": 25,
-      "rounds_played": 2
+      "season_points": 42,
+      "rounds_played": 3
     },
     "605a6a083d2d4ad781df783c4a21b505": {
       "id": "605a6a083d2d4ad781df783c4a21b505",
@@ -4360,6 +7104,26 @@
           "unique_voters": 5,
           "track_id": "0UV5zxRMz6AO4ZwUOZNIKI",
           "spotify_url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Everybody Hurts",
+          "artist": "R.E.M.",
+          "total_pts": 6,
+          "unique_voters": 6,
+          "track_id": "6PypGyiu0Y2lCDBN1XZEnP",
+          "spotify_url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Ironic",
+          "artist": "Alanis Morissette",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "4oGTdOClZUxcM2H3UmXlwL",
+          "spotify_url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
         }
       ],
       "voting_history": [
@@ -4416,10 +7180,70 @@
           "voted_for": "Mills T.",
           "song": "Pumped Up Kicks",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Giles G.",
+          "song": "One More Time",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Chris V.",
+          "song": "Gooey",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Patrick C.",
+          "song": "Too Drunk to Fuck",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "TR C.",
+          "song": "Creep",
+          "points_given": 1
         }
       ],
-      "season_points": 15,
-      "rounds_played": 1
+      "season_points": 23,
+      "rounds_played": 2
     },
     "62ce05b4abe5441b9504d25b59208a99": {
       "id": "62ce05b4abe5441b9504d25b59208a99",
@@ -4610,6 +7434,26 @@
           "unique_voters": 0,
           "track_id": "35UO6dWrEPLmeSVXtAysS4",
           "spotify_url": "https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Too Drunk to Fuck",
+          "artist": "Dead Kennedys",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "2YNBPkmoFX3uFOh1HAz82w",
+          "spotify_url": "https://open.spotify.com/track/2YNBPkmoFX3uFOh1HAz82w"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Dad I'm In Jail",
+          "artist": "Was (Not Was)",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "3mYqv3848iFXRycT1AbQ3R",
+          "spotify_url": "https://open.spotify.com/track/3mYqv3848iFXRycT1AbQ3R"
         }
       ],
       "voting_history": [
@@ -4726,10 +7570,70 @@
           "voted_for": "Ben Z.",
           "song": "Last Resort",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "We Are Fucking Fucked",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kennon S.",
+          "song": "Methhead",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kevin D.",
+          "song": "Flagpole Sitta",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Breaking the Habit",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Chris V.",
+          "song": "Crystal Express",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Henry L.",
+          "song": "Move Along",
+          "points_given": 1
         }
       ],
-      "season_points": 7,
-      "rounds_played": 2
+      "season_points": 10,
+      "rounds_played": 3
     },
     "7167404f66594c58a6bda0cce98ca1f2": {
       "id": "7167404f66594c58a6bda0cce98ca1f2",
@@ -4774,6 +7678,26 @@
           "unique_voters": 3,
           "track_id": "2ibiJCDgb0N53RXRtYsDtg",
           "spotify_url": "https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Awake and Alive",
+          "artist": "Skillet",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "0nkzd3yNniB767zSDDdLZ3",
+          "spotify_url": "https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Blow Me Away - Featuring Valora",
+          "artist": "Breaking Benjamin, Valora",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "6wDVNn4STCopwfQ9lFO2iR",
+          "spotify_url": "https://open.spotify.com/track/6wDVNn4STCopwfQ9lFO2iR"
         }
       ],
       "voting_history": [
@@ -4866,10 +7790,58 @@
           "voted_for": "Schuyler M.",
           "song": "Running on Empty",
           "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kevin D.",
+          "song": "Cotton Eye Joe",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 3
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "End of Beginning",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Henry L.",
+          "song": "Fake It",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Henry L.",
+          "song": "Move Along",
+          "points_given": 1
         }
       ],
-      "season_points": 13,
-      "rounds_played": 2
+      "season_points": 14,
+      "rounds_played": 3
     },
     "76a55817271e454fad8f84efdc032dc5": {
       "id": "76a55817271e454fad8f84efdc032dc5",
@@ -4914,6 +7886,26 @@
           "unique_voters": 2,
           "track_id": "5YzzWlWfAVNvtduNDHKhHc",
           "spotify_url": "https://open.spotify.com/track/5YzzWlWfAVNvtduNDHKhHc"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Cotton Eye Joe",
+          "artist": "Rednex",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "0Jg602cHeMCnPez9baacIe",
+          "spotify_url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Flagpole Sitta",
+          "artist": "Harvey Danger",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "7cz70nyRXlCJOE85whEkgU",
+          "spotify_url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU"
         }
       ],
       "voting_history": [
@@ -4952,10 +7944,58 @@
           "voted_for": "Ben Z.",
           "song": "This Kiss",
           "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Patrick C.",
+          "song": "Too Drunk to Fuck",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Schuyler M.",
+          "song": "Where Is My Mind?",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kennon S.",
+          "song": "Climbing Up the Walls",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 2
         }
       ],
-      "season_points": 5,
-      "rounds_played": 2
+      "season_points": 9,
+      "rounds_played": 3
     },
     "79cab84806c54bf0b59b34c5b2977d78": {
       "id": "79cab84806c54bf0b59b34c5b2977d78",
@@ -4980,6 +8020,26 @@
           "unique_voters": 0,
           "track_id": "0ZUo4YjG4saFnEJhdWp9Bt",
           "spotify_url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Move Along",
+          "artist": "The All-American Rejects",
+          "total_pts": 9,
+          "unique_voters": 4,
+          "track_id": "58HpsDKeYoLtNhXFQyQmz5",
+          "spotify_url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Fake It",
+          "artist": "Seether",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "4eAwB5pnKFTmsgc3zWoYO0",
+          "spotify_url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
         }
       ],
       "voting_history": [
@@ -5045,7 +8105,7 @@
         }
       ],
       "season_points": 3,
-      "rounds_played": 1
+      "rounds_played": 2
     },
     "90defa7481ce45f4acfc02ba3792e834": {
       "id": "90defa7481ce45f4acfc02ba3792e834",
@@ -5090,6 +8150,26 @@
           "unique_voters": 1,
           "track_id": "7GEo5JQN8lcqBaj6qyvWw1",
           "spotify_url": "https://open.spotify.com/track/7GEo5JQN8lcqBaj6qyvWw1"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Where Is My Mind?",
+          "artist": "Pixies",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "track_id": "0KzAbK6nItSqNh8q70tb0K",
+          "spotify_url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Clubbed to Death - Kurayamino Variation",
+          "artist": "Rob Dougan",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "0vSVDF2fHaxL2L9eEmRdAK",
+          "spotify_url": "https://open.spotify.com/track/0vSVDF2fHaxL2L9eEmRdAK"
         }
       ],
       "voting_history": [
@@ -5200,10 +8280,64 @@
           "voted_for": "Mills T.",
           "song": "Pumped Up Kicks",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "do a little dope (live)",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "End of Beginning",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Blake A.",
+          "song": "Same Old Lie",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "TR C.",
+          "song": "Creep",
+          "points_given": 1
         }
       ],
-      "season_points": 12,
-      "rounds_played": 2
+      "season_points": 19,
+      "rounds_played": 3
     },
     "98834c6ee0d14f6594017b865fa4d1fb": {
       "id": "98834c6ee0d14f6594017b865fa4d1fb",
@@ -5248,6 +8382,26 @@
           "unique_voters": 4,
           "track_id": "5dTHtzHFPyi8TlTtzoz1J9",
           "spotify_url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Nutshell",
+          "artist": "Alice In Chains",
+          "total_pts": 9,
+          "unique_voters": 5,
+          "track_id": "2JuasWPUodaUxf5nwNpciQ",
+          "spotify_url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "In Hell",
+          "artist": "Japanese Breakfast",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "6AbCMuMMJbBcTtt2IaC0Wq",
+          "spotify_url": "https://open.spotify.com/track/6AbCMuMMJbBcTtt2IaC0Wq"
         }
       ],
       "voting_history": [
@@ -5358,10 +8512,70 @@
           "voted_for": "Ben Z.",
           "song": "Last Resort",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Coates C.",
+          "song": "Grillz",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hilton H.",
+          "song": "Awake and Alive",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Brooks K.",
+          "song": "I Hate Myself And Want To Die - 2013 Mix",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Far Behind",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Blake A.",
+          "song": "The Past Is A Grotesque Animal",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Henry L.",
+          "song": "Fake It",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Ironic",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points_given": 1
         }
       ],
-      "season_points": 16,
-      "rounds_played": 2
+      "season_points": 25,
+      "rounds_played": 3
     },
     "aa8ede356a524849b6e3fe40fea7ea4f": {
       "id": "aa8ede356a524849b6e3fe40fea7ea4f",
@@ -5406,6 +8620,26 @@
           "unique_voters": 2,
           "track_id": "5W8YXBz9MTIDyrpYaCg2Ky",
           "spotify_url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Blue Pill Blues",
+          "artist": "Early James",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "6mFWXPietqhGexi0hkNH1B",
+          "spotify_url": "https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "1985",
+          "artist": "Sumbuck, Heartless Bastards",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "1X5yy96QyQjZJRy6VOy3Ua",
+          "spotify_url": "https://open.spotify.com/track/1X5yy96QyQjZJRy6VOy3Ua"
         }
       ],
       "voting_history": [
@@ -5486,10 +8720,64 @@
           "voted_for": "Blake A.",
           "song": "Enter Sandman - triple j Like a Version",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Blake A.",
+          "song": "The Past Is A Grotesque Animal",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Chris V.",
+          "song": "Crystal Express",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "(Don't Fear) The Reaper",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Breaking the Habit",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "My Shit's Fucked Up",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "TR C.",
+          "song": "Creep",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+          "points_given": 1
         }
       ],
-      "season_points": 17,
-      "rounds_played": 2
+      "season_points": 19,
+      "rounds_played": 3
     },
     "b250f6659575461db5ee96f4e5705023": {
       "id": "b250f6659575461db5ee96f4e5705023",
@@ -5534,6 +8822,26 @@
           "unique_voters": 3,
           "track_id": "4LCzEYKPFcd2FCOmZdVDnM",
           "spotify_url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Methhead",
+          "artist": "Ian Noe",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "track_id": "2mLYN7Hz2czFkZugFscrrb",
+          "spotify_url": "https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Climbing Up the Walls",
+          "artist": "Radiohead",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "2PDQReEXBViVwkrbQ34vd7",
+          "spotify_url": "https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7"
         }
       ],
       "voting_history": [
@@ -5596,10 +8904,46 @@
           "voted_for": "Blake A.",
           "song": "Enter Sandman - triple j Like a Version",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Henry L.",
+          "song": "Fake It",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "End of Beginning",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Far Behind",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Ford L.",
+          "song": "Nutshell",
+          "points_given": 3
+        },
+        {
+          "round": 3,
+          "voted_for": "Schuyler M.",
+          "song": "Clubbed to Death - Kurayamino Variation",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Jack A.",
+          "song": "Worms",
+          "points_given": 2
         }
       ],
-      "season_points": 29,
-      "rounds_played": 2
+      "season_points": 36,
+      "rounds_played": 3
     },
     "c220447f3f8d4e6aa50cbff707c6f3b1": {
       "id": "c220447f3f8d4e6aa50cbff707c6f3b1",
@@ -5644,6 +8988,26 @@
           "unique_voters": 3,
           "track_id": "1C7kuQ0TjfxvEHSFqLEl42",
           "spotify_url": "https://open.spotify.com/track/1C7kuQ0TjfxvEHSFqLEl42"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "One More Time",
+          "artist": "Daft Punk",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "0DiWol3AO6WpXZgp0goxAV",
+          "spotify_url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Shit Outta Luck",
+          "artist": "The Mighty Mighty Bosstones",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "1gTuTO8sKu9cE5OIiqEny1",
+          "spotify_url": "https://open.spotify.com/track/1gTuTO8sKu9cE5OIiqEny1"
         }
       ],
       "voting_history": [
@@ -5700,10 +9064,40 @@
           "voted_for": "Schuyler M.",
           "song": "Running on Empty",
           "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Ford L.",
+          "song": "Nutshell",
+          "points_given": 3
+        },
+        {
+          "round": 3,
+          "voted_for": "Mills T.",
+          "song": "Through The Wire",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 3
+        },
+        {
+          "round": 3,
+          "voted_for": "Hunter A.",
+          "song": "Everybody Hurts",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "TR C.",
+          "song": "Creep",
+          "points_given": 1
         }
       ],
-      "season_points": 13,
-      "rounds_played": 2
+      "season_points": 16,
+      "rounds_played": 3
     },
     "c2de60ec7be74e74ba5ebbd9af18056a": {
       "id": "c2de60ec7be74e74ba5ebbd9af18056a",
@@ -5728,11 +9122,31 @@
           "unique_voters": 2,
           "track_id": "1ESipSqVefdknPg5IBKFND",
           "spotify_url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Breaking the Habit",
+          "artist": "Linkin Park",
+          "total_pts": 7,
+          "unique_voters": 6,
+          "track_id": "6n8TMVyFKoUmDc4apxceRD",
+          "spotify_url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Far Behind",
+          "artist": "Candlebox",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "track_id": "3mhOmh4tRKsMfnRmgZfeBm",
+          "spotify_url": "https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm"
         }
       ],
       "voting_history": [],
       "season_points": 0,
-      "rounds_played": 1
+      "rounds_played": 2
     },
     "e004e6544dff44bdb1687ec8fb03f137": {
       "id": "e004e6544dff44bdb1687ec8fb03f137",
@@ -5878,6 +9292,26 @@
           "unique_voters": 4,
           "track_id": "3RTUfvRgq3pYTf7XY0FIcS",
           "spotify_url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Crystal Express",
+          "artist": "Raury",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "track_id": "58l702tcyPKuXe9br3Grdl",
+          "spotify_url": "https://open.spotify.com/track/58l702tcyPKuXe9br3Grdl"
+        },
+        {
+          "round": 3,
+          "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+          "title": "Gooey",
+          "artist": "Glass Animals",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "1gk3FhAV07q9Jg77UxnVjX",
+          "spotify_url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
         }
       ],
       "voting_history": [
@@ -5964,10 +9398,64 @@
           "voted_for": "Schuyler M.",
           "song": "Running on Empty",
           "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "TR C.",
+          "song": "Creep",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Breaking the Habit",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Pulling Teeth",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Henry L.",
+          "song": "Move Along",
+          "points_given": 2
+        },
+        {
+          "round": 3,
+          "voted_for": "Frank L.",
+          "song": "End of Beginning",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Will B.",
+          "song": "Far Behind",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Kennon S.",
+          "song": "Methhead",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Dray E.",
+          "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+          "points_given": 1
+        },
+        {
+          "round": 3,
+          "voted_for": "Emory L.",
+          "song": "Hurt",
+          "points_given": 1
         }
       ],
-      "season_points": 22,
-      "rounds_played": 2
+      "season_points": 27,
+      "rounds_played": 3
     }
   },
   "voting_affinities": [
@@ -5984,6 +9472,12 @@
       "times": 2
     },
     {
+      "voter": "Dray E.",
+      "submitter": "Mills T.",
+      "total_pts": 5,
+      "times": 5
+    },
+    {
       "voter": "Kennon S.",
       "submitter": "Jake C.",
       "total_pts": 5,
@@ -5994,6 +9488,36 @@
       "submitter": "Dray E.",
       "total_pts": 5,
       "times": 3
+    },
+    {
+      "voter": "Jack A.",
+      "submitter": "Dray E.",
+      "total_pts": 5,
+      "times": 2
+    },
+    {
+      "voter": "Ford L.",
+      "submitter": "Hunter A.",
+      "total_pts": 5,
+      "times": 4
+    },
+    {
+      "voter": "Schuyler M.",
+      "submitter": "Mills T.",
+      "total_pts": 5,
+      "times": 4
+    },
+    {
+      "voter": "Frank L.",
+      "submitter": "Henry L.",
+      "total_pts": 5,
+      "times": 1
+    },
+    {
+      "voter": "TR C.",
+      "submitter": "Coates C.",
+      "total_pts": 5,
+      "times": 1
     },
     {
       "voter": "Dray E.",
@@ -6014,10 +9538,34 @@
       "times": 3
     },
     {
+      "voter": "Mills T.",
+      "submitter": "Kennon S.",
+      "total_pts": 4,
+      "times": 3
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Ford L.",
+      "total_pts": 4,
+      "times": 3
+    },
+    {
+      "voter": "Patrick C.",
+      "submitter": "Mills T.",
+      "total_pts": 4,
+      "times": 3
+    },
+    {
       "voter": "Ben Z.",
       "submitter": "Jake C.",
       "total_pts": 4,
       "times": 2
+    },
+    {
+      "voter": "Ben Z.",
+      "submitter": "Mills T.",
+      "total_pts": 4,
+      "times": 3
     },
     {
       "voter": "Jack A.",
@@ -6030,69 +9578,31 @@
       "submitter": "Mills T.",
       "total_pts": 4,
       "times": 1
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Mills T.",
-      "total_pts": 3,
-      "times": 3
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Kevin D.",
-      "total_pts": 3,
-      "times": 1
-    },
-    {
-      "voter": "Mills T.",
-      "submitter": "Jake C.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Mills T.",
-      "submitter": "Giles G.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Mills T.",
-      "submitter": "Chris V.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Mills T.",
-      "submitter": "Ford L.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Jake C.",
-      "submitter": "Ford L.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Patrick C.",
-      "submitter": "Mills T.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Ford L.",
-      "submitter": "Giles G.",
-      "total_pts": 3,
-      "times": 3
-    },
-    {
-      "voter": "Ben Z.",
-      "submitter": "Kennon S.",
-      "total_pts": 3,
-      "times": 3
     }
   ],
   "hall_of_fame": [
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Grillz",
+      "artist": "Nelly, Paul Wall, Ali & Gipp",
+      "submitter": "Coates C.",
+      "total_pts": 14,
+      "unique_voters": 8,
+      "track_id": "0Aqlt4N5h6rUtKnd09VXpr",
+      "spotify_url": "https://open.spotify.com/track/0Aqlt4N5h6rUtKnd09VXpr"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "submitter": "Emory L.",
+      "total_pts": 13,
+      "unique_voters": 8,
+      "track_id": "28cnXtME493VX9NOw9cIUh",
+      "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
+    },
     {
       "round": 2,
       "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
@@ -6127,6 +9637,50 @@
       "spotify_url": "https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"
     },
     {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Through The Wire",
+      "artist": "Kanye West",
+      "submitter": "Mills T.",
+      "total_pts": 11,
+      "unique_voters": 9,
+      "track_id": "4mmkhcEm1Ljy1U9nwtsxUo",
+      "spotify_url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Pulling Teeth",
+      "artist": "Green Day",
+      "submitter": "Emory L.",
+      "total_pts": 10,
+      "unique_voters": 8,
+      "track_id": "5z2XqieaqxpCJc3ntZ6Ye3",
+      "spotify_url": "https://open.spotify.com/track/5z2XqieaqxpCJc3ntZ6Ye3"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "I Hate Myself And Want To Die - 2013 Mix",
+      "artist": "Nirvana",
+      "submitter": "Brooks K.",
+      "total_pts": 9,
+      "unique_voters": 9,
+      "track_id": "1kwsUMjFuePZBNB56gQYoA",
+      "spotify_url": "https://open.spotify.com/track/1kwsUMjFuePZBNB56gQYoA"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
+      "artist": "Widespread Panic",
+      "submitter": "Dray E.",
+      "total_pts": 9,
+      "unique_voters": 9,
+      "track_id": "29olPahMnkf0gXlZNHK5Dd",
+      "spotify_url": "https://open.spotify.com/track/29olPahMnkf0gXlZNHK5Dd"
+    },
+    {
       "round": 2,
       "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
       "title": "Oh! Sweet Nuthin' - 2015 Remaster",
@@ -6147,6 +9701,28 @@
       "unique_voters": 6,
       "track_id": "254bXAqt3zP6P50BdQvEsq",
       "spotify_url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Nutshell",
+      "artist": "Alice In Chains",
+      "submitter": "Ford L.",
+      "total_pts": 9,
+      "unique_voters": 5,
+      "track_id": "2JuasWPUodaUxf5nwNpciQ",
+      "spotify_url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Move Along",
+      "artist": "The All-American Rejects",
+      "submitter": "Henry L.",
+      "total_pts": 9,
+      "unique_voters": 4,
+      "track_id": "58HpsDKeYoLtNhXFQyQmz5",
+      "spotify_url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
     },
     {
       "round": 1,
@@ -6182,6 +9758,28 @@
       "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     },
     {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "My Shit's Fucked Up",
+      "artist": "Warren Zevon",
+      "submitter": "Dray E.",
+      "total_pts": 8,
+      "unique_voters": 5,
+      "track_id": "6RNp2KtAPVQWRHS6FdjNWG",
+      "spotify_url": "https://open.spotify.com/track/6RNp2KtAPVQWRHS6FdjNWG"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Breaking the Habit",
+      "artist": "Linkin Park",
+      "submitter": "Will B.",
+      "total_pts": 7,
+      "unique_voters": 6,
+      "track_id": "6n8TMVyFKoUmDc4apxceRD",
+      "spotify_url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD"
+    },
+    {
       "round": 1,
       "round_name": "Country Song For Driving To Your Divorce Hearing",
       "title": "Drinkin' Problem",
@@ -6204,6 +9802,39 @@
       "spotify_url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+      "artist": "The Smiths",
+      "submitter": "Mills T.",
+      "total_pts": 6,
+      "unique_voters": 7,
+      "track_id": "1H5N26VqHR4JhuaRKY2I0u",
+      "spotify_url": "https://open.spotify.com/track/1H5N26VqHR4JhuaRKY2I0u"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "End of Beginning",
+      "artist": "Djo",
+      "submitter": "Frank L.",
+      "total_pts": 6,
+      "unique_voters": 6,
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "spotify_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "round": 3,
+      "round_name": "Songs to Listen to When You Realize You Just Lost Your Second Adult Tooth of the Year and it Isn\u2019t Even April Yet",
+      "title": "Everybody Hurts",
+      "artist": "R.E.M.",
+      "submitter": "Hunter A.",
+      "total_pts": 6,
+      "unique_voters": 6,
+      "track_id": "6PypGyiu0Y2lCDBN1XZEnP",
+      "spotify_url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
       "round": 2,
       "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
       "title": "Shining Star",
@@ -6224,94 +9855,6 @@
       "unique_voters": 5,
       "track_id": "1M2UpFI7Tpf995H1jEZptw",
       "spotify_url": "https://open.spotify.com/track/1M2UpFI7Tpf995H1jEZptw"
-    },
-    {
-      "round": 2,
-      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
-      "title": "I Got a Name - Stereo Version",
-      "artist": "Jim Croce",
-      "submitter": "Jake C.",
-      "total_pts": 6,
-      "unique_voters": 5,
-      "track_id": "4UEgKxYLP0bPG6EwD0DgYK",
-      "spotify_url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK"
-    },
-    {
-      "round": 2,
-      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
-      "title": "The Wreck of the Edmund Fitzgerald",
-      "artist": "Gordon Lightfoot",
-      "submitter": "Ford L.",
-      "total_pts": 6,
-      "unique_voters": 5,
-      "track_id": "536L9C0N7vhYdibCJx3cI2",
-      "spotify_url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
-    },
-    {
-      "round": 1,
-      "round_name": "Country Song For Driving To Your Divorce Hearing",
-      "title": "Bad Luck",
-      "artist": "Zach Top",
-      "submitter": "Jake C.",
-      "total_pts": 6,
-      "unique_voters": 4,
-      "track_id": "1OYHXCuHdzHjpHqHlY1g1r",
-      "spotify_url": "https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r"
-    },
-    {
-      "round": 1,
-      "round_name": "Country Song For Driving To Your Divorce Hearing",
-      "title": "That Ain't My Truck",
-      "artist": "Rhett Akins",
-      "submitter": "Jack A.",
-      "total_pts": 6,
-      "unique_voters": 4,
-      "track_id": "7riuy1t0Kt3SRgMtFxX0FR",
-      "spotify_url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
-    },
-    {
-      "round": 2,
-      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
-      "title": "King Of The Road",
-      "artist": "Roger Miller",
-      "submitter": "Dray E.",
-      "total_pts": 6,
-      "unique_voters": 4,
-      "track_id": "3XG7bMVcMWLIn2k9jLAaAt",
-      "spotify_url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
-    },
-    {
-      "round": 2,
-      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
-      "title": "Pumped Up Kicks",
-      "artist": "Foster The People",
-      "submitter": "Mills T.",
-      "total_pts": 6,
-      "unique_voters": 4,
-      "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
-      "spotify_url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
-    },
-    {
-      "round": 2,
-      "round_name": "Songs to Listen to While Daily Driving a Hearse on a Beautiful Day",
-      "title": "This Kiss",
-      "artist": "Faith Hill",
-      "submitter": "Ben Z.",
-      "total_pts": 6,
-      "unique_voters": 3,
-      "track_id": "5EYWGM3Ns3iYew8ws0FatB",
-      "spotify_url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "round": 1,
-      "round_name": "Country Song For Driving To Your Divorce Hearing",
-      "title": "Everybody Needs Love",
-      "artist": "Drive-By Truckers",
-      "submitter": "Kennon S.",
-      "total_pts": 5,
-      "unique_voters": 5,
-      "track_id": "1CL3L1bkgT8R3gVzD4n4sW",
-      "spotify_url": "https://open.spotify.com/track/1CL3L1bkgT8R3gVzD4n4sW"
     }
   ]
 }
