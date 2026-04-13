@@ -647,19 +647,19 @@ function App() {
     setPageKey(k => k + 1);
   };
 
+  // Round themes — apply to body background (gutters), not the main content
+  const roundBodyThemes = { 3: 'theme-tooth-bg' };
+  const bodyTheme = (data && page === 'weekly' && data.rounds[roundIdx]) ? (roundBodyThemes[data.rounds[roundIdx].number] || '') : '';
+  useEffect(() => {
+    document.body.className = bodyTheme;
+    return () => { document.body.className = ''; };
+  }, [bodyTheme]);
+
   if (!data) return <div className="site-wrap" style={{display:'flex',alignItems:'center',justifyContent:'center',minHeight:'100vh'}}><div style={{color:'var(--text-muted)',fontSize:12,letterSpacing:2,textTransform:'uppercase'}}>Loading...</div></div>;
 
   const round = data.rounds[roundIdx];
   const tabs = [{id:'weekly',l:'This Week'},{id:'season',l:'Season'},{id:'songs',l:'Songs'},{id:'players',l:'Players'}];
   const activePage = page === 'profile' ? 'players' : page;
-
-  // Round themes — apply to body background (gutters), not the main content
-  const roundBodyThemes = { 3: 'theme-tooth-bg' };
-  const bodyTheme = (page === 'weekly' && roundBodyThemes[round.number]) ? roundBodyThemes[round.number] : '';
-  useEffect(() => {
-    document.body.className = bodyTheme;
-    return () => { document.body.className = ''; };
-  }, [bodyTheme]);
 
   return (
     <div className="site-wrap">
