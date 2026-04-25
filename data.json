@@ -539,146 +539,184 @@
           "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "points": 18,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 1
         },
         {
           "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 13,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 2
-        },
-        {
-          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
-          "player": "Ben Z.",
-          "points": 9,
-          "rank": 3
         },
         {
           "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
           "points": 9,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 3
         },
         {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
-          "points": 8,
-          "rank": 5
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "points": 9,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 3
         },
         {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "points": 8,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 5
         },
         {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
-          "points": 7,
-          "rank": 7
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 8,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 5
         },
         {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
-          "points": 7,
-          "rank": 7
-        },
-        {
-          "player_id": "76a55817271e454fad8f84efdc032dc5",
-          "player": "Kevin D.",
-          "points": 7,
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "points": 6,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 7
         },
         {
           "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "points": 6,
-          "rank": 10
-        },
-        {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
-          "points": 6,
-          "rank": 10
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
         },
         {
           "player_id": "5838e19081f440598e554c420f257ab7",
           "player": "Mills T.",
           "points": 6,
-          "rank": 10
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
         },
         {
           "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
           "player": "Danny C.",
           "points": 5,
-          "rank": 13
-        },
-        {
-          "player_id": "e004e6544dff44bdb1687ec8fb03f137",
-          "player": "Will I.",
-          "points": 5,
-          "rank": 13
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 10
         },
         {
           "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
           "player": "Patrick C.",
           "points": 4,
-          "rank": 15
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 11
         },
         {
           "player_id": "7167404f66594c58a6bda0cce98ca1f2",
           "player": "Hilton H.",
           "points": 3,
-          "rank": 16
-        },
-        {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
-          "points": 3,
-          "rank": 16
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 12
         },
         {
           "player_id": "79cab84806c54bf0b59b34c5b2977d78",
           "player": "Henry L.",
           "points": 3,
-          "rank": 16
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 12
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 14
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 3,
+          "rank": 14
         },
         {
           "player_id": "0795aaf6eeca40eaac6661edd291cce2",
           "player": "Brooks K.",
-          "points": 3,
-          "rank": 16
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 3,
+          "rank": 14
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 14
+        },
+        {
+          "player_id": "e004e6544dff44bdb1687ec8fb03f137",
+          "player": "Will I.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 5,
+          "rank": 14
+        },
+        {
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 14
         }
       ],
       "missed_points": [
         {
-          "player": "Brooks K.",
-          "total_missed": 2,
-          "songs": 2
-        },
-        {
           "player": "Giles G.",
-          "total_missed": 2,
+          "total_missed": 7,
           "songs": 2
         },
         {
           "player": "Kevin D.",
-          "total_missed": 2,
-          "songs": 2
-        },
-        {
-          "player": "TR C.",
-          "total_missed": 2,
+          "total_missed": 7,
           "songs": 2
         },
         {
           "player": "Will B.",
-          "total_missed": 2,
+          "total_missed": 7,
           "songs": 2
         },
         {
           "player": "Will I.",
-          "total_missed": 2,
+          "total_missed": 5,
+          "songs": 2
+        },
+        {
+          "player": "Brooks K.",
+          "total_missed": 3,
+          "songs": 2
+        },
+        {
+          "player": "TR C.",
+          "total_missed": 3,
           "songs": 2
         }
       ],
@@ -2090,96 +2128,128 @@
           "player_id": "5838e19081f440598e554c420f257ab7",
           "player": "Mills T.",
           "points": 19,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 1
         },
         {
           "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 16,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 2
         },
         {
           "player_id": "605a6a083d2d4ad781df783c4a21b505",
           "player": "Hunter A.",
           "points": 15,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 3
-        },
-        {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
-          "points": 14,
-          "rank": 4
         },
         {
           "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "points": 14,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 4
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 14,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 4
         },
         {
           "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "player": "Giles G.",
           "points": 13,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 6
         },
         {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "points": 12,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 7
         },
         {
           "player_id": "7167404f66594c58a6bda0cce98ca1f2",
           "player": "Hilton H.",
           "points": 10,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 8
         },
         {
           "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
           "player": "Ford L.",
           "points": 10,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 8
         },
         {
           "player_id": "25fef29f0b2243548626ee1713e3b1f9",
           "player": "Blake A.",
           "points": 9,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 10
         },
         {
           "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "points": 8,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 11
         },
         {
           "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "points": 6,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 12
         },
         {
           "player_id": "76a55817271e454fad8f84efdc032dc5",
           "player": "Kevin D.",
           "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 13
         },
         {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
           "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 14
         },
         {
           "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
           "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 14
         },
         {
-          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
-          "player": "Patrick C.",
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
           "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 14
         }
       ],
@@ -3271,7 +3341,7 @@
           },
           {
             "heading": "The Debuts",
-            "text": "Hunter A. was a ghost in Week 1 — no submission, no votes, invisible. This week he submitted The Funeral by Band of Horses and Where'd All the Time Go? by Dr. Dog, pulled 15 combined points, and landed 3rd for the week. That's the single best debut performance of the season. Giles G. had a similar resurrection. Left 7 points on the table last week by not voting. This week he submitted Velvet Underground and pulled 13 points. Voting works, Giles."
+            "text": "Hunter A. joined the league for Week 2 and made it count. This week he submitted The Funeral by Band of Horses and Where'd All the Time Go? by Dr. Dog, pulled 15 combined points, and landed 3rd for the week. That's the single best debut performance of the season. Giles G. had a similar resurrection. Left 7 points on the table last week by not voting. This week he submitted Velvet Underground and pulled 13 points. Voting works, Giles."
           },
           {
             "heading": "The Fallers",
@@ -3839,143 +3909,185 @@
           "player_id": "43941604052d45488a63065923e84f19",
           "player": "Emory L.",
           "points": 23,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 1
-        },
-        {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
-          "points": 17,
-          "rank": 2
         },
         {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "points": 17,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 2
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "points": 17,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 2
         },
         {
           "player_id": "5210623e41984e4684fd204317a73149",
           "player": "Coates C.",
           "points": 15,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 4
-        },
-        {
-          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
-          "player": "Brooks K.",
-          "points": 12,
-          "rank": 5
-        },
-        {
-          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
-          "player": "Henry L.",
-          "points": 12,
-          "rank": 5
-        },
-        {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
-          "points": 12,
-          "rank": 5
         },
         {
           "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
           "player": "Ford L.",
           "points": 9,
-          "rank": 8
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 5
         },
         {
           "player_id": "2b989686f7054740af2017ae1a829d68",
           "player": "Frank L.",
           "points": 8,
-          "rank": 9
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 6
         },
         {
           "player_id": "605a6a083d2d4ad781df783c4a21b505",
           "player": "Hunter A.",
           "points": 8,
-          "rank": 9
-        },
-        {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
-          "points": 7,
-          "rank": 11
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 6
         },
         {
           "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "points": 7,
-          "rank": 11
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 7,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
         },
         {
           "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 7,
-          "rank": 11
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
         },
         {
           "player_id": "fa73648bd3f34bc6980fe57087f351f5",
           "player": "Chris V.",
           "points": 5,
-          "rank": 14
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 11
         },
         {
           "player_id": "25fef29f0b2243548626ee1713e3b1f9",
           "player": "Blake A.",
           "points": 5,
-          "rank": 14
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 11
         },
         {
           "player_id": "76a55817271e454fad8f84efdc032dc5",
           "player": "Kevin D.",
           "points": 4,
-          "rank": 16
-        },
-        {
-          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
-          "player": "Patrick C.",
-          "points": 3,
-          "rank": 17
-        },
-        {
-          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
-          "player": "Jack A.",
-          "points": 3,
-          "rank": 17
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 13
         },
         {
           "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "player": "Giles G.",
           "points": 3,
-          "rank": 17
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 14
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 14
+        },
+        {
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
+          "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 14
         },
         {
           "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "points": 2,
-          "rank": 20
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 17
         },
         {
           "player_id": "7167404f66594c58a6bda0cce98ca1f2",
           "player": "Hilton H.",
           "points": 1,
-          "rank": 21
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 18
+        },
+        {
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "player": "Brooks K.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 12,
+          "rank": 19
+        },
+        {
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "player": "Henry L.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 12,
+          "rank": 19
+        },
+        {
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 12,
+          "rank": 19
         }
       ],
       "missed_points": [
         {
           "player": "Brooks K.",
-          "total_missed": 2,
+          "total_missed": 12,
           "songs": 2
         },
         {
           "player": "Henry L.",
-          "total_missed": 2,
+          "total_missed": 12,
           "songs": 2
         },
         {
           "player": "Will B.",
-          "total_missed": 2,
+          "total_missed": 12,
           "songs": 2
         }
       ],
@@ -5740,102 +5852,132 @@
           "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "points": 19,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 1
         },
         {
           "player_id": "43941604052d45488a63065923e84f19",
           "player": "Emory L.",
           "points": 15,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 2
         },
         {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "points": 12,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 3
-        },
-        {
-          "player_id": "b250f6659575461db5ee96f4e5705023",
-          "player": "Kennon S.",
-          "points": 11,
-          "rank": 4
         },
         {
           "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "points": 11,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 4
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 11,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 4
         },
         {
           "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
           "points": 10,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 6
-        },
-        {
-          "player_id": "76a55817271e454fad8f84efdc032dc5",
-          "player": "Kevin D.",
-          "points": 9,
-          "rank": 7
         },
         {
           "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
           "player": "Ford L.",
           "points": 8,
-          "rank": 8
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
         },
         {
           "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "points": 8,
-          "rank": 8
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
         },
         {
           "player_id": "fa73648bd3f34bc6980fe57087f351f5",
           "player": "Chris V.",
           "points": 7,
-          "rank": 10
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 9
         },
         {
           "player_id": "5838e19081f440598e554c420f257ab7",
           "player": "Mills T.",
           "points": 6,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 10
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 11
         },
         {
           "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "player": "Giles G.",
           "points": 5,
-          "rank": 12
-        },
-        {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
-          "points": 5,
-          "rank": 12
-        },
-        {
-          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
-          "player": "Blake A.",
-          "points": 3,
-          "rank": 14
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 11
         },
         {
           "player_id": "2b989686f7054740af2017ae1a829d68",
           "player": "Frank L.",
           "points": 1,
-          "rank": 15
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 13
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 9,
+          "rank": 14
+        },
+        {
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 3,
+          "rank": 14
         }
       ],
       "missed_points": [
         {
-          "player": "Blake A.",
-          "total_missed": 2,
+          "player": "Kevin D.",
+          "total_missed": 9,
           "songs": 2
         },
         {
-          "player": "Kevin D.",
-          "total_missed": 2,
+          "player": "Blake A.",
+          "total_missed": 3,
           "songs": 2
         }
       ],
@@ -7143,96 +7285,124 @@
           "player_id": "fa73648bd3f34bc6980fe57087f351f5",
           "player": "Chris V.",
           "points": 17,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 1
         },
         {
           "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
           "points": 16,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 2
         },
         {
           "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "points": 14,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 3
         },
         {
           "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "player": "Giles G.",
           "points": 11,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 4
         },
         {
           "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
           "player": "Ford L.",
           "points": 10,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 5
         },
         {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "points": 9,
-          "rank": 6
-        },
-        {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
-          "points": 9,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 6
         },
         {
           "player_id": "43941604052d45488a63065923e84f19",
           "player": "Emory L.",
           "points": 7,
-          "rank": 8
-        },
-        {
-          "player_id": "5210623e41984e4684fd204317a73149",
-          "player": "Coates C.",
-          "points": 7,
-          "rank": 8
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
         },
         {
           "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "points": 5,
-          "rank": 10
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
         },
         {
           "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
           "rank": 10
         },
         {
           "player_id": "5838e19081f440598e554c420f257ab7",
           "player": "Mills T.",
           "points": 4,
-          "rank": 12
-        },
-        {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
-          "points": 4,
-          "rank": 12
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 10
         },
         {
           "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "points": 2,
-          "rank": 14
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 12
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 13
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 9,
+          "rank": 13
         }
       ],
       "missed_points": [
         {
-          "player": "Coates C.",
-          "total_missed": 2,
+          "player": "TR C.",
+          "total_missed": 9,
           "songs": 2
         },
         {
-          "player": "TR C.",
-          "total_missed": 2,
+          "player": "Coates C.",
+          "total_missed": 7,
           "songs": 2
         }
       ],
@@ -8165,6 +8335,7 @@
       "rounds_played": 5,
       "wins": 0,
       "avg_per_round": 11.6,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
@@ -8201,6 +8372,7 @@
       "rounds_played": 5,
       "wins": 1,
       "avg_per_round": 10.4,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
@@ -8215,7 +8387,7 @@
         {
           "round": 3,
           "points": 2,
-          "rank": 20
+          "rank": 17
         },
         {
           "round": 4,
@@ -8237,6 +8409,7 @@
       "rounds_played": 5,
       "wins": 0,
       "avg_per_round": 10.4,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
@@ -8251,7 +8424,7 @@
         {
           "round": 3,
           "points": 7,
-          "rank": 11
+          "rank": 8
         },
         {
           "round": 4,
@@ -8261,7 +8434,7 @@
         {
           "round": 5,
           "points": 5,
-          "rank": 10
+          "rank": 8
         }
       ],
       "rank": 2
@@ -8273,11 +8446,12 @@
       "rounds_played": 5,
       "wins": 1,
       "avg_per_round": 10.4,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
           "points": 6,
-          "rank": 10
+          "rank": 7
         },
         {
           "round": 2,
@@ -8292,12 +8466,12 @@
         {
           "round": 4,
           "points": 6,
-          "rank": 11
+          "rank": 10
         },
         {
           "round": 5,
           "points": 4,
-          "rank": 12
+          "rank": 10
         }
       ],
       "rank": 2
@@ -8309,6 +8483,7 @@
       "rounds_played": 5,
       "wins": 1,
       "avg_per_round": 10.2,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
@@ -8323,12 +8498,12 @@
         {
           "round": 3,
           "points": 5,
-          "rank": 14
+          "rank": 11
         },
         {
           "round": 4,
           "points": 7,
-          "rank": 10
+          "rank": 9
         },
         {
           "round": 5,
@@ -8345,6 +8520,7 @@
       "rounds_played": 3,
       "wins": 1,
       "avg_per_round": 15.0,
+      "joined_round": 3,
       "weekly": [
         {
           "round": 3,
@@ -8359,7 +8535,7 @@
         {
           "round": 5,
           "points": 7,
-          "rank": 8
+          "rank": 7
         }
       ],
       "rank": 6
@@ -8368,9 +8544,10 @@
       "player_id": "62ce05b4abe5441b9504d25b59208a99",
       "player": "Jake C.",
       "points": 45,
-      "rounds_played": 4,
+      "rounds_played": 5,
       "wins": 1,
-      "avg_per_round": 11.2,
+      "avg_per_round": 9.0,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
@@ -8383,14 +8560,19 @@
           "rank": 4
         },
         {
+          "round": 3,
+          "points": 0,
+          "rank": null
+        },
+        {
           "round": 4,
           "points": 8,
-          "rank": 8
+          "rank": 7
         },
         {
           "round": 5,
           "points": 5,
-          "rank": 10
+          "rank": 8
         }
       ],
       "rank": 6
@@ -8402,11 +8584,12 @@
       "rounds_played": 5,
       "wins": 0,
       "avg_per_round": 8.6,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
           "points": 6,
-          "rank": 10
+          "rank": 7
         },
         {
           "round": 2,
@@ -8416,12 +8599,12 @@
         {
           "round": 3,
           "points": 9,
-          "rank": 8
+          "rank": 5
         },
         {
           "round": 4,
           "points": 8,
-          "rank": 8
+          "rank": 7
         },
         {
           "round": 5,
@@ -8438,6 +8621,7 @@
       "rounds_played": 5,
       "wins": 0,
       "avg_per_round": 8.2,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
@@ -8452,7 +8636,7 @@
         {
           "round": 3,
           "points": 3,
-          "rank": 17
+          "rank": 14
         },
         {
           "round": 4,
@@ -8470,15 +8654,16 @@
     {
       "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
       "player": "Giles G.",
-      "points": 39,
+      "points": 32,
       "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 7.8,
+      "avg_per_round": 6.4,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
-          "points": 7,
-          "rank": 7
+          "points": 0,
+          "rank": 14
         },
         {
           "round": 2,
@@ -8488,12 +8673,12 @@
         {
           "round": 3,
           "points": 3,
-          "rank": 17
+          "rank": 14
         },
         {
           "round": 4,
           "points": 5,
-          "rank": 12
+          "rank": 11
         },
         {
           "round": 5,
@@ -8510,11 +8695,12 @@
       "rounds_played": 5,
       "wins": 0,
       "avg_per_round": 6.4,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
           "points": 6,
-          "rank": 10
+          "rank": 7
         },
         {
           "round": 2,
@@ -8524,7 +8710,7 @@
         {
           "round": 3,
           "points": 7,
-          "rank": 11
+          "rank": 8
         },
         {
           "round": 4,
@@ -8534,80 +8720,19 @@
         {
           "round": 5,
           "points": 2,
-          "rank": 14
-        }
-      ],
-      "rank": 11
-    },
-    {
-      "player_id": "76a55817271e454fad8f84efdc032dc5",
-      "player": "Kevin D.",
-      "points": 25,
-      "rounds_played": 4,
-      "wins": 0,
-      "avg_per_round": 6.2,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 7,
-          "rank": 7
-        },
-        {
-          "round": 2,
-          "points": 5,
-          "rank": 13
-        },
-        {
-          "round": 3,
-          "points": 4,
-          "rank": 16
-        },
-        {
-          "round": 4,
-          "points": 9,
-          "rank": 7
-        }
-      ],
-      "rank": 12
-    },
-    {
-      "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-      "player": "TR C.",
-      "points": 24,
-      "rounds_played": 4,
-      "wins": 0,
-      "avg_per_round": 6.0,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 3,
-          "rank": 16
-        },
-        {
-          "round": 3,
-          "points": 7,
-          "rank": 11
-        },
-        {
-          "round": 4,
-          "points": 5,
           "rank": 12
-        },
-        {
-          "round": 5,
-          "points": 9,
-          "rank": 6
         }
       ],
-      "rank": 13
+      "rank": 10
     },
     {
       "player_id": "605a6a083d2d4ad781df783c4a21b505",
       "player": "Hunter A.",
       "points": 23,
-      "rounds_played": 2,
+      "rounds_played": 4,
       "wins": 0,
-      "avg_per_round": 11.5,
+      "avg_per_round": 5.8,
+      "joined_round": 2,
       "weekly": [
         {
           "round": 2,
@@ -8617,78 +8742,20 @@
         {
           "round": 3,
           "points": 8,
-          "rank": 9
-        }
-      ],
-      "rank": 14
-    },
-    {
-      "player_id": "5210623e41984e4684fd204317a73149",
-      "player": "Coates C.",
-      "points": 22,
-      "rounds_played": 2,
-      "wins": 0,
-      "avg_per_round": 11.0,
-      "weekly": [
-        {
-          "round": 3,
-          "points": 15,
-          "rank": 4
-        },
-        {
-          "round": 5,
-          "points": 7,
-          "rank": 8
-        }
-      ],
-      "rank": 15
-    },
-    {
-      "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-      "player": "Will B.",
-      "points": 19,
-      "rounds_played": 2,
-      "wins": 0,
-      "avg_per_round": 9.5,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 7,
-          "rank": 7
-        },
-        {
-          "round": 3,
-          "points": 12,
-          "rank": 5
-        }
-      ],
-      "rank": 16
-    },
-    {
-      "player_id": "25fef29f0b2243548626ee1713e3b1f9",
-      "player": "Blake A.",
-      "points": 17,
-      "rounds_played": 3,
-      "wins": 0,
-      "avg_per_round": 5.7,
-      "weekly": [
-        {
-          "round": 2,
-          "points": 9,
-          "rank": 10
-        },
-        {
-          "round": 3,
-          "points": 5,
-          "rank": 14
+          "rank": 6
         },
         {
           "round": 4,
-          "points": 3,
-          "rank": 14
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
         }
       ],
-      "rank": 17
+      "rank": 12
     },
     {
       "player_id": "2b989686f7054740af2017ae1a829d68",
@@ -8697,6 +8764,7 @@
       "rounds_played": 4,
       "wins": 0,
       "avg_per_round": 4.0,
+      "joined_round": 2,
       "weekly": [
         {
           "round": 2,
@@ -8706,75 +8774,93 @@
         {
           "round": 3,
           "points": 8,
-          "rank": 9
+          "rank": 6
         },
         {
           "round": 4,
           "points": 1,
-          "rank": 15
+          "rank": 13
         },
         {
           "round": 5,
           "points": 4,
-          "rank": 12
+          "rank": 10
         }
       ],
-      "rank": 18
+      "rank": 13
     },
     {
-      "player_id": "0795aaf6eeca40eaac6661edd291cce2",
-      "player": "Brooks K.",
+      "player_id": "5210623e41984e4684fd204317a73149",
+      "player": "Coates C.",
       "points": 15,
-      "rounds_played": 2,
+      "rounds_played": 3,
       "wins": 0,
-      "avg_per_round": 7.5,
+      "avg_per_round": 5.0,
+      "joined_round": 3,
       "weekly": [
         {
-          "round": 1,
-          "points": 3,
-          "rank": 16
+          "round": 3,
+          "points": 15,
+          "rank": 4
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": 13
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+      "player": "Blake A.",
+      "points": 14,
+      "rounds_played": 4,
+      "wins": 0,
+      "avg_per_round": 3.5,
+      "joined_round": 2,
+      "weekly": [
+        {
+          "round": 2,
+          "points": 9,
+          "rank": 10
         },
         {
           "round": 3,
-          "points": 12,
-          "rank": 5
-        }
-      ],
-      "rank": 19
-    },
-    {
-      "player_id": "79cab84806c54bf0b59b34c5b2977d78",
-      "player": "Henry L.",
-      "points": 15,
-      "rounds_played": 2,
-      "wins": 0,
-      "avg_per_round": 7.5,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 3,
-          "rank": 16
+          "points": 5,
+          "rank": 11
         },
         {
-          "round": 3,
-          "points": 12,
-          "rank": 5
+          "round": 4,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
         }
       ],
-      "rank": 19
+      "rank": 15
     },
     {
       "player_id": "7167404f66594c58a6bda0cce98ca1f2",
       "player": "Hilton H.",
       "points": 14,
-      "rounds_played": 3,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 4.7,
+      "avg_per_round": 2.8,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
           "points": 3,
-          "rank": 16
+          "rank": 12
         },
         {
           "round": 2,
@@ -8784,23 +8870,71 @@
         {
           "round": 3,
           "points": 1,
-          "rank": 21
+          "rank": 18
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
         }
       ],
-      "rank": 21
+      "rank": 15
+    },
+    {
+      "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+      "player": "TR C.",
+      "points": 12,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 2.4,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "round": 4,
+          "points": 5,
+          "rank": 11
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": 13
+        }
+      ],
+      "rank": 17
     },
     {
       "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
       "player": "Patrick C.",
       "points": 10,
-      "rounds_played": 3,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 3.3,
+      "avg_per_round": 2.0,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
           "points": 4,
-          "rank": 15
+          "rank": 11
         },
         {
           "round": 2,
@@ -8810,42 +8944,242 @@
         {
           "round": 3,
           "points": 3,
-          "rank": 17
+          "rank": 14
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
         }
       ],
-      "rank": 22
+      "rank": 18
+    },
+    {
+      "player_id": "76a55817271e454fad8f84efdc032dc5",
+      "player": "Kevin D.",
+      "points": 9,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 1.8,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 5,
+          "rank": 13
+        },
+        {
+          "round": 3,
+          "points": 4,
+          "rank": 13
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
+        }
+      ],
+      "rank": 19
     },
     {
       "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
       "player": "Danny C.",
       "points": 5,
-      "rounds_played": 1,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 5.0,
+      "avg_per_round": 1.0,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
           "points": 5,
-          "rank": 13
+          "rank": 10
+        },
+        {
+          "round": 2,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 3,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
         }
       ],
-      "rank": 23
+      "rank": 20
+    },
+    {
+      "player_id": "79cab84806c54bf0b59b34c5b2977d78",
+      "player": "Henry L.",
+      "points": 3,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 0.6,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "round": 2,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 3,
+          "points": 0,
+          "rank": 19
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+      "player": "Brooks K.",
+      "points": 0,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 0.0,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 3,
+          "points": 0,
+          "rank": 19
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+      "player": "Will B.",
+      "points": 0,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 0.0,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 3,
+          "points": 0,
+          "rank": 19
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
+        }
+      ],
+      "rank": 22
     },
     {
       "player_id": "e004e6544dff44bdb1687ec8fb03f137",
       "player": "Will I.",
-      "points": 5,
-      "rounds_played": 1,
+      "points": 0,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 5.0,
+      "avg_per_round": 0.0,
+      "joined_round": 1,
       "weekly": [
         {
           "round": 1,
-          "points": 5,
-          "rank": 13
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "round": 2,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 3,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
         }
       ],
-      "rank": 23
+      "rank": 22
     }
   ],
   "voting_affinities": [
@@ -9418,8 +9752,8 @@
         }
       ],
       "voting_history": [],
-      "season_points": 15,
-      "rounds_played": 2
+      "season_points": 0,
+      "rounds_played": 5
     },
     "0a831b84b60a4aaca7c6f3150bbccb88": {
       "name": "Dray E.",
@@ -9998,8 +10332,8 @@
           "points_given": 1
         }
       ],
-      "season_points": 17,
-      "rounds_played": 3
+      "season_points": 14,
+      "rounds_played": 4
     },
     "2b989686f7054740af2017ae1a829d68": {
       "name": "Frank L.",
@@ -10380,8 +10714,8 @@
           "points_given": 1
         }
       ],
-      "season_points": 24,
-      "rounds_played": 4
+      "season_points": 12,
+      "rounds_played": 5
     },
     "43941604052d45488a63065923e84f19": {
       "name": "Emory L.",
@@ -11052,8 +11386,8 @@
           "points_given": 1
         }
       ],
-      "season_points": 22,
-      "rounds_played": 2
+      "season_points": 15,
+      "rounds_played": 3
     },
     "5838e19081f440598e554c420f257ab7": {
       "name": "Mills T.",
@@ -11553,7 +11887,7 @@
         }
       ],
       "season_points": 23,
-      "rounds_played": 2
+      "rounds_played": 4
     },
     "62ce05b4abe5441b9504d25b59208a99": {
       "name": "Jake C.",
@@ -11828,7 +12162,7 @@
         }
       ],
       "season_points": 45,
-      "rounds_played": 4
+      "rounds_played": 5
     },
     "68f0f9e3004b481999ceb5b8f1ac79e4": {
       "name": "Patrick C.",
@@ -12071,7 +12405,7 @@
         }
       ],
       "season_points": 10,
-      "rounds_played": 3
+      "rounds_played": 5
     },
     "7167404f66594c58a6bda0cce98ca1f2": {
       "name": "Hilton H.",
@@ -12278,7 +12612,7 @@
         }
       ],
       "season_points": 14,
-      "rounds_played": 3
+      "rounds_played": 5
     },
     "76a55817271e454fad8f84efdc032dc5": {
       "name": "Kevin D.",
@@ -12450,8 +12784,8 @@
           "points_given": 2
         }
       ],
-      "season_points": 25,
-      "rounds_played": 4
+      "season_points": 9,
+      "rounds_played": 5
     },
     "79cab84806c54bf0b59b34c5b2977d78": {
       "name": "Henry L.",
@@ -12559,8 +12893,8 @@
           "points_given": 1
         }
       ],
-      "season_points": 15,
-      "rounds_played": 2
+      "season_points": 3,
+      "rounds_played": 5
     },
     "90defa7481ce45f4acfc02ba3792e834": {
       "name": "Schuyler M.",
@@ -14232,7 +14566,7 @@
           "points_given": 1
         }
       ],
-      "season_points": 39,
+      "season_points": 32,
       "rounds_played": 5
     },
     "c2de60ec7be74e74ba5ebbd9af18056a": {
@@ -14280,8 +14614,8 @@
         }
       ],
       "voting_history": [],
-      "season_points": 19,
-      "rounds_played": 2
+      "season_points": 0,
+      "rounds_played": 5
     },
     "e004e6544dff44bdb1687ec8fb03f137": {
       "name": "Will I.",
@@ -14308,8 +14642,8 @@
         }
       ],
       "voting_history": [],
-      "season_points": 5,
-      "rounds_played": 1
+      "season_points": 0,
+      "rounds_played": 5
     },
     "f9f6d12c4c7240ee83db9fd0774fc416": {
       "name": "Danny C.",
@@ -14380,7 +14714,7 @@
         }
       ],
       "season_points": 5,
-      "rounds_played": 1
+      "rounds_played": 5
     },
     "fa73648bd3f34bc6980fe57087f351f5": {
       "name": "Chris V.",
