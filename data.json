@@ -2,7 +2,7 @@
   "league": {
     "name": "Music League",
     "subtitle": "Atlanta · Season One",
-    "total_rounds": 4
+    "total_rounds": 5
   },
   "players": {
     "0795aaf6eeca40eaac6661edd291cce2": "Brooks K.",
@@ -366,7 +366,7 @@
         },
         {
           "title": "Decoration Day - Live",
-          "artist": "Jason Isbell and the 400 Unit",
+          "artist": "Jason Isbell and the 400 Unit, Jason Isbell",
           "album": "Live from Alabama",
           "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
           "submitter": "Ford L.",
@@ -6765,16 +6765,1406 @@
           }
         ]
       }
+    },
+    {
+      "id": "2ee17ce50322428d96f91343440b0051",
+      "number": 5,
+      "name": "4:19, Got a Minute?",
+      "description": "This is the soundtrack for when the clock hits 4:20 and everything gets a little hazier, a little funnier, and a lot more dialed in. Think songs that feel warm, spaced-out, hypnotic, or just plain dumb in the best way. Nothing too aggressive—this is about vibes, not chaos. Lean stoner rock, laid-back hip hop, psychedelic, reggae, or hazy indie from the 90s–2010s—anything that sounds better the higher you get.",
+      "playlist_url": "https://open.spotify.com/playlist/5D7MpgGhzAlTZKgFBMg24P",
+      "songs": [
+        {
+          "title": "Teakwood Betz",
+          "artist": "Perpetual Groove",
+          "album": "Sweet Oblivious Antidote",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 15,
+          "unique_voters": 10,
+          "spotify_uri": "spotify:track:2m7wrFSLRR3X50azEX1DWk",
+          "track_id": "2m7wrFSLRR3X50azEX1DWk",
+          "spotify_url": "https://open.spotify.com/track/2m7wrFSLRR3X50azEX1DWk",
+          "comment": 0
+        },
+        {
+          "title": "Crumblin' Erb",
+          "artist": "Outkast",
+          "album": "Southernplayalisticadillacmuzik",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 11,
+          "unique_voters": 9,
+          "spotify_uri": "spotify:track:3T790QTg0ebUUk5tCRbtbN",
+          "track_id": "3T790QTg0ebUUk5tCRbtbN",
+          "spotify_url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN",
+          "comment": 0
+        },
+        {
+          "title": "Closer to the Sun",
+          "artist": "Slightly Stoopid",
+          "album": "Closer to the Sun",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 8,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:1UL8GkVAs6UcWF6BZ3DYZt",
+          "track_id": "1UL8GkVAs6UcWF6BZ3DYZt",
+          "spotify_url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt",
+          "comment": 0
+        },
+        {
+          "title": "The Thrill",
+          "artist": "Wiz Khalifa, Empire Of The Sun",
+          "album": "The Thrill",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 8,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:2DmYOh6HUW76u889LvaS1n",
+          "track_id": "2DmYOh6HUW76u889LvaS1n",
+          "spotify_url": "https://open.spotify.com/track/2DmYOh6HUW76u889LvaS1n",
+          "comment": 0
+        },
+        {
+          "title": "Blueberry Yum Yum",
+          "artist": "Ludacris, Sleepy Brown",
+          "album": "The Red Light District",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 7,
+          "unique_voters": 7,
+          "spotify_uri": "spotify:track:26liGJfeDiHLVn0qTETkt1",
+          "track_id": "26liGJfeDiHLVn0qTETkt1",
+          "spotify_url": "https://open.spotify.com/track/26liGJfeDiHLVn0qTETkt1",
+          "comment": 0
+        },
+        {
+          "title": "Run It",
+          "artist": "My Morning Jacket",
+          "album": "The Waterfall II",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 7,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:0YZBkk4ZTgTMZUKgjTVXMd",
+          "track_id": "0YZBkk4ZTgTMZUKgjTVXMd",
+          "spotify_url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd",
+          "comment": 0
+        },
+        {
+          "title": "Because I Got High",
+          "artist": "Afroman",
+          "album": "The Good Times",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:0rRboI6IRuGx56Dq3UdYY4",
+          "track_id": "0rRboI6IRuGx56Dq3UdYY4",
+          "spotify_url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4",
+          "comment": 0
+        },
+        {
+          "title": "Electric Avenue",
+          "artist": "Eddy Grant",
+          "album": "Electric Avenue",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:55AMcB2JAUr7wmM3Z9Vgqc",
+          "track_id": "55AMcB2JAUr7wmM3Z9Vgqc",
+          "spotify_url": "https://open.spotify.com/track/55AMcB2JAUr7wmM3Z9Vgqc",
+          "comment": 0
+        },
+        {
+          "title": "Feeling Alright",
+          "artist": "Rebelution",
+          "album": "Courage To Grow",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:14Cu4DmbaZM6JeP0LqhSvL",
+          "track_id": "14Cu4DmbaZM6JeP0LqhSvL",
+          "spotify_url": "https://open.spotify.com/track/14Cu4DmbaZM6JeP0LqhSvL",
+          "comment": 0
+        },
+        {
+          "title": "I Like Smokin' Pot (A Lot)",
+          "artist": "Wheeler Walker Jr.",
+          "album": "WW III",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:3H8yIBoWGvpMnwgMYjTe9z",
+          "track_id": "3H8yIBoWGvpMnwgMYjTe9z",
+          "spotify_url": "https://open.spotify.com/track/3H8yIBoWGvpMnwgMYjTe9z",
+          "comment": 0
+        },
+        {
+          "title": "Slow Ride",
+          "artist": "Foghat",
+          "album": "Fool for the City",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:5aYVqxyetmT5OYmvZCA90X",
+          "track_id": "5aYVqxyetmT5OYmvZCA90X",
+          "spotify_url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X",
+          "comment": 0
+        },
+        {
+          "title": "Cheeba Cheeba",
+          "artist": "Tone-Loc",
+          "album": "Loc-ed After Dark",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:2SfCvAjoxwG9mySiYI2W9X",
+          "track_id": "2SfCvAjoxwG9mySiYI2W9X",
+          "spotify_url": "https://open.spotify.com/track/2SfCvAjoxwG9mySiYI2W9X",
+          "comment": 0
+        },
+        {
+          "title": "BDE Bonus",
+          "artist": "Mac Miller",
+          "album": "Best Day Ever",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:1wmsQ6EdiEAhVYd6upLoZs",
+          "track_id": "1wmsQ6EdiEAhVYd6upLoZs",
+          "spotify_url": "https://open.spotify.com/track/1wmsQ6EdiEAhVYd6upLoZs",
+          "comment": 0
+        },
+        {
+          "title": "Day 'N' Nite (nightmare)",
+          "artist": "Kid Cudi",
+          "album": "Man On The Moon: The End Of Day",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:5FEXPoPnzueFJQCPRIrC3c",
+          "track_id": "5FEXPoPnzueFJQCPRIrC3c",
+          "spotify_url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c",
+          "comment": 0
+        },
+        {
+          "title": "Badfish",
+          "artist": "Sublime",
+          "album": "40oz. To Freedom",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:2fXLhLA7cPYEmQ1NbeAtBD",
+          "track_id": "2fXLhLA7cPYEmQ1NbeAtBD",
+          "spotify_url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD",
+          "comment": 0
+        },
+        {
+          "title": "Cosmic Love",
+          "artist": "Florence + The Machine",
+          "album": "Lungs (Deluxe Edition)",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:0CSTvWUps1YmpQoXXay9ol",
+          "track_id": "0CSTvWUps1YmpQoXXay9ol",
+          "spotify_url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol",
+          "comment": 0
+        },
+        {
+          "title": "So Hi (feat. Lord Infamous)",
+          "artist": "Project Pat, Lord Infamous",
+          "album": "Mista Don't Play: Everythangs Workin",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:5uXIegsMDMPXWu7rLLoXFR",
+          "track_id": "5uXIegsMDMPXWu7rLLoXFR",
+          "spotify_url": "https://open.spotify.com/track/5uXIegsMDMPXWu7rLLoXFR",
+          "comment": 0
+        },
+        {
+          "title": "Down",
+          "artist": "311",
+          "album": "311",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0HDaKOlVAfUWXdFR2RhBtN",
+          "track_id": "0HDaKOlVAfUWXdFR2RhBtN",
+          "spotify_url": "https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN",
+          "comment": 0
+        },
+        {
+          "title": "Headshots (4r da Locals)",
+          "artist": "Isaiah Rashad",
+          "album": "The House Is Burning",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0xta6Gah3inmeHbj0e3F9a",
+          "track_id": "0xta6Gah3inmeHbj0e3F9a",
+          "spotify_url": "https://open.spotify.com/track/0xta6Gah3inmeHbj0e3F9a",
+          "comment": 0
+        },
+        {
+          "title": "Hyyerr",
+          "artist": "Kid Cudi, Chip Tha Ripper",
+          "album": "Man On The Moon: The End Of Day",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:2FPmKIojpcMK86GJBx9KJI",
+          "track_id": "2FPmKIojpcMK86GJBx9KJI",
+          "spotify_url": "https://open.spotify.com/track/2FPmKIojpcMK86GJBx9KJI",
+          "comment": 0
+        },
+        {
+          "title": "I Got Stoned and I Missed It",
+          "artist": "Shel Silverstein",
+          "album": "Freakin' At The Freakers Ball (Expanded Edition)",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5gSIIJFTBNcby8gUQfxMGE",
+          "track_id": "5gSIIJFTBNcby8gUQfxMGE",
+          "spotify_url": "https://open.spotify.com/track/5gSIIJFTBNcby8gUQfxMGE",
+          "comment": 0
+        },
+        {
+          "title": "Marijuanaut's Theme",
+          "artist": "Sleep",
+          "album": "The Sciences",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:6YDFYRWwAQkZ1XLa5mmz3U",
+          "track_id": "6YDFYRWwAQkZ1XLa5mmz3U",
+          "spotify_url": "https://open.spotify.com/track/6YDFYRWwAQkZ1XLa5mmz3U",
+          "comment": 0
+        },
+        {
+          "title": "Teenage Dirtbag",
+          "artist": "Wheatus",
+          "album": "Wheatus",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:25FTMokYEbEWHEdss5JLZS",
+          "track_id": "25FTMokYEbEWHEdss5JLZS",
+          "spotify_url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS",
+          "comment": 0
+        },
+        {
+          "title": "The Night We Met",
+          "artist": "Lord Huron",
+          "album": "Strange Trails",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5yJaXWIErrrsjQ3J0eR5aK",
+          "track_id": "5yJaXWIErrrsjQ3J0eR5aK",
+          "spotify_url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
+          "comment": 0
+        },
+        {
+          "title": "666lb. Bongsession",
+          "artist": "Bongzilla",
+          "album": "Gateway",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:5eMlSZnu2tBUlPeNPNThnQ",
+          "track_id": "5eMlSZnu2tBUlPeNPNThnQ",
+          "spotify_url": "https://open.spotify.com/track/5eMlSZnu2tBUlPeNPNThnQ",
+          "comment": 0
+        },
+        {
+          "title": "What Once Was",
+          "artist": "Her's",
+          "album": "Songs of Her's",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:1XrSjpNe49IiygZfzb74pk",
+          "track_id": "1XrSjpNe49IiygZfzb74pk",
+          "spotify_url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
+          "comment": 0
+        },
+        {
+          "title": "Still D.R.E.",
+          "artist": "Dr. Dre, Snoop Dogg",
+          "album": "2001",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:503OTo2dSqe7qk76rgsbep",
+          "track_id": "503OTo2dSqe7qk76rgsbep",
+          "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+          "comment": 0
+        },
+        {
+          "title": "W.W.Y.B.",
+          "artist": "Tariq Disu",
+          "album": "W.W.Y.B.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:2oEPvDclrxiTsEcTeAou2F",
+          "track_id": "2oEPvDclrxiTsEcTeAou2F",
+          "spotify_url": "https://open.spotify.com/track/2oEPvDclrxiTsEcTeAou2F",
+          "comment": 0
+        }
+      ],
+      "leaderboard": [
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 17,
+          "rank": 1
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "points": 14,
+          "rank": 3
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "points": 11,
+          "rank": 4
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "points": 10,
+          "rank": 5
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "points": 9,
+          "rank": 6
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 9,
+          "rank": 6
+        },
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 5,
+          "rank": 10
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 5,
+          "rank": 10
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "points": 4,
+          "rank": 12
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "points": 4,
+          "rank": 12
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "points": 2,
+          "rank": 14
+        }
+      ],
+      "missed_points": [
+        {
+          "player": "Coates C.",
+          "total_missed": 2,
+          "songs": 2
+        },
+        {
+          "player": "TR C.",
+          "total_missed": 2,
+          "songs": 2
+        }
+      ],
+      "generosity": [
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "avg_per_vote": 2.5,
+          "total_songs_voted": 4,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        }
+      ],
+      "vote_details": [
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Because I Got High",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Run It",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Closer to the Sun",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "BDE Bonus",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Thrill",
+          "points": 2
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 1
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 2
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Cosmic Love",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Because I Got High",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Run It",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Feeling Alright",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Teenage Dirtbag",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Blueberry Yum Yum",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 2
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 1
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Slow Ride",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Headshots (4r da Locals)",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Feeling Alright",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "BDE Bonus",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Blueberry Yum Yum",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hyyerr",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Cheeba Cheeba",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "I Like Smokin' Pot (A Lot)",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "I Got Stoned and I Missed It",
+          "points": 1
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "So Hi (feat. Lord Infamous)",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Headshots (4r da Locals)",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Run It",
+          "points": 2
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 2
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Slow Ride",
+          "points": 2
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "666lb. Bongsession",
+          "points": 1
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "So Hi (feat. Lord Infamous)",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Closer to the Sun",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Blueberry Yum Yum",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Badfish",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 2
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Cheeba Cheeba",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Slow Ride",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "I Got Stoned and I Missed It",
+          "points": 1
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "The Night We Met",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Because I Got High",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Feeling Alright",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Blueberry Yum Yum",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Cheeba Cheeba",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 2
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Electric Avenue",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Slow Ride",
+          "points": 1
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "So Hi (feat. Lord Infamous)",
+          "points": 1
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Closer to the Sun",
+          "points": 3
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Thrill",
+          "points": 2
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 3
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Day 'N' Nite (nightmare)",
+          "points": 2
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Cosmic Love",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Run It",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Blueberry Yum Yum",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "I Like Smokin' Pot (A Lot)",
+          "points": 2
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 1
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Electric Avenue",
+          "points": 2
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Day 'N' Nite (nightmare)",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Down",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Run It",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Feeling Alright",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Closer to the Sun",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Blueberry Yum Yum",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Thrill",
+          "points": 2
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Badfish",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 1
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "I Like Smokin' Pot (A Lot)",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Run It",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Feeling Alright",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Closer to the Sun",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Thrill",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Cheeba Cheeba",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Electric Avenue",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "The Night We Met",
+          "points": 1
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Marijuanaut's Theme",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Cosmic Love",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "BDE Bonus",
+          "points": 2
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "What Once Was",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "The Thrill",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Hyyerr",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Teakwood Betz",
+          "points": 1
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Electric Avenue",
+          "points": 2
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "submitter": "TR C.",
+          "song": "Day 'N' Nite (nightmare)",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Down",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Because I Got High",
+          "points": 2
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Closer to the Sun",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Teenage Dirtbag",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Blueberry Yum Yum",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Badfish",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "I Like Smokin' Pot (A Lot)",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Crumblin' Erb",
+          "points": 1
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Marijuanaut's Theme",
+          "points": 1
+        }
+      ],
+      "stats": {
+        "total_submissions": 28,
+        "total_votes": 99,
+        "unique_voters": 12,
+        "unique_submitters": 14
+      },
+      "commentary": {
+        "title": "Week 5 Recap",
+        "sections": [
+          {
+            "heading": "Scouting Report (written blind)",
+            "text": "Twenty-eight songs were submitted and roughly twenty-six of them are about getting high. The exceptions are Frank L.'s pair (Teenage Dirtbag + The Night We Met) and Schuyler M.'s W.W.Y.B. After Week 4's keyword-clarity wins (Eazy-E winning, Stick Season getting zero), the playbook this week is clear: pick a recognizable song with weed in its DNA and the points will follow.\n\nThe certified hits: Still D.R.E. (Jake C.) is the most universally known song on the playlist by a wide margin — Snoop Dogg, weed by association, half the league has it on a playlist already. Because I Got High by Afroman is the same play in a different decade. Day 'N' Nite by Kid Cudi is a bona fide hit. Crumblin' Erb is OutKast at their most accessible — and on an Atlanta playlist with Atlanta hometown lift, that matters.\n\nThe deep theme cuts: I Like Smokin' Pot (A Lot) by Wheeler Walker Jr. (Emory L.) is the Eazy-E playbook from last week, redeployed. Marijuanaut's Theme by Sleep is a 13-minute stoner-doom epic. 666lb. Bongsession by Bongzilla is a song titled six-hundred-and-sixty-six-pound-bongsession. Hyyerr is Kid Cudi's most explicit drug song. The Thrill by Wiz Khalifa is on a song called The Thrill from the album The Thrill.\n\nThe reach: Cosmic Love by Florence + The Machine. The submitter is betting the word \"cosmic\" carries it. Badfish (Sublime) and Closer to the Sun (Slightly Stoopid) are vibes-by-association — the bands themselves carry the theme even when the songs don't. Teakwood Betz by Perpetual Groove is a deep cut from an Atlanta jam band — interesting hometown play.\n\nThe whiff: Frank L. is back at it. Teenage Dirtbag + The Night We Met has the same shape as his Week 4 disaster (Stick Season + I Remember Everything, 1pt combined). Two indie/emo songs with no theme connection. He's running it back.\n\nPredicted top 5: Still D.R.E. (13-17pts), Because I Got High (11-15pts), Crumblin' Erb (9-13pts), Day 'N' Nite (8-11pts), Slow Ride (7-10pts). Song of the Week pick: Crumblin' Erb — Atlanta brewery prompt + Atlanta rap = real lift.\n\nPredicted zero votes: 666lb. Bongsession, Marijuanaut's Theme, W.W.Y.B., Teenage Dirtbag, The Night We Met.\n\nDark horse: Badfish — Sublime in an Atlanta brewery prompt is the demographic match (predicted 6-9 pts).\nSneaky floor: Closer to the Sun — same bro-beer-patio energy as Sublime (predicted 3-6 with upside)."
+          },
+          {
+            "heading": "The Reveals",
+            "text": "Teakwood Betz by Perpetual Groove. 15 points. 10 voters. The widest acknowledgment any song has received this season. A 9-minute Athens jam-band track from a band I had to look up. Jack A. submitted it. Jack A. won the week. After three rounds of submitting Cannibal Corpse, Suicidal Tendencies, and Nut Nut Nut in my Butt, Jack just won the round outright with the most theme-perfect submission of the night — Atlanta jam band, Sweetwater brewery prompt, a song that earns the \"got a minute\" framing by being long enough to actually take a minute. This is a complete reversal of Jack's season trajectory. Welcome to the leaderboard, Jack.\n\nChris V. won the week on points (17). Crumblin' Erb (11) + Electric Avenue (6). Both Atlanta-coded picks — OutKast on the brewery prompt was always going to land, and Eddy Grant got nostalgia votes. Chris was at 34 points entering Week 5 and is now within 1 point of being tied for second place overall. The quietest top-tier player in this league just had his loudest week.\n\nCloser to the Sun by Slightly Stoopid (Ben Z.): 8 points, third place. Bro-beer patio energy was the read and Ben hit it from both directions — Closer to the Sun + Because I Got High (6pts) for 14 weekly points and his second double-digit week in a row. Ben is making a real run."
+          },
+          {
+            "heading": "Song Commentary",
+            "text": "Still D.R.E. got ZERO votes. Snoop Dogg. Dr. Dre. Of all the songs on the playlist this should have been the floor. Twelve voters looked at Still D.R.E., looked at the other 27 songs, and gave it nothing. This is the second consecutive week where the most universally recognizable submission has been completely shut out — Stick Season last week, Still D.R.E. this week. Both of mine. The pattern is now louder than the noise.\n\nW.W.Y.B. by Tariq Disu also got zero. Schuyler M. has now submitted Clubbed to Death (R3, 2pts), In the Mood (R4, 5pts), and W.W.Y.B. (R5, 0pts) — a three-week trend toward submissions nobody recognizes.\n\nThe Florence + The Machine pick was, for the second time this season, exactly Kennon's curveball move (Cosmic Love, 3 pts). Marijuanaut's Theme — the 13-minute Sleep epic — landed at 2 points. Kennon is committing to the deep-cut-plus-curveball pattern and the league is collectively giving him a pity 5 points each week."
+          },
+          {
+            "heading": "The Standings Shift",
+            "text": "Dray E. holds first place alone at 58 points after a steady 9-point Week 5 (Blueberry Yum Yum 7, I Got Stoned and I Missed It 2). He's now led the league for two consecutive weeks without ever winning a round — a +6 lead over a three-way tie for 2nd.\n\nBen Z., Kennon S., and Mills T. are tied at 52 points each. This is the tightest cluster of the season. Ben jumped from 5th (38pts) to tied-2nd with his 14-point Week 5. Mills added just 4 — second consecutive sub-6 round after leading the league through Week 3. Kennon added 5 and is hanging in on volume rather than peaks.\n\nChris V. (51) is one point behind the tie. Emory L. (45) and Jake C. (45) are tied at 6th — Emory still has the highest avg in the league at 15.0 across 3 rounds, and is NOT 3-for-3 on winning weeks he submits anymore (I Like Smokin' Pot landed at 5 pts).\n\nJack A. is the biggest mover — from 9th (25pts) to 9th (41pts). The position didn't change but the trajectory did. After three rounds of low scores, Jack has now posted his second straight strong week and is closing on the top 8."
+          },
+          {
+            "heading": "The Fallers",
+            "text": "Mills T. has now had two consecutive weeks below 7 points after winning Week 2 outright. From 1st (R3) to 2nd (R4) to a three-way tie for 2nd (R5). The lead is gone. Badfish at 3 pts and What Once Was at 1 pt — the Sublime/Her's pairing landed in the wrong half of the playlist this week.\n\nSchuyler M. fell to 2 points (Headshots 2 pts, W.W.Y.B. 0 pts). Now 4 consecutive rounds in the bottom half. The W.W.Y.B. pick was the second 0-vote song of the week.\n\nFrank L. — Teenage Dirtbag (2pts) + The Night We Met (2pts) = 4 points. Better than last week's 1, but the pattern is unmistakable: Frank submits indie/emo songs that don't fit the theme and the league rewards them with low pity points. Through 4 rounds played, Frank averages 5.5 pts/round — bottom 5 in the league."
+          },
+          {
+            "heading": "The Wall of Shame",
+            "text": "Did not submit (11): Blake A., Brooks K., Danny C., Haris V., Henry L., Hilton H., Hunter A., Kevin D., Patrick C., Will B., Will I.\n\nHunter A. has missed 3 straight after his 15-point Week 2 debut. Brooks K. is 4-for-5 on submitting and 0-for-5 on getting credited points (still hasn't voted). Patrick C. is now 0-for-5. Will B. and Will I. are 1-for-5.\n\nThis week's missed-points: TR C. and Coates C. both submitted but didn't vote. TR left 9 pts on the table (Slow Ride 5 + Day 'N' Nite 4) — would have been a tie for 6th place. Coates left 7 (Cheeba Cheeba 4 + So Hi 3). Coates is now 1-for-2 on voting after his Week 3 win. The pattern has emerged: Coates submits when he has something he believes in, and forgets the back half."
+          },
+          {
+            "heading": "Prediction Accuracy",
+            "text": "Top 5 predictions: 1 for 5 on rank — Crumblin' Erb (predicted #3) actually finished #2. Still D.R.E. (predicted #1) finished #27 with zero votes. Because I Got High (predicted #2) finished #7. Day 'N' Nite (predicted #4) finished #14. Slow Ride (predicted #5) finished #11.\n\nSong of the Week: missed. Predicted Crumblin' Erb, actual was Teakwood Betz — a song that wasn't even on my radar.\n\nZero-vote predictions: 1 for 5. Only W.W.Y.B. hit the zero floor. 666lb. Bongsession, Marijuanaut's Theme, Teenage Dirtbag, and The Night We Met all picked up acknowledgment points (1-2 each).\n\nDark horse / sneaky floor picks: Badfish landed at 3 pts (predicted 6-9, missed low). Closer to the Sun landed at 8 pts (predicted 3-6 with upside — hit the upside, third place overall). The sneaky floor pick was the most accurate single call of the night.\n\nThe pattern across two weeks: I keep predicting the most recognizable song will win and the league keeps shutting out the most recognizable song. Stick Season and Still D.R.E. have a combined 0 votes after both being my #1 picks. The league is rewarding hometown picks (Crumblin' Erb, Teakwood Betz, Grillz) and punishing big-name layups. The model adjusts again."
+          }
+        ]
+      }
     }
   ],
   "season_leaderboard": [
     {
       "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
       "player": "Dray E.",
-      "points": 49,
-      "rounds_played": 4,
+      "points": 58,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 12.2,
+      "avg_per_round": 11.6,
       "weekly": [
         {
           "round": 1,
@@ -6795,126 +8185,22 @@
           "round": 4,
           "points": 12,
           "rank": 3
+        },
+        {
+          "round": 5,
+          "points": 9,
+          "rank": 6
         }
       ],
       "rank": 1
     },
     {
-      "player_id": "5838e19081f440598e554c420f257ab7",
-      "player": "Mills T.",
-      "points": 48,
-      "rounds_played": 4,
-      "wins": 1,
-      "avg_per_round": 12.0,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 6,
-          "rank": 10
-        },
-        {
-          "round": 2,
-          "points": 19,
-          "rank": 1
-        },
-        {
-          "round": 3,
-          "points": 17,
-          "rank": 2
-        },
-        {
-          "round": 4,
-          "points": 6,
-          "rank": 11
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "player_id": "b250f6659575461db5ee96f4e5705023",
-      "player": "Kennon S.",
-      "points": 47,
-      "rounds_played": 4,
-      "wins": 0,
-      "avg_per_round": 11.8,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 13,
-          "rank": 2
-        },
-        {
-          "round": 2,
-          "points": 16,
-          "rank": 2
-        },
-        {
-          "round": 3,
-          "points": 7,
-          "rank": 11
-        },
-        {
-          "round": 4,
-          "points": 11,
-          "rank": 4
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "player_id": "62ce05b4abe5441b9504d25b59208a99",
-      "player": "Jake C.",
-      "points": 40,
-      "rounds_played": 3,
-      "wins": 1,
-      "avg_per_round": 13.3,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 18,
-          "rank": 1
-        },
-        {
-          "round": 2,
-          "points": 14,
-          "rank": 4
-        },
-        {
-          "round": 4,
-          "points": 8,
-          "rank": 8
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "player_id": "43941604052d45488a63065923e84f19",
-      "player": "Emory L.",
-      "points": 38,
-      "rounds_played": 2,
-      "wins": 1,
-      "avg_per_round": 19.0,
-      "weekly": [
-        {
-          "round": 3,
-          "points": 23,
-          "rank": 1
-        },
-        {
-          "round": 4,
-          "points": 15,
-          "rank": 2
-        }
-      ],
-      "rank": 5
-    },
-    {
       "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
       "player": "Ben Z.",
-      "points": 38,
-      "rounds_played": 4,
+      "points": 52,
+      "rounds_played": 5,
       "wins": 1,
-      "avg_per_round": 9.5,
+      "avg_per_round": 10.4,
       "weekly": [
         {
           "round": 1,
@@ -6935,17 +8221,94 @@
           "round": 4,
           "points": 19,
           "rank": 1
+        },
+        {
+          "round": 5,
+          "points": 14,
+          "rank": 3
         }
       ],
-      "rank": 5
+      "rank": 2
+    },
+    {
+      "player_id": "b250f6659575461db5ee96f4e5705023",
+      "player": "Kennon S.",
+      "points": 52,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 10.4,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 13,
+          "rank": 2
+        },
+        {
+          "round": 2,
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 11
+        },
+        {
+          "round": 4,
+          "points": 11,
+          "rank": 4
+        },
+        {
+          "round": 5,
+          "points": 5,
+          "rank": 10
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "player_id": "5838e19081f440598e554c420f257ab7",
+      "player": "Mills T.",
+      "points": 52,
+      "rounds_played": 5,
+      "wins": 1,
+      "avg_per_round": 10.4,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 10
+        },
+        {
+          "round": 2,
+          "points": 19,
+          "rank": 1
+        },
+        {
+          "round": 3,
+          "points": 17,
+          "rank": 2
+        },
+        {
+          "round": 4,
+          "points": 6,
+          "rank": 11
+        },
+        {
+          "round": 5,
+          "points": 4,
+          "rank": 12
+        }
+      ],
+      "rank": 2
     },
     {
       "player_id": "fa73648bd3f34bc6980fe57087f351f5",
       "player": "Chris V.",
-      "points": 34,
-      "rounds_played": 4,
-      "wins": 0,
-      "avg_per_round": 8.5,
+      "points": 51,
+      "rounds_played": 5,
+      "wins": 1,
+      "avg_per_round": 10.2,
       "weekly": [
         {
           "round": 1,
@@ -6966,17 +8329,79 @@
           "round": 4,
           "points": 7,
           "rank": 10
+        },
+        {
+          "round": 5,
+          "points": 17,
+          "rank": 1
         }
       ],
-      "rank": 7
+      "rank": 5
+    },
+    {
+      "player_id": "43941604052d45488a63065923e84f19",
+      "player": "Emory L.",
+      "points": 45,
+      "rounds_played": 3,
+      "wins": 1,
+      "avg_per_round": 15.0,
+      "weekly": [
+        {
+          "round": 3,
+          "points": 23,
+          "rank": 1
+        },
+        {
+          "round": 4,
+          "points": 15,
+          "rank": 2
+        },
+        {
+          "round": 5,
+          "points": 7,
+          "rank": 8
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "player_id": "62ce05b4abe5441b9504d25b59208a99",
+      "player": "Jake C.",
+      "points": 45,
+      "rounds_played": 4,
+      "wins": 1,
+      "avg_per_round": 11.2,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 18,
+          "rank": 1
+        },
+        {
+          "round": 2,
+          "points": 14,
+          "rank": 4
+        },
+        {
+          "round": 4,
+          "points": 8,
+          "rank": 8
+        },
+        {
+          "round": 5,
+          "points": 5,
+          "rank": 10
+        }
+      ],
+      "rank": 6
     },
     {
       "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
       "player": "Ford L.",
-      "points": 33,
-      "rounds_played": 4,
+      "points": 43,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 8.2,
+      "avg_per_round": 8.6,
       "weekly": [
         {
           "round": 1,
@@ -6997,79 +8422,22 @@
           "round": 4,
           "points": 8,
           "rank": 8
+        },
+        {
+          "round": 5,
+          "points": 10,
+          "rank": 5
         }
       ],
       "rank": 8
     },
     {
-      "player_id": "90defa7481ce45f4acfc02ba3792e834",
-      "player": "Schuyler M.",
-      "points": 30,
-      "rounds_played": 4,
-      "wins": 0,
-      "avg_per_round": 7.5,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 6,
-          "rank": 10
-        },
-        {
-          "round": 2,
-          "points": 6,
-          "rank": 12
-        },
-        {
-          "round": 3,
-          "points": 7,
-          "rank": 11
-        },
-        {
-          "round": 4,
-          "points": 11,
-          "rank": 4
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-      "player": "Giles G.",
-      "points": 28,
-      "rounds_played": 4,
-      "wins": 0,
-      "avg_per_round": 7.0,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 7,
-          "rank": 7
-        },
-        {
-          "round": 2,
-          "points": 13,
-          "rank": 6
-        },
-        {
-          "round": 3,
-          "points": 3,
-          "rank": 17
-        },
-        {
-          "round": 4,
-          "points": 5,
-          "rank": 12
-        }
-      ],
-      "rank": 10
-    },
-    {
       "player_id": "4610c4dc5b5c44f09d2c378332135b67",
       "player": "Jack A.",
-      "points": 25,
-      "rounds_played": 4,
+      "points": 41,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 6.2,
+      "avg_per_round": 8.2,
       "weekly": [
         {
           "round": 1,
@@ -7090,6 +8458,83 @@
           "round": 4,
           "points": 10,
           "rank": 6
+        },
+        {
+          "round": 5,
+          "points": 16,
+          "rank": 2
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+      "player": "Giles G.",
+      "points": 39,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 7.8,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 7,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 13,
+          "rank": 6
+        },
+        {
+          "round": 3,
+          "points": 3,
+          "rank": 17
+        },
+        {
+          "round": 4,
+          "points": 5,
+          "rank": 12
+        },
+        {
+          "round": 5,
+          "points": 11,
+          "rank": 4
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "player_id": "90defa7481ce45f4acfc02ba3792e834",
+      "player": "Schuyler M.",
+      "points": 32,
+      "rounds_played": 5,
+      "wins": 0,
+      "avg_per_round": 6.4,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 10
+        },
+        {
+          "round": 2,
+          "points": 6,
+          "rank": 12
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 11
+        },
+        {
+          "round": 4,
+          "points": 11,
+          "rank": 4
+        },
+        {
+          "round": 5,
+          "points": 2,
+          "rank": 14
         }
       ],
       "rank": 11
@@ -7123,7 +8568,38 @@
           "rank": 7
         }
       ],
-      "rank": 11
+      "rank": 12
+    },
+    {
+      "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+      "player": "TR C.",
+      "points": 24,
+      "rounds_played": 4,
+      "wins": 0,
+      "avg_per_round": 6.0,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 3,
+          "rank": 16
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 11
+        },
+        {
+          "round": 4,
+          "points": 5,
+          "rank": 12
+        },
+        {
+          "round": 5,
+          "points": 9,
+          "rank": 6
+        }
+      ],
+      "rank": 13
     },
     {
       "player_id": "605a6a083d2d4ad781df783c4a21b505",
@@ -7144,7 +8620,28 @@
           "rank": 9
         }
       ],
-      "rank": 13
+      "rank": 14
+    },
+    {
+      "player_id": "5210623e41984e4684fd204317a73149",
+      "player": "Coates C.",
+      "points": 22,
+      "rounds_played": 2,
+      "wins": 0,
+      "avg_per_round": 11.0,
+      "weekly": [
+        {
+          "round": 3,
+          "points": 15,
+          "rank": 4
+        },
+        {
+          "round": 5,
+          "points": 7,
+          "rank": 8
+        }
+      ],
+      "rank": 15
     },
     {
       "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
@@ -7165,7 +8662,7 @@
           "rank": 5
         }
       ],
-      "rank": 14
+      "rank": 16
     },
     {
       "player_id": "25fef29f0b2243548626ee1713e3b1f9",
@@ -7191,23 +8688,38 @@
           "rank": 14
         }
       ],
-      "rank": 15
+      "rank": 17
     },
     {
-      "player_id": "5210623e41984e4684fd204317a73149",
-      "player": "Coates C.",
-      "points": 15,
-      "rounds_played": 1,
+      "player_id": "2b989686f7054740af2017ae1a829d68",
+      "player": "Frank L.",
+      "points": 16,
+      "rounds_played": 4,
       "wins": 0,
-      "avg_per_round": 15.0,
+      "avg_per_round": 4.0,
       "weekly": [
         {
+          "round": 2,
+          "points": 3,
+          "rank": 14
+        },
+        {
           "round": 3,
-          "points": 15,
-          "rank": 4
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "round": 4,
+          "points": 1,
+          "rank": 15
+        },
+        {
+          "round": 5,
+          "points": 4,
+          "rank": 12
         }
       ],
-      "rank": 16
+      "rank": 18
     },
     {
       "player_id": "0795aaf6eeca40eaac6661edd291cce2",
@@ -7228,7 +8740,7 @@
           "rank": 5
         }
       ],
-      "rank": 16
+      "rank": 19
     },
     {
       "player_id": "79cab84806c54bf0b59b34c5b2977d78",
@@ -7249,33 +8761,7 @@
           "rank": 5
         }
       ],
-      "rank": 16
-    },
-    {
-      "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-      "player": "TR C.",
-      "points": 15,
-      "rounds_played": 3,
-      "wins": 0,
-      "avg_per_round": 5.0,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 3,
-          "rank": 16
-        },
-        {
-          "round": 3,
-          "points": 7,
-          "rank": 11
-        },
-        {
-          "round": 4,
-          "points": 5,
-          "rank": 12
-        }
-      ],
-      "rank": 16
+      "rank": 19
     },
     {
       "player_id": "7167404f66594c58a6bda0cce98ca1f2",
@@ -7299,32 +8785,6 @@
           "round": 3,
           "points": 1,
           "rank": 21
-        }
-      ],
-      "rank": 20
-    },
-    {
-      "player_id": "2b989686f7054740af2017ae1a829d68",
-      "player": "Frank L.",
-      "points": 12,
-      "rounds_played": 3,
-      "wins": 0,
-      "avg_per_round": 4.0,
-      "weekly": [
-        {
-          "round": 2,
-          "points": 3,
-          "rank": 14
-        },
-        {
-          "round": 3,
-          "points": 8,
-          "rank": 9
-        },
-        {
-          "round": 4,
-          "points": 1,
-          "rank": 15
         }
       ],
       "rank": 21
@@ -7392,20 +8852,44 @@
     {
       "voter": "Jake C.",
       "submitter": "Dray E.",
-      "total_pts": 8,
-      "times": 5
+      "total_pts": 9,
+      "times": 6
     },
     {
       "voter": "Chris V.",
       "submitter": "Jake C.",
+      "total_pts": 8,
+      "times": 4
+    },
+    {
+      "voter": "Schuyler M.",
+      "submitter": "Chris V.",
       "total_pts": 7,
-      "times": 3
+      "times": 5
+    },
+    {
+      "voter": "Kennon S.",
+      "submitter": "Jack A.",
+      "total_pts": 7,
+      "times": 5
     },
     {
       "voter": "Giles G.",
       "submitter": "Ford L.",
       "total_pts": 7,
       "times": 3
+    },
+    {
+      "voter": "Ben Z.",
+      "submitter": "Emory L.",
+      "total_pts": 7,
+      "times": 5
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Giles G.",
+      "total_pts": 6,
+      "times": 6
     },
     {
       "voter": "Kennon S.",
@@ -7420,14 +8904,104 @@
       "times": 2
     },
     {
+      "voter": "Mills T.",
+      "submitter": "Giles G.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Chris V.",
+      "total_pts": 6,
+      "times": 4
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Ford L.",
+      "total_pts": 6,
+      "times": 4
+    },
+    {
+      "voter": "Jake C.",
+      "submitter": "Chris V.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
+      "voter": "Ford L.",
+      "submitter": "Dray E.",
+      "total_pts": 6,
+      "times": 6
+    },
+    {
+      "voter": "Jack A.",
+      "submitter": "Dray E.",
+      "total_pts": 6,
+      "times": 3
+    },
+    {
       "voter": "Frank L.",
       "submitter": "Kennon S.",
       "total_pts": 6,
       "times": 2
     },
     {
+      "voter": "Chris V.",
+      "submitter": "Ford L.",
+      "total_pts": 6,
+      "times": 4
+    },
+    {
+      "voter": "Jack A.",
+      "submitter": "Ben Z.",
+      "total_pts": 6,
+      "times": 4
+    },
+    {
+      "voter": "Schuyler M.",
+      "submitter": "Mills T.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
+      "voter": "Emory L.",
+      "submitter": "Dray E.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
+      "voter": "Jack A.",
+      "submitter": "Emory L.",
+      "total_pts": 6,
+      "times": 4
+    },
+    {
+      "voter": "Schuyler M.",
+      "submitter": "Emory L.",
+      "total_pts": 6,
+      "times": 3
+    },
+    {
+      "voter": "Frank L.",
+      "submitter": "Ben Z.",
+      "total_pts": 6,
+      "times": 2
+    },
+    {
       "voter": "Dray E.",
-      "submitter": "Giles G.",
+      "submitter": "Ben Z.",
+      "total_pts": 5,
+      "times": 5
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Ford L.",
+      "total_pts": 5,
+      "times": 5
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Kennon S.",
       "total_pts": 5,
       "times": 5
     },
@@ -7444,20 +9018,32 @@
       "times": 3
     },
     {
-      "voter": "Ford L.",
+      "voter": "Ben Z.",
+      "submitter": "Jake C.",
+      "total_pts": 5,
+      "times": 3
+    },
+    {
+      "voter": "Ben Z.",
       "submitter": "Dray E.",
       "total_pts": 5,
       "times": 5
     },
     {
       "voter": "Jack A.",
-      "submitter": "Dray E.",
+      "submitter": "Kennon S.",
       "total_pts": 5,
-      "times": 2
+      "times": 3
     },
     {
       "voter": "Schuyler M.",
-      "submitter": "Chris V.",
+      "submitter": "Kennon S.",
+      "total_pts": 5,
+      "times": 5
+    },
+    {
+      "voter": "Chris V.",
+      "submitter": "Ben Z.",
       "total_pts": 5,
       "times": 4
     },
@@ -7474,34 +9060,16 @@
       "times": 4
     },
     {
-      "voter": "Schuyler M.",
-      "submitter": "Mills T.",
-      "total_pts": 5,
-      "times": 4
-    },
-    {
-      "voter": "Emory L.",
-      "submitter": "Dray E.",
-      "total_pts": 5,
-      "times": 4
-    },
-    {
-      "voter": "Jack A.",
-      "submitter": "Emory L.",
-      "total_pts": 5,
-      "times": 3
-    },
-    {
       "voter": "Ben Z.",
-      "submitter": "Emory L.",
+      "submitter": "Chris V.",
       "total_pts": 5,
-      "times": 3
+      "times": 4
     },
     {
-      "voter": "Schuyler M.",
-      "submitter": "Emory L.",
+      "voter": "Mills T.",
+      "submitter": "Ben Z.",
       "total_pts": 5,
-      "times": 2
+      "times": 4
     },
     {
       "voter": "Frank L.",
@@ -7516,22 +9084,16 @@
       "times": 1
     },
     {
-      "voter": "Dray E.",
-      "submitter": "Ben Z.",
-      "total_pts": 4,
-      "times": 4
+      "voter": "Ford L.",
+      "submitter": "Jack A.",
+      "total_pts": 5,
+      "times": 3
     },
     {
-      "voter": "Dray E.",
-      "submitter": "Ford L.",
+      "voter": "Chris V.",
+      "submitter": "Mills T.",
       "total_pts": 4,
-      "times": 4
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Kennon S.",
-      "total_pts": 4,
-      "times": 4
+      "times": 3
     },
     {
       "voter": "Danny C.",
@@ -7558,20 +9120,14 @@
       "times": 3
     },
     {
-      "voter": "Mills T.",
-      "submitter": "Giles G.",
+      "voter": "Jake C.",
+      "submitter": "Kennon S.",
       "total_pts": 4,
       "times": 3
     },
     {
-      "voter": "Mills T.",
-      "submitter": "Chris V.",
-      "total_pts": 4,
-      "times": 3
-    },
-    {
-      "voter": "Mills T.",
-      "submitter": "Ford L.",
+      "voter": "Jake C.",
+      "submitter": "Jack A.",
       "total_pts": 4,
       "times": 3
     },
@@ -7582,115 +9138,30 @@
       "times": 3
     },
     {
-      "voter": "Ben Z.",
-      "submitter": "Jake C.",
+      "voter": "Ford L.",
+      "submitter": "Giles G.",
       "total_pts": 4,
-      "times": 2
+      "times": 4
     },
     {
       "voter": "Ben Z.",
       "submitter": "Kennon S.",
       "total_pts": 4,
       "times": 4
-    },
-    {
-      "voter": "Ben Z.",
-      "submitter": "Mills T.",
-      "total_pts": 4,
-      "times": 3
-    },
-    {
-      "voter": "Jack A.",
-      "submitter": "Kennon S.",
-      "total_pts": 4,
-      "times": 2
-    },
-    {
-      "voter": "Schuyler M.",
-      "submitter": "Kennon S.",
-      "total_pts": 4,
-      "times": 4
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Jack A.",
-      "total_pts": 4,
-      "times": 3
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Mills T.",
-      "total_pts": 4,
-      "times": 1
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Ben Z.",
-      "total_pts": 4,
-      "times": 3
-    },
-    {
-      "voter": "Blake A.",
-      "submitter": "Mills T.",
-      "total_pts": 4,
-      "times": 2
-    },
-    {
-      "voter": "Ben Z.",
-      "submitter": "Chris V.",
-      "total_pts": 4,
-      "times": 3
-    },
-    {
-      "voter": "Giles G.",
-      "submitter": "Emory L.",
-      "total_pts": 4,
-      "times": 2
-    },
-    {
-      "voter": "TR C.",
-      "submitter": "Emory L.",
-      "total_pts": 4,
-      "times": 4
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Mills T.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Kevin D.",
-      "total_pts": 3,
-      "times": 1
-    },
-    {
-      "voter": "Mills T.",
-      "submitter": "Dray E.",
-      "total_pts": 3,
-      "times": 3
-    },
-    {
-      "voter": "Jake C.",
-      "submitter": "Kennon S.",
-      "total_pts": 3,
-      "times": 2
-    },
-    {
-      "voter": "Jake C.",
-      "submitter": "Chris V.",
-      "total_pts": 3,
-      "times": 3
-    },
-    {
-      "voter": "Jake C.",
-      "submitter": "Ford L.",
-      "total_pts": 3,
-      "times": 2
     }
   ],
   "hall_of_fame": [
+    {
+      "round": 5,
+      "title": "Teakwood Betz",
+      "artist": "Perpetual Groove",
+      "submitter": "Jack A.",
+      "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+      "total_pts": 15,
+      "unique_voters": 10,
+      "track_id": "2m7wrFSLRR3X50azEX1DWk",
+      "spotify_url": "https://open.spotify.com/track/2m7wrFSLRR3X50azEX1DWk"
+    },
     {
       "round": 3,
       "title": "Grillz",
@@ -7756,6 +9227,17 @@
       "unique_voters": 9,
       "track_id": "4mmkhcEm1Ljy1U9nwtsxUo",
       "spotify_url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+    },
+    {
+      "round": 5,
+      "title": "Crumblin' Erb",
+      "artist": "Outkast",
+      "submitter": "Chris V.",
+      "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+      "total_pts": 11,
+      "unique_voters": 9,
+      "track_id": "3T790QTg0ebUUk5tCRbtbN",
+      "spotify_url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
     },
     {
       "round": 4,
@@ -7888,28 +9370,6 @@
       "unique_voters": 7,
       "track_id": "3FkQN4NyCFlfn7fWzBkWCj",
       "spotify_url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
-    },
-    {
-      "round": 4,
-      "title": "Working Man Blues",
-      "artist": "Merle Haggard",
-      "submitter": "Dray E.",
-      "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
-      "total_pts": 8,
-      "unique_voters": 7,
-      "track_id": "0KGCTdgtxawKhrNrbuT10z",
-      "spotify_url": "https://open.spotify.com/track/0KGCTdgtxawKhrNrbuT10z"
-    },
-    {
-      "round": 2,
-      "title": "The Funeral",
-      "artist": "Band of Horses",
-      "submitter": "Hunter A.",
-      "submitter_id": "605a6a083d2d4ad781df783c4a21b505",
-      "total_pts": 8,
-      "unique_voters": 6,
-      "track_id": "5lRzWDEe7UuedU2QPsFg0K",
-      "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     }
   ],
   "player_profiles": {
@@ -8043,6 +9503,26 @@
           "unique_voters": 4,
           "track_id": "7KdfCxC0NsAsxYL1OXqWtU",
           "spotify_url": "https://open.spotify.com/track/7KdfCxC0NsAsxYL1OXqWtU"
+        },
+        {
+          "round": 5,
+          "title": "Blueberry Yum Yum",
+          "artist": "Ludacris, Sleepy Brown",
+          "album": "The Red Light District",
+          "total_pts": 7,
+          "unique_voters": 7,
+          "track_id": "26liGJfeDiHLVn0qTETkt1",
+          "spotify_url": "https://open.spotify.com/track/26liGJfeDiHLVn0qTETkt1"
+        },
+        {
+          "round": 5,
+          "title": "I Got Stoned and I Missed It",
+          "artist": "Shel Silverstein",
+          "album": "Freakin' At The Freakers Ball (Expanded Edition)",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "5gSIIJFTBNcby8gUQfxMGE",
+          "spotify_url": "https://open.spotify.com/track/5gSIIJFTBNcby8gUQfxMGE"
         }
       ],
       "voting_history": [
@@ -8285,10 +9765,70 @@
           "song": "Immigrant Song - Remaster",
           "voted_for": "Ben Z.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Run It",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Feeling Alright",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Closer to the Sun",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "The Thrill",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Cheeba Cheeba",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Electric Avenue",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "The Night We Met",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Marijuanaut's Theme",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 49,
-      "rounds_played": 4
+      "season_points": 58,
+      "rounds_played": 5
     },
     "25fef29f0b2243548626ee1713e3b1f9": {
       "name": "Blake A.",
@@ -8523,6 +10063,26 @@
           "unique_voters": 0,
           "track_id": "0mflMxspEfB0VbI1kyLiAv",
           "spotify_url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+        },
+        {
+          "round": 5,
+          "title": "Teenage Dirtbag",
+          "artist": "Wheatus",
+          "album": "Wheatus",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "25FTMokYEbEWHEdss5JLZS",
+          "spotify_url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+        },
+        {
+          "round": 5,
+          "title": "The Night We Met",
+          "artist": "Lord Huron",
+          "album": "Strange Trails",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "5yJaXWIErrrsjQ3J0eR5aK",
+          "spotify_url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
         }
       ],
       "voting_history": [
@@ -8609,10 +10169,34 @@
           "song": "The Bad Touch",
           "voted_for": "Kennon S.",
           "points_given": 4
+        },
+        {
+          "round": 5,
+          "song": "Closer to the Sun",
+          "voted_for": "Ben Z.",
+          "points_given": 3
+        },
+        {
+          "round": 5,
+          "song": "The Thrill",
+          "voted_for": "Ford L.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 3
+        },
+        {
+          "round": 5,
+          "song": "Day 'N' Nite (nightmare)",
+          "voted_for": "TR C.",
+          "points_given": 2
         }
       ],
-      "season_points": 12,
-      "rounds_played": 3
+      "season_points": 16,
+      "rounds_played": 4
     },
     "2fed7a01277b4496a86f52fd504a9dcd": {
       "name": "TR C.",
@@ -8676,6 +10260,26 @@
           "unique_voters": 1,
           "track_id": "3yeoEhRd2tM1mSbd5NNmbr",
           "spotify_url": "https://open.spotify.com/track/3yeoEhRd2tM1mSbd5NNmbr"
+        },
+        {
+          "round": 5,
+          "title": "Slow Ride",
+          "artist": "Foghat",
+          "album": "Fool for the City",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "track_id": "5aYVqxyetmT5OYmvZCA90X",
+          "spotify_url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X"
+        },
+        {
+          "round": 5,
+          "title": "Day 'N' Nite (nightmare)",
+          "artist": "Kid Cudi",
+          "album": "Man On The Moon: The End Of Day",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "track_id": "5FEXPoPnzueFJQCPRIrC3c",
+          "spotify_url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
         }
       ],
       "voting_history": [
@@ -8776,8 +10380,8 @@
           "points_given": 1
         }
       ],
-      "season_points": 15,
-      "rounds_played": 3
+      "season_points": 24,
+      "rounds_played": 4
     },
     "43941604052d45488a63065923e84f19": {
       "name": "Emory L.",
@@ -8821,6 +10425,26 @@
           "unique_voters": 3,
           "track_id": "47INZai2CsZtzBQAIqLmof",
           "spotify_url": "https://open.spotify.com/track/47INZai2CsZtzBQAIqLmof"
+        },
+        {
+          "round": 5,
+          "title": "I Like Smokin' Pot (A Lot)",
+          "artist": "Wheeler Walker Jr.",
+          "album": "WW III",
+          "total_pts": 5,
+          "unique_voters": 4,
+          "track_id": "3H8yIBoWGvpMnwgMYjTe9z",
+          "spotify_url": "https://open.spotify.com/track/3H8yIBoWGvpMnwgMYjTe9z"
+        },
+        {
+          "round": 5,
+          "title": "Hyyerr",
+          "artist": "Kid Cudi, Chip Tha Ripper",
+          "album": "Man On The Moon: The End Of Day",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "2FPmKIojpcMK86GJBx9KJI",
+          "spotify_url": "https://open.spotify.com/track/2FPmKIojpcMK86GJBx9KJI"
         }
       ],
       "voting_history": [
@@ -8937,10 +10561,64 @@
           "song": "Milkman",
           "voted_for": "Dray E.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Because I Got High",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Feeling Alright",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Blueberry Yum Yum",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Cheeba Cheeba",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Electric Avenue",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Slow Ride",
+          "voted_for": "TR C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "So Hi (feat. Lord Infamous)",
+          "voted_for": "Coates C.",
+          "points_given": 1
         }
       ],
-      "season_points": 38,
-      "rounds_played": 2
+      "season_points": 45,
+      "rounds_played": 3
     },
     "4610c4dc5b5c44f09d2c378332135b67": {
       "name": "Jack A.",
@@ -9024,6 +10702,26 @@
           "unique_voters": 2,
           "track_id": "4bbncopMeafSjdtW4ac9Tk",
           "spotify_url": "https://open.spotify.com/track/4bbncopMeafSjdtW4ac9Tk"
+        },
+        {
+          "round": 5,
+          "title": "Teakwood Betz",
+          "artist": "Perpetual Groove",
+          "album": "Sweet Oblivious Antidote",
+          "total_pts": 15,
+          "unique_voters": 10,
+          "track_id": "2m7wrFSLRR3X50azEX1DWk",
+          "spotify_url": "https://open.spotify.com/track/2m7wrFSLRR3X50azEX1DWk"
+        },
+        {
+          "round": 5,
+          "title": "666lb. Bongsession",
+          "artist": "Bongzilla",
+          "album": "Gateway",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "5eMlSZnu2tBUlPeNPNThnQ",
+          "spotify_url": "https://open.spotify.com/track/5eMlSZnu2tBUlPeNPNThnQ"
         }
       ],
       "voting_history": [
@@ -9188,10 +10886,64 @@
           "song": "I Got Bitches",
           "voted_for": "TR C.",
           "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Down",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Because I Got High",
+          "voted_for": "Ben Z.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Closer to the Sun",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teenage Dirtbag",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Blueberry Yum Yum",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Badfish",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "I Like Smokin' Pot (A Lot)",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Marijuanaut's Theme",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 25,
-      "rounds_played": 4
+      "season_points": 41,
+      "rounds_played": 5
     },
     "4c65c5fb8d1b4ea498df50e2d87a7da6": {
       "name": "Haris V.",
@@ -9222,6 +10974,26 @@
           "unique_voters": 1,
           "track_id": "1sQ0QvlExFREts66IrAvEw",
           "spotify_url": "https://open.spotify.com/track/1sQ0QvlExFREts66IrAvEw"
+        },
+        {
+          "round": 5,
+          "title": "Cheeba Cheeba",
+          "artist": "Tone-Loc",
+          "album": "Loc-ed After Dark",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "track_id": "2SfCvAjoxwG9mySiYI2W9X",
+          "spotify_url": "https://open.spotify.com/track/2SfCvAjoxwG9mySiYI2W9X"
+        },
+        {
+          "round": 5,
+          "title": "So Hi (feat. Lord Infamous)",
+          "artist": "Project Pat, Lord Infamous",
+          "album": "Mista Don't Play: Everythangs Workin",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "5uXIegsMDMPXWu7rLLoXFR",
+          "spotify_url": "https://open.spotify.com/track/5uXIegsMDMPXWu7rLLoXFR"
         }
       ],
       "voting_history": [
@@ -9280,8 +11052,8 @@
           "points_given": 1
         }
       ],
-      "season_points": 15,
-      "rounds_played": 1
+      "season_points": 22,
+      "rounds_played": 2
     },
     "5838e19081f440598e554c420f257ab7": {
       "name": "Mills T.",
@@ -9365,6 +11137,26 @@
           "unique_voters": 2,
           "track_id": "2meQtvGUcrqgEj4lTmQgfd",
           "spotify_url": "https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd"
+        },
+        {
+          "round": 5,
+          "title": "Badfish",
+          "artist": "Sublime",
+          "album": "40oz. To Freedom",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "2fXLhLA7cPYEmQ1NbeAtBD",
+          "spotify_url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
+        },
+        {
+          "round": 5,
+          "title": "What Once Was",
+          "artist": "Her's",
+          "album": "Songs of Her's",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "1XrSjpNe49IiygZfzb74pk",
+          "spotify_url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
         }
       ],
       "voting_history": [
@@ -9553,10 +11345,52 @@
           "song": "Immigrant Song - Remaster",
           "voted_for": "Ben Z.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Because I Got High",
+          "voted_for": "Ben Z.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Run It",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Closer to the Sun",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "BDE Bonus",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "The Thrill",
+          "voted_for": "Ford L.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 2
         }
       ],
-      "season_points": 48,
-      "rounds_played": 4
+      "season_points": 52,
+      "rounds_played": 5
     },
     "605a6a083d2d4ad781df783c4a21b505": {
       "name": "Hunter A.",
@@ -9783,6 +11617,26 @@
           "unique_voters": 3,
           "track_id": "0ouSkB2t2fGeW60MPcvmXl",
           "spotify_url": "https://open.spotify.com/track/0ouSkB2t2fGeW60MPcvmXl"
+        },
+        {
+          "round": 5,
+          "title": "Feeling Alright",
+          "artist": "Rebelution",
+          "album": "Courage To Grow",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "track_id": "14Cu4DmbaZM6JeP0LqhSvL",
+          "spotify_url": "https://open.spotify.com/track/14Cu4DmbaZM6JeP0LqhSvL"
+        },
+        {
+          "round": 5,
+          "title": "Still D.R.E.",
+          "artist": "Dr. Dre, Snoop Dogg",
+          "album": "2001",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "503OTo2dSqe7qk76rgsbep",
+          "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
         }
       ],
       "voting_history": [
@@ -9923,10 +11777,58 @@
           "song": "Milkman",
           "voted_for": "Dray E.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Cosmic Love",
+          "voted_for": "Kennon S.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Run It",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Blueberry Yum Yum",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "I Like Smokin' Pot (A Lot)",
+          "voted_for": "Emory L.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Electric Avenue",
+          "voted_for": "Chris V.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Day 'N' Nite (nightmare)",
+          "voted_for": "TR C.",
+          "points_given": 1
         }
       ],
-      "season_points": 40,
-      "rounds_played": 3
+      "season_points": 45,
+      "rounds_played": 4
     },
     "68f0f9e3004b481999ceb5b8f1ac79e4": {
       "name": "Patrick C.",
@@ -10742,6 +12644,26 @@
           "unique_voters": 4,
           "track_id": "1fOrdq5lDitklPno27DeHV",
           "spotify_url": "https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV"
+        },
+        {
+          "round": 5,
+          "title": "Headshots (4r da Locals)",
+          "artist": "Isaiah Rashad",
+          "album": "The House Is Burning",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "0xta6Gah3inmeHbj0e3F9a",
+          "spotify_url": "https://open.spotify.com/track/0xta6Gah3inmeHbj0e3F9a"
+        },
+        {
+          "round": 5,
+          "title": "W.W.Y.B.",
+          "artist": "Tariq Disu",
+          "album": "W.W.Y.B.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "2oEPvDclrxiTsEcTeAou2F",
+          "spotify_url": "https://open.spotify.com/track/2oEPvDclrxiTsEcTeAou2F"
         }
       ],
       "voting_history": [
@@ -10942,10 +12864,58 @@
           "song": "Jump Around",
           "voted_for": "Chris V.",
           "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Cosmic Love",
+          "voted_for": "Kennon S.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "BDE Bonus",
+          "voted_for": "Giles G.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "What Once Was",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "The Thrill",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Hyyerr",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Electric Avenue",
+          "voted_for": "Chris V.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Day 'N' Nite (nightmare)",
+          "voted_for": "TR C.",
+          "points_given": 1
         }
       ],
-      "season_points": 30,
-      "rounds_played": 4
+      "season_points": 32,
+      "rounds_played": 5
     },
     "98834c6ee0d14f6594017b865fa4d1fb": {
       "name": "Ford L.",
@@ -10963,7 +12933,7 @@
         {
           "round": 1,
           "title": "Decoration Day - Live",
-          "artist": "Jason Isbell and the 400 Unit",
+          "artist": "Jason Isbell and the 400 Unit, Jason Isbell",
           "album": "Live from Alabama",
           "total_pts": 2,
           "unique_voters": 2,
@@ -11029,6 +12999,26 @@
           "unique_voters": 1,
           "track_id": "1OhrPb6EiqogGjtP1t1uUF",
           "spotify_url": "https://open.spotify.com/track/1OhrPb6EiqogGjtP1t1uUF"
+        },
+        {
+          "round": 5,
+          "title": "The Thrill",
+          "artist": "Wiz Khalifa, Empire Of The Sun",
+          "album": "The Thrill",
+          "total_pts": 8,
+          "unique_voters": 5,
+          "track_id": "2DmYOh6HUW76u889LvaS1n",
+          "spotify_url": "https://open.spotify.com/track/2DmYOh6HUW76u889LvaS1n"
+        },
+        {
+          "round": 5,
+          "title": "Down",
+          "artist": "311",
+          "album": "311",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "0HDaKOlVAfUWXdFR2RhBtN",
+          "spotify_url": "https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN"
         }
       ],
       "voting_history": [
@@ -11253,10 +13243,64 @@
           "song": "Milkman",
           "voted_for": "Dray E.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Cosmic Love",
+          "voted_for": "Kennon S.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Because I Got High",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Run It",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Feeling Alright",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teenage Dirtbag",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Blueberry Yum Yum",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Slow Ride",
+          "voted_for": "TR C.",
+          "points_given": 1
         }
       ],
-      "season_points": 33,
-      "rounds_played": 4
+      "season_points": 43,
+      "rounds_played": 5
     },
     "aa8ede356a524849b6e3fe40fea7ea4f": {
       "name": "Ben Z.",
@@ -11340,6 +13384,26 @@
           "unique_voters": 7,
           "track_id": "78lgmZwycJ3nzsdgmPPGNx",
           "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+        },
+        {
+          "round": 5,
+          "title": "Closer to the Sun",
+          "artist": "Slightly Stoopid",
+          "album": "Closer to the Sun",
+          "total_pts": 8,
+          "unique_voters": 6,
+          "track_id": "1UL8GkVAs6UcWF6BZ3DYZt",
+          "spotify_url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
+        },
+        {
+          "round": 5,
+          "title": "Because I Got High",
+          "artist": "Afroman",
+          "album": "The Good Times",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "track_id": "0rRboI6IRuGx56Dq3UdYY4",
+          "spotify_url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
         }
       ],
       "voting_history": [
@@ -11522,10 +13586,70 @@
           "song": "The Bad Touch",
           "voted_for": "Kennon S.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Headshots (4r da Locals)",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Feeling Alright",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "BDE Bonus",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Blueberry Yum Yum",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Hyyerr",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Cheeba Cheeba",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "I Like Smokin' Pot (A Lot)",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "I Got Stoned and I Missed It",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "So Hi (feat. Lord Infamous)",
+          "voted_for": "Coates C.",
+          "points_given": 1
         }
       ],
-      "season_points": 38,
-      "rounds_played": 4
+      "season_points": 52,
+      "rounds_played": 5
     },
     "b250f6659575461db5ee96f4e5705023": {
       "name": "Kennon S.",
@@ -11609,6 +13733,26 @@
           "unique_voters": 2,
           "track_id": "1TerxY2WHWDpr5DV3ISAoI",
           "spotify_url": "https://open.spotify.com/track/1TerxY2WHWDpr5DV3ISAoI"
+        },
+        {
+          "round": 5,
+          "title": "Cosmic Love",
+          "artist": "Florence + The Machine",
+          "album": "Lungs (Deluxe Edition)",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "0CSTvWUps1YmpQoXXay9ol",
+          "spotify_url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
+        },
+        {
+          "round": 5,
+          "title": "Marijuanaut's Theme",
+          "artist": "Sleep",
+          "album": "The Sciences",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "6YDFYRWwAQkZ1XLa5mmz3U",
+          "spotify_url": "https://open.spotify.com/track/6YDFYRWwAQkZ1XLa5mmz3U"
         }
       ],
       "voting_history": [
@@ -11755,10 +13899,52 @@
           "song": "Immigrant Song - Remaster",
           "voted_for": "Ben Z.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Headshots (4r da Locals)",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Run It",
+          "voted_for": "Giles G.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Slow Ride",
+          "voted_for": "TR C.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "666lb. Bongsession",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "So Hi (feat. Lord Infamous)",
+          "voted_for": "Coates C.",
+          "points_given": 1
         }
       ],
-      "season_points": 47,
-      "rounds_played": 4
+      "season_points": 52,
+      "rounds_played": 5
     },
     "c220447f3f8d4e6aa50cbff707c6f3b1": {
       "name": "Giles G.",
@@ -11842,6 +14028,26 @@
           "unique_voters": 1,
           "track_id": "12mQioUFksRpNJ4hA3mHn6",
           "spotify_url": "https://open.spotify.com/track/12mQioUFksRpNJ4hA3mHn6"
+        },
+        {
+          "round": 5,
+          "title": "Run It",
+          "artist": "My Morning Jacket",
+          "album": "The Waterfall II",
+          "total_pts": 7,
+          "unique_voters": 6,
+          "track_id": "0YZBkk4ZTgTMZUKgjTVXMd",
+          "spotify_url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
+        },
+        {
+          "round": 5,
+          "title": "BDE Bonus",
+          "artist": "Mac Miller",
+          "album": "Best Day Ever",
+          "total_pts": 4,
+          "unique_voters": 3,
+          "track_id": "1wmsQ6EdiEAhVYd6upLoZs",
+          "spotify_url": "https://open.spotify.com/track/1wmsQ6EdiEAhVYd6upLoZs"
         }
       ],
       "voting_history": [
@@ -11970,10 +14176,64 @@
           "song": "Peace Frog",
           "voted_for": "Jake C.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Closer to the Sun",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Blueberry Yum Yum",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Badfish",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Cheeba Cheeba",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Slow Ride",
+          "voted_for": "TR C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "I Got Stoned and I Missed It",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "The Night We Met",
+          "voted_for": "Frank L.",
+          "points_given": 1
         }
       ],
-      "season_points": 28,
-      "rounds_played": 4
+      "season_points": 39,
+      "rounds_played": 5
     },
     "c2de60ec7be74e74ba5ebbd9af18056a": {
       "name": "Will B.",
@@ -12204,6 +14464,26 @@
           "unique_voters": 3,
           "track_id": "5arVt2Wg0zbiWwAOZef2Nl",
           "spotify_url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
+        },
+        {
+          "round": 5,
+          "title": "Crumblin' Erb",
+          "artist": "Outkast",
+          "album": "Southernplayalisticadillacmuzik",
+          "total_pts": 11,
+          "unique_voters": 9,
+          "track_id": "3T790QTg0ebUUk5tCRbtbN",
+          "spotify_url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
+        },
+        {
+          "round": 5,
+          "title": "Electric Avenue",
+          "artist": "Eddy Grant",
+          "album": "Electric Avenue",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "track_id": "55AMcB2JAUr7wmM3Z9Vgqc",
+          "spotify_url": "https://open.spotify.com/track/55AMcB2JAUr7wmM3Z9Vgqc"
         }
       ],
       "voting_history": [
@@ -12392,10 +14672,64 @@
           "song": "Immigrant Song - Remaster",
           "voted_for": "Ben Z.",
           "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Down",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Run It",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Feeling Alright",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Closer to the Sun",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Blueberry Yum Yum",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "The Thrill",
+          "voted_for": "Ford L.",
+          "points_given": 2
+        },
+        {
+          "round": 5,
+          "song": "Badfish",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 5,
+          "song": "I Like Smokin' Pot (A Lot)",
+          "voted_for": "Emory L.",
+          "points_given": 1
         }
       ],
-      "season_points": 34,
-      "rounds_played": 4
+      "season_points": 51,
+      "rounds_played": 5
     }
   },
   "fun_metrics": {
@@ -12403,9 +14737,9 @@
       "title": "Kingmaker",
       "description": "Most points given to eventual weekly winners",
       "leader": {
-        "player": "Chris V.",
-        "value": "6 pts",
-        "detail": "R1: 5 pts to Good Lookin' · R4: 1 pts to Gimmie That Nutt"
+        "player": "Kennon S.",
+        "value": "8 pts",
+        "detail": "R1: 2 pts to Good Lookin' · R2: 4 pts to Wakin on a Pretty Day · R5: 2 pts to Teakwood Betz"
       }
     },
     "hipster": {
@@ -12422,8 +14756,8 @@
       "description": "Highest percentage of points given to consensus picks",
       "leader": {
         "player": "Frank L.",
-        "value": "97% consensus",
-        "detail": "29 of 30 pts to songs with 3+ voters"
+        "value": "98% consensus",
+        "detail": "39 of 40 pts to songs with 3+ voters"
       }
     },
     "cold_shoulder": {
@@ -12457,6 +14791,15 @@
       "description": "Most acknowledged songs that collectively got the fewest points — max 2 per round",
       "songs": [
         {
+          "round": 5,
+          "song": "Teakwood Betz",
+          "artist": "Perpetual Groove",
+          "submitter": "Jack A.",
+          "voters": 10,
+          "pts": 15,
+          "avg": 1.5
+        },
+        {
           "round": 3,
           "song": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
           "artist": "Widespread Panic",
@@ -12475,6 +14818,15 @@
           "avg": 1.0
         },
         {
+          "round": 5,
+          "song": "Crumblin' Erb",
+          "artist": "Outkast",
+          "submitter": "Chris V.",
+          "voters": 9,
+          "pts": 11,
+          "avg": 1.22
+        },
+        {
           "round": 4,
           "song": "Ace of Spades",
           "artist": "Motörhead",
@@ -12482,24 +14834,6 @@
           "voters": 8,
           "pts": 10,
           "avg": 1.25
-        },
-        {
-          "round": 1,
-          "song": "Fuck You Bitch",
-          "artist": "Wheeler Walker Jr.",
-          "submitter": "Kennon S.",
-          "voters": 7,
-          "pts": 8,
-          "avg": 1.14
-        },
-        {
-          "round": 2,
-          "song": "Thunder Island",
-          "artist": "Jay Ferguson",
-          "submitter": "Jake C.",
-          "voters": 7,
-          "pts": 8,
-          "avg": 1.14
         }
       ]
     },
@@ -12508,34 +14842,34 @@
       "description": "Highest voting overlap between two players",
       "pairs": [
         {
-          "player1": "Dray E.",
-          "player2": "Schuyler M.",
-          "overlap": "26%",
-          "detail": "15 shared of 58 total"
-        },
-        {
           "player1": "Jake C.",
           "player2": "Ford L.",
-          "overlap": "25%",
-          "detail": "12 shared of 48 total"
-        },
-        {
-          "player1": "Dray E.",
-          "player2": "Ben Z.",
-          "overlap": "23%",
-          "detail": "13 shared of 57 total"
+          "overlap": "28%",
+          "detail": "17 shared of 60 total"
         },
         {
           "player1": "Dray E.",
           "player2": "Mills T.",
-          "overlap": "22%",
-          "detail": "13 shared of 58 total"
+          "overlap": "26%",
+          "detail": "18 shared of 70 total"
+        },
+        {
+          "player1": "Dray E.",
+          "player2": "Schuyler M.",
+          "overlap": "25%",
+          "detail": "18 shared of 73 total"
         },
         {
           "player1": "Mills T.",
           "player2": "Ford L.",
-          "overlap": "21%",
-          "detail": "12 shared of 56 total"
+          "overlap": "24%",
+          "detail": "16 shared of 68 total"
+        },
+        {
+          "player1": "Emory L.",
+          "player2": "Giles G.",
+          "overlap": "23%",
+          "detail": "11 shared of 47 total"
         }
       ]
     },
@@ -12545,28 +14879,13 @@
       "leaders": [
         {
           "player": "Emory L.",
-          "value": "9.5 avg",
-          "detail": "4 songs"
-        },
-        {
-          "player": "Jake C.",
-          "value": "6.7 avg",
+          "value": "7.5 avg",
           "detail": "6 songs"
         },
         {
           "player": "Dray E.",
-          "value": "6.1 avg",
-          "detail": "8 songs"
-        },
-        {
-          "player": "Mills T.",
-          "value": "6.0 avg",
-          "detail": "8 songs"
-        },
-        {
-          "player": "Kennon S.",
-          "value": "5.9 avg",
-          "detail": "8 songs"
+          "value": "5.8 avg",
+          "detail": "10 songs"
         },
         {
           "player": "Hunter A.",
@@ -12574,14 +14893,29 @@
           "detail": "4 songs"
         },
         {
-          "player": "Ben Z.",
-          "value": "4.8 avg",
+          "player": "Jake C.",
+          "value": "5.6 avg",
           "detail": "8 songs"
         },
         {
-          "player": "Will B.",
-          "value": "4.8 avg",
+          "player": "Coates C.",
+          "value": "5.5 avg",
           "detail": "4 songs"
+        },
+        {
+          "player": "Kennon S.",
+          "value": "5.2 avg",
+          "detail": "10 songs"
+        },
+        {
+          "player": "Ben Z.",
+          "value": "5.2 avg",
+          "detail": "10 songs"
+        },
+        {
+          "player": "Mills T.",
+          "value": "5.2 avg",
+          "detail": "10 songs"
         }
       ]
     },
