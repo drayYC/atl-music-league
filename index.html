@@ -24,6 +24,7 @@ body.theme-hearse-bg{background-color:#080808;background-image:url("data:image/s
 body.theme-divorce-bg{background-color:#080808;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='56' viewBox='0 0 56 56'%3E%3Cg fill='none' stroke='%23151515' stroke-width='.8'%3E%3Cpath d='M28 48l-14-14c-4-4-5.5-10-3-15s8-7 13-5l4 3 4-3c5-2 10.5 0 13 5s1 11-3 15z'/%3E%3Cpath d='M26 18l2 12 4-8-2 14' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/g%3E%3C/svg%3E");background-size:56px 56px}
 body.theme-nuts-bg{background-color:#080808;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='72' viewBox='0 0 64 72'%3E%3Cg fill='none' stroke='%23161616' stroke-width='1' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M32 13v-5'/%3E%3Cpath d='M32 9c1.5-1.2 3.2-1.2 4.5 0'/%3E%3Cpath d='M21 17c0-2.2 1.2-3.5 3.2-3.5h15.6c2 0 3.2 1.3 3.2 3.5v3.2c0 1.8-1.2 3-3 3h-16c-1.8 0-3-1.2-3-3z'/%3E%3Cpath d='M22 17h20m-19.5 3h19' stroke-width='.5' opacity='.55'/%3E%3Cpath d='M26 14.2v6.4m4-6.4v6.4m4-6.4v6.4m4-6.4v6.4' stroke-width='.5' opacity='.45'/%3E%3Cpath d='M23 23.5c.3 6 2 11.5 4.8 16.5 1.4 2.5 2.7 4.5 4.2 4.5s2.8-2 4.2-4.5c2.8-5 4.5-10.5 4.8-16.5'/%3E%3Ccircle cx='29' cy='31' r='1' fill='%23141414' stroke='none'/%3E%3Ccircle cx='35' cy='31' r='1' fill='%23141414' stroke='none'/%3E%3Cpath d='M29.5 35.5c1.3.9 3.2.9 4.5 0' stroke-width='.8'/%3E%3C/g%3E%3C/svg%3E");background-size:64px 72px}
 body.theme-leaf-bg{background-color:#080808;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='72' viewBox='0 0 64 72'%3E%3Cg fill='none' stroke='%23161616' stroke-width='1' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M32 38v22'/%3E%3Cpath d='M32 38c-1.5-3-2.5-7-2.5-12s1-9 2.5-12c1.5 3 2.5 7 2.5 12s-1 9-2.5 12z'/%3E%3Cpath d='M32 14v22' stroke-width='.4' opacity='.5'/%3E%3Cpath d='M32 38c-3.5-2-7-5-9.5-9s-3.8-8-3.5-11.5c3.5.5 7.5 2.8 11 6.5s5.5 8 6 11.5z'/%3E%3Cpath d='M19 17.5l13 20.5' stroke-width='.4' opacity='.5'/%3E%3Cpath d='M32 38c3.5-2 7-5 9.5-9s3.8-8 3.5-11.5c-3.5.5-7.5 2.8-11 6.5s-5.5 8-6 11.5z'/%3E%3Cpath d='M45 17.5l-13 20.5' stroke-width='.4' opacity='.5'/%3E%3Cpath d='M32 38c-4 1-8.5 1.5-12 .5s-6.5-3-7.5-5.5c2.5-1.5 6.5-2 11-1s7 3 8.5 6z'/%3E%3Cpath d='M12.5 33l19.5 5' stroke-width='.4' opacity='.5'/%3E%3Cpath d='M32 38c4 1 8.5 1.5 12 .5s6.5-3 7.5-5.5c-2.5-1.5-6.5-2-11-1s-7 3-8.5 6z'/%3E%3Cpath d='M51.5 33l-19.5 5' stroke-width='.4' opacity='.5'/%3E%3C/g%3E%3C/svg%3E");background-size:64px 72px}
+body.theme-vinyl-bg{background-color:#080808;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Cg fill='none' stroke='%23161616' stroke-width='1'%3E%3Ccircle cx='32' cy='32' r='22'/%3E%3Ccircle cx='32' cy='32' r='18' stroke-width='.5' opacity='.7'/%3E%3Ccircle cx='32' cy='32' r='14' stroke-width='.5' opacity='.55'/%3E%3Ccircle cx='32' cy='32' r='10' stroke-width='.5' opacity='.4'/%3E%3Ccircle cx='32' cy='32' r='6' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='1' fill='%23141414' stroke='none'/%3E%3C/g%3E%3C/svg%3E");background-size:64px 64px}
 .site-wrap{max-width:640px;margin:0 auto;background:var(--bg-main);min-height:100vh;border-left:1px solid var(--border);border-right:1px solid var(--border);position:relative}
 
 /* HEADER */
@@ -952,7 +953,7 @@ function App() {
   const [pageKey, setPageKey] = useState(0); // forces re-render for animations
 
   useEffect(() => {
-    fetch('data.json?v=6').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
+    fetch('data.json?v=7').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
   }, []);
 
   const navigate = (p, opts) => {
@@ -970,7 +971,7 @@ function App() {
   };
 
   // Round themes — apply to body background on Weekly + Recap (round-aware pages).
-  const roundBodyThemes = { 1: 'theme-divorce-bg', 2: 'theme-hearse-bg', 3: 'theme-tooth-bg', 4: 'theme-nuts-bg', 5: 'theme-leaf-bg' };
+  const roundBodyThemes = { 1: 'theme-divorce-bg', 2: 'theme-hearse-bg', 3: 'theme-tooth-bg', 4: 'theme-nuts-bg', 5: 'theme-leaf-bg', 6: 'theme-vinyl-bg' };
   const roundAware = page === 'weekly' || page === 'recap';
   const bodyTheme = (roundAware && data && data.rounds[roundIdx]) ? (roundBodyThemes[data.rounds[roundIdx].number] || '') : '';
   useEffect(() => {
