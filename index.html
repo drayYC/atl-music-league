@@ -67,6 +67,10 @@ body.theme-leaf-bg{background-color:#080808;background-image:url("data:image/svg
 .sec-title{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--text-secondary)}
 .sec-line{flex:1;height:1px;background:var(--border)}
 
+/* SECTION HEADER WITH RIGHT-ALIGNED TOGGLE */
+.sec-header-row{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;gap:12px}
+.sec-header-row .sec-header{margin-bottom:0;flex:1;min-width:0}
+
 /* ANIMATIONS */
 @keyframes fadeSlideIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
 @keyframes barGrow{from{width:0}to{width:var(--bar-w)}}
@@ -208,10 +212,165 @@ body.theme-leaf-bg{background-color:#080808;background-image:url("data:image/svg
 .footer-left{font-size:9px;font-weight:500;color:var(--text-muted);letter-spacing:2px;text-transform:uppercase}
 .footer-right{font-size:9px;font-weight:300;color:var(--text-muted);letter-spacing:1px}
 
-/* COMMENTARY */
-.recap-heading{font-size:13px;font-weight:800;color:var(--yellow);margin:20px 0 6px;text-transform:uppercase;letter-spacing:1px}
-.recap-heading:first-child{margin-top:0}
-.recap-text{font-size:13px;font-weight:400;color:var(--text-secondary);line-height:1.7;white-space:pre-line;margin-bottom:8px}
+/* COMMENTARY (used on Recap page) */
+.recap{max-width:660px;margin:0 auto}
+.recap-title{font-size:22px;font-weight:800;color:var(--text-primary);margin-bottom:20px;letter-spacing:-0.01em;line-height:1.2}
+.recap-section{margin-bottom:24px}
+.recap-section:last-child{margin-bottom:0}
+.recap-heading{font-size:13px;font-weight:800;color:var(--yellow);margin:0 0 6px;text-transform:uppercase;letter-spacing:1px}
+.recap-text{font-size:13px;font-weight:400;color:var(--text-secondary);line-height:1.7;white-space:pre-line;margin:0}
+.recap-empty{color:var(--text-muted);font-size:13px;font-style:italic;text-align:center;padding:24px 0}
+
+/* SONG CARDS (Weekly tab — expandable) */
+.expand-toggle{
+  background:transparent;
+  border:1px solid var(--border);
+  color:var(--text-secondary);
+  font-size:10px;
+  font-weight:700;
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+  padding:5px 10px;
+  border-radius:4px;
+  cursor:pointer;
+  transition:color .15s,border-color .15s;
+  white-space:nowrap;
+  flex-shrink:0;
+}
+.expand-toggle:hover{color:var(--white);border-color:var(--blue)}
+
+.song-list{display:flex;flex-direction:column;gap:6px}
+.song-card{
+  background:var(--bg-card);
+  border-radius:4px;
+  overflow:hidden;
+  border:1px solid transparent;
+  transition:border-color .15s,background .15s;
+}
+.song-card:hover{border-color:var(--border)}
+.song-card.open{border-color:var(--blue);background:var(--bg-card)}
+.song-card-head{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  padding:8px 12px;
+  cursor:pointer;
+  user-select:none;
+}
+.song-rank{
+  width:22px;
+  color:var(--text-dim);
+  font-size:11px;
+  font-weight:700;
+  flex-shrink:0;
+  text-align:center;
+}
+.song-art-wrap{
+  width:36px;
+  height:36px;
+  border-radius:3px;
+  background:var(--bg-surface);
+  flex-shrink:0;
+  overflow:hidden;
+}
+.song-art-wrap img{width:100%;height:100%;object-fit:cover;display:block}
+.song-meta{flex:1;min-width:0}
+.song-title{
+  color:var(--text-primary);
+  font-size:13px;
+  font-weight:600;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  line-height:1.3;
+}
+.song-sub{
+  color:var(--text-muted);
+  font-size:11px;
+  margin-top:1px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+.song-sub-by{color:var(--yellow);cursor:pointer}
+.song-sub-by:hover{text-decoration:underline}
+.song-pts{display:flex;align-items:baseline;gap:6px;flex-shrink:0}
+.song-pts-num{color:var(--text-primary);font-size:15px;font-weight:800}
+.song-pts-vot{color:var(--text-dim);font-size:10px}
+.song-chevron{
+  color:var(--text-dim);
+  font-size:14px;
+  flex-shrink:0;
+  transition:transform .2s,color .2s;
+  width:14px;
+  text-align:center;
+}
+.song-card.open .song-chevron{transform:rotate(90deg);color:var(--blue)}
+.song-body{
+  padding:0 14px 12px 14px;
+  background:rgba(0,0,0,0.2);
+}
+.song-comment{
+  font-size:12px;
+  color:var(--text-secondary);
+  font-style:italic;
+  padding:10px 4px 8px;
+  border-bottom:1px dashed var(--border);
+  margin-bottom:6px;
+  line-height:1.5;
+}
+.song-comment-label{
+  color:var(--text-dim);
+  font-style:normal;
+  text-transform:uppercase;
+  font-size:9px;
+  font-weight:700;
+  letter-spacing:1.5px;
+  margin-right:8px;
+}
+.vote-list{display:flex;flex-direction:column;gap:2px;padding-top:8px}
+.vote-list-empty{
+  color:var(--text-dim);
+  font-size:11px;
+  font-style:italic;
+  padding:10px 4px;
+  text-align:center;
+}
+.vote-row{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  padding:5px 4px;
+  font-size:12px;
+  border-bottom:1px dashed var(--border-light);
+}
+.vote-row:last-child{border-bottom:none}
+.vote-pts{
+  background:var(--bg-surface);
+  color:var(--text-secondary);
+  border-radius:3px;
+  padding:2px 7px;
+  font-weight:700;
+  min-width:22px;
+  text-align:center;
+  font-size:11px;
+  flex-shrink:0;
+}
+/* High = MARTA blue + white text. Mid = yellow + dark text (yellow on dark with light text fails contrast). */
+.vote-pts.high{background:var(--blue);color:#fff}
+.vote-pts.mid{background:var(--yellow);color:#1a0f08}
+.vote-name{color:var(--text-primary);cursor:pointer;font-weight:600;flex-shrink:0}
+.vote-name:hover{color:var(--blue);text-decoration:underline}
+.vote-comment{
+  color:var(--text-muted);
+  font-style:italic;
+  flex:1;
+  min-width:0;
+  font-size:11px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
 
 @media(max-width:480px){.stats-row{grid-template-columns:repeat(2,1fr)}.site-wrap{border:none}}
 </style>
@@ -221,16 +380,17 @@ body.theme-leaf-bg{background-color:#080808;background-image:url("data:image/svg
 <body>
 <div id="root"></div>
 <script type="text/babel">
-const {useState,useEffect,useRef,useCallback} = React;
+const {useState,useEffect,useRef,useCallback,useMemo} = React;
 
 // Trim anything after " - " in song titles (removes remaster tags etc)
 function trimTitle(t) { const i = t.indexOf(' - '); return i > 0 ? t.substring(0, i) : t; }
 
-// ── ANIMATION HOOK ──
-function useStagger(items, baseDelay = 50) {
-  return items.map((_, i) => ({
-    className: `anim-fade-d${Math.min(i, 9)}`,
-  }));
+// Submitter "comment" comes in from build_data.py as either a string or 0 (the JSON encoder
+// of a falsy default). Normalize both to a usable string-or-empty.
+function normalizeComment(c) {
+  if (!c) return '';
+  if (typeof c !== 'string') return '';
+  return c.trim();
 }
 
 // ── CHART COMPONENT ──
@@ -271,6 +431,21 @@ function SpotifyArt({ trackId, size, className, link }) {
 // ── SECTION HEADER ──
 function SectionHeader({ color, title }) {
   return <div className="sec-header"><div className={`sec-dot dot-${color}`} /><div className="sec-title">{title}</div><div className="sec-line" /></div>;
+}
+
+// ── ROUND BAR (shared by Weekly + Recap) ──
+function RoundBar({ round, totalRounds, idx, onPrev, onNext }) {
+  return (
+    <div className="round-bar">
+      <button className="round-nav-btn" onClick={onPrev} disabled={idx <= 0}>‹</button>
+      <div className="round-pill">
+        <div className="round-num">{String(round.number).padStart(2, '0')}</div>
+        <div className="round-label">Round</div>
+      </div>
+      <div className="round-theme">{round.name}</div>
+      <button className="round-nav-btn" onClick={onNext} disabled={idx >= totalRounds - 1}>›</button>
+    </div>
+  );
 }
 
 // ── WINNER CARD ──
@@ -344,19 +519,69 @@ function StatBoxes({ stats }) {
   );
 }
 
-// ── WEEKLY PAGE ──
-// ── COMMENTARY ──
-function Commentary({ commentary }) {
-  if (!commentary) return null;
+// ── EXPANDABLE SONG CARD ──
+function SongCard({ song, rank, voteDetails, isOpen, onToggle, onPlayerClick }) {
+  // Match votes by (song title, submitter) — protects against the rare case of the
+  // same song being submitted by two players in one round.
+  const songVotes = useMemo(() => {
+    return (voteDetails || [])
+      .filter(v => v.song === song.title && v.submitter === song.submitter)
+      .sort((a, b) => b.points - a.points);
+  }, [voteDetails, song.title, song.submitter]);
+
+  const submitterComment = normalizeComment(song.comment);
+
+  const handlePlayerClick = (e, id) => {
+    e.stopPropagation();
+    onPlayerClick(id);
+  };
+
   return (
-    <div className="section anim-fade">
-      <SectionHeader color="yellow" title="Weekly recap" />
-      {commentary.sections.map((s, i) => (
-        <div key={i} className={`anim-fade-d${Math.min(i, 9)}`}>
-          <div className="recap-heading">{s.heading}</div>
-          <div className="recap-text">{s.text}</div>
+    <div className={`song-card ${isOpen ? 'open' : ''}`}>
+      <div className="song-card-head" onClick={onToggle}>
+        <div className="song-rank">{rank}</div>
+        <SpotifyArt trackId={song.track_id} size={36} className="song-art-wrap" />
+        <div className="song-meta">
+          <div className="song-title">{trimTitle(song.title)}</div>
+          <div className="song-sub">
+            {song.artist} · by{' '}
+            <span className="song-sub-by" onClick={(e) => handlePlayerClick(e, song.submitter_id)}>
+              {song.submitter}
+            </span>
+          </div>
         </div>
-      ))}
+        <div className="song-pts">
+          <div className="song-pts-num">{song.total_pts}</div>
+          <div className="song-pts-vot">{song.unique_voters} vote{song.unique_voters === 1 ? '' : 's'}</div>
+        </div>
+        <div className="song-chevron">›</div>
+      </div>
+      {isOpen && (
+        <div className="song-body">
+          {submitterComment && (
+            <div className="song-comment">
+              <span className="song-comment-label">Submitter note</span>{submitterComment}
+            </div>
+          )}
+          {songVotes.length === 0 ? (
+            <div className="vote-list-empty">No takers.</div>
+          ) : (
+            <div className="vote-list">
+              {songVotes.map((v, i) => {
+                const cls = v.points >= 4 ? 'high' : (v.points >= 2 ? 'mid' : '');
+                const voterComment = normalizeComment(v.comment);
+                return (
+                  <div className="vote-row" key={i}>
+                    <div className={`vote-pts ${cls}`}>{v.points}</div>
+                    <div className="vote-name" onClick={() => onPlayerClick(v.voter_id)}>{v.voter}</div>
+                    {voterComment && <div className="vote-comment">{voterComment}</div>}
+                  </div>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }
@@ -366,6 +591,26 @@ function WeeklyPage({ round, onPlayerClick }) {
   const songs = round.songs;
   const lb = round.leaderboard.filter(e => e.points > 0);
   const maxPts = lb.length ? lb[0].points : 1;
+
+  const allUris = useMemo(() => songs.map(s => s.spotify_uri), [songs]);
+  const [expanded, setExpanded] = useState(() => new Set());
+
+  // Reset expand state when round changes (different songs entirely)
+  useEffect(() => {
+    setExpanded(new Set());
+  }, [round.id]);
+
+  const toggle = (uri) => {
+    setExpanded(prev => {
+      const next = new Set(prev);
+      if (next.has(uri)) next.delete(uri); else next.add(uri);
+      return next;
+    });
+  };
+  const allOpen = expanded.size === allUris.length && allUris.length > 0;
+  const toggleAll = () => {
+    setExpanded(allOpen ? new Set() : new Set(allUris));
+  };
 
   return (
     <>
@@ -378,6 +623,27 @@ function WeeklyPage({ round, onPlayerClick }) {
         <SectionHeader color="blue" title="Leaderboard" />
         <StatBoxes stats={round.stats} />
         {lb.map((e, i) => <LBRow key={e.player_id} entry={e} index={i} maxPts={maxPts} onPlayerClick={onPlayerClick} />)}
+      </div>
+      <div className="section">
+        <div className="sec-header-row">
+          <SectionHeader color="blue" title="The full receipts" />
+          <button className="expand-toggle" onClick={toggleAll}>
+            {allOpen ? 'Collapse all' : 'Expand all'}
+          </button>
+        </div>
+        <div className="song-list">
+          {songs.map((s, i) => (
+            <SongCard
+              key={s.spotify_uri || i}
+              song={s}
+              rank={i + 1}
+              voteDetails={round.vote_details}
+              isOpen={expanded.has(s.spotify_uri)}
+              onToggle={() => toggle(s.spotify_uri)}
+              onPlayerClick={onPlayerClick}
+            />
+          ))}
+        </div>
       </div>
       {round.missed_points.length > 0 && (
         <div className="section">
@@ -405,8 +671,34 @@ function WeeklyPage({ round, onPlayerClick }) {
           );
         })}
       </div>
-      <Commentary commentary={round.commentary} />
     </>
+  );
+}
+
+// ── RECAP PAGE ──
+function RecapPage({ round }) {
+  if (!round) {
+    return <div className="section anim-fade"><div className="recap-empty">No recaps yet.</div></div>;
+  }
+  const commentary = round.commentary;
+  return (
+    <div className="section anim-fade">
+      <div className="recap">
+        {commentary ? (
+          <>
+            <div className="recap-title">{commentary.title}</div>
+            {(commentary.sections || []).map((s, i) => (
+              <div className={`recap-section anim-fade-d${Math.min(i, 9)}`} key={i}>
+                <div className="recap-heading">{s.heading}</div>
+                <div className="recap-text">{s.text}</div>
+              </div>
+            ))}
+          </>
+        ) : (
+          <div className="recap-empty">Recap coming soon.</div>
+        )}
+      </div>
+    </div>
   );
 }
 
@@ -579,17 +871,16 @@ function PlayersPage({ data, onPlayerClick }) {
 // ── PROFILE PAGE ──
 function ProfilePage({ data, playerId, onBack, onPlayerClick }) {
   const p = data.player_profiles[playerId];
-  if (!p) return <div className="section"><p>Player not found</p></div>;
   const se = data.season_leaderboard.find(e => e.player_id === playerId);
-  const tvg = p.voting_history.reduce((s, v) => s + v.points_given, 0);
-  const best = p.submissions.length ? p.submissions.reduce((b, s) => s.total_pts > b.total_pts ? s : b) : null;
+  const tvg = p ? p.voting_history.reduce((s, v) => s + v.points_given, 0) : 0;
+  const best = (p && p.submissions.length) ? p.submissions.reduce((b, s) => s.total_pts > b.total_pts ? s : b) : null;
 
   const vt = {};
-  p.voting_history.forEach(v => { vt[v.voted_for] = (vt[v.voted_for] || 0) + v.points_given; });
+  if (p) p.voting_history.forEach(v => { vt[v.voted_for] = (vt[v.voted_for] || 0) + v.points_given; });
   const topTargets = Object.entries(vt).sort((a, b) => b[1] - a[1]).slice(0, 5);
 
   const fans = {};
-  data.voting_affinities.forEach(a => { if (a.submitter === p.name) fans[a.voter] = (fans[a.voter] || 0) + a.total_pts; });
+  if (p) data.voting_affinities.forEach(a => { if (a.submitter === p.name) fans[a.voter] = (fans[a.voter] || 0) + a.total_pts; });
   const topFans = Object.entries(fans).sort((a, b) => b[1] - a[1]).slice(0, 5);
 
   const renderPlayerChart = useCallback((canvas) => {
@@ -598,6 +889,8 @@ function ProfilePage({ data, playerId, onBack, onPlayerClick }) {
     const cumD = se.weekly.map(w => { cum += w.points; return cum; });
     return new Chart(canvas, { type: 'line', data: { labels: se.weekly.map(w => 'R' + w.round), datasets: [{ label: 'Weekly pts', data: se.weekly.map(w => w.points), borderColor: '#FF7500', backgroundColor: 'rgba(255,117,0,.1)', fill: true, tension: .3, pointRadius: 5, borderWidth: 2 }, { label: 'Cumulative', data: cumD, borderColor: '#0092D0', backgroundColor: 'transparent', tension: .3, pointRadius: 5, borderWidth: 2, borderDash: [5, 5] }] }, options: { responsive: true, animation: { duration: 800 }, plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, padding: 8, font: { size: 10 } } } }, scales: { y: { beginAtZero: true, grid: { color: '#1E1E1E' } }, x: { grid: { color: '#1E1E1E' } } } } });
   }, [playerId, se]);
+
+  if (!p) return <div className="section"><p>Player not found</p></div>;
 
   return (
     <>
@@ -659,7 +952,7 @@ function App() {
   const [pageKey, setPageKey] = useState(0); // forces re-render for animations
 
   useEffect(() => {
-    fetch('data.json?v=5').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
+    fetch('data.json?v=6').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
   }, []);
 
   const navigate = (p, opts) => {
@@ -676,9 +969,10 @@ function App() {
     setPageKey(k => k + 1);
   };
 
-  // Round themes — apply to body background on all pages based on current round
+  // Round themes — apply to body background on Weekly + Recap (round-aware pages).
   const roundBodyThemes = { 1: 'theme-divorce-bg', 2: 'theme-hearse-bg', 3: 'theme-tooth-bg', 4: 'theme-nuts-bg', 5: 'theme-leaf-bg' };
-  const bodyTheme = (data && data.rounds[roundIdx]) ? (roundBodyThemes[data.rounds[roundIdx].number] || '') : '';
+  const roundAware = page === 'weekly' || page === 'recap';
+  const bodyTheme = (roundAware && data && data.rounds[roundIdx]) ? (roundBodyThemes[data.rounds[roundIdx].number] || '') : '';
   useEffect(() => {
     document.body.className = bodyTheme;
     return () => { document.body.className = ''; };
@@ -687,7 +981,13 @@ function App() {
   if (!data) return <div className="site-wrap" style={{display:'flex',alignItems:'center',justifyContent:'center',minHeight:'100vh'}}><div style={{color:'var(--text-muted)',fontSize:12,letterSpacing:2,textTransform:'uppercase'}}>Loading...</div></div>;
 
   const round = data.rounds[roundIdx];
-  const tabs = [{id:'weekly',l:'This Week'},{id:'season',l:'Season'},{id:'songs',l:'Songs'},{id:'players',l:'Players'}];
+  const tabs = [
+    {id:'weekly', l:'This Week'},
+    {id:'season', l:'Season'},
+    {id:'songs',  l:'Songs'},
+    {id:'players',l:'Players'},
+    {id:'recap',  l:'Recap'},
+  ];
   const activePage = page === 'profile' ? 'players' : page;
 
   return (
@@ -720,13 +1020,26 @@ function App() {
       <div key={pageKey}>
         {page === 'weekly' && (
           <>
-            <div className="round-bar">
-              <button className="round-nav-btn" onClick={() => changeRound(roundIdx - 1)} disabled={roundIdx <= 0}>‹</button>
-              <div className="round-pill"><div className="round-num">{String(round.number).padStart(2, '0')}</div><div className="round-label">Round</div></div>
-              <div className="round-theme">{round.name}</div>
-              <button className="round-nav-btn" onClick={() => changeRound(roundIdx + 1)} disabled={roundIdx >= data.rounds.length - 1}>›</button>
-            </div>
+            <RoundBar
+              round={round}
+              totalRounds={data.rounds.length}
+              idx={roundIdx}
+              onPrev={() => changeRound(roundIdx - 1)}
+              onNext={() => changeRound(roundIdx + 1)}
+            />
             <WeeklyPage round={round} onPlayerClick={(id) => navigate('profile', { profileId: id })} />
+          </>
+        )}
+        {page === 'recap' && (
+          <>
+            <RoundBar
+              round={round}
+              totalRounds={data.rounds.length}
+              idx={roundIdx}
+              onPrev={() => changeRound(roundIdx - 1)}
+              onNext={() => changeRound(roundIdx + 1)}
+            />
+            <RecapPage round={round} />
           </>
         )}
         {page === 'season' && <SeasonPage data={data} onPlayerClick={(id) => navigate('profile', { profileId: id })} />}
