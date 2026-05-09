@@ -2,7 +2,7 @@
   "league": {
     "name": "Music League",
     "subtitle": "Atlanta · Season One",
-    "total_rounds": 6
+    "total_rounds": 7
   },
   "players": {
     "0795aaf6eeca40eaac6661edd291cce2": "Brooks K.",
@@ -592,16 +592,16 @@
           "rank": 7
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 7
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
@@ -640,8 +640,8 @@
           "rank": 12
         },
         {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 7,
@@ -664,8 +664,8 @@
           "rank": 14
         },
         {
-          "player_id": "76a55817271e454fad8f84efdc032dc5",
-          "player": "Kevin D.",
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 7,
@@ -680,8 +680,8 @@
           "rank": 14
         },
         {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 7,
@@ -2288,16 +2288,16 @@
           "rank": 7
         },
         {
-          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
-          "player": "Hilton H.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 10,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 8
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "7167404f66594c58a6bda0cce98ca1f2",
+          "player": "Hilton H.",
           "points": 10,
           "voted": true,
           "pts_forfeited": 0,
@@ -4188,14 +4188,6 @@
           "rank": 6
         },
         {
-          "player_id": "b250f6659575461db5ee96f4e5705023",
-          "player": "Kennon S.",
-          "points": 7,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 8
-        },
-        {
           "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
           "points": 7,
@@ -4212,16 +4204,24 @@
           "rank": 8
         },
         {
-          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
-          "player": "Blake A.",
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 7,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 11
         },
         {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
@@ -4236,8 +4236,8 @@
           "rank": 13
         },
         {
-          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
-          "player": "Patrick C.",
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4252,8 +4252,8 @@
           "rank": 14
         },
         {
-          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
-          "player": "Jack A.",
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4284,16 +4284,16 @@
           "rank": 19
         },
         {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "player": "Brooks K.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
           "rank": 19
         },
         {
-          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
-          "player": "Brooks K.",
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
@@ -6248,16 +6248,16 @@
           "rank": 3
         },
         {
-          "player_id": "b250f6659575461db5ee96f4e5705023",
-          "player": "Kennon S.",
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "points": 11,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
           "points": 11,
           "voted": true,
           "pts_forfeited": 0,
@@ -6272,16 +6272,16 @@
           "rank": 6
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 8,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 7
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 8,
           "voted": true,
           "pts_forfeited": 0,
@@ -7828,16 +7828,16 @@
           "rank": 8
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 10
         },
         {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
@@ -7852,19 +7852,19 @@
           "rank": 12
         },
         {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 9,
-          "rank": 13
-        },
-        {
           "player_id": "5210623e41984e4684fd204317a73149",
           "player": "Coates C.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 7,
+          "rank": 13
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 9,
           "rank": 13
         }
       ],
@@ -9271,16 +9271,16 @@
           "rank": 3
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
           "points": 12,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "5210623e41984e4684fd204317a73149",
-          "player": "Coates C.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 12,
           "voted": true,
           "pts_forfeited": 0,
@@ -10476,16 +10476,1590 @@
           }
         ]
       }
+    },
+    {
+      "id": "3ec5b40f483a4b279e94da03a702a2d7",
+      "number": 7,
+      "name": "Fuck, I Got Addicted to Ayahuasca But I’m a Neurosurgeon",
+      "description": "You’ve got steady hands, a spotless reputation, and a schedule full of high-stakes surgeries—but somewhere along the way you picked up a habit that absolutely does not belong in this life. Now it’s late nights, internal negotiations, and the quiet realization that you might be operating on two very different planes at once. This is the soundtrack for controlled chaos: clinical precision colliding with something deeply ungrounded. Lean psychedelic rock, experimental electronic, or trippy world-influenced tracks from the 70s or modern era—music that feels both hyper-focused and slightly unraveling.",
+      "playlist_url": "https://open.spotify.com/playlist/0divMWxUZFuY6mHH6yUzKO",
+      "songs": [
+        {
+          "title": "Smooth Operator - Single Version",
+          "artist": "Sade",
+          "album": "The Best of Sade",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 10,
+          "unique_voters": 8,
+          "spotify_uri": "spotify:track:1Hv1VTm8zeOeybub15mA2R",
+          "track_id": "1Hv1VTm8zeOeybub15mA2R",
+          "spotify_url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
+          "comment": 0
+        },
+        {
+          "title": "White Rabbit",
+          "artist": "Jefferson Airplane",
+          "album": "Surrealistic Pillow",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "total_pts": 7,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:4vpeKl0vMGdAXpZiQB2Dtd",
+          "track_id": "4vpeKl0vMGdAXpZiQB2Dtd",
+          "spotify_url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd",
+          "comment": 0
+        },
+        {
+          "title": "Brain Damage",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 7,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:05uGBKRCuePsf43Hfm0JwX",
+          "track_id": "05uGBKRCuePsf43Hfm0JwX",
+          "spotify_url": "https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX",
+          "comment": 0
+        },
+        {
+          "title": "Breathe (In the Air)",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 7,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53",
+          "track_id": "2ctvdKmETyOzPb2GiJJT53",
+          "spotify_url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
+          "comment": 0
+        },
+        {
+          "title": "Born Slippy (Nuxx)",
+          "artist": "Underworld",
+          "album": "1992 - 2012",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 7,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:7xQYVjs4wZNdCwO0EeAWMC",
+          "track_id": "7xQYVjs4wZNdCwO0EeAWMC",
+          "spotify_url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC",
+          "comment": 0
+        },
+        {
+          "title": "Crimson & Clover - Single Version",
+          "artist": "Tommy James & The Shondells",
+          "album": "The Essentials: Tommy James & The Shondells",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 6,
+          "unique_voters": 6,
+          "spotify_uri": "spotify:track:1vXuYPpkLjn1v06E2EsWQY",
+          "track_id": "1vXuYPpkLjn1v06E2EsWQY",
+          "spotify_url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY",
+          "comment": 0
+        },
+        {
+          "title": "Anenome",
+          "artist": "The Brian Jonestown Massacre",
+          "album": "Their Satanic Majesties' Second Request",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 6,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:5sHEmVAiepdGCj0rHtLYFO",
+          "track_id": "5sHEmVAiepdGCj0rHtLYFO",
+          "spotify_url": "https://open.spotify.com/track/5sHEmVAiepdGCj0rHtLYFO",
+          "comment": 0
+        },
+        {
+          "title": "Oh Yeah",
+          "artist": "Yello",
+          "album": "Essential",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:44IX8SM0fEWApOGlhUGAFc",
+          "track_id": "44IX8SM0fEWApOGlhUGAFc",
+          "spotify_url": "https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc",
+          "comment": 0
+        },
+        {
+          "title": "A Day In The Life - Remastered 2009",
+          "artist": "The Beatles",
+          "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:0hKRSZhUGEhKU6aNSPBACZ",
+          "track_id": "0hKRSZhUGEhKU6aNSPBACZ",
+          "spotify_url": "https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ",
+          "comment": 0
+        },
+        {
+          "title": "Found God in a Tomato",
+          "artist": "Psychedelic Porn Crumpets",
+          "album": "High Visceral, Pt. 1",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:4xBFKgS6VAmpmeoG0WJ9Pl",
+          "track_id": "4xBFKgS6VAmpmeoG0WJ9Pl",
+          "spotify_url": "https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl",
+          "comment": 0
+        },
+        {
+          "title": "Night over Manaus",
+          "artist": "Boozoo Bajou",
+          "album": "Satta",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:23jbfWs739EBZEl4xWYiVl",
+          "track_id": "23jbfWs739EBZEl4xWYiVl",
+          "spotify_url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl",
+          "comment": 0
+        },
+        {
+          "title": "Six Blade Knife",
+          "artist": "Dire Straits",
+          "album": "Dire Straits",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:7f8mgCngOGhoRNAmhN6GIo",
+          "track_id": "7f8mgCngOGhoRNAmhN6GIo",
+          "spotify_url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo",
+          "comment": 0
+        },
+        {
+          "title": "Insane in the Brain",
+          "artist": "Cypress Hill",
+          "album": "Black Sunday",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:1oTHteQbmJw15rPxPVXUTv",
+          "track_id": "1oTHteQbmJw15rPxPVXUTv",
+          "spotify_url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv",
+          "comment": 0
+        },
+        {
+          "title": "Man It Feels Like Space Again",
+          "artist": "Pond",
+          "album": "Man It Feels Like Space Again",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:3A7MgVUJsbN9tQpLNZHvvO",
+          "track_id": "3A7MgVUJsbN9tQpLNZHvvO",
+          "spotify_url": "https://open.spotify.com/track/3A7MgVUJsbN9tQpLNZHvvO",
+          "comment": 0
+        },
+        {
+          "title": "Pelota (Cut a Rug Mix)",
+          "artist": "Khruangbin, Quantic",
+          "album": "Mordechai Remixes",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:7JC2I6zKONCvnr4HPlY9hi",
+          "track_id": "7JC2I6zKONCvnr4HPlY9hi",
+          "spotify_url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi",
+          "comment": 0
+        },
+        {
+          "title": "drifting",
+          "artist": "Night Tapes",
+          "album": "drifting",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:2YuySJd7C2aoBarBP8OvzR",
+          "track_id": "2YuySJd7C2aoBarBP8OvzR",
+          "spotify_url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR",
+          "comment": 0
+        },
+        {
+          "title": "Always",
+          "artist": "Erasure",
+          "album": "I Say I Say I Say",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 4,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5QQCp4fQiU9I2FU9FvJVV2",
+          "track_id": "5QQCp4fQiU9I2FU9FvJVV2",
+          "spotify_url": "https://open.spotify.com/track/5QQCp4fQiU9I2FU9FvJVV2",
+          "comment": 0
+        },
+        {
+          "title": "Borderline",
+          "artist": "Tame Impala",
+          "album": "The Slow Rush",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:5hM5arv9KDbCHS0k9uqwjr",
+          "track_id": "5hM5arv9KDbCHS0k9uqwjr",
+          "spotify_url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr",
+          "comment": 0
+        },
+        {
+          "title": "My Girls",
+          "artist": "Animal Collective",
+          "album": "Merriweather Post Pavilion",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:7jZBPuJmkOsfPkwFD30dAA",
+          "track_id": "7jZBPuJmkOsfPkwFD30dAA",
+          "spotify_url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA",
+          "comment": 0
+        },
+        {
+          "title": "Seasons (Waiting on You)",
+          "artist": "Future Islands",
+          "album": "Singles",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:522YBf6WqBwJVAe7oHLymu",
+          "track_id": "522YBf6WqBwJVAe7oHLymu",
+          "spotify_url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu",
+          "comment": 0
+        },
+        {
+          "title": "Little Green Bag",
+          "artist": "George Baker Selection",
+          "album": "The Tarantino Connection",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:4DR5MStkWtDYf17jBUOo0V",
+          "track_id": "4DR5MStkWtDYf17jBUOo0V",
+          "spotify_url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V",
+          "comment": 0
+        },
+        {
+          "title": "Suck My Kiss",
+          "artist": "Red Hot Chili Peppers",
+          "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:0psB5QzGb4653K0uaPgEyh",
+          "track_id": "0psB5QzGb4653K0uaPgEyh",
+          "spotify_url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh",
+          "comment": 0
+        },
+        {
+          "title": "Bodies",
+          "artist": "Drowning Pool",
+          "album": "Sinner",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 3,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:7CpbhqKUedOIrcvc94p60Y",
+          "track_id": "7CpbhqKUedOIrcvc94p60Y",
+          "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+          "comment": 0
+        },
+        {
+          "title": "Fabienk",
+          "artist": "Angine de Poitrine",
+          "album": "Vol.II",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:1KVkzkmFBx4A8bCma6ruKA",
+          "track_id": "1KVkzkmFBx4A8bCma6ruKA",
+          "spotify_url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA",
+          "comment": 0
+        },
+        {
+          "title": "Paranoise",
+          "artist": "Thee Oh Sees",
+          "album": "Orc",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:7vIfadMSMH3pz5GyKlzAgc",
+          "track_id": "7vIfadMSMH3pz5GyKlzAgc",
+          "spotify_url": "https://open.spotify.com/track/7vIfadMSMH3pz5GyKlzAgc",
+          "comment": 0
+        },
+        {
+          "title": "Cool - Extra",
+          "artist": "Pylon",
+          "album": "Pylon Box",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:0bQ87lddGh1yp2bmPq9lM8",
+          "track_id": "0bQ87lddGh1yp2bmPq9lM8",
+          "spotify_url": "https://open.spotify.com/track/0bQ87lddGh1yp2bmPq9lM8",
+          "comment": 0
+        },
+        {
+          "title": "Who Built the Moon",
+          "artist": "Shinyribs",
+          "album": "Well After Awhile",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:74AGKeviSXmSHtRhgJLblx",
+          "track_id": "74AGKeviSXmSHtRhgJLblx",
+          "spotify_url": "https://open.spotify.com/track/74AGKeviSXmSHtRhgJLblx",
+          "comment": 0
+        },
+        {
+          "title": "All The Stars (with SZA)",
+          "artist": "Kendrick Lamar, SZA",
+          "album": "Black Panther The Album Music From And Inspired By",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:7dMBU2Kf4vmvwfVLW6yb6P",
+          "track_id": "7dMBU2Kf4vmvwfVLW6yb6P",
+          "spotify_url": "https://open.spotify.com/track/7dMBU2Kf4vmvwfVLW6yb6P",
+          "comment": 0
+        },
+        {
+          "title": "Nights",
+          "artist": "Frank Ocean",
+          "album": "Blonde",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:7eqoqGkKwgOaWNNHx90uEZ",
+          "track_id": "7eqoqGkKwgOaWNNHx90uEZ",
+          "spotify_url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ",
+          "comment": 0
+        },
+        {
+          "title": "No Turn Un-Stoned - 2020 Remaster",
+          "artist": "Shpongle",
+          "album": "Ineffable Mysteries From Shpongleland (2020 Remaster)",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "spotify_uri": "spotify:track:5QU1KClbk8kTHRMUCMFNtH",
+          "track_id": "5QU1KClbk8kTHRMUCMFNtH",
+          "spotify_url": "https://open.spotify.com/track/5QU1KClbk8kTHRMUCMFNtH",
+          "comment": 0
+        }
+      ],
+      "leaderboard": [
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "points": 13,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 1
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 12,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 2
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "points": 11,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 3
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "points": 10,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 4
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 9,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 5
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "points": 8,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 6
+        },
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "points": 7,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 9
+        },
+        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 9
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 9
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 12
+        },
+        {
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "player": "Brooks K.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 5,
+          "rank": 13
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 13,
+          "rank": 13
+        },
+        {
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 12,
+          "rank": 13
+        }
+      ],
+      "missed_points": [
+        {
+          "player": "Coates C.",
+          "total_missed": 13,
+          "songs": 2
+        },
+        {
+          "player": "Will B.",
+          "total_missed": 12,
+          "songs": 2
+        },
+        {
+          "player": "Brooks K.",
+          "total_missed": 5,
+          "songs": 2
+        }
+      ],
+      "generosity": [
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "avg_per_vote": 1.67,
+          "total_songs_voted": 6,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "avg_per_vote": 1.25,
+          "total_songs_voted": 8,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 12,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        }
+      ],
+      "vote_details": [
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Anenome",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Found God in a Tomato",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Little Green Bag",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Man It Feels Like Space Again",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Breathe (In the Air)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Night over Manaus",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Brain Damage",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pelota (Cut a Rug Mix)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Six Blade Knife",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Suck My Kiss",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "A Day In The Life - Remastered 2009",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Brain Damage",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Born Slippy (Nuxx)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Borderline",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Oh Yeah",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Man It Feels Like Space Again",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Breathe (In the Air)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Insane in the Brain",
+          "points": 1,
+          "comment": "The"
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "White Rabbit",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Night over Manaus",
+          "points": 1,
+          "comment": "this was sick"
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "A Day In The Life - Remastered 2009",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Paranoise",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "My Girls",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pelota (Cut a Rug Mix)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Anenome",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Always",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Seasons (Waiting on You)",
+          "points": 1,
+          "comment": "Required viewing: https://www.youtube.com/watch?v=upPl9mZW_zw&list=RDupPl9mZW_zw&start_radio=1&pp=ygUYZnV0dXJlIGlzbGFuZHMgbGV0dGVybWFuoAcB"
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Found God in a Tomato",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Suck My Kiss",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Breathe (In the Air)",
+          "points": 3,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "White Rabbit",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pelota (Cut a Rug Mix)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Brain Damage",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "submitter": "Ben Z.",
+          "song": "Who Built the Moon",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Fabienk",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Crimson & Clover - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "drifting",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Found God in a Tomato",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Anenome",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Six Blade Knife",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Born Slippy (Nuxx)",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Insane in the Brain",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Night over Manaus",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "drifting",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Oh Yeah",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Borderline",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "voter": "Chris V.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Brain Damage",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Little Green Bag",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Six Blade Knife",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Cool - Extra",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "A Day In The Life - Remastered 2009",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Night over Manaus",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "drifting",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Man It Feels Like Space Again",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Oh Yeah",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Born Slippy (Nuxx)",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Pelota (Cut a Rug Mix)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Crimson & Clover - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "Night over Manaus",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "drifting",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "White Rabbit",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Anenome",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Six Blade Knife",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "voter": "Jake C.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "My Girls",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Fabienk",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Six Blade Knife",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Oh Yeah",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Breathe (In the Air)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Crimson & Clover - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Insane in the Brain",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "White Rabbit",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "A Day In The Life - Remastered 2009",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "voter": "Ben Z.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Brain Damage",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Bodies",
+          "points": 3,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Crimson & Clover - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Breathe (In the Air)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Found God in a Tomato",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Seasons (Waiting on You)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Always",
+          "points": 3,
+          "comment": "What an exceptional throwback to Robot Unicorn Attack. Took me right back. "
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Found God in a Tomato",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Paranoise",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "My Girls",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Anenome",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "White Rabbit",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Man It Feels Like Space Again",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Crimson & Clover - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "voter": "Jack A.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Seasons (Waiting on You)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "A Day In The Life - Remastered 2009",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Borderline",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Smooth Operator - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Insane in the Brain",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Born Slippy (Nuxx)",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Crimson & Clover - Single Version",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "voter": "Schuyler M.",
+          "submitter_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "submitter": "Will B.",
+          "song": "White Rabbit",
+          "points": 2,
+          "comment": ""
+        }
+      ],
+      "stats": {
+        "total_submissions": 30,
+        "total_votes": 101,
+        "unique_voters": 12,
+        "unique_submitters": 15
+      },
+      "commentary": {
+        "title": "Week 7 Recap",
+        "sections": [
+          {
+            "heading": "Scouting Report (written blind)",
+            "text": "The cleanest theme prompt of the season — psychedelic rock, experimental electronic, or trippy world-influenced, with the \"controlled chaos\" / \"hyper-focused but slightly unraveling\" framing. Thirty submissions, five players doubled up. The densest psych-canon week we've had: half the playlist read the prompt and submitted Pink Floyd, Beatles, Tame Impala, Brian Jonestown Massacre, Psychedelic Porn Crumpets, Pond, Thee Oh Sees.\n\nPredicted top 5: Borderline by Tame Impala (11-14, Song of the Week pick), Pelota by Khruangbin & Quantic (9-13), A Day In The Life by Beatles (8-12), Found God in a Tomato by Psychedelic Porn Crumpets (7-11), Oh Yeah by Yello (6-10). The model adjusted from three weeks of recognizability-fails-here, leaned into \"Tame Impala is this prompt's center of gravity,\" and pegged Khruangbin as the cleanest world-fusion fit.\n\nPredicted zero votes: Bodies by Drowning Pool, Suck My Kiss by RHCP, Always by Erasure, Fabienk by Angine de Poitrine, Six Blade Knife by Dire Straits. Dark horse: Cool by Pylon (Athens GA post-punk localism). Submitter calls high-confidence: Brain Damage + Breathe → Schuyler M. (two Floyd from same album as a deliberate Dark Side pairing); Found God in a Tomato → Mills T. (Pitchfork-canon range); Cool — Pylon → Dray E. (Athens hometown read); No Turn Un-Stoned — Shpongle → Jack A. (psybient lane); Insane in the Brain → Coates C. (hip-hop)."
+          },
+          {
+            "heading": "The Reveals",
+            "text": "Coates C. won Song of the Week with Smooth Operator by Sade. Ten points, eight voters — the widest acknowledgment of the round. The pick I'd flagged as \"thematically interesting but not vibe-correct\" — the surgeon-side reading of the prompt without the ungrounded half. The league saw it differently. Coates also submitted Bodies by Drowning Pool (3 pts) and then forfeited the entire round by not voting. He won SOTW. He posted a zero on the leaderboard. Both things happened in the same round.\n\nGiles G. won the round outright with 13 points — Born Slippy by Underworld (7 pts) + Anenome by Brian Jonestown Massacre (6 pts). His first round win of the season, after spending the first six rounds bouncing around the bottom half. The double-up was perfect: 90s electronic Trainspotting closer + modern psych revival, both directly on prompt. Giles climbs from 11th to 10th and is now 11 points behind 9th.\n\nWill B. submitted White Rabbit by Jefferson Airplane (7 pts, 6 voters — the third-place song) AND Night over Manaus by Boozoo Bajou (5 pts). Twelve points on the table. He forfeited every single one of them by not voting. After breaking his five-week streak last week with 9 actual scored points, he immediately reverted. Will B. is now back at 9 season points.\n\nBrooks K. — first submissions since Week 3 — went big: Found God in a Tomato by Psychedelic Porn Crumpets (5 pts) + No Turn Un-Stoned by Shpongle (0 pts). The Shpongle pick was the most theme-perfect submission on the playlist by my read — literal psybient electronic — and the league shut it out. Brooks forfeited the 5 actual points he earned. Brooks is still at 0 season points after seven rounds. The Brooks streak holds at zero."
+          },
+          {
+            "heading": "Song Commentary",
+            "text": "Borderline by Tame Impala got THREE POINTS. My #1 prediction. Frank L. submitted it. I was right about Frank as the submitter and wrong about every voter in this league. Frank also submitted All The Stars by Kendrick & SZA, which got zero votes. Frank now leads the league in cold-shoulder zero-vote songs at 3 — Stick Season (R4), W.W.Y.B.-tier picks bombing repeatedly, and now All The Stars. The Frank pattern is officially structural.\n\nMills T. got a zero. Frank Ocean's Nights — a song where the literal midpoint structure-shift between two halves was the cleverest read of the \"two different planes at once\" framing on the entire playlist — got zero votes. Mills also got 5 for A Day In The Life. He's now had three consecutive sub-7 rounds and dropped from 4th to 6th overall.\n\nThe two Pink Floyd songs were two different submitters. Brain Damage was Jack A. (7 pts). Breathe (In the Air) was Chris V. (7 pts). My read that the same person submitted both halves of Dark Side was wrong — it was a coincidence, two different Floyd fans both reaching for the same album.\n\nJack A. went 11 points on Brain Damage (7) + Insane in the Brain (4) — both keyword picks (\"brain\" + \"brain\"). Jack has now had two consecutive double-digit weeks after a brutal start to the season.\n\nThe psych-canon submissions all underperformed expectations. White Rabbit (#2 song with 7 pts) was the second-best psych-canon pick. A Day In The Life landed at #9 with 5. Found God in a Tomato landed at #10 with 5. Anenome at #7 with 6 pts. Pond's Man It Feels Like Space Again at #14 with 4. Borderline at #18 with 3. Paranoise at #25 with 2. The league got 10 psych-canon submissions and rewarded the Sade song.\n\nKennon S. submitted Oh Yeah by Yello (6 pts) AND Little Green Bag by George Baker (3 pts). The Yello prediction had been TR C., which was wrong — Kennon's curveball-deep-cut pattern can absorb Ferris Bueller-via-Yello as easily as it absorbs Bloodhound Gang.\n\nSchuyler M. submitted drifting by Night Tapes (4 pts) AND Always by Erasure (4 pts). The Erasure pick was the only submission I'd called \"wrong everything.\" It got 4 points and the actual best vote comment of the night: Frank L. gave it 3 points and wrote \"What an exceptional throwback to Robot Unicorn Attack. Took me right back.\" Schuyler is rewarded for inscrutability."
+          },
+          {
+            "heading": "The Standings Shift",
+            "text": "The top four are now separated by six points. Dray E. holds first at 77, Ben Z. at 73, Kennon S. at 72, Chris V. at 71. This is the tightest top of the leaderboard at this point in the season. Dray earned just 4 points this week — Fabienk (2) + Paranoise (2), neither pick connecting — and his lead is shrinking fast. Ben Z. also posted a 4 (Suck My Kiss 3 + Who Built the Moon 1) and the gap holds.\n\nChris V. is the player who made the run. Twelve points (Breathe 7 + Six Blade Knife 5) climbs him from 6th to 4th, six points off the lead. Chris is now 4-for-7 on top-12-point weeks and his Crumblin' Erb (R5) win has the second-highest voter count of any HoF song. The quietest contender in the league has been steadily closing.\n\nEmory L. holds 5th at 68 points with only 5 rounds played — his 13.6 average is now matched by Ben Z.'s peak weeks but is still the highest sustained efficiency in the league. If he keeps showing up.\n\nMills T. fell to 6th. Since his Week 3 league-lead at 42 points, he's added just 25 points across 4 rounds (6.25 avg). The early-season top-3 lock has dissolved.\n\nGiles G. up to 10th after his round win. Schuyler M. fell to 11th with two consecutive weeks scored despite the league pretending not to recognize his picks. Coates C. is stuck at 27 points in 12th — his win-and-forfeit pattern is now the defining feature of his season."
+          },
+          {
+            "heading": "The Fallers",
+            "text": "Coates C. forfeited the round he won. There is no precedent for this in the season. He won SOTW, scored zero on the leaderboard, missed 13 points by not voting. His season trajectory is the worst-case YesChef demo: posts the clearest top-line metric, loses on operational follow-through.\n\nWill B. — same story, lower stakes. After breaking his streak last week, he submitted two of the round's better psych-canon picks and then ghosted the voting again. The wall of shame returns from a one-week hiatus.\n\nFrank L. cracked 3 points but the cold-shoulder count is mounting. Three zero-vote songs across 6 rounds. His average has dropped to 4.2 — now firmly the lowest of any player with 5+ rounds played.\n\nHunter A. extended his streak — four consecutive zero-submission rounds since his Week 2 / Week 3 promise. Blake A. matched: zero submissions across four straight rounds. Both started strong; both ghosted.\n\nDray E. survived a 4-point round, but it's the smallest he's posted since Week 1 and the league is closing on him. The lead is now four points."
+          },
+          {
+            "heading": "The Wall of Shame",
+            "text": "Did not submit (10): Blake A., Danny C., Haris V., Henry L., Hilton H., Hunter A., Kevin D., Patrick C., TR C., Will I.\n\nForfeited (submitted but didn't vote): Coates C. (-13 pts), Will B. (-12 pts), Brooks K. (-5 pts).\n\nThree forfeits this round. Last week was the season's first zero-forfeit week. The recovery was apparently temporary. Of the three forfeiters, Coates lost the most: he won the round on points scored and finished tied-13th on the leaderboard. The win-without-voting pattern is now Coates' season identity.\n\nBrooks K.'s submissions earned actual votes for the first time in the season — Found God in a Tomato got 5 pts, 5 voters. He didn't vote. Brooks remains at 0 season points after 7 rounds. The longest active scoreless streak in the league — Brooks has now submitted 8 songs total and credited zero of them by ever voting."
+          },
+          {
+            "heading": "Prediction Accuracy",
+            "text": "Submitter predictions: 3 for 30 on full hits. Borderline → Frank L. ✓. Suck My Kiss → Ben Z. ✓. Crimson & Clover → Ford L. ✓. The model is reading the recognizable-mainstream lane (Frank), the classic-rock-energy lane (Ben), and the deep-pull lane (Ford) correctly. Everything else: wrong. Two-thirds of the playlist were doubles, and almost no one doubled up where I expected.\n\nTop 5 predictions: 0 for 5 on rank. Borderline (predicted #1, SOTW) landed at #18 with 3 points. Pelota at #15. A Day In The Life at #9. Found God in a Tomato at #10. Oh Yeah at #8. Every one of my picks underperformed. The actual top 5: Smooth Operator (Sade, 10 pts), White Rabbit (Jefferson Airplane, 7), Brain Damage (Floyd, 7), Breathe (Floyd, 7), Born Slippy (Underworld, 7). Three of the five top songs were on my radar but mid-tier.\n\nZero-vote predictions: 0 for 5. Bodies got 3. Suck My Kiss got 3. Always got 4 with the best vote comment of the night. Fabienk got 2. Six Blade Knife got 5 (and Chris V. carried it to 4th overall). The zeros went to Mills T.'s Frank Ocean (which I'd flagged as one of the cleverer reads), Frank L.'s All The Stars, and Brooks K.'s Shpongle (which I'd called the most theme-perfect submission on the playlist).\n\nDark horse pick: Cool by Pylon. Predicted 7-10 pts. Actually got 1 point and went to Jake C., not Dray. The hometown localism theory got rejected — the league does not, in fact, reward Athens post-punk on principle.\n\nThe pattern from four weeks running: I predict that recognizability or theme-perfection will win, the league rewards a song nobody's pattern-matched. Stick Season (0). Still D.R.E. (0). Hallelujah (3). Borderline (3). The four most universally-known submissions of the last four weeks have a combined 6 points. Smooth Operator was the same kind of song-everyone-knows pick that gets shut out — and this week, it won. The model has no signal. Returning to first principles next week."
+          }
+        ]
+      }
     }
   ],
   "season_leaderboard": [
     {
       "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
       "player": "Dray E.",
-      "points": 73,
-      "rounds_played": 6,
+      "points": 77,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 12.2,
+      "avg_per_round": 11.0,
       "joined_round": 1,
       "weekly": [
         {
@@ -10517,6 +12091,11 @@
           "round": 6,
           "points": 15,
           "rank": 3
+        },
+        {
+          "round": 7,
+          "points": 4,
+          "rank": 9
         }
       ],
       "rank": 1
@@ -10524,10 +12103,10 @@
     {
       "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
       "player": "Ben Z.",
-      "points": 69,
-      "rounds_played": 6,
+      "points": 73,
+      "rounds_played": 7,
       "wins": 2,
-      "avg_per_round": 11.5,
+      "avg_per_round": 10.4,
       "joined_round": 1,
       "weekly": [
         {
@@ -10559,6 +12138,11 @@
           "round": 6,
           "points": 17,
           "rank": 1
+        },
+        {
+          "round": 7,
+          "points": 4,
+          "rank": 9
         }
       ],
       "rank": 2
@@ -10566,10 +12150,10 @@
     {
       "player_id": "b250f6659575461db5ee96f4e5705023",
       "player": "Kennon S.",
-      "points": 63,
-      "rounds_played": 6,
+      "points": 72,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 10.5,
+      "avg_per_round": 10.3,
       "joined_round": 1,
       "weekly": [
         {
@@ -10601,17 +12185,106 @@
           "round": 6,
           "points": 11,
           "rank": 6
+        },
+        {
+          "round": 7,
+          "points": 9,
+          "rank": 5
         }
       ],
       "rank": 3
     },
     {
+      "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+      "player": "Chris V.",
+      "points": 71,
+      "rounds_played": 7,
+      "wins": 1,
+      "avg_per_round": 10.1,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "round": 2,
+          "points": 14,
+          "rank": 4
+        },
+        {
+          "round": 3,
+          "points": 5,
+          "rank": 11
+        },
+        {
+          "round": 4,
+          "points": 7,
+          "rank": 9
+        },
+        {
+          "round": 5,
+          "points": 17,
+          "rank": 1
+        },
+        {
+          "round": 6,
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "round": 7,
+          "points": 12,
+          "rank": 2
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "player_id": "43941604052d45488a63065923e84f19",
+      "player": "Emory L.",
+      "points": 68,
+      "rounds_played": 5,
+      "wins": 1,
+      "avg_per_round": 13.6,
+      "joined_round": 3,
+      "weekly": [
+        {
+          "round": 3,
+          "points": 23,
+          "rank": 1
+        },
+        {
+          "round": 4,
+          "points": 15,
+          "rank": 2
+        },
+        {
+          "round": 5,
+          "points": 7,
+          "rank": 7
+        },
+        {
+          "round": 6,
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "round": 7,
+          "points": 7,
+          "rank": 7
+        }
+      ],
+      "rank": 5
+    },
+    {
       "player_id": "5838e19081f440598e554c420f257ab7",
       "player": "Mills T.",
-      "points": 62,
-      "rounds_played": 6,
+      "points": 67,
+      "rounds_played": 7,
       "wins": 1,
-      "avg_per_round": 10.3,
+      "avg_per_round": 9.6,
       "joined_round": 1,
       "weekly": [
         {
@@ -10643,80 +12316,11 @@
           "round": 6,
           "points": 10,
           "rank": 7
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "player_id": "43941604052d45488a63065923e84f19",
-      "player": "Emory L.",
-      "points": 61,
-      "rounds_played": 4,
-      "wins": 1,
-      "avg_per_round": 15.2,
-      "joined_round": 3,
-      "weekly": [
-        {
-          "round": 3,
-          "points": 23,
-          "rank": 1
         },
         {
-          "round": 4,
-          "points": 15,
-          "rank": 2
-        },
-        {
-          "round": 5,
-          "points": 7,
-          "rank": 7
-        },
-        {
-          "round": 6,
-          "points": 16,
-          "rank": 2
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-      "player": "Chris V.",
-      "points": 59,
-      "rounds_played": 6,
-      "wins": 1,
-      "avg_per_round": 9.8,
-      "joined_round": 1,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 8,
-          "rank": 5
-        },
-        {
-          "round": 2,
-          "points": 14,
-          "rank": 4
-        },
-        {
-          "round": 3,
+          "round": 7,
           "points": 5,
-          "rank": 11
-        },
-        {
-          "round": 4,
-          "points": 7,
-          "rank": 9
-        },
-        {
-          "round": 5,
-          "points": 17,
-          "rank": 1
-        },
-        {
-          "round": 6,
-          "points": 8,
-          "rank": 9
+          "rank": 8
         }
       ],
       "rank": 6
@@ -10724,10 +12328,10 @@
     {
       "player_id": "62ce05b4abe5441b9504d25b59208a99",
       "player": "Jake C.",
-      "points": 57,
-      "rounds_played": 6,
+      "points": 61,
+      "rounds_played": 7,
       "wins": 1,
-      "avg_per_round": 9.5,
+      "avg_per_round": 8.7,
       "joined_round": 1,
       "weekly": [
         {
@@ -10759,6 +12363,11 @@
           "round": 6,
           "points": 12,
           "rank": 4
+        },
+        {
+          "round": 7,
+          "points": 4,
+          "rank": 9
         }
       ],
       "rank": 7
@@ -10766,10 +12375,10 @@
     {
       "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
       "player": "Ford L.",
-      "points": 49,
-      "rounds_played": 6,
+      "points": 59,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 8.2,
+      "avg_per_round": 8.4,
       "joined_round": 1,
       "weekly": [
         {
@@ -10801,6 +12410,11 @@
           "round": 6,
           "points": 6,
           "rank": 10
+        },
+        {
+          "round": 7,
+          "points": 10,
+          "rank": 4
         }
       ],
       "rank": 8
@@ -10808,10 +12422,10 @@
     {
       "player_id": "4610c4dc5b5c44f09d2c378332135b67",
       "player": "Jack A.",
-      "points": 41,
-      "rounds_played": 6,
+      "points": 52,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 6.8,
+      "avg_per_round": 7.4,
       "joined_round": 1,
       "weekly": [
         {
@@ -10843,59 +12457,22 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 11,
+          "rank": 3
         }
       ],
       "rank": 9
     },
     {
-      "player_id": "90defa7481ce45f4acfc02ba3792e834",
-      "player": "Schuyler M.",
-      "points": 37,
-      "rounds_played": 6,
-      "wins": 0,
-      "avg_per_round": 6.2,
-      "joined_round": 1,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 6,
-          "rank": 7
-        },
-        {
-          "round": 2,
-          "points": 6,
-          "rank": 12
-        },
-        {
-          "round": 3,
-          "points": 7,
-          "rank": 8
-        },
-        {
-          "round": 4,
-          "points": 11,
-          "rank": 4
-        },
-        {
-          "round": 5,
-          "points": 2,
-          "rank": 12
-        },
-        {
-          "round": 6,
-          "points": 5,
-          "rank": 12
-        }
-      ],
-      "rank": 10
-    },
-    {
       "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
       "player": "Giles G.",
-      "points": 35,
-      "rounds_played": 6,
-      "wins": 0,
-      "avg_per_round": 5.8,
+      "points": 48,
+      "rounds_played": 7,
+      "wins": 1,
+      "avg_per_round": 6.9,
       "joined_round": 1,
       "weekly": [
         {
@@ -10927,6 +12504,58 @@
           "round": 6,
           "points": 3,
           "rank": 13
+        },
+        {
+          "round": 7,
+          "points": 13,
+          "rank": 1
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "player_id": "90defa7481ce45f4acfc02ba3792e834",
+      "player": "Schuyler M.",
+      "points": 45,
+      "rounds_played": 7,
+      "wins": 0,
+      "avg_per_round": 6.4,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 6,
+          "rank": 12
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "round": 4,
+          "points": 11,
+          "rank": 4
+        },
+        {
+          "round": 5,
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "round": 6,
+          "points": 5,
+          "rank": 12
+        },
+        {
+          "round": 7,
+          "points": 8,
+          "rank": 6
         }
       ],
       "rank": 11
@@ -10935,9 +12564,9 @@
       "player_id": "5210623e41984e4684fd204317a73149",
       "player": "Coates C.",
       "points": 27,
-      "rounds_played": 4,
+      "rounds_played": 5,
       "wins": 0,
-      "avg_per_round": 6.8,
+      "avg_per_round": 5.4,
       "joined_round": 3,
       "weekly": [
         {
@@ -10959,54 +12588,22 @@
           "round": 6,
           "points": 12,
           "rank": 4
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": 13
         }
       ],
       "rank": 12
     },
     {
-      "player_id": "605a6a083d2d4ad781df783c4a21b505",
-      "player": "Hunter A.",
-      "points": 23,
-      "rounds_played": 5,
-      "wins": 0,
-      "avg_per_round": 4.6,
-      "joined_round": 2,
-      "weekly": [
-        {
-          "round": 2,
-          "points": 15,
-          "rank": 3
-        },
-        {
-          "round": 3,
-          "points": 8,
-          "rank": 6
-        },
-        {
-          "round": 4,
-          "points": 0,
-          "rank": null
-        },
-        {
-          "round": 5,
-          "points": 0,
-          "rank": null
-        },
-        {
-          "round": 6,
-          "points": 0,
-          "rank": null
-        }
-      ],
-      "rank": 13
-    },
-    {
       "player_id": "2b989686f7054740af2017ae1a829d68",
       "player": "Frank L.",
-      "points": 22,
-      "rounds_played": 5,
+      "points": 25,
+      "rounds_played": 6,
       "wins": 0,
-      "avg_per_round": 4.4,
+      "avg_per_round": 4.2,
       "joined_round": 2,
       "weekly": [
         {
@@ -11033,6 +12630,53 @@
           "round": 6,
           "points": 6,
           "rank": 10
+        },
+        {
+          "round": 7,
+          "points": 3,
+          "rank": 12
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "player_id": "605a6a083d2d4ad781df783c4a21b505",
+      "player": "Hunter A.",
+      "points": 23,
+      "rounds_played": 6,
+      "wins": 0,
+      "avg_per_round": 3.8,
+      "joined_round": 2,
+      "weekly": [
+        {
+          "round": 2,
+          "points": 15,
+          "rank": 3
+        },
+        {
+          "round": 3,
+          "points": 8,
+          "rank": 6
+        },
+        {
+          "round": 4,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 5,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 6,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 14
@@ -11041,9 +12685,9 @@
       "player_id": "25fef29f0b2243548626ee1713e3b1f9",
       "player": "Blake A.",
       "points": 14,
-      "rounds_played": 5,
+      "rounds_played": 6,
       "wins": 0,
-      "avg_per_round": 2.8,
+      "avg_per_round": 2.3,
       "joined_round": 2,
       "weekly": [
         {
@@ -11070,6 +12714,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 15
@@ -11078,9 +12727,9 @@
       "player_id": "7167404f66594c58a6bda0cce98ca1f2",
       "player": "Hilton H.",
       "points": 14,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 2.3,
+      "avg_per_round": 2.0,
       "joined_round": 1,
       "weekly": [
         {
@@ -11112,6 +12761,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 15
@@ -11120,9 +12774,9 @@
       "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
       "player": "TR C.",
       "points": 12,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 2.0,
+      "avg_per_round": 1.7,
       "joined_round": 1,
       "weekly": [
         {
@@ -11154,6 +12808,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 17
@@ -11162,9 +12821,9 @@
       "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
       "player": "Patrick C.",
       "points": 10,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 1.7,
+      "avg_per_round": 1.4,
       "joined_round": 1,
       "weekly": [
         {
@@ -11196,6 +12855,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 18
@@ -11204,9 +12868,9 @@
       "player_id": "76a55817271e454fad8f84efdc032dc5",
       "player": "Kevin D.",
       "points": 9,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 1.5,
+      "avg_per_round": 1.3,
       "joined_round": 1,
       "weekly": [
         {
@@ -11238,6 +12902,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 19
@@ -11246,9 +12915,9 @@
       "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
       "player": "Will B.",
       "points": 9,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 1.5,
+      "avg_per_round": 1.3,
       "joined_round": 1,
       "weekly": [
         {
@@ -11280,6 +12949,11 @@
           "round": 6,
           "points": 9,
           "rank": 8
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": 13
         }
       ],
       "rank": 19
@@ -11288,9 +12962,9 @@
       "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
       "player": "Danny C.",
       "points": 5,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 0.8,
+      "avg_per_round": 0.7,
       "joined_round": 1,
       "weekly": [
         {
@@ -11322,6 +12996,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 21
@@ -11330,9 +13009,9 @@
       "player_id": "79cab84806c54bf0b59b34c5b2977d78",
       "player": "Henry L.",
       "points": 3,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 0.5,
+      "avg_per_round": 0.4,
       "joined_round": 1,
       "weekly": [
         {
@@ -11364,6 +13043,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 22
@@ -11372,7 +13056,7 @@
       "player_id": "0795aaf6eeca40eaac6661edd291cce2",
       "player": "Brooks K.",
       "points": 0,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
       "avg_per_round": 0.0,
       "joined_round": 1,
@@ -11406,6 +13090,11 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": 13
         }
       ],
       "rank": 23
@@ -11414,7 +13103,7 @@
       "player_id": "e004e6544dff44bdb1687ec8fb03f137",
       "player": "Will I.",
       "points": 0,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
       "avg_per_round": 0.0,
       "joined_round": 1,
@@ -11448,12 +13137,29 @@
           "round": 6,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 7,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 23
     }
   ],
   "voting_affinities": [
+    {
+      "voter": "Mills T.",
+      "submitter": "Ben Z.",
+      "total_pts": 11,
+      "times": 7
+    },
+    {
+      "voter": "Mills T.",
+      "submitter": "Chris V.",
+      "total_pts": 10,
+      "times": 6
+    },
     {
       "voter": "Chris V.",
       "submitter": "Jake C.",
@@ -11467,10 +13173,10 @@
       "times": 6
     },
     {
-      "voter": "Mills T.",
-      "submitter": "Ben Z.",
+      "voter": "Schuyler M.",
+      "submitter": "Mills T.",
       "total_pts": 9,
-      "times": 6
+      "times": 8
     },
     {
       "voter": "Ben Z.",
@@ -11479,14 +13185,32 @@
       "times": 7
     },
     {
+      "voter": "Ford L.",
+      "submitter": "Dray E.",
+      "total_pts": 8,
+      "times": 8
+    },
+    {
+      "voter": "Kennon S.",
+      "submitter": "Giles G.",
+      "total_pts": 8,
+      "times": 5
+    },
+    {
       "voter": "Giles G.",
       "submitter": "Dray E.",
       "total_pts": 8,
       "times": 6
     },
     {
-      "voter": "Schuyler M.",
-      "submitter": "Mills T.",
+      "voter": "Giles G.",
+      "submitter": "Ford L.",
+      "total_pts": 8,
+      "times": 4
+    },
+    {
+      "voter": "Ben Z.",
+      "submitter": "Chris V.",
       "total_pts": 8,
       "times": 7
     },
@@ -11497,22 +13221,40 @@
       "times": 6
     },
     {
+      "voter": "Dray E.",
+      "submitter": "Giles G.",
+      "total_pts": 7,
+      "times": 7
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Ford L.",
+      "total_pts": 7,
+      "times": 7
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Kennon S.",
+      "total_pts": 7,
+      "times": 7
+    },
+    {
       "voter": "Kennon S.",
       "submitter": "Jake C.",
       "total_pts": 7,
       "times": 4
     },
     {
-      "voter": "Mills T.",
+      "voter": "Jake C.",
       "submitter": "Chris V.",
       "total_pts": 7,
-      "times": 5
+      "times": 6
     },
     {
-      "voter": "Ford L.",
+      "voter": "Jack A.",
       "submitter": "Dray E.",
       "total_pts": 7,
-      "times": 7
+      "times": 4
     },
     {
       "voter": "Schuyler M.",
@@ -11533,6 +13275,12 @@
       "times": 3
     },
     {
+      "voter": "Dray E.",
+      "submitter": "Chris V.",
+      "total_pts": 7,
+      "times": 7
+    },
+    {
       "voter": "Kennon S.",
       "submitter": "Jack A.",
       "total_pts": 7,
@@ -11540,9 +13288,9 @@
     },
     {
       "voter": "Giles G.",
-      "submitter": "Ford L.",
+      "submitter": "Kennon S.",
       "total_pts": 7,
-      "times": 3
+      "times": 6
     },
     {
       "voter": "Chris V.",
@@ -11557,10 +13305,22 @@
       "times": 5
     },
     {
+      "voter": "Jack A.",
+      "submitter": "Emory L.",
+      "total_pts": 7,
+      "times": 5
+    },
+    {
       "voter": "Schuyler M.",
       "submitter": "Emory L.",
       "total_pts": 7,
       "times": 4
+    },
+    {
+      "voter": "Emory L.",
+      "submitter": "Ben Z.",
+      "total_pts": 7,
+      "times": 6
     },
     {
       "voter": "Dray E.",
@@ -11569,22 +13329,10 @@
       "times": 6
     },
     {
-      "voter": "Dray E.",
-      "submitter": "Giles G.",
+      "voter": "Kennon S.",
+      "submitter": "Chris V.",
       "total_pts": 6,
-      "times": 6
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Ford L.",
-      "total_pts": 6,
-      "times": 6
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Kennon S.",
-      "total_pts": 6,
-      "times": 6
+      "times": 4
     },
     {
       "voter": "Hilton H.",
@@ -11617,142 +13365,88 @@
       "times": 4
     },
     {
-      "voter": "Jake C.",
-      "submitter": "Chris V.",
-      "total_pts": 6,
-      "times": 5
-    },
-    {
       "voter": "Ben Z.",
       "submitter": "Jake C.",
       "total_pts": 6,
       "times": 4
     },
     {
-      "voter": "Jack A.",
-      "submitter": "Dray E.",
-      "total_pts": 6,
-      "times": 3
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Ben Z.",
-      "total_pts": 6,
-      "times": 5
-    },
-    {
-      "voter": "Jack A.",
-      "submitter": "Ben Z.",
-      "total_pts": 6,
-      "times": 4
-    },
-    {
       "voter": "Ben Z.",
-      "submitter": "Chris V.",
-      "total_pts": 6,
-      "times": 5
-    },
-    {
-      "voter": "Jack A.",
-      "submitter": "Emory L.",
-      "total_pts": 6,
-      "times": 4
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Emory L.",
-      "total_pts": 6,
-      "times": 5
-    },
-    {
-      "voter": "Emory L.",
-      "submitter": "Ben Z.",
-      "total_pts": 6,
-      "times": 5
-    },
-    {
-      "voter": "Frank L.",
-      "submitter": "Ben Z.",
-      "total_pts": 6,
-      "times": 2
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Mills T.",
-      "total_pts": 5,
-      "times": 5
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Mills T.",
-      "total_pts": 5,
-      "times": 4
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Chris V.",
-      "total_pts": 5,
-      "times": 3
-    },
-    {
-      "voter": "Ben Z.",
-      "submitter": "Dray E.",
-      "total_pts": 5,
-      "times": 5
-    },
-    {
-      "voter": "Ben Z.",
-      "submitter": "Mills T.",
-      "total_pts": 5,
-      "times": 4
-    },
-    {
-      "voter": "Jack A.",
       "submitter": "Kennon S.",
-      "total_pts": 5,
-      "times": 3
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Chris V.",
-      "total_pts": 5,
+      "total_pts": 6,
       "times": 5
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Giles G.",
-      "total_pts": 5,
-      "times": 3
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Mills T.",
-      "total_pts": 5,
-      "times": 2
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Dray E.",
-      "total_pts": 5,
-      "times": 5
-    },
-    {
-      "voter": "Ford L.",
-      "submitter": "Hunter A.",
-      "total_pts": 5,
-      "times": 4
     },
     {
       "voter": "Ben Z.",
-      "submitter": "Blake A.",
-      "total_pts": 5,
+      "submitter": "Dray E.",
+      "total_pts": 6,
+      "times": 6
+    },
+    {
+      "voter": "Ben Z.",
+      "submitter": "Mills T.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
+      "voter": "Schuyler M.",
+      "submitter": "Giles G.",
+      "total_pts": 6,
       "times": 4
     },
     {
+      "voter": "Chris V.",
+      "submitter": "Ben Z.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
+      "voter": "Jack A.",
+      "submitter": "Ben Z.",
+      "total_pts": 6,
+      "times": 4
+    },
+    {
+      "voter": "Chris V.",
+      "submitter": "Emory L.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
       "voter": "Frank L.",
-      "submitter": "Will B.",
-      "total_pts": 5,
+      "submitter": "Ben Z.",
+      "total_pts": 6,
       "times": 2
+    },
+    {
+      "voter": "Frank L.",
+      "submitter": "Schuyler M.",
+      "total_pts": 6,
+      "times": 2
+    },
+    {
+      "voter": "Jake C.",
+      "submitter": "Emory L.",
+      "total_pts": 6,
+      "times": 5
+    },
+    {
+      "voter": "Frank L.",
+      "submitter": "Coates C.",
+      "total_pts": 6,
+      "times": 2
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Mills T.",
+      "total_pts": 5,
+      "times": 5
+    },
+    {
+      "voter": "Chris V.",
+      "submitter": "Jack A.",
+      "total_pts": 5,
+      "times": 4
     }
   ],
   "hall_of_fame": [
@@ -11911,6 +13605,17 @@
       "spotify_url": "https://open.spotify.com/track/6IIhAAslHaT2mJtqRq3Dpi"
     },
     {
+      "round": 7,
+      "title": "Smooth Operator - Single Version",
+      "artist": "Sade",
+      "submitter": "Coates C.",
+      "submitter_id": "5210623e41984e4684fd204317a73149",
+      "total_pts": 10,
+      "unique_voters": 8,
+      "track_id": "1Hv1VTm8zeOeybub15mA2R",
+      "spotify_url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
       "round": 3,
       "title": "All Time Low - Live At Classic Center Theater, Athens, GA, USA 2000",
       "artist": "Widespread Panic",
@@ -11964,17 +13669,6 @@
       "unique_voters": 6,
       "track_id": "0i19MAZbyn8uTir7FprXId",
       "spotify_url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
-    },
-    {
-      "round": 6,
-      "title": "Country Road",
-      "artist": "Toots & The Maytals",
-      "submitter": "Dray E.",
-      "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
-      "total_pts": 9,
-      "unique_voters": 6,
-      "track_id": "78idK1ANg6tbO8d67GD09B",
-      "spotify_url": "https://open.spotify.com/track/78idK1ANg6tbO8d67GD09B"
     }
   ],
   "player_profiles": {
@@ -12020,11 +13714,31 @@
           "unique_voters": 3,
           "track_id": "5IumuUJqNO7K5SvniuDrBz",
           "spotify_url": "https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz"
+        },
+        {
+          "round": 7,
+          "title": "Found God in a Tomato",
+          "artist": "Psychedelic Porn Crumpets",
+          "album": "High Visceral, Pt. 1",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "track_id": "4xBFKgS6VAmpmeoG0WJ9Pl",
+          "spotify_url": "https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl"
+        },
+        {
+          "round": 7,
+          "title": "No Turn Un-Stoned - 2020 Remaster",
+          "artist": "Shpongle",
+          "album": "Ineffable Mysteries From Shpongleland (2020 Remaster)",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "5QU1KClbk8kTHRMUCMFNtH",
+          "spotify_url": "https://open.spotify.com/track/5QU1KClbk8kTHRMUCMFNtH"
         }
       ],
       "voting_history": [],
       "season_points": 0,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "0a831b84b60a4aaca7c6f3150bbccb88": {
       "name": "Dray E.",
@@ -12148,6 +13862,26 @@
           "unique_voters": 5,
           "track_id": "36X97rcBwZSa79eNfM1kKN",
           "spotify_url": "https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN"
+        },
+        {
+          "round": 7,
+          "title": "Fabienk",
+          "artist": "Angine de Poitrine",
+          "album": "Vol.II",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "1KVkzkmFBx4A8bCma6ruKA",
+          "spotify_url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+        },
+        {
+          "round": 7,
+          "title": "Paranoise",
+          "artist": "Thee Oh Sees",
+          "album": "Orc",
+          "total_pts": 2,
+          "unique_voters": 2,
+          "track_id": "7vIfadMSMH3pz5GyKlzAgc",
+          "spotify_url": "https://open.spotify.com/track/7vIfadMSMH3pz5GyKlzAgc"
         }
       ],
       "voting_history": [
@@ -12510,10 +14244,70 @@
           "song": "War Pigs - Live",
           "voted_for": "Jake C.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Anenome",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Found God in a Tomato",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Little Green Bag",
+          "voted_for": "Kennon S.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Man It Feels Like Space Again",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Breathe (In the Air)",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Night over Manaus",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Brain Damage",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Pelota (Cut a Rug Mix)",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Six Blade Knife",
+          "voted_for": "Chris V.",
+          "points_given": 1
         }
       ],
-      "season_points": 73,
-      "rounds_played": 6
+      "season_points": 77,
+      "rounds_played": 7
     },
     "25fef29f0b2243548626ee1713e3b1f9": {
       "name": "Blake A.",
@@ -12684,7 +14478,7 @@
         }
       ],
       "season_points": 14,
-      "rounds_played": 5
+      "rounds_played": 6
     },
     "2b989686f7054740af2017ae1a829d68": {
       "name": "Frank L.",
@@ -12788,6 +14582,26 @@
           "unique_voters": 3,
           "track_id": "5USZyz6dnBEn1oLsKcAKQy",
           "spotify_url": "https://open.spotify.com/track/5USZyz6dnBEn1oLsKcAKQy"
+        },
+        {
+          "round": 7,
+          "title": "Borderline",
+          "artist": "Tame Impala",
+          "album": "The Slow Rush",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "5hM5arv9KDbCHS0k9uqwjr",
+          "spotify_url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+        },
+        {
+          "round": 7,
+          "title": "All The Stars (with SZA)",
+          "artist": "Kendrick Lamar, SZA",
+          "album": "Black Panther The Album Music From And Inspired By",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "7dMBU2Kf4vmvwfVLW6yb6P",
+          "spotify_url": "https://open.spotify.com/track/7dMBU2Kf4vmvwfVLW6yb6P"
         }
       ],
       "voting_history": [
@@ -12928,10 +14742,46 @@
           "song": "Country Road",
           "voted_for": "Dray E.",
           "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Bodies",
+          "voted_for": "Coates C.",
+          "points_given": 3
+        },
+        {
+          "round": 7,
+          "song": "Crimson & Clover - Single Version",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Breathe (In the Air)",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Found God in a Tomato",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Seasons (Waiting on You)",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Always",
+          "voted_for": "Schuyler M.",
+          "points_given": 3
         }
       ],
-      "season_points": 22,
-      "rounds_played": 5
+      "season_points": 25,
+      "rounds_played": 6
     },
     "2fed7a01277b4496a86f52fd504a9dcd": {
       "name": "TR C.",
@@ -13116,7 +14966,7 @@
         }
       ],
       "season_points": 12,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "43941604052d45488a63065923e84f19": {
       "name": "Emory L.",
@@ -13200,6 +15050,26 @@
           "unique_voters": 5,
           "track_id": "76FXubXFidGP7Ctujdp7FS",
           "spotify_url": "https://open.spotify.com/track/76FXubXFidGP7Ctujdp7FS"
+        },
+        {
+          "round": 7,
+          "title": "Pelota (Cut a Rug Mix)",
+          "artist": "Khruangbin, Quantic",
+          "album": "Mordechai Remixes",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "track_id": "7JC2I6zKONCvnr4HPlY9hi",
+          "spotify_url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
+        },
+        {
+          "round": 7,
+          "title": "My Girls",
+          "artist": "Animal Collective",
+          "album": "Merriweather Post Pavilion",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "7jZBPuJmkOsfPkwFD30dAA",
+          "spotify_url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
         }
       ],
       "voting_history": [
@@ -13418,10 +15288,70 @@
           "song": "She Came In Through The Bathroom Window",
           "voted_for": "Ben Z.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Suck My Kiss",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "A Day In The Life - Remastered 2009",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Brain Damage",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Born Slippy (Nuxx)",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Borderline",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Oh Yeah",
+          "voted_for": "Kennon S.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Man It Feels Like Space Again",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Breathe (In the Air)",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Insane in the Brain",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 1
         }
       ],
-      "season_points": 61,
-      "rounds_played": 4
+      "season_points": 68,
+      "rounds_played": 5
     },
     "4610c4dc5b5c44f09d2c378332135b67": {
       "name": "Jack A.",
@@ -13525,6 +15455,26 @@
           "unique_voters": 1,
           "track_id": "5eMlSZnu2tBUlPeNPNThnQ",
           "spotify_url": "https://open.spotify.com/track/5eMlSZnu2tBUlPeNPNThnQ"
+        },
+        {
+          "round": 7,
+          "title": "Brain Damage",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon",
+          "total_pts": 7,
+          "unique_voters": 5,
+          "track_id": "05uGBKRCuePsf43Hfm0JwX",
+          "spotify_url": "https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX"
+        },
+        {
+          "round": 7,
+          "title": "Insane in the Brain",
+          "artist": "Cypress Hill",
+          "album": "Black Sunday",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "track_id": "1oTHteQbmJw15rPxPVXUTv",
+          "spotify_url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
         }
       ],
       "voting_history": [
@@ -13743,10 +15693,58 @@
           "song": "Marijuanaut's Theme",
           "voted_for": "Kennon S.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Found God in a Tomato",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Paranoise",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "My Girls",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Anenome",
+          "voted_for": "Giles G.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "White Rabbit",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Man It Feels Like Space Again",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Crimson & Clover - Single Version",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 2
         }
       ],
-      "season_points": 41,
-      "rounds_played": 6
+      "season_points": 52,
+      "rounds_played": 7
     },
     "4c65c5fb8d1b4ea498df50e2d87a7da6": {
       "name": "Haris V.",
@@ -13817,6 +15815,26 @@
           "unique_voters": 2,
           "track_id": "2qhR4aymUGDfacDT6pzWf7",
           "spotify_url": "https://open.spotify.com/track/2qhR4aymUGDfacDT6pzWf7"
+        },
+        {
+          "round": 7,
+          "title": "Smooth Operator - Single Version",
+          "artist": "Sade",
+          "album": "The Best of Sade",
+          "total_pts": 10,
+          "unique_voters": 8,
+          "track_id": "1Hv1VTm8zeOeybub15mA2R",
+          "spotify_url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+        },
+        {
+          "round": 7,
+          "title": "Bodies",
+          "artist": "Drowning Pool",
+          "album": "Sinner",
+          "total_pts": 3,
+          "unique_voters": 1,
+          "track_id": "7CpbhqKUedOIrcvc94p60Y",
+          "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
         }
       ],
       "voting_history": [
@@ -13930,7 +15948,7 @@
         }
       ],
       "season_points": 27,
-      "rounds_played": 4
+      "rounds_played": 5
     },
     "5838e19081f440598e554c420f257ab7": {
       "name": "Mills T.",
@@ -14054,6 +16072,26 @@
           "unique_voters": 3,
           "track_id": "32btQnrL0HR6M1KKAPf3D3",
           "spotify_url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
+        },
+        {
+          "round": 7,
+          "title": "A Day In The Life - Remastered 2009",
+          "artist": "The Beatles",
+          "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "track_id": "0hKRSZhUGEhKU6aNSPBACZ",
+          "spotify_url": "https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ"
+        },
+        {
+          "round": 7,
+          "title": "Nights",
+          "artist": "Frank Ocean",
+          "album": "Blonde",
+          "total_pts": 0,
+          "unique_voters": 0,
+          "track_id": "7eqoqGkKwgOaWNNHx90uEZ",
+          "spotify_url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
         }
       ],
       "voting_history": [
@@ -14326,10 +16364,46 @@
           "song": "She Came In Through The Bathroom Window",
           "voted_for": "Ben Z.",
           "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Suck My Kiss",
+          "voted_for": "Ben Z.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Breathe (In the Air)",
+          "voted_for": "Chris V.",
+          "points_given": 3
+        },
+        {
+          "round": 7,
+          "song": "White Rabbit",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Pelota (Cut a Rug Mix)",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Brain Damage",
+          "voted_for": "Jack A.",
+          "points_given": 2
         }
       ],
-      "season_points": 62,
-      "rounds_played": 6
+      "season_points": 67,
+      "rounds_played": 7
     },
     "605a6a083d2d4ad781df783c4a21b505": {
       "name": "Hunter A.",
@@ -14492,7 +16566,7 @@
         }
       ],
       "season_points": 23,
-      "rounds_played": 5
+      "rounds_played": 6
     },
     "62ce05b4abe5441b9504d25b59208a99": {
       "name": "Jake C.",
@@ -14596,6 +16670,26 @@
           "unique_voters": 5,
           "track_id": "1btk089EWkUYHO1XkLoDvy",
           "spotify_url": "https://open.spotify.com/track/1btk089EWkUYHO1XkLoDvy"
+        },
+        {
+          "round": 7,
+          "title": "Seasons (Waiting on You)",
+          "artist": "Future Islands",
+          "album": "Singles",
+          "total_pts": 3,
+          "unique_voters": 3,
+          "track_id": "522YBf6WqBwJVAe7oHLymu",
+          "spotify_url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+        },
+        {
+          "round": 7,
+          "title": "Cool - Extra",
+          "artist": "Pylon",
+          "album": "Pylon Box",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "0bQ87lddGh1yp2bmPq9lM8",
+          "spotify_url": "https://open.spotify.com/track/0bQ87lddGh1yp2bmPq9lM8"
         }
       ],
       "voting_history": [
@@ -14832,10 +16926,64 @@
           "song": "Red Hot Mama - Live",
           "voted_for": "Emory L.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Born Slippy (Nuxx)",
+          "voted_for": "Giles G.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Pelota (Cut a Rug Mix)",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Crimson & Clover - Single Version",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Night over Manaus",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "drifting",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "White Rabbit",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Anenome",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Six Blade Knife",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "My Girls",
+          "voted_for": "Emory L.",
+          "points_given": 1
         }
       ],
-      "season_points": 57,
-      "rounds_played": 6
+      "season_points": 61,
+      "rounds_played": 7
     },
     "68f0f9e3004b481999ceb5b8f1ac79e4": {
       "name": "Patrick C.",
@@ -15078,7 +17226,7 @@
         }
       ],
       "season_points": 10,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "7167404f66594c58a6bda0cce98ca1f2": {
       "name": "Hilton H.",
@@ -15285,7 +17433,7 @@
         }
       ],
       "season_points": 14,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "76a55817271e454fad8f84efdc032dc5": {
       "name": "Kevin D.",
@@ -15458,7 +17606,7 @@
         }
       ],
       "season_points": 9,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "79cab84806c54bf0b59b34c5b2977d78": {
       "name": "Henry L.",
@@ -15567,7 +17715,7 @@
         }
       ],
       "season_points": 3,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "90defa7481ce45f4acfc02ba3792e834": {
       "name": "Schuyler M.",
@@ -15691,6 +17839,26 @@
           "unique_voters": 0,
           "track_id": "2u6IAPdDmvp3RPbrGdDX8U",
           "spotify_url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
+        },
+        {
+          "round": 7,
+          "title": "drifting",
+          "artist": "Night Tapes",
+          "album": "drifting",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "track_id": "2YuySJd7C2aoBarBP8OvzR",
+          "spotify_url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+        },
+        {
+          "round": 7,
+          "title": "Always",
+          "artist": "Erasure",
+          "album": "I Say I Say I Say",
+          "total_pts": 4,
+          "unique_voters": 2,
+          "track_id": "5QQCp4fQiU9I2FU9FvJVV2",
+          "spotify_url": "https://open.spotify.com/track/5QQCp4fQiU9I2FU9FvJVV2"
         }
       ],
       "voting_history": [
@@ -15993,10 +18161,58 @@
           "song": "War Pigs - Live",
           "voted_for": "Jake C.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Seasons (Waiting on You)",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "A Day In The Life - Remastered 2009",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Borderline",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Insane in the Brain",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Born Slippy (Nuxx)",
+          "voted_for": "Giles G.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Crimson & Clover - Single Version",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "White Rabbit",
+          "voted_for": "Will B.",
+          "points_given": 2
         }
       ],
-      "season_points": 37,
-      "rounds_played": 6
+      "season_points": 45,
+      "rounds_played": 7
     },
     "98834c6ee0d14f6594017b865fa4d1fb": {
       "name": "Ford L.",
@@ -16120,6 +18336,26 @@
           "unique_voters": 3,
           "track_id": "1CSpLDkXkskf2Tm4CZBGk0",
           "spotify_url": "https://open.spotify.com/track/1CSpLDkXkskf2Tm4CZBGk0"
+        },
+        {
+          "round": 7,
+          "title": "Crimson & Clover - Single Version",
+          "artist": "Tommy James & The Shondells",
+          "album": "The Essentials: Tommy James & The Shondells",
+          "total_pts": 6,
+          "unique_voters": 6,
+          "track_id": "1vXuYPpkLjn1v06E2EsWQY",
+          "spotify_url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
+        },
+        {
+          "round": 7,
+          "title": "Man It Feels Like Space Again",
+          "artist": "Pond",
+          "album": "Man It Feels Like Space Again",
+          "total_pts": 4,
+          "unique_voters": 4,
+          "track_id": "3A7MgVUJsbN9tQpLNZHvvO",
+          "spotify_url": "https://open.spotify.com/track/3A7MgVUJsbN9tQpLNZHvvO"
         }
       ],
       "voting_history": [
@@ -16446,10 +18682,70 @@
           "song": "War Pigs - Live",
           "voted_for": "Jake C.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "White Rabbit",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Night over Manaus",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "A Day In The Life - Remastered 2009",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Paranoise",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "My Girls",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Pelota (Cut a Rug Mix)",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Anenome",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Always",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Seasons (Waiting on You)",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Found God in a Tomato",
+          "voted_for": "Brooks K.",
+          "points_given": 1
         }
       ],
-      "season_points": 49,
-      "rounds_played": 6
+      "season_points": 59,
+      "rounds_played": 7
     },
     "aa8ede356a524849b6e3fe40fea7ea4f": {
       "name": "Ben Z.",
@@ -16573,6 +18869,26 @@
           "unique_voters": 4,
           "track_id": "1HLi7j0ENx5KiBeOZPW8xA",
           "spotify_url": "https://open.spotify.com/track/1HLi7j0ENx5KiBeOZPW8xA"
+        },
+        {
+          "round": 7,
+          "title": "Suck My Kiss",
+          "artist": "Red Hot Chili Peppers",
+          "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "track_id": "0psB5QzGb4653K0uaPgEyh",
+          "spotify_url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
+        },
+        {
+          "round": 7,
+          "title": "Who Built the Moon",
+          "artist": "Shinyribs",
+          "album": "Well After Awhile",
+          "total_pts": 1,
+          "unique_voters": 1,
+          "track_id": "74AGKeviSXmSHtRhgJLblx",
+          "spotify_url": "https://open.spotify.com/track/74AGKeviSXmSHtRhgJLblx"
         }
       ],
       "voting_history": [
@@ -16875,10 +19191,64 @@
           "song": "War Pigs - Live",
           "voted_for": "Jake C.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Fabienk",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Six Blade Knife",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Oh Yeah",
+          "voted_for": "Kennon S.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Breathe (In the Air)",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Crimson & Clover - Single Version",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Insane in the Brain",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "White Rabbit",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "A Day In The Life - Remastered 2009",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Brain Damage",
+          "voted_for": "Jack A.",
+          "points_given": 1
         }
       ],
-      "season_points": 69,
-      "rounds_played": 6
+      "season_points": 73,
+      "rounds_played": 7
     },
     "b250f6659575461db5ee96f4e5705023": {
       "name": "Kennon S.",
@@ -17002,6 +19372,26 @@
           "unique_voters": 3,
           "track_id": "6QhhnBsVJ8WepUb1KLTFFH",
           "spotify_url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
+        },
+        {
+          "round": 7,
+          "title": "Oh Yeah",
+          "artist": "Yello",
+          "album": "Essential",
+          "total_pts": 6,
+          "unique_voters": 4,
+          "track_id": "44IX8SM0fEWApOGlhUGAFc",
+          "spotify_url": "https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc"
+        },
+        {
+          "round": 7,
+          "title": "Little Green Bag",
+          "artist": "George Baker Selection",
+          "album": "The Tarantino Connection",
+          "total_pts": 3,
+          "unique_voters": 2,
+          "track_id": "4DR5MStkWtDYf17jBUOo0V",
+          "spotify_url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
         }
       ],
       "voting_history": [
@@ -17244,10 +19634,64 @@
           "song": "I Will Survive",
           "voted_for": "Giles G.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Who Built the Moon",
+          "voted_for": "Ben Z.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Fabienk",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Crimson & Clover - Single Version",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "drifting",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Found God in a Tomato",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Anenome",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Six Blade Knife",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Born Slippy (Nuxx)",
+          "voted_for": "Giles G.",
+          "points_given": 2
         }
       ],
-      "season_points": 63,
-      "rounds_played": 6
+      "season_points": 72,
+      "rounds_played": 7
     },
     "c220447f3f8d4e6aa50cbff707c6f3b1": {
       "name": "Giles G.",
@@ -17371,6 +19815,26 @@
           "unique_voters": 1,
           "track_id": "7shU2ah5hpW9QoaJuwkHdC",
           "spotify_url": "https://open.spotify.com/track/7shU2ah5hpW9QoaJuwkHdC"
+        },
+        {
+          "round": 7,
+          "title": "Born Slippy (Nuxx)",
+          "artist": "Underworld",
+          "album": "1992 - 2012",
+          "total_pts": 7,
+          "unique_voters": 4,
+          "track_id": "7xQYVjs4wZNdCwO0EeAWMC",
+          "spotify_url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+        },
+        {
+          "round": 7,
+          "title": "Anenome",
+          "artist": "The Brian Jonestown Massacre",
+          "album": "Their Satanic Majesties' Second Request",
+          "total_pts": 6,
+          "unique_voters": 5,
+          "track_id": "5sHEmVAiepdGCj0rHtLYFO",
+          "spotify_url": "https://open.spotify.com/track/5sHEmVAiepdGCj0rHtLYFO"
         }
       ],
       "voting_history": [
@@ -17601,10 +20065,64 @@
           "song": "Angel from Montgomery - Live",
           "voted_for": "Ben Z.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Little Green Bag",
+          "voted_for": "Kennon S.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Six Blade Knife",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Cool - Extra",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "A Day In The Life - Remastered 2009",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Night over Manaus",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "drifting",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Man It Feels Like Space Again",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Oh Yeah",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 35,
-      "rounds_played": 6
+      "season_points": 48,
+      "rounds_played": 7
     },
     "c2de60ec7be74e74ba5ebbd9af18056a": {
       "name": "Will B.",
@@ -17668,6 +20186,26 @@
           "unique_voters": 2,
           "track_id": "6gOgTWY8trzXja4ZfmqFKt",
           "spotify_url": "https://open.spotify.com/track/6gOgTWY8trzXja4ZfmqFKt"
+        },
+        {
+          "round": 7,
+          "title": "White Rabbit",
+          "artist": "Jefferson Airplane",
+          "album": "Surrealistic Pillow",
+          "total_pts": 7,
+          "unique_voters": 6,
+          "track_id": "4vpeKl0vMGdAXpZiQB2Dtd",
+          "spotify_url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd"
+        },
+        {
+          "round": 7,
+          "title": "Night over Manaus",
+          "artist": "Boozoo Bajou",
+          "album": "Satta",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "track_id": "23jbfWs739EBZEl4xWYiVl",
+          "spotify_url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
         }
       ],
       "voting_history": [
@@ -17733,7 +20271,7 @@
         }
       ],
       "season_points": 9,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "e004e6544dff44bdb1687ec8fb03f137": {
       "name": "Will I.",
@@ -17761,7 +20299,7 @@
       ],
       "voting_history": [],
       "season_points": 0,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "f9f6d12c4c7240ee83db9fd0774fc416": {
       "name": "Danny C.",
@@ -17832,7 +20370,7 @@
         }
       ],
       "season_points": 5,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "fa73648bd3f34bc6980fe57087f351f5": {
       "name": "Chris V.",
@@ -17956,6 +20494,26 @@
           "unique_voters": 3,
           "track_id": "0gqp35lTH7mS2B6JDjYAdo",
           "spotify_url": "https://open.spotify.com/track/0gqp35lTH7mS2B6JDjYAdo"
+        },
+        {
+          "round": 7,
+          "title": "Breathe (In the Air)",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon",
+          "total_pts": 7,
+          "unique_voters": 5,
+          "track_id": "2ctvdKmETyOzPb2GiJJT53",
+          "spotify_url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+        },
+        {
+          "round": 7,
+          "title": "Six Blade Knife",
+          "artist": "Dire Straits",
+          "album": "Dire Straits",
+          "total_pts": 5,
+          "unique_voters": 5,
+          "track_id": "7f8mgCngOGhoRNAmhN6GIo",
+          "spotify_url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
         }
       ],
       "voting_history": [
@@ -18252,10 +20810,52 @@
           "song": "Country Road",
           "voted_for": "Dray E.",
           "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Smooth Operator - Single Version",
+          "voted_for": "Coates C.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Insane in the Brain",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Night over Manaus",
+          "voted_for": "Will B.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "drifting",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Oh Yeah",
+          "voted_for": "Kennon S.",
+          "points_given": 2
+        },
+        {
+          "round": 7,
+          "song": "Borderline",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 7,
+          "song": "Brain Damage",
+          "voted_for": "Jack A.",
+          "points_given": 2
         }
       ],
-      "season_points": 59,
-      "rounds_played": 6
+      "season_points": 71,
+      "rounds_played": 7
     }
   },
   "fun_metrics": {
@@ -18264,8 +20864,8 @@
       "description": "Most points given to eventual weekly winners",
       "leader": {
         "player": "Chris V.",
-        "value": "9 pts",
-        "detail": "R1: 5 pts to Good Lookin' · R4: 1 pts to Gimmie That Nutt · R5: 1 pts to Teakwood Betz · R6: 2 pts to In Bloom"
+        "value": "11 pts",
+        "detail": "R1: 5 pts to Good Lookin' · R4: 1 pts to Gimmie That Nutt · R5: 1 pts to Teakwood Betz · R6: 2 pts to In Bloom · R7: 2 pts to Smooth Operator - Single Version"
       }
     },
     "hipster": {
@@ -18291,6 +20891,10 @@
       "description": "Most songs submitted that received zero votes",
       "players": [
         {
+          "player": "Frank L.",
+          "value": "3 zero-vote songs"
+        },
+        {
           "player": "Hilton H.",
           "value": "2 zero-vote songs"
         },
@@ -18300,10 +20904,6 @@
         },
         {
           "player": "Jack A.",
-          "value": "2 zero-vote songs"
-        },
-        {
-          "player": "Frank L.",
           "value": "2 zero-vote songs"
         },
         {
@@ -18368,34 +20968,34 @@
       "description": "Highest voting overlap between two players",
       "pairs": [
         {
-          "player1": "Emory L.",
-          "player2": "Ford L.",
-          "overlap": "29%",
-          "detail": "20 shared of 70 total"
-        },
-        {
-          "player1": "Mills T.",
-          "player2": "Ford L.",
-          "overlap": "27%",
-          "detail": "21 shared of 78 total"
-        },
-        {
           "player1": "Dray E.",
           "player2": "Mills T.",
           "overlap": "27%",
-          "detail": "22 shared of 83 total"
-        },
-        {
-          "player1": "Dray E.",
-          "player2": "Ben Z.",
-          "overlap": "25%",
-          "detail": "22 shared of 88 total"
+          "detail": "26 shared of 95 total"
         },
         {
           "player1": "Jake C.",
           "player2": "Ford L.",
+          "overlap": "26%",
+          "detail": "23 shared of 89 total"
+        },
+        {
+          "player1": "Mills T.",
+          "player2": "Ford L.",
+          "overlap": "25%",
+          "detail": "23 shared of 92 total"
+        },
+        {
+          "player1": "Dray E.",
+          "player2": "Giles G.",
           "overlap": "24%",
-          "detail": "18 shared of 75 total"
+          "detail": "23 shared of 94 total"
+        },
+        {
+          "player1": "Giles G.",
+          "player2": "Chris V.",
+          "overlap": "24%",
+          "detail": "20 shared of 83 total"
         }
       ]
     },
@@ -18405,18 +21005,13 @@
       "leaders": [
         {
           "player": "Emory L.",
-          "value": "7.6 avg",
+          "value": "6.8 avg",
+          "detail": "10 songs"
+        },
+        {
+          "player": "Coates C.",
+          "value": "5.9 avg",
           "detail": "8 songs"
-        },
-        {
-          "player": "Dray E.",
-          "value": "6.1 avg",
-          "detail": "12 songs"
-        },
-        {
-          "player": "Ben Z.",
-          "value": "5.8 avg",
-          "detail": "12 songs"
         },
         {
           "player": "Hunter A.",
@@ -18424,24 +21019,29 @@
           "detail": "4 songs"
         },
         {
-          "player": "Jake C.",
-          "value": "5.7 avg",
-          "detail": "10 songs"
+          "player": "Dray E.",
+          "value": "5.5 avg",
+          "detail": "14 songs"
         },
         {
-          "player": "Coates C.",
-          "value": "5.7 avg",
-          "detail": "6 songs"
+          "player": "Ben Z.",
+          "value": "5.2 avg",
+          "detail": "14 songs"
         },
         {
           "player": "Kennon S.",
-          "value": "5.2 avg",
+          "value": "5.1 avg",
+          "detail": "14 songs"
+        },
+        {
+          "player": "Jake C.",
+          "value": "5.1 avg",
           "detail": "12 songs"
         },
         {
-          "player": "Mills T.",
-          "value": "5.2 avg",
-          "detail": "12 songs"
+          "player": "Chris V.",
+          "value": "5.1 avg",
+          "detail": "14 songs"
         }
       ]
     },
