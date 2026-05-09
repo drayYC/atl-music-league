@@ -961,13 +961,13 @@ function FunMetrics({ metrics }) {
 function SongsPage({ data }) {
   const renderSongChart = useCallback((canvas) => {
     const ts = data.hall_of_fame.slice(0, 10);
-    return new Chart(canvas, { type: 'bar', data: { labels: ts.map(s => trimTitle(s.title).length > 25 ? trimTitle(s.title).slice(0, 25) + '…' : trimTitle(s.title)), datasets: [{ data: ts.map(s => s.total_pts), backgroundColor: ts.map((_, i) => i === 0 ? '#FDBE43' : i < 3 ? '#0092D0' : '#2A2A2A'), borderWidth: 0 }] }, options: { responsive: true, animation: { duration: 800, easing: 'easeOutQuart' }, plugins: { legend: { display: false } }, indexAxis: 'y', scales: { x: { beginAtZero: true, grid: { color: '#1E1E1E' } }, y: { grid: { display: false }, ticks: { font: { size: 10 } } } } } });
+    return new Chart(canvas, { type: 'bar', data: { labels: ts.map(s => trimTitle(s.title).length > 25 ? trimTitle(s.title).slice(0, 25) + '…' : trimTitle(s.title)), datasets: [{ data: ts.map(s => s.total_pts), backgroundColor: ts.map((_, i) => i === 0 ? '#FDBE43' : i < 3 ? '#0092D0' : '#2A2A2A'), borderWidth: 0 }] }, options: { responsive: true, maintainAspectRatio: false, animation: { duration: 800, easing: 'easeOutQuart' }, plugins: { legend: { display: false } }, indexAxis: 'y', scales: { x: { beginAtZero: true, grid: { color: '#1E1E1E' } }, y: { grid: { display: false }, ticks: { font: { size: 10 } } } } } });
   }, [data]);
 
   return (
     <div className="section">
       <SectionHeader color="yellow" title="Hall of fame · top songs all-time" />
-      <ChartCanvas id="song-dist" height={220} renderChart={renderSongChart} />
+      <ChartCanvas id="song-dist" height={300} renderChart={renderSongChart} />
       {data.hall_of_fame.slice(0, 20).map((s, i) => (
         <div key={i} className={`hof-row ${s.forfeited ? 'forfeited' : ''} anim-fade-d${Math.min(i, 9)}`}>
           <div className="hof-rank">{i + 1}</div>
@@ -1020,7 +1020,7 @@ function ProfilePage({ data, playerId, onBack, onPlayerClick }) {
     if (!se || !se.weekly || se.weekly.length < 2) return null;
     let cum = 0;
     const cumD = se.weekly.map(w => { cum += w.points; return cum; });
-    return new Chart(canvas, { type: 'line', data: { labels: se.weekly.map(w => 'R' + w.round), datasets: [{ label: 'Weekly pts', data: se.weekly.map(w => w.points), borderColor: '#FF7500', backgroundColor: 'rgba(255,117,0,.1)', fill: true, tension: .3, pointRadius: 5, borderWidth: 2 }, { label: 'Cumulative', data: cumD, borderColor: '#0092D0', backgroundColor: 'transparent', tension: .3, pointRadius: 5, borderWidth: 2, borderDash: [5, 5] }] }, options: { responsive: true, animation: { duration: 800 }, plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, padding: 8, font: { size: 10 } } } }, scales: { y: { beginAtZero: true, grid: { color: '#1E1E1E' } }, x: { grid: { color: '#1E1E1E' } } } } });
+    return new Chart(canvas, { type: 'line', data: { labels: se.weekly.map(w => 'R' + w.round), datasets: [{ label: 'Weekly pts', data: se.weekly.map(w => w.points), borderColor: '#FF7500', backgroundColor: 'rgba(255,117,0,.1)', fill: true, tension: .3, pointRadius: 5, borderWidth: 2 }, { label: 'Cumulative', data: cumD, borderColor: '#0092D0', backgroundColor: 'transparent', tension: .3, pointRadius: 5, borderWidth: 2, borderDash: [5, 5] }] }, options: { responsive: true, maintainAspectRatio: false, animation: { duration: 800 }, plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, padding: 8, font: { size: 10 } } } }, scales: { y: { beginAtZero: true, grid: { color: '#1E1E1E' } }, x: { grid: { color: '#1E1E1E' } } } } });
   }, [playerId, se]);
 
   if (!p) return <div className="section"><p>Player not found</p></div>;
@@ -1038,7 +1038,7 @@ function ProfilePage({ data, playerId, onBack, onPlayerClick }) {
           <div className="profile-stat anim-fade-d2"><div className="profile-stat-val">{p.submissions.length}</div><div className="profile-stat-lbl">Songs</div></div>
           <div className="profile-stat anim-fade-d3"><div className="profile-stat-val">{tvg}</div><div className="profile-stat-lbl">Pts given</div></div>
         </div>
-        {se && se.weekly && se.weekly.length > 1 && <ChartCanvas id="player-trend" height={160} renderChart={renderPlayerChart} />}
+        {se && se.weekly && se.weekly.length > 1 && <ChartCanvas id="player-trend" height={220} renderChart={renderPlayerChart} />}
       </div>
       {best && (
         <div className="section anim-fade-d2">
@@ -1085,7 +1085,7 @@ function App() {
   const [pageKey, setPageKey] = useState(0); // forces re-render for animations
 
   useEffect(() => {
-    fetch('data.json?v=9').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
+    fetch('data.json?v=10').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
   }, []);
 
   const navigate = (p, opts) => {
