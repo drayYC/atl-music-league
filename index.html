@@ -442,17 +442,31 @@ function ChartCanvas({ id, height, renderChart }) {
 
 // ── SPOTIFY ART COMPONENT ──
 function SpotifyArt({ trackId, size, className, link }) {
-  const [src, setSrc] = useState(null);
+  const [src, setSrc] = useState(() => {
+    if (!trackId) return null;
+    // Synchronously hydrate from cache so SSR/instant renders skip the fetch entirely
+    try { return sessionStorage.getItem('sp_art_' + trackId) || null; } catch { return null; }
+  });
   useEffect(() => {
     if (!trackId) return;
+    if (src) return; // already cached
+    let cancelled = false;
     fetch(`https://open.spotify.com/oembed?url=https://open.spotify.com/track/${trackId}`)
-      .then(r => r.json())
-      .then(d => { if (d.thumbnail_url) setSrc(d.thumbnail_url); })
+      .then(r => {
+        if (!r.ok) throw new Error(r.status);
+        return r.json();
+      })
+      .then(d => {
+        if (cancelled || !d.thumbnail_url) return;
+        setSrc(d.thumbnail_url);
+        try { sessionStorage.setItem('sp_art_' + trackId, d.thumbnail_url); } catch {}
+      })
       .catch(() => {});
-  }, [trackId]);
+    return () => { cancelled = true; };
+  }, [trackId, src]);
   const inner = (
     <div className={className} style={{width:size,height:size,background:'var(--bg-surface)',borderRadius:3,overflow:'hidden',flexShrink:0}}>
-      {src && <img src={src} alt="" style={{width:'100%',height:'100%',objectFit:'cover'}} />}
+      {src && <img src={src} alt="" style={{width:'100%',height:'100%',objectFit:'cover'}} loading="lazy" />}
     </div>
   );
   if (link) return <a href={link} target="_blank" rel="noopener noreferrer" style={{display:'block'}}>{inner}</a>;
@@ -1086,7 +1100,7 @@ function App() {
   const [pageKey, setPageKey] = useState(0); // forces re-render for animations
 
   useEffect(() => {
-    fetch('data.json?v=12').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
+    fetch('data.json?v=13').then(r => r.json()).then(d => { setData(d); setRoundIdx(d.rounds.length - 1); });
   }, []);
 
   const navigate = (p, opts) => {

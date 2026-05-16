@@ -644,14 +644,6 @@
           "rank": 3
         },
         {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
-          "points": 8,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 5
-        },
-        {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
           "points": 8,
@@ -660,12 +652,12 @@
           "rank": 5
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
-          "points": 6,
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 8,
           "voted": true,
           "pts_forfeited": 0,
-          "rank": 7
+          "rank": 5
         },
         {
           "player_id": "5838e19081f440598e554c420f257ab7",
@@ -678,6 +670,14 @@
         {
           "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
           "player": "Ford L.",
+          "points": 6,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
@@ -716,22 +716,6 @@
           "rank": 12
         },
         {
-          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
-          "player": "Brooks K.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 3,
-          "rank": 14
-        },
-        {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 3,
-          "rank": 14
-        },
-        {
           "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
           "player": "Will B.",
           "points": 0,
@@ -748,6 +732,22 @@
           "rank": 14
         },
         {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 14
+        },
+        {
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "player": "Brooks K.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 3,
+          "rank": 14
+        },
+        {
           "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "player": "Giles G.",
           "points": 0,
@@ -756,11 +756,11 @@
           "rank": 14
         },
         {
-          "player_id": "76a55817271e454fad8f84efdc032dc5",
-          "player": "Kevin D.",
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
           "points": 0,
           "voted": false,
-          "pts_forfeited": 7,
+          "pts_forfeited": 3,
           "rank": 14
         }
       ],
@@ -2396,16 +2396,16 @@
           "rank": 3
         },
         {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 14,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
           "points": 14,
           "voted": true,
           "pts_forfeited": 0,
@@ -2476,16 +2476,16 @@
           "rank": 13
         },
         {
-          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
-          "player": "Patrick C.",
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 14
         },
         {
-          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
-          "player": "Jack A.",
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4364,16 +4364,16 @@
           "rank": 1
         },
         {
-          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
-          "player": "Dray E.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 17,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 2
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
           "points": 17,
           "voted": true,
           "pts_forfeited": 0,
@@ -4412,14 +4412,6 @@
           "rank": 6
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
-          "points": 7,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 8
-        },
-        {
           "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 7,
@@ -4430,6 +4422,14 @@
         {
           "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
           "player": "TR C.",
+          "points": 7,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "points": 7,
           "voted": true,
           "pts_forfeited": 0,
@@ -4500,14 +4500,6 @@
           "rank": 18
         },
         {
-          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
-          "player": "Brooks K.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 12,
-          "rank": 19
-        },
-        {
           "player_id": "79cab84806c54bf0b59b34c5b2977d78",
           "player": "Henry L.",
           "points": 0,
@@ -4518,6 +4510,14 @@
         {
           "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
           "player": "Will B.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 12,
+          "rank": 19
+        },
+        {
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "player": "Brooks K.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
@@ -6532,16 +6532,16 @@
           "rank": 3
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
           "points": 11,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "b250f6659575461db5ee96f4e5705023",
-          "player": "Kennon S.",
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "points": 11,
           "voted": true,
           "pts_forfeited": 0,
@@ -6612,19 +6612,19 @@
           "rank": 13
         },
         {
-          "player_id": "76a55817271e454fad8f84efdc032dc5",
-          "player": "Kevin D.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 9,
-          "rank": 14
-        },
-        {
           "player_id": "25fef29f0b2243548626ee1713e3b1f9",
           "player": "Blake A.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 3,
+          "rank": 14
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 9,
           "rank": 14
         }
       ],
@@ -8192,19 +8192,19 @@
           "rank": 12
         },
         {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 9,
-          "rank": 13
-        },
-        {
           "player_id": "5210623e41984e4684fd204317a73149",
           "player": "Coates C.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 7,
+          "rank": 13
+        },
+        {
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 9,
           "rank": 13
         }
       ],
@@ -11393,6 +11393,14 @@
           "rank": 8
         },
         {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 9
+        },
+        {
           "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "points": 4,
@@ -11403,14 +11411,6 @@
         {
           "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
-          "points": 4,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 9
-        },
-        {
-          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
-          "player": "Dray E.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
@@ -11433,19 +11433,19 @@
           "rank": 13
         },
         {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 12,
-          "rank": 13
-        },
-        {
           "player_id": "5210623e41984e4684fd204317a73149",
           "player": "Coates C.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 13,
+          "rank": 13
+        },
+        {
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 12,
           "rank": 13
         }
       ],
@@ -12959,6 +12959,22 @@
           "rank": 8
         },
         {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 5,
+          "rank": 9
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 9,
+          "rank": 9
+        },
+        {
           "player_id": "0795aaf6eeca40eaac6661edd291cce2",
           "player": "Brooks K.",
           "points": 0,
@@ -12975,24 +12991,8 @@
           "rank": 9
         },
         {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 9,
-          "rank": 9
-        },
-        {
           "player_id": "90defa7481ce45f4acfc02ba3792e834",
           "player": "Schuyler M.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 5,
-          "rank": 9
-        },
-        {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 5,
@@ -13704,19 +13704,19 @@
           },
           {
             "heading": "How The Round Voted",
-            "text": "Sixty-seven votes total. The lowest total of the season by 32 — every other round has cleared 99. Of those 67, fifty-eight were 1-pointers, six were 2-pointers, two were 3-pointers, and exactly one was a 4-point Conviction vote. The league said \"sure, I guess\" sixty-seven times and never actually committed to a song.\n\nBy comparison, Week 5's Teakwood Betz round had ten 4+ Conviction votes alone. This week had one. The diffusion isn't quite as extreme as Week 7 (the last new low) but the underlying signal is the same: when prompts ask for cultural specificity, this group spreads thin rather than betting big. There is no Pitchfork demographic in this league large enough to commit hard on Mdou Moctar.\n\nDray E. wrote three of the round's four voter comments. The line of the night came on Frank L.'s Citizen Cope pick: \"We doing wartorn Beirut or walk up songs?\" Frank submitted Let The Drummer Kick — Freddie Freeman's actual walk-up song from his 2016-2021 Braves run. Half the league heard the opening drums and pictured Truist Park, not Beirut. The other half didn't recognize it. Frank got 2 points. Dray gave one of them and the joke. The other voter comments: a point to Emory L.'s Bsslama Hbibti with \"I discovered this too. That whole habibi funk compilation is a lot of fun\" — the only acknowledgment in the round that the Habibi Funk crate-digging tradition was being read correctly. And a 200-word follow-up on Kennon's Herbie Mann pick recommending live King Gizzard.\n\nNo player gave more than 11 points total this round. The most generous voter was Mills T. at 1.83 avg. The most concentrated voter was Frank L. at 1.50 avg, who put his only 3-pt vote on the round's actual best pick (Bike by Pink Floyd, 7 votes received) — and Bike was forfeited."
+            "text": "Sixty-seven votes total across eight voters. Of those 67, fifty-eight were 1-pointers, six were 2-pointers, two were 3-pointers, and exactly one was a 4-point Conviction vote. The league said \"sure, I guess\" sixty-seven times.\n\nFour of the eight voters spent their 10 points across the maximum 10 picks — Emory L., Dray E., Ford L., Coates C. all gave straight 1s to ten different songs. The other four voters concentrated: Frank L. spent his 10 points across only 5 picks (avg 2.00, the highest of the round), giving the round's only 4-pt vote on Chris V.'s Wake Me Up When September Ends — a song Chris had forfeited. Mills T. and Coates C. each spent across 7 picks (avg 1.43). Giles G. and Kennon S. across 9.\n\nDray E. wrote three of the round's four voter comments. The line of the night came on Frank L.'s Citizen Cope pick: \"We doing wartorn Beirut or walk up songs?\" Frank submitted Let The Drummer Kick — Freddie Freeman's actual walk-up song from his 2016–2021 Braves run. Half the league heard the opening drums and pictured Truist Park, not Beirut. The other half didn't recognize it. Frank got 2 points. Dray gave one of them and the joke. The other voter comments: a point to Emory L.'s Bsslama Hbibti with \"I discovered this too. That whole habibi funk compilation is a lot of fun\" — the only acknowledgment in the round that the Habibi Funk crate-digging tradition was being read correctly. And a 200-word follow-up on Kennon's Herbie Mann pick recommending live King Gizzard."
           },
           {
             "heading": "Song Commentary",
-            "text": "Dray E. submitted BOTH Lebanese picks. Dance of Maria by Elias Rahbani AND Abu Ali by Ziad Rahbani — uncle and nephew, both architects of Lebanon's golden age, both recording through the civil war. He wrote roughly 250 words of submitter comment explaining the historical context, the underground parking-garage recording sessions, and Ziad Rahbani's self-description of his style as \"oriental jazz — something like a hamburger that tastes of falafel.\" These are the most thorough submitter comments of the season.\n\nThe league gave him 3 points for Dance of Maria and 2 for Abu Ali. The deepest theme research anyone has done in eight weeks earned a total of five points. The Bsslama Hbibti pick by Emory L. (Moroccan psych-funk, the Habibi Funk reissue scene) got 3 points. The Mdou Moctar pick by Kennon S. got 3 points. The Tinariwen pick by Jake C. got 3 votes received — and Jake forfeited it.\n\nFour of the five most theme-perfect submissions on the playlist (Bike forfeited by Jack A. notwithstanding) earned a combined 11 points. Chop Suey! by System Of A Down — submitted with the disclaimer that Armenia counts because it's also war-torn — earned 5 by itself. The league's revealed preference this round was for \"war\" as a keyword, not Beirut as a place. The flavor text at the top of the prompt did most of the cultural work.\n\nThe Bike by Pink Floyd situation deserves its own line. Jack A. submitted Bike — the literal \"bicycling\" keyword pick from a 1967 Floyd record. The league gave it 7 votes received from 5 voters, including the round's only 4-point Conviction vote (Mills T. gave it the 4). It would have been Song of the Week by two points if Jack had voted. He didn't. The forfeit rule strikes through 7 points on the receipts page; the song still climbs to #12 in the all-time Hall of Fame on votes received."
+            "text": "Dray E. submitted BOTH Lebanese picks. Dance of Maria by Elias Rahbani AND Abu Ali by Ziad Rahbani — uncle and nephew, both architects of Lebanon's golden age, both recording through the civil war. He wrote roughly 250 words of submitter comment explaining the historical context, the underground parking-garage recording sessions, and Ziad Rahbani's self-description of his style as \"oriental jazz — something like a hamburger that tastes of falafel.\" These are the most thorough submitter comments of the season.\n\nThe league gave him 3 points for Dance of Maria and 2 for Abu Ali. The deepest theme research anyone has done in eight weeks earned a total of five points. The Bsslama Hbibti pick by Emory L. (Moroccan psych-funk, the Habibi Funk reissue scene) got 3 points. The Mdou Moctar pick by Kennon S. got 3 points. The Tinariwen pick by Jake C. earned 3 votes received — and Jake forfeited it.\n\nFour of the five most theme-perfect submissions on the playlist (Bike forfeited by Jack A. notwithstanding) earned a combined 11 points. Chop Suey! by System Of A Down — submitted with the disclaimer that Armenia counts because it's also war-torn — earned 5 by itself. The league's revealed preference this round was for \"war\" as a keyword, not Beirut as a place. The flavor text at the top of the prompt did most of the cultural work.\n\nThe Bike by Pink Floyd situation deserves its own line. Jack A. submitted Bike — the literal \"bicycling\" keyword pick from a 1967 Floyd record. The league gave it 7 votes received from 5 voters: Mills (2), Kennon (2), Emory (1), Giles (1), Coates (1). It would have been Song of the Week by two points if Jack had voted. He didn't. The forfeit rule strikes through 7 points on the receipts page; the song still climbs into the all-time Hall of Fame on votes received."
           },
           {
             "heading": "The Standings Shift",
-            "text": "Dray E. holds first at 82 points. He posted a 5-point round (Dance of Maria + Abu Ali) on the deepest theme research of the season, and even that was enough — because the field collapsed beneath him. Kennon S. moved into sole 2nd at 79, three points back. The tie that defined the top of the leaderboard for four weeks is fully resolved.\n\nBen Z. zeroed out. He didn't submit. Chris V. zeroed out via forfeit (Wake Me Up + Tears For Fears, 9 points received, 0 credited). Both dropped two spots: Ben from 2nd to tied-3rd at 73; Chris from 4th to 6th at 71. The four-week pattern of those two climbing has reversed.\n\nMills T. tied with Ben at 73 in 3rd. Mills's last four weeks: 4, 10, 5, 6. Eight weeks ago he led the league outright; he's still in the top 4 but trending sideways at best.\n\nEmory L. holds 5th at 72 with only 6 rounds played — his 12.0 avg remains the highest in the league among multi-round players. He's also one of only two players (with Dray) who has scored in every round he's submitted in. Among players with 6+ rounds, that's a unique distinction.\n\nFord L. quietly climbed from 8th to 7th with his Chop Suey win. The league's most genre-unreadable player has won a round on a System Of A Down submission to a Beirut prompt and is now five places ahead of his Week 1 position. There is no Ford pattern to model. The model has stopped trying.\n\nFrank L.'s Conviction streak continues. Of the league's 4-point votes this season, Frank L. has cast nine — the most by any player. He continues to commit harder on the votes he gives than anyone else, while consistently submitting picks the league rejects. Eight weeks of evidence that Frank votes with conviction and submits without consensus."
+            "text": "Dray E. holds first at 82 points. He posted a 5-point round (Dance of Maria + Abu Ali) on the deepest theme research of the season, and even that was enough — because the field collapsed beneath him. Kennon S. moved into sole 2nd at 79, three points back. The tie that defined the top of the leaderboard for four weeks is fully resolved.\n\nBen Z. zeroed out. He didn't submit. Chris V. zeroed out via forfeit (Wake Me Up + Tears For Fears, 9 points received, 0 credited). Both dropped two spots: Ben from 2nd to tied-3rd at 73; Chris from 4th to 6th at 71. The four-week pattern of those two climbing has reversed.\n\nMills T. tied with Ben at 73 in 3rd. Mills's last four weeks: 4, 10, 5, 6. Eight weeks ago he led the league outright; he's still in the top 4 but trending sideways at best.\n\nEmory L. holds 5th at 72 with only 6 rounds played — his 12.0 avg is the highest among players with 4+ rounds.\n\nFord L. quietly climbed from 8th to 7th with his Chop Suey win. The league's most genre-unreadable player has won a round on a System Of A Down submission to a Beirut prompt. There is no Ford pattern to model. The model has stopped trying.\n\nFrank L.'s Conviction streak continues. His 4-pt vote on Wake Me Up (forfeited) brings his season total to three 4+ pt Conviction votes — the most of any voter in the league. He continues to commit harder on the votes he gives than anyone else, while consistently submitting picks the league rejects. Eight weeks of evidence that Frank votes with conviction and submits without consensus."
           },
           {
             "heading": "Forfeits",
-            "text": "Five forfeits this week. The highest number of the season:\n\nJack A. submitted Bike (7 votes received, 5 voters — would have been Song of the Week) and Sandstorm by Darude (3 votes received). Total earned: 10 points. Total credited: 0. Last week Jack won SOTW with Brain Damage by voting; this week he submitted an even higher-acknowledged song and chose not to. The pattern is volatile.\n\nChris V. submitted Wake Me Up When September Ends (6 votes, 3 voters) and Everybody Wants to Rule the World (3 votes, 3 voters). Total earned: 9. Total credited: 0. Chris was in 4th place coming into this round and was the only player in the top 6 trending upward. He's now 6th.\n\nBrooks K. submitted Stella was a diver by Interpol (4 votes received) and Russia Privjet by Basshunter (4 votes received). Total earned: 8. Total credited: 0. Brooks is now 0-for-2 on weeks where his picks earned actual league acknowledgment; in both cases (R7 Found God in a Tomato, R8 this week) he chose not to vote and lost everything the league offered him.\n\nJake C. submitted Toumast Tincha by Tinariwen (3 votes received) and Roam by the B-52's (2 votes received). Total earned: 5. Total credited: 0. The Tinariwen pick was one of the genuine theme-correct submissions on the playlist; Jake didn't vote and lost it.\n\nSchuyler M. submitted Punkrocker by Teddybears (4 votes received) and Alive! by Bakar (1 vote received). Total earned: 5. Total credited: 0.\n\nA combined 37 points of league acknowledgment were forfeited this week — more than the total points earned across all 13 active players in the round (49). The league said yes to these picks. The submitters didn't vote. The points stay on the Hall of Fame but not the leaderboard.\n\nThe blind scouting report flagged Frank L. as a possible Beirut-the-band submitter (he wasn't — Ford was). It flagged Schuyler as the most likely Lebanese-music submitter (he wasn't — Dray was). It missed Ford as the Chop Suey submitter, predicting Ben Z. instead. The submitter model went 1 for 26 on full hits this week, and the only hit was the song that got forfeited."
+            "text": "Five forfeits this week — the highest number of the season:\n\nJack A. submitted Bike (7 votes received, 5 voters — would have been Song of the Week) and Sandstorm by Darude (3 votes received). Total earned: 10 points. Total credited: 0. Last week Jack won SOTW with Brain Damage by voting; this week he submitted an even higher-acknowledged song and chose not to. The pattern is volatile.\n\nChris V. submitted Wake Me Up When September Ends (6 votes received, 3 voters — including the round's only 4-pt Conviction vote from Frank L.) and Everybody Wants to Rule the World (3 votes received). Total earned: 9. Total credited: 0. Chris was in 4th place coming into this round and was the only player in the top 6 trending upward. He's now 6th.\n\nBrooks K. submitted Stella was a diver by Interpol (4 votes received) and Russia Privjet by Basshunter (4 votes received). Total earned: 8. Total credited: 0. Brooks is now 0-for-2 on weeks where his picks earned actual league acknowledgment; in both cases (R7 Found God in a Tomato, R8 this week) he chose not to vote and lost everything the league offered him.\n\nJake C. submitted Toumast Tincha by Tinariwen (3 votes received) and Roam by the B-52's (2 votes received). Total earned: 5. Total credited: 0. The Tinariwen pick was one of the genuine theme-correct submissions on the playlist.\n\nSchuyler M. submitted Punkrocker by Teddybears (4 votes received) and Alive! by Bakar (1 vote received). Total earned: 5. Total credited: 0.\n\n37 points of league acknowledgment forfeited this week — fewer than the 43 actually credited across the eight active voters. The league said yes to these picks. The submitters didn't vote.\n\nThe blind scouting report flagged Schuyler as the most likely Lebanese-music submitter (he wasn't — Dray was). It predicted Ben Z. for Chop Suey (Ford submitted it; Ben didn't submit at all). The submitter model went 1-for-26 on full hits this week, and the only hit (Bike → Jack A.) got forfeited."
           }
         ]
       }
