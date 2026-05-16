@@ -628,16 +628,16 @@
           "rank": 2
         },
         {
-          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
-          "player": "Ben Z.",
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
           "points": 9,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 3
         },
         {
-          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
-          "player": "Jack A.",
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
           "points": 9,
           "voted": true,
           "pts_forfeited": 0,
@@ -668,16 +668,16 @@
           "rank": 7
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 7
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
@@ -724,19 +724,11 @@
           "rank": 14
         },
         {
-          "player_id": "76a55817271e454fad8f84efdc032dc5",
-          "player": "Kevin D.",
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
           "points": 0,
           "voted": false,
-          "pts_forfeited": 7,
-          "rank": 14
-        },
-        {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 7,
+          "pts_forfeited": 3,
           "rank": 14
         },
         {
@@ -756,11 +748,19 @@
           "rank": 14
         },
         {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
           "points": 0,
           "voted": false,
-          "pts_forfeited": 3,
+          "pts_forfeited": 7,
+          "rank": 14
+        },
+        {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
           "rank": 14
         }
       ],
@@ -2476,8 +2476,8 @@
           "rank": 13
         },
         {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
+          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
+          "player": "Patrick C.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -2492,8 +2492,8 @@
           "rank": 14
         },
         {
-          "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
-          "player": "Patrick C.",
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4364,16 +4364,16 @@
           "rank": 1
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
           "points": 17,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 2
         },
         {
-          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
-          "player": "Dray E.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 17,
           "voted": true,
           "pts_forfeited": 0,
@@ -4436,16 +4436,16 @@
           "rank": 8
         },
         {
-          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
-          "player": "Blake A.",
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 11
         },
         {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
+          "player_id": "25fef29f0b2243548626ee1713e3b1f9",
+          "player": "Blake A.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
@@ -4460,14 +4460,6 @@
           "rank": 13
         },
         {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
-          "points": 3,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 14
-        },
-        {
           "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
           "player": "Patrick C.",
           "points": 3,
@@ -4478,6 +4470,14 @@
         {
           "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
+          "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 14
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4508,16 +4508,16 @@
           "rank": 19
         },
         {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "player": "Henry L.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
           "rank": 19
         },
         {
-          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
-          "player": "Henry L.",
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
@@ -6556,16 +6556,16 @@
           "rank": 6
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 8,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 7
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 8,
           "voted": true,
           "pts_forfeited": 0,
@@ -6588,16 +6588,16 @@
           "rank": 10
         },
         {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 11
         },
         {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
@@ -8152,14 +8152,6 @@
           "rank": 7
         },
         {
-          "player_id": "b250f6659575461db5ee96f4e5705023",
-          "player": "Kennon S.",
-          "points": 5,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 8
-        },
-        {
           "player_id": "62ce05b4abe5441b9504d25b59208a99",
           "player": "Jake C.",
           "points": 5,
@@ -8168,16 +8160,24 @@
           "rank": 8
         },
         {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 10
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
@@ -8192,19 +8192,19 @@
           "rank": 12
         },
         {
-          "player_id": "5210623e41984e4684fd204317a73149",
-          "player": "Coates C.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 7,
-          "rank": 13
-        },
-        {
           "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
           "player": "TR C.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 9,
+          "rank": 13
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
           "rank": 13
         }
       ],
@@ -9663,16 +9663,16 @@
           "rank": 3
         },
         {
-          "player_id": "5210623e41984e4684fd204317a73149",
-          "player": "Coates C.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 12,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
           "points": 12,
           "voted": true,
           "pts_forfeited": 0,
@@ -11393,6 +11393,14 @@
           "rank": 8
         },
         {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 9
+        },
+        {
           "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "points": 4,
@@ -11403,14 +11411,6 @@
         {
           "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
           "player": "Dray E.",
-          "points": 4,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 9
-        },
-        {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
@@ -12895,14 +12895,6 @@
       ],
       "leaderboard": [
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
-          "points": 7,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 1
-        },
-        {
           "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 7,
@@ -12911,16 +12903,24 @@
           "rank": 1
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "points": 7,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 1
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 3
         },
         {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
@@ -12959,14 +12959,6 @@
           "rank": 8
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 5,
-          "rank": 9
-        },
-        {
           "player_id": "0795aaf6eeca40eaac6661edd291cce2",
           "player": "Brooks K.",
           "points": 0,
@@ -12988,6 +12980,14 @@
           "points": 0,
           "voted": false,
           "pts_forfeited": 9,
+          "rank": 9
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 5,
           "rank": 9
         },
         {
@@ -13704,7 +13704,7 @@
           },
           {
             "heading": "How The Round Voted",
-            "text": "Sixty-seven votes total. The lowest total of the season by 32 — every other round has cleared 99. Of those 67, fifty-eight were 1-pointers, six were 2-pointers, two were 3-pointers, and exactly one was a 4-point Conviction vote. The league said \"sure, I guess\" sixty-seven times and never actually committed to a song.\n\nBy comparison, Week 5's Teakwood Betz round had ten 4+ Conviction votes alone. This week had one. The diffusion isn't quite as extreme as Week 7 (the last new low) but the underlying signal is the same: when prompts ask for cultural specificity, this group spreads thin rather than betting big. There is no Pitchfork demographic in this league large enough to commit hard on Mdou Moctar.\n\nDray E. wrote three of the round's four voter comments. He gave one point to Frank L.'s Citizen Cope with the line \"We doing wartorn Beirut or walk up songs?\" — the cleanest in-text critique of off-prompt submission this season. He gave a point to Emory L.'s Bsslama Hbibti with \"I discovered this too. That whole habibi funk compilation is a lot of fun\" — the only acknowledgment in the round that the Habibi Funk crate-digging tradition was being read correctly. And he wrote a 200-word essay on Kennon's Herbie Mann pick recommending follow-up live King Gizzard listening.\n\nNo player gave more than 11 points total this round. The most generous voter was Mills T. at 1.83 avg. The most concentrated voter was Frank L. at 1.50 avg, who put his only 3-pt vote on the round's actual best pick (Bike by Pink Floyd, 7 votes received) — and Bike was forfeited."
+            "text": "Sixty-seven votes total. The lowest total of the season by 32 — every other round has cleared 99. Of those 67, fifty-eight were 1-pointers, six were 2-pointers, two were 3-pointers, and exactly one was a 4-point Conviction vote. The league said \"sure, I guess\" sixty-seven times and never actually committed to a song.\n\nBy comparison, Week 5's Teakwood Betz round had ten 4+ Conviction votes alone. This week had one. The diffusion isn't quite as extreme as Week 7 (the last new low) but the underlying signal is the same: when prompts ask for cultural specificity, this group spreads thin rather than betting big. There is no Pitchfork demographic in this league large enough to commit hard on Mdou Moctar.\n\nDray E. wrote three of the round's four voter comments. The line of the night came on Frank L.'s Citizen Cope pick: \"We doing wartorn Beirut or walk up songs?\" Frank submitted Let The Drummer Kick — Freddie Freeman's actual walk-up song from his 2016-2021 Braves run. Half the league heard the opening drums and pictured Truist Park, not Beirut. The other half didn't recognize it. Frank got 2 points. Dray gave one of them and the joke. The other voter comments: a point to Emory L.'s Bsslama Hbibti with \"I discovered this too. That whole habibi funk compilation is a lot of fun\" — the only acknowledgment in the round that the Habibi Funk crate-digging tradition was being read correctly. And a 200-word follow-up on Kennon's Herbie Mann pick recommending live King Gizzard.\n\nNo player gave more than 11 points total this round. The most generous voter was Mills T. at 1.83 avg. The most concentrated voter was Frank L. at 1.50 avg, who put his only 3-pt vote on the round's actual best pick (Bike by Pink Floyd, 7 votes received) — and Bike was forfeited."
           },
           {
             "heading": "Song Commentary",
