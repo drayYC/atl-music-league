@@ -2,7 +2,7 @@
   "league": {
     "name": "Music League",
     "subtitle": "Atlanta · Season One",
-    "total_rounds": 7
+    "total_rounds": 8
   },
   "players": {
     "0795aaf6eeca40eaac6661edd291cce2": "Brooks K.",
@@ -628,16 +628,16 @@
           "rank": 2
         },
         {
-          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
-          "player": "Jack A.",
+          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
+          "player": "Ben Z.",
           "points": 9,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 3
         },
         {
-          "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
-          "player": "Ben Z.",
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
           "points": 9,
           "voted": true,
           "pts_forfeited": 0,
@@ -660,16 +660,16 @@
           "rank": 5
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 7
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
@@ -724,6 +724,30 @@
           "rank": 14
         },
         {
+          "player_id": "76a55817271e454fad8f84efdc032dc5",
+          "player": "Kevin D.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 14
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 14
+        },
+        {
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 7,
+          "rank": 14
+        },
+        {
           "player_id": "e004e6544dff44bdb1687ec8fb03f137",
           "player": "Will I.",
           "points": 0,
@@ -737,30 +761,6 @@
           "points": 0,
           "voted": false,
           "pts_forfeited": 3,
-          "rank": 14
-        },
-        {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 7,
-          "rank": 14
-        },
-        {
-          "player_id": "76a55817271e454fad8f84efdc032dc5",
-          "player": "Kevin D.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 7,
-          "rank": 14
-        },
-        {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 7,
           "rank": 14
         }
       ],
@@ -2396,16 +2396,16 @@
           "rank": 3
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
           "points": 14,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-          "player": "Chris V.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 14,
           "voted": true,
           "pts_forfeited": 0,
@@ -2476,6 +2476,14 @@
           "rank": 13
         },
         {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 14
+        },
+        {
           "player_id": "4610c4dc5b5c44f09d2c378332135b67",
           "player": "Jack A.",
           "points": 3,
@@ -2486,14 +2494,6 @@
         {
           "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
           "player": "Patrick C.",
-          "points": 3,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 14
-        },
-        {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4412,16 +4412,16 @@
           "rank": 6
         },
         {
-          "player_id": "b250f6659575461db5ee96f4e5705023",
-          "player": "Kennon S.",
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "points": 7,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 8
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
           "points": 7,
           "voted": true,
           "pts_forfeited": 0,
@@ -4460,8 +4460,8 @@
           "rank": 13
         },
         {
-          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
-          "player": "Jack A.",
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4476,8 +4476,8 @@
           "rank": 14
         },
         {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
@@ -4508,16 +4508,16 @@
           "rank": 19
         },
         {
-          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
-          "player": "Henry L.",
+          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
+          "player": "Will B.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
           "rank": 19
         },
         {
-          "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
-          "player": "Will B.",
+          "player_id": "79cab84806c54bf0b59b34c5b2977d78",
+          "player": "Henry L.",
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
@@ -6532,16 +6532,16 @@
           "rank": 3
         },
         {
-          "player_id": "b250f6659575461db5ee96f4e5705023",
-          "player": "Kennon S.",
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
           "points": 11,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "90defa7481ce45f4acfc02ba3792e834",
-          "player": "Schuyler M.",
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
           "points": 11,
           "voted": true,
           "pts_forfeited": 0,
@@ -6556,16 +6556,16 @@
           "rank": 6
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 8,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 7
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 8,
           "voted": true,
           "pts_forfeited": 0,
@@ -6588,16 +6588,16 @@
           "rank": 10
         },
         {
-          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
-          "player": "Giles G.",
+          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
+          "player": "TR C.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 11
         },
         {
-          "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
-          "player": "TR C.",
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
           "points": 5,
           "voted": true,
           "pts_forfeited": 0,
@@ -7826,7 +7826,7 @@
         {
           "title": "BDE Bonus",
           "artist": "Mac Miller",
-          "album": "Best Day Ever",
+          "album": "Best Day Ever (5th Anniversary Remastered Edition)",
           "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
           "submitter": "Giles G.",
           "total_pts": 4,
@@ -8152,14 +8152,6 @@
           "rank": 7
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
-          "points": 5,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 8
-        },
-        {
           "player_id": "b250f6659575461db5ee96f4e5705023",
           "player": "Kennon S.",
           "points": 5,
@@ -8168,16 +8160,24 @@
           "rank": 8
         },
         {
-          "player_id": "5838e19081f440598e554c420f257ab7",
-          "player": "Mills T.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 10
         },
         {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
           "points": 4,
           "voted": true,
           "pts_forfeited": 0,
@@ -9663,16 +9663,16 @@
           "rank": 3
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
           "points": 12,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 4
         },
         {
-          "player_id": "5210623e41984e4684fd204317a73149",
-          "player": "Coates C.",
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
           "points": 12,
           "voted": true,
           "pts_forfeited": 0,
@@ -9711,16 +9711,16 @@
           "rank": 9
         },
         {
-          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-          "player": "Ford L.",
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 10
         },
         {
-          "player_id": "2b989686f7054740af2017ae1a829d68",
-          "player": "Frank L.",
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
           "points": 6,
           "voted": true,
           "pts_forfeited": 0,
@@ -11393,14 +11393,6 @@
           "rank": 8
         },
         {
-          "player_id": "62ce05b4abe5441b9504d25b59208a99",
-          "player": "Jake C.",
-          "points": 4,
-          "voted": true,
-          "pts_forfeited": 0,
-          "rank": 9
-        },
-        {
           "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
           "player": "Ben Z.",
           "points": 4,
@@ -11417,20 +11409,20 @@
           "rank": 9
         },
         {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 9
+        },
+        {
           "player_id": "2b989686f7054740af2017ae1a829d68",
           "player": "Frank L.",
           "points": 3,
           "voted": true,
           "pts_forfeited": 0,
           "rank": 12
-        },
-        {
-          "player_id": "5210623e41984e4684fd204317a73149",
-          "player": "Coates C.",
-          "points": 0,
-          "voted": false,
-          "pts_forfeited": 13,
-          "rank": 13
         },
         {
           "player_id": "0795aaf6eeca40eaac6661edd291cce2",
@@ -11446,6 +11438,14 @@
           "points": 0,
           "voted": false,
           "pts_forfeited": 12,
+          "rank": 13
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 13,
           "rank": 13
         }
       ],
@@ -12494,16 +12494,1242 @@
           }
         ]
       }
+    },
+    {
+      "id": "c7e398d44dfc44be912c0d2fb57ea07a",
+      "number": 8,
+      "name": "Bicycling Through a War-Torn Beirut in 1983",
+      "description": "Sunlight, dust, and distant echoes of something you’re trying not to think about—you’re pedaling past checkpoints, rubble, and fragments of normal life still clinging on. It’s tense but strangely quiet in moments, like the world is holding its breath. This is the soundtrack for movement through chaos with a detached calm—beautiful, uneasy, and a little surreal. Lean 80s post-punk, Middle Eastern–influenced grooves, or atmospheric world music from the late 70s–80s—something rhythmic enough to keep you moving, but with an undercurrent that never fully relaxes.",
+      "playlist_url": "https://open.spotify.com/playlist/0pcBq05EyJjNAtXUtFSTAY",
+      "songs": [
+        {
+          "title": "Chop Suey!",
+          "artist": "System Of A Down",
+          "album": "Toxicity",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 5,
+          "votes_received": 5,
+          "forfeited": false,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:2DlHlPMa4M17kufBvI2lEN",
+          "track_id": "2DlHlPMa4M17kufBvI2lEN",
+          "spotify_url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN",
+          "comment": "Armenia but still war torn "
+        },
+        {
+          "title": "Call Me The Breeze",
+          "artist": "Lynyrd Skynyrd",
+          "album": "Second Helping (Expanded Edition)",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 4,
+          "votes_received": 4,
+          "forfeited": false,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:12WiGqEs3t5hrzBJTe1K0P",
+          "track_id": "12WiGqEs3t5hrzBJTe1K0P",
+          "spotify_url": "https://open.spotify.com/track/12WiGqEs3t5hrzBJTe1K0P",
+          "comment": 0
+        },
+        {
+          "title": "El Matador",
+          "artist": "The Kingston Trio",
+          "album": "Sold Out",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 4,
+          "votes_received": 4,
+          "forfeited": false,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:0QijWQnEFPwZemuAVFPSqC",
+          "track_id": "0QijWQnEFPwZemuAVFPSqC",
+          "spotify_url": "https://open.spotify.com/track/0QijWQnEFPwZemuAVFPSqC",
+          "comment": 0
+        },
+        {
+          "title": "Push Push (feat. Duane Allman)",
+          "artist": "Herbie Mann, Duane Allman",
+          "album": "Push Push (feat. Duane Allman)",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 4,
+          "votes_received": 4,
+          "forfeited": false,
+          "unique_voters": 4,
+          "spotify_uri": "spotify:track:6OleMPl7kO0fyt9XsbrKcU",
+          "track_id": "6OleMPl7kO0fyt9XsbrKcU",
+          "spotify_url": "https://open.spotify.com/track/6OleMPl7kO0fyt9XsbrKcU",
+          "comment": 0
+        },
+        {
+          "title": "Starburster",
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 4,
+          "votes_received": 4,
+          "forfeited": false,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:09ttHg3ZNVgDlYBZa1ZBw0",
+          "track_id": "09ttHg3ZNVgDlYBZa1ZBw0",
+          "spotify_url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0",
+          "comment": 0
+        },
+        {
+          "title": "Bsslama Hbibti",
+          "artist": "Fadoul",
+          "album": "Bsslama Hbibti / Argos Farfish",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 3,
+          "votes_received": 3,
+          "forfeited": false,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:4YuRyF9ThxiOQfcSV9CgMj",
+          "track_id": "4YuRyF9ThxiOQfcSV9CgMj",
+          "spotify_url": "https://open.spotify.com/track/4YuRyF9ThxiOQfcSV9CgMj",
+          "comment": 0
+        },
+        {
+          "title": "Dance of Maria",
+          "artist": "Elias Rahbani",
+          "album": "Mosaic of the Orient",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 3,
+          "votes_received": 3,
+          "forfeited": false,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:0f7iz1qAWSz61BdHTXbzvC",
+          "track_id": "0f7iz1qAWSz61BdHTXbzvC",
+          "spotify_url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC",
+          "comment": "Elias Rahbani was Ziad’s uncle and one of the architects of Lebanon’s golden age of music. The Mosaic of the Orient album fused psychedelic rock organ and fuzz guitar with traditional Lebanese instruments like the nay (Arabic flute) and mijwiz (a double-reed pipe that sounds like bagpipes). He recorded through the civil war, eventually moving to makeshift studios as the city crumbled around him. This track is the highlight — a collision of Western psych-rock energy and Middle Eastern melodic tradition that sounds like nothing else from any era.​​​​​​​​​​​​​​​​"
+        },
+        {
+          "title": "Tarhatazed",
+          "artist": "Mdou Moctar",
+          "album": "Ilana (The Creator)",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "total_pts": 3,
+          "votes_received": 3,
+          "forfeited": false,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:7uY3z3xwpGM2sOdiElpQAU",
+          "track_id": "7uY3z3xwpGM2sOdiElpQAU",
+          "spotify_url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU",
+          "comment": 0
+        },
+        {
+          "title": "Abu Ali",
+          "artist": "Ziad Rahbani",
+          "album": "أجمل أغاني زياد الرحباني",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "total_pts": 2,
+          "votes_received": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:2YNAizPH6rGrF4hz5khM5H",
+          "track_id": "2YNAizPH6rGrF4hz5khM5H",
+          "spotify_url": "https://open.spotify.com/track/2YNAizPH6rGrF4hz5khM5H",
+          "comment": "I deep dove some Lebanese music this weekend, this guy was my favorite by far, funky as shit. Ziad Rahbani is the son of Fairuz, the most famous singer in the Arab world. He recorded Abu Ali in Beirut in 1978 while the Lebanese Civil War raged around him. When the shelling got too bad, he moved his studio to an underground parking garage and kept recording. He fused jazz, funk, and disco with Arabic classical music and essentially invented a genre. This track was so ahead of its time that Beirut’s hippest nightclub DJ would only break his “no Arabic music” rule for this one song. Ziad described his style as “oriental jazz — something like a hamburger that tastes of falafel.”"
+        },
+        {
+          "title": "Gibraltar",
+          "artist": "Beirut",
+          "album": "No No No",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "total_pts": 2,
+          "votes_received": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:56llQt0PCV67SUpmOTBLDs",
+          "track_id": "56llQt0PCV67SUpmOTBLDs",
+          "spotify_url": "https://open.spotify.com/track/56llQt0PCV67SUpmOTBLDs",
+          "comment": 0
+        },
+        {
+          "title": "I Wanna Be Adored - Remastered 2009",
+          "artist": "The Stone Roses",
+          "album": "The Stone Roses",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "total_pts": 2,
+          "votes_received": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:758wEKVqfYopJIHYWdLVd4",
+          "track_id": "758wEKVqfYopJIHYWdLVd4",
+          "spotify_url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4",
+          "comment": 0
+        },
+        {
+          "title": "Let The Drummer Kick",
+          "artist": "Citizen Cope",
+          "album": "Citizen Cope",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 2,
+          "votes_received": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:4Nrg8EG7wWTiTOumtpw8gk",
+          "track_id": "4Nrg8EG7wWTiTOumtpw8gk",
+          "spotify_url": "https://open.spotify.com/track/4Nrg8EG7wWTiTOumtpw8gk",
+          "comment": 0
+        },
+        {
+          "title": "Mama - 2007 Remaster",
+          "artist": "Genesis",
+          "album": "Genesis (2007 Remaster)",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "total_pts": 2,
+          "votes_received": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:6kIwzLSiQU51taaaZ9zWSE",
+          "track_id": "6kIwzLSiQU51taaaZ9zWSE",
+          "spotify_url": "https://open.spotify.com/track/6kIwzLSiQU51taaaZ9zWSE",
+          "comment": 0
+        },
+        {
+          "title": "Evil Woman",
+          "artist": "Electric Light Orchestra",
+          "album": "All Over The World: The Very Best Of ELO",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "total_pts": 1,
+          "votes_received": 1,
+          "forfeited": false,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:4N6HYihypXOVL24bnaR4fp",
+          "track_id": "4N6HYihypXOVL24bnaR4fp",
+          "spotify_url": "https://open.spotify.com/track/4N6HYihypXOVL24bnaR4fp",
+          "comment": 0
+        },
+        {
+          "title": "Majnuna",
+          "artist": "HUGEL, GROSSOMODDO, Randoree",
+          "album": "Majnuna",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "total_pts": 1,
+          "votes_received": 1,
+          "forfeited": false,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:0vRJHjSohvyNnhSQ3HI1Sl",
+          "track_id": "0vRJHjSohvyNnhSQ3HI1Sl",
+          "spotify_url": "https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl",
+          "comment": 0
+        },
+        {
+          "title": "The Funeral",
+          "artist": "Band of Horses",
+          "album": "Everything All The Time",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "total_pts": 1,
+          "votes_received": 1,
+          "forfeited": false,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:5lRzWDEe7UuedU2QPsFg0K",
+          "track_id": "5lRzWDEe7UuedU2QPsFg0K",
+          "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K",
+          "comment": 0
+        },
+        {
+          "title": "Bike",
+          "artist": "Pink Floyd",
+          "album": "The Piper at the Gates of Dawn",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 0,
+          "votes_received": 7,
+          "forfeited": true,
+          "unique_voters": 5,
+          "spotify_uri": "spotify:track:4gJrRkskBk1oyooA4qm67a",
+          "track_id": "4gJrRkskBk1oyooA4qm67a",
+          "spotify_url": "https://open.spotify.com/track/4gJrRkskBk1oyooA4qm67a",
+          "comment": 0
+        },
+        {
+          "title": "Wake Me up When September Ends",
+          "artist": "Green Day",
+          "album": "American Idiot",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 0,
+          "votes_received": 6,
+          "forfeited": true,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:3ZffCQKLFLUvYM59XKLbVm",
+          "track_id": "3ZffCQKLFLUvYM59XKLbVm",
+          "spotify_url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm",
+          "comment": 0
+        },
+        {
+          "title": "Punkrocker (feat. Iggy Pop)",
+          "artist": "Teddybears, Iggy Pop",
+          "album": "Punkrocker Featuring Iggy Pop (6-94402)",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 0,
+          "votes_received": 4,
+          "forfeited": true,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:0oLSxdlZ4q1iV82fth7uXu",
+          "track_id": "0oLSxdlZ4q1iV82fth7uXu",
+          "spotify_url": "https://open.spotify.com/track/0oLSxdlZ4q1iV82fth7uXu",
+          "comment": 0
+        },
+        {
+          "title": "Russia Privjet",
+          "artist": "Basshunter",
+          "album": "LOL (International version)",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 0,
+          "votes_received": 4,
+          "forfeited": true,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:2SeEfO1x5p1Y2NCITLSokI",
+          "track_id": "2SeEfO1x5p1Y2NCITLSokI",
+          "spotify_url": "https://open.spotify.com/track/2SeEfO1x5p1Y2NCITLSokI",
+          "comment": 0
+        },
+        {
+          "title": "Stella was a diver and she was always down",
+          "artist": "Interpol",
+          "album": "Turn On The Bright Lights",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "total_pts": 0,
+          "votes_received": 4,
+          "forfeited": true,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:4tZdPxjFCZepceY2iuoeKp",
+          "track_id": "4tZdPxjFCZepceY2iuoeKp",
+          "spotify_url": "https://open.spotify.com/track/4tZdPxjFCZepceY2iuoeKp",
+          "comment": 0
+        },
+        {
+          "title": "Everybody Wants To Rule The World",
+          "artist": "Tears For Fears",
+          "album": "Songs From The Big Chair (Super Deluxe Edition)",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "total_pts": 0,
+          "votes_received": 3,
+          "forfeited": true,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+          "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+          "spotify_url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE",
+          "comment": 0
+        },
+        {
+          "title": "Toumast Tincha",
+          "artist": "Tinariwen",
+          "album": "Emmaar (Deluxe Edition)",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 0,
+          "votes_received": 3,
+          "forfeited": true,
+          "unique_voters": 3,
+          "spotify_uri": "spotify:track:4aHv6x8P4EEWkIAkbQkIBh",
+          "track_id": "4aHv6x8P4EEWkIAkbQkIBh",
+          "spotify_url": "https://open.spotify.com/track/4aHv6x8P4EEWkIAkbQkIBh",
+          "comment": 0
+        },
+        {
+          "title": "Sandstorm",
+          "artist": "Darude",
+          "album": "Before the Storm, Special Edition",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "total_pts": 0,
+          "votes_received": 3,
+          "forfeited": true,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:6Sy9BUbgFse0n0LPA5lwy5",
+          "track_id": "6Sy9BUbgFse0n0LPA5lwy5",
+          "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+          "comment": 0
+        },
+        {
+          "title": "Roam",
+          "artist": "The B-52's",
+          "album": "Cosmic Thing",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "total_pts": 0,
+          "votes_received": 2,
+          "forfeited": true,
+          "unique_voters": 2,
+          "spotify_uri": "spotify:track:5fqcIHU6DhQtFKVO5XSdQs",
+          "track_id": "5fqcIHU6DhQtFKVO5XSdQs",
+          "spotify_url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs",
+          "comment": 0
+        },
+        {
+          "title": "Alive!",
+          "artist": "Bakar",
+          "album": "Alive!",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "total_pts": 0,
+          "votes_received": 1,
+          "forfeited": true,
+          "unique_voters": 1,
+          "spotify_uri": "spotify:track:6KzI6EM1QYyOq5oudPlcWT",
+          "track_id": "6KzI6EM1QYyOq5oudPlcWT",
+          "spotify_url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT",
+          "comment": 0
+        }
+      ],
+      "leaderboard": [
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "points": 7,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 1
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "points": 7,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 1
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "points": 6,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 3
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "points": 6,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 3
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 5
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "points": 5,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 5
+        },
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "points": 4,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 7
+        },
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "points": 3,
+          "voted": true,
+          "pts_forfeited": 0,
+          "rank": 8
+        },
+        {
+          "player_id": "90defa7481ce45f4acfc02ba3792e834",
+          "player": "Schuyler M.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 5,
+          "rank": 9
+        },
+        {
+          "player_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "player": "Brooks K.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 8,
+          "rank": 9
+        },
+        {
+          "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "player": "Jack A.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 10,
+          "rank": 9
+        },
+        {
+          "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "player": "Chris V.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 9,
+          "rank": 9
+        },
+        {
+          "player_id": "62ce05b4abe5441b9504d25b59208a99",
+          "player": "Jake C.",
+          "points": 0,
+          "voted": false,
+          "pts_forfeited": 5,
+          "rank": 9
+        }
+      ],
+      "missed_points": [
+        {
+          "player": "Jack A.",
+          "total_missed": 10,
+          "songs": 2
+        },
+        {
+          "player": "Chris V.",
+          "total_missed": 9,
+          "songs": 2
+        },
+        {
+          "player": "Brooks K.",
+          "total_missed": 8,
+          "songs": 2
+        },
+        {
+          "player": "Jake C.",
+          "total_missed": 5,
+          "songs": 2
+        },
+        {
+          "player": "Schuyler M.",
+          "total_missed": 5,
+          "songs": 2
+        }
+      ],
+      "generosity": [
+        {
+          "player_id": "2b989686f7054740af2017ae1a829d68",
+          "player": "Frank L.",
+          "avg_per_vote": 2.0,
+          "total_songs_voted": 5,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5210623e41984e4684fd204317a73149",
+          "player": "Coates C.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "5838e19081f440598e554c420f257ab7",
+          "player": "Mills T.",
+          "avg_per_vote": 1.43,
+          "total_songs_voted": 7,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "player": "Giles G.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "b250f6659575461db5ee96f4e5705023",
+          "player": "Kennon S.",
+          "avg_per_vote": 1.11,
+          "total_songs_voted": 9,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "player": "Dray E.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 11,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "43941604052d45488a63065923e84f19",
+          "player": "Emory L.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        },
+        {
+          "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "player": "Ford L.",
+          "avg_per_vote": 1.0,
+          "total_songs_voted": 10,
+          "total_pts_given": 10
+        }
+      ],
+      "vote_details": [
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Dance of Maria",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "El Matador",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Call Me The Breeze",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Chop Suey!",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Russia Privjet",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Abu Ali",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Toumast Tincha",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Bike",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Evil Woman",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "43941604052d45488a63065923e84f19",
+          "voter": "Emory L.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Push Push (feat. Duane Allman)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Punkrocker (feat. Iggy Pop)",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Call Me The Breeze",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Bike",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everybody Wants To Rule The World",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Stella was a diver and she was always down",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "The Funeral",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5838e19081f440598e554c420f257ab7",
+          "voter": "Mills T.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Mama - 2007 Remaster",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "El Matador",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Call Me The Breeze",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Chop Suey!",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Wake Me up When September Ends",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Toumast Tincha",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Let The Drummer Kick",
+          "points": 1,
+          "comment": "We doing wartorn Beirut or walk up songs? "
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everybody Wants To Rule The World",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Bsslama Hbibti",
+          "points": 1,
+          "comment": "I discovered this too. That whole habibi funk compilation is a lot of fun. "
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Push Push (feat. Duane Allman)",
+          "points": 1,
+          "comment": "Originally found this from the Duane Allman Anthology volume 2 record, Herbie goes so hard. Check out live gizz hot water, trapdoor, satan speeds up or others for the spiritual successor to this. "
+        },
+        {
+          "voter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "voter": "Dray E.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Tarhatazed",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Starburster",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Russia Privjet",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Bike",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "2b989686f7054740af2017ae1a829d68",
+          "submitter": "Frank L.",
+          "song": "Let The Drummer Kick",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Everybody Wants To Rule The World",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Stella was a diver and she was always down",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Push Push (feat. Duane Allman)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "I Wanna Be Adored - Remastered 2009",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "voter": "Giles G.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Tarhatazed",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Dance of Maria",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "El Matador",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Russia Privjet",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Abu Ali",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Toumast Tincha",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "0795aaf6eeca40eaac6661edd291cce2",
+          "submitter": "Brooks K.",
+          "song": "Stella was a diver and she was always down",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Bsslama Hbibti",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "Mama - 2007 Remaster",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "I Wanna Be Adored - Remastered 2009",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "voter": "Ford L.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Tarhatazed",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Punkrocker (feat. Iggy Pop)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Majnuna",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "5210623e41984e4684fd204317a73149",
+          "submitter": "Coates C.",
+          "song": "Call Me The Breeze",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Wake Me up When September Ends",
+          "points": 4,
+          "comment": ""
+        },
+        {
+          "voter_id": "2b989686f7054740af2017ae1a829d68",
+          "voter": "Frank L.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Sandstorm",
+          "points": 3,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "0a831b84b60a4aaca7c6f3150bbccb88",
+          "submitter": "Dray E.",
+          "song": "Dance of Maria",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Punkrocker (feat. Iggy Pop)",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
+          "submitter": "Giles G.",
+          "song": "El Matador",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Chop Suey!",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Bike",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "43941604052d45488a63065923e84f19",
+          "submitter": "Emory L.",
+          "song": "Bsslama Hbibti",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Gibraltar",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Roam",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "b250f6659575461db5ee96f4e5705023",
+          "voter": "Kennon S.",
+          "submitter_id": "90defa7481ce45f4acfc02ba3792e834",
+          "submitter": "Schuyler M.",
+          "song": "Alive!",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "5838e19081f440598e554c420f257ab7",
+          "submitter": "Mills T.",
+          "song": "Starburster",
+          "points": 3,
+          "comment": ""
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Chop Suey!",
+          "points": 2,
+          "comment": ""
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "fa73648bd3f34bc6980fe57087f351f5",
+          "submitter": "Chris V.",
+          "song": "Wake Me up When September Ends",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "4610c4dc5b5c44f09d2c378332135b67",
+          "submitter": "Jack A.",
+          "song": "Bike",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "98834c6ee0d14f6594017b865fa4d1fb",
+          "submitter": "Ford L.",
+          "song": "Gibraltar",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "62ce05b4abe5441b9504d25b59208a99",
+          "submitter": "Jake C.",
+          "song": "Roam",
+          "points": 1,
+          "comment": ""
+        },
+        {
+          "voter_id": "5210623e41984e4684fd204317a73149",
+          "voter": "Coates C.",
+          "submitter_id": "b250f6659575461db5ee96f4e5705023",
+          "submitter": "Kennon S.",
+          "song": "Push Push (feat. Duane Allman)",
+          "points": 1,
+          "comment": ""
+        }
+      ],
+      "stats": {
+        "total_submissions": 26,
+        "total_votes": 67,
+        "unique_voters": 8,
+        "unique_submitters": 13
+      },
+      "commentary": {
+        "title": "Week 8 Recap",
+        "sections": [
+          {
+            "heading": "The Reveals",
+            "text": "Chop Suey! by System Of A Down — Ford L., 5 points, 4 voters — wins Song of the Week. The lowest SOTW point total of the season by a wide margin. The submitter comment reads: \"Armenia but still war torn.\" An entirely sincere defense of a nu-metal pick on a Beirut prompt, and the league rewarded it more than every Middle Eastern picture-perfect submission combined.\n\nFour songs tied at 4 points (Call Me The Breeze, El Matador, Push Push, Starburster); Chop Suey took SOTW on a 4-voter tiebreaker that any of the others could have won. There was no consensus song this round. There was barely a song at all.\n\nFord L. and Kennon S. tied for the round win at 7 points each. Ford: Chop Suey + Gibraltar (the Beirut-the-band pick). Kennon: Push Push + Tarhatazed (the Tuareg desert-blues call). Mills T. and Giles G. tied for third at 6. The points landed in a thirteen-player splatter pattern that no model could have read in advance."
+          },
+          {
+            "heading": "How The Round Voted",
+            "text": "Sixty-seven votes total. The lowest total of the season by 32 — every other round has cleared 99. Of those 67, fifty-eight were 1-pointers, six were 2-pointers, two were 3-pointers, and exactly one was a 4-point Conviction vote. The league said \"sure, I guess\" sixty-seven times and never actually committed to a song.\n\nBy comparison, Week 5's Teakwood Betz round had ten 4+ Conviction votes alone. This week had one. The diffusion isn't quite as extreme as Week 7 (the last new low) but the underlying signal is the same: when prompts ask for cultural specificity, this group spreads thin rather than betting big. There is no Pitchfork demographic in this league large enough to commit hard on Mdou Moctar.\n\nDray E. wrote three of the round's four voter comments. He gave one point to Frank L.'s Citizen Cope with the line \"We doing wartorn Beirut or walk up songs?\" — the cleanest in-text critique of off-prompt submission this season. He gave a point to Emory L.'s Bsslama Hbibti with \"I discovered this too. That whole habibi funk compilation is a lot of fun\" — the only acknowledgment in the round that the Habibi Funk crate-digging tradition was being read correctly. And he wrote a 200-word essay on Kennon's Herbie Mann pick recommending follow-up live King Gizzard listening.\n\nNo player gave more than 11 points total this round. The most generous voter was Mills T. at 1.83 avg. The most concentrated voter was Frank L. at 1.50 avg, who put his only 3-pt vote on the round's actual best pick (Bike by Pink Floyd, 7 votes received) — and Bike was forfeited."
+          },
+          {
+            "heading": "Song Commentary",
+            "text": "Dray E. submitted BOTH Lebanese picks. Dance of Maria by Elias Rahbani AND Abu Ali by Ziad Rahbani — uncle and nephew, both architects of Lebanon's golden age, both recording through the civil war. He wrote roughly 250 words of submitter comment explaining the historical context, the underground parking-garage recording sessions, and Ziad Rahbani's self-description of his style as \"oriental jazz — something like a hamburger that tastes of falafel.\" These are the most thorough submitter comments of the season.\n\nThe league gave him 3 points for Dance of Maria and 2 for Abu Ali. The deepest theme research anyone has done in eight weeks earned a total of five points. The Bsslama Hbibti pick by Emory L. (Moroccan psych-funk, the Habibi Funk reissue scene) got 3 points. The Mdou Moctar pick by Kennon S. got 3 points. The Tinariwen pick by Jake C. got 3 votes received — and Jake forfeited it.\n\nFour of the five most theme-perfect submissions on the playlist (Bike forfeited by Jack A. notwithstanding) earned a combined 11 points. Chop Suey! by System Of A Down — submitted with the disclaimer that Armenia counts because it's also war-torn — earned 5 by itself. The league's revealed preference this round was for \"war\" as a keyword, not Beirut as a place. The flavor text at the top of the prompt did most of the cultural work.\n\nThe Bike by Pink Floyd situation deserves its own line. Jack A. submitted Bike — the literal \"bicycling\" keyword pick from a 1967 Floyd record. The league gave it 7 votes received from 5 voters, including the round's only 4-point Conviction vote (Mills T. gave it the 4). It would have been Song of the Week by two points if Jack had voted. He didn't. The forfeit rule strikes through 7 points on the receipts page; the song still climbs to #12 in the all-time Hall of Fame on votes received."
+          },
+          {
+            "heading": "The Standings Shift",
+            "text": "Dray E. holds first at 82 points. He posted a 5-point round (Dance of Maria + Abu Ali) on the deepest theme research of the season, and even that was enough — because the field collapsed beneath him. Kennon S. moved into sole 2nd at 79, three points back. The tie that defined the top of the leaderboard for four weeks is fully resolved.\n\nBen Z. zeroed out. He didn't submit. Chris V. zeroed out via forfeit (Wake Me Up + Tears For Fears, 9 points received, 0 credited). Both dropped two spots: Ben from 2nd to tied-3rd at 73; Chris from 4th to 6th at 71. The four-week pattern of those two climbing has reversed.\n\nMills T. tied with Ben at 73 in 3rd. Mills's last four weeks: 4, 10, 5, 6. Eight weeks ago he led the league outright; he's still in the top 4 but trending sideways at best.\n\nEmory L. holds 5th at 72 with only 6 rounds played — his 12.0 avg remains the highest in the league among multi-round players. He's also one of only two players (with Dray) who has scored in every round he's submitted in. Among players with 6+ rounds, that's a unique distinction.\n\nFord L. quietly climbed from 8th to 7th with his Chop Suey win. The league's most genre-unreadable player has won a round on a System Of A Down submission to a Beirut prompt and is now five places ahead of his Week 1 position. There is no Ford pattern to model. The model has stopped trying.\n\nFrank L.'s Conviction streak continues. Of the league's 4-point votes this season, Frank L. has cast nine — the most by any player. He continues to commit harder on the votes he gives than anyone else, while consistently submitting picks the league rejects. Eight weeks of evidence that Frank votes with conviction and submits without consensus."
+          },
+          {
+            "heading": "Forfeits",
+            "text": "Five forfeits this week. The highest number of the season:\n\nJack A. submitted Bike (7 votes received, 5 voters — would have been Song of the Week) and Sandstorm by Darude (3 votes received). Total earned: 10 points. Total credited: 0. Last week Jack won SOTW with Brain Damage by voting; this week he submitted an even higher-acknowledged song and chose not to. The pattern is volatile.\n\nChris V. submitted Wake Me Up When September Ends (6 votes, 3 voters) and Everybody Wants to Rule the World (3 votes, 3 voters). Total earned: 9. Total credited: 0. Chris was in 4th place coming into this round and was the only player in the top 6 trending upward. He's now 6th.\n\nBrooks K. submitted Stella was a diver by Interpol (4 votes received) and Russia Privjet by Basshunter (4 votes received). Total earned: 8. Total credited: 0. Brooks is now 0-for-2 on weeks where his picks earned actual league acknowledgment; in both cases (R7 Found God in a Tomato, R8 this week) he chose not to vote and lost everything the league offered him.\n\nJake C. submitted Toumast Tincha by Tinariwen (3 votes received) and Roam by the B-52's (2 votes received). Total earned: 5. Total credited: 0. The Tinariwen pick was one of the genuine theme-correct submissions on the playlist; Jake didn't vote and lost it.\n\nSchuyler M. submitted Punkrocker by Teddybears (4 votes received) and Alive! by Bakar (1 vote received). Total earned: 5. Total credited: 0.\n\nA combined 37 points of league acknowledgment were forfeited this week — more than the total points earned across all 13 active players in the round (49). The league said yes to these picks. The submitters didn't vote. The points stay on the Hall of Fame but not the leaderboard.\n\nThe blind scouting report flagged Frank L. as a possible Beirut-the-band submitter (he wasn't — Ford was). It flagged Schuyler as the most likely Lebanese-music submitter (he wasn't — Dray was). It missed Ford as the Chop Suey submitter, predicting Ben Z. instead. The submitter model went 1 for 26 on full hits this week, and the only hit was the song that got forfeited."
+          }
+        ]
+      }
     }
   ],
   "season_leaderboard": [
     {
       "player_id": "0a831b84b60a4aaca7c6f3150bbccb88",
       "player": "Dray E.",
-      "points": 77,
-      "rounds_played": 7,
+      "points": 82,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 11.0,
+      "avg_per_round": 10.2,
       "joined_round": 1,
       "weekly": [
         {
@@ -12540,17 +13766,74 @@
           "round": 7,
           "points": 4,
           "rank": 9
+        },
+        {
+          "round": 8,
+          "points": 5,
+          "rank": 5
         }
       ],
       "rank": 1
     },
     {
+      "player_id": "b250f6659575461db5ee96f4e5705023",
+      "player": "Kennon S.",
+      "points": 79,
+      "rounds_played": 8,
+      "wins": 1,
+      "avg_per_round": 9.9,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 13,
+          "rank": 2
+        },
+        {
+          "round": 2,
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "round": 3,
+          "points": 7,
+          "rank": 8
+        },
+        {
+          "round": 4,
+          "points": 11,
+          "rank": 4
+        },
+        {
+          "round": 5,
+          "points": 5,
+          "rank": 8
+        },
+        {
+          "round": 6,
+          "points": 11,
+          "rank": 6
+        },
+        {
+          "round": 7,
+          "points": 9,
+          "rank": 5
+        },
+        {
+          "round": 8,
+          "points": 7,
+          "rank": 1
+        }
+      ],
+      "rank": 2
+    },
+    {
       "player_id": "aa8ede356a524849b6e3fe40fea7ea4f",
       "player": "Ben Z.",
       "points": 73,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 2,
-      "avg_per_round": 10.4,
+      "avg_per_round": 9.1,
       "joined_round": 1,
       "weekly": [
         {
@@ -12587,148 +13870,22 @@
           "round": 7,
           "points": 4,
           "rank": 9
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "player_id": "b250f6659575461db5ee96f4e5705023",
-      "player": "Kennon S.",
-      "points": 72,
-      "rounds_played": 7,
-      "wins": 0,
-      "avg_per_round": 10.3,
-      "joined_round": 1,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 13,
-          "rank": 2
         },
         {
-          "round": 2,
-          "points": 16,
-          "rank": 2
-        },
-        {
-          "round": 3,
-          "points": 7,
-          "rank": 8
-        },
-        {
-          "round": 4,
-          "points": 11,
-          "rank": 4
-        },
-        {
-          "round": 5,
-          "points": 5,
-          "rank": 8
-        },
-        {
-          "round": 6,
-          "points": 11,
-          "rank": 6
-        },
-        {
-          "round": 7,
-          "points": 9,
-          "rank": 5
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 3
     },
     {
-      "player_id": "fa73648bd3f34bc6980fe57087f351f5",
-      "player": "Chris V.",
-      "points": 71,
-      "rounds_played": 7,
-      "wins": 1,
-      "avg_per_round": 10.1,
-      "joined_round": 1,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 8,
-          "rank": 5
-        },
-        {
-          "round": 2,
-          "points": 14,
-          "rank": 4
-        },
-        {
-          "round": 3,
-          "points": 5,
-          "rank": 11
-        },
-        {
-          "round": 4,
-          "points": 7,
-          "rank": 9
-        },
-        {
-          "round": 5,
-          "points": 17,
-          "rank": 1
-        },
-        {
-          "round": 6,
-          "points": 8,
-          "rank": 9
-        },
-        {
-          "round": 7,
-          "points": 12,
-          "rank": 2
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "player_id": "43941604052d45488a63065923e84f19",
-      "player": "Emory L.",
-      "points": 68,
-      "rounds_played": 5,
-      "wins": 1,
-      "avg_per_round": 13.6,
-      "joined_round": 3,
-      "weekly": [
-        {
-          "round": 3,
-          "points": 23,
-          "rank": 1
-        },
-        {
-          "round": 4,
-          "points": 15,
-          "rank": 2
-        },
-        {
-          "round": 5,
-          "points": 7,
-          "rank": 7
-        },
-        {
-          "round": 6,
-          "points": 16,
-          "rank": 2
-        },
-        {
-          "round": 7,
-          "points": 7,
-          "rank": 7
-        }
-      ],
-      "rank": 5
-    },
-    {
       "player_id": "5838e19081f440598e554c420f257ab7",
       "player": "Mills T.",
-      "points": 67,
-      "rounds_played": 7,
+      "points": 73,
+      "rounds_played": 8,
       "wins": 1,
-      "avg_per_round": 9.6,
+      "avg_per_round": 9.1,
       "joined_round": 1,
       "weekly": [
         {
@@ -12765,17 +13922,168 @@
           "round": 7,
           "points": 5,
           "rank": 8
+        },
+        {
+          "round": 8,
+          "points": 6,
+          "rank": 3
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "player_id": "43941604052d45488a63065923e84f19",
+      "player": "Emory L.",
+      "points": 72,
+      "rounds_played": 6,
+      "wins": 1,
+      "avg_per_round": 12.0,
+      "joined_round": 3,
+      "weekly": [
+        {
+          "round": 3,
+          "points": 23,
+          "rank": 1
+        },
+        {
+          "round": 4,
+          "points": 15,
+          "rank": 2
+        },
+        {
+          "round": 5,
+          "points": 7,
+          "rank": 7
+        },
+        {
+          "round": 6,
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "round": 7,
+          "points": 7,
+          "rank": 7
+        },
+        {
+          "round": 8,
+          "points": 4,
+          "rank": 7
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "player_id": "fa73648bd3f34bc6980fe57087f351f5",
+      "player": "Chris V.",
+      "points": 71,
+      "rounds_played": 8,
+      "wins": 1,
+      "avg_per_round": 8.9,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "round": 2,
+          "points": 14,
+          "rank": 4
+        },
+        {
+          "round": 3,
+          "points": 5,
+          "rank": 11
+        },
+        {
+          "round": 4,
+          "points": 7,
+          "rank": 9
+        },
+        {
+          "round": 5,
+          "points": 17,
+          "rank": 1
+        },
+        {
+          "round": 6,
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "round": 7,
+          "points": 12,
+          "rank": 2
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": 9
         }
       ],
       "rank": 6
     },
     {
+      "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
+      "player": "Ford L.",
+      "points": 66,
+      "rounds_played": 8,
+      "wins": 1,
+      "avg_per_round": 8.2,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "round": 2,
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "round": 3,
+          "points": 9,
+          "rank": 5
+        },
+        {
+          "round": 4,
+          "points": 8,
+          "rank": 7
+        },
+        {
+          "round": 5,
+          "points": 10,
+          "rank": 5
+        },
+        {
+          "round": 6,
+          "points": 6,
+          "rank": 10
+        },
+        {
+          "round": 7,
+          "points": 10,
+          "rank": 4
+        },
+        {
+          "round": 8,
+          "points": 7,
+          "rank": 1
+        }
+      ],
+      "rank": 7
+    },
+    {
       "player_id": "62ce05b4abe5441b9504d25b59208a99",
       "player": "Jake C.",
       "points": 61,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 1,
-      "avg_per_round": 8.7,
+      "avg_per_round": 7.6,
       "joined_round": 1,
       "weekly": [
         {
@@ -12812,111 +14120,22 @@
           "round": 7,
           "points": 4,
           "rank": 9
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "player_id": "98834c6ee0d14f6594017b865fa4d1fb",
-      "player": "Ford L.",
-      "points": 59,
-      "rounds_played": 7,
-      "wins": 0,
-      "avg_per_round": 8.4,
-      "joined_round": 1,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 6,
-          "rank": 7
         },
         {
-          "round": 2,
-          "points": 10,
-          "rank": 8
-        },
-        {
-          "round": 3,
-          "points": 9,
-          "rank": 5
-        },
-        {
-          "round": 4,
-          "points": 8,
-          "rank": 7
-        },
-        {
-          "round": 5,
-          "points": 10,
-          "rank": 5
-        },
-        {
-          "round": 6,
-          "points": 6,
-          "rank": 10
-        },
-        {
-          "round": 7,
-          "points": 10,
-          "rank": 4
+          "round": 8,
+          "points": 0,
+          "rank": 9
         }
       ],
       "rank": 8
     },
     {
-      "player_id": "4610c4dc5b5c44f09d2c378332135b67",
-      "player": "Jack A.",
-      "points": 52,
-      "rounds_played": 7,
-      "wins": 0,
-      "avg_per_round": 7.4,
-      "joined_round": 1,
-      "weekly": [
-        {
-          "round": 1,
-          "points": 9,
-          "rank": 3
-        },
-        {
-          "round": 2,
-          "points": 3,
-          "rank": 14
-        },
-        {
-          "round": 3,
-          "points": 3,
-          "rank": 14
-        },
-        {
-          "round": 4,
-          "points": 10,
-          "rank": 6
-        },
-        {
-          "round": 5,
-          "points": 16,
-          "rank": 2
-        },
-        {
-          "round": 6,
-          "points": 0,
-          "rank": null
-        },
-        {
-          "round": 7,
-          "points": 11,
-          "rank": 3
-        }
-      ],
-      "rank": 9
-    },
-    {
       "player_id": "c220447f3f8d4e6aa50cbff707c6f3b1",
       "player": "Giles G.",
-      "points": 48,
-      "rounds_played": 7,
+      "points": 54,
+      "rounds_played": 8,
       "wins": 1,
-      "avg_per_round": 6.9,
+      "avg_per_round": 6.8,
       "joined_round": 1,
       "weekly": [
         {
@@ -12953,6 +14172,63 @@
           "round": 7,
           "points": 13,
           "rank": 1
+        },
+        {
+          "round": 8,
+          "points": 6,
+          "rank": 3
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "player_id": "4610c4dc5b5c44f09d2c378332135b67",
+      "player": "Jack A.",
+      "points": 52,
+      "rounds_played": 8,
+      "wins": 0,
+      "avg_per_round": 6.5,
+      "joined_round": 1,
+      "weekly": [
+        {
+          "round": 1,
+          "points": 9,
+          "rank": 3
+        },
+        {
+          "round": 2,
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "round": 3,
+          "points": 3,
+          "rank": 14
+        },
+        {
+          "round": 4,
+          "points": 10,
+          "rank": 6
+        },
+        {
+          "round": 5,
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "round": 6,
+          "points": 0,
+          "rank": null
+        },
+        {
+          "round": 7,
+          "points": 11,
+          "rank": 3
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": 9
         }
       ],
       "rank": 10
@@ -12961,9 +14237,9 @@
       "player_id": "90defa7481ce45f4acfc02ba3792e834",
       "player": "Schuyler M.",
       "points": 45,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 6.4,
+      "avg_per_round": 5.6,
       "joined_round": 1,
       "weekly": [
         {
@@ -13000,6 +14276,11 @@
           "round": 7,
           "points": 8,
           "rank": 6
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": 9
         }
       ],
       "rank": 11
@@ -13007,10 +14288,10 @@
     {
       "player_id": "5210623e41984e4684fd204317a73149",
       "player": "Coates C.",
-      "points": 27,
-      "rounds_played": 5,
+      "points": 32,
+      "rounds_played": 6,
       "wins": 0,
-      "avg_per_round": 5.4,
+      "avg_per_round": 5.3,
       "joined_round": 3,
       "weekly": [
         {
@@ -13037,6 +14318,11 @@
           "round": 7,
           "points": 0,
           "rank": 13
+        },
+        {
+          "round": 8,
+          "points": 5,
+          "rank": 5
         }
       ],
       "rank": 12
@@ -13044,10 +14330,10 @@
     {
       "player_id": "2b989686f7054740af2017ae1a829d68",
       "player": "Frank L.",
-      "points": 25,
-      "rounds_played": 6,
+      "points": 28,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 4.2,
+      "avg_per_round": 4.0,
       "joined_round": 2,
       "weekly": [
         {
@@ -13079,6 +14365,11 @@
           "round": 7,
           "points": 3,
           "rank": 12
+        },
+        {
+          "round": 8,
+          "points": 3,
+          "rank": 8
         }
       ],
       "rank": 13
@@ -13087,9 +14378,9 @@
       "player_id": "605a6a083d2d4ad781df783c4a21b505",
       "player": "Hunter A.",
       "points": 23,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 3.8,
+      "avg_per_round": 3.3,
       "joined_round": 2,
       "weekly": [
         {
@@ -13121,6 +14412,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 14
@@ -13129,9 +14425,9 @@
       "player_id": "25fef29f0b2243548626ee1713e3b1f9",
       "player": "Blake A.",
       "points": 14,
-      "rounds_played": 6,
+      "rounds_played": 7,
       "wins": 0,
-      "avg_per_round": 2.3,
+      "avg_per_round": 2.0,
       "joined_round": 2,
       "weekly": [
         {
@@ -13163,6 +14459,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 15
@@ -13171,9 +14472,9 @@
       "player_id": "7167404f66594c58a6bda0cce98ca1f2",
       "player": "Hilton H.",
       "points": 14,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 2.0,
+      "avg_per_round": 1.8,
       "joined_round": 1,
       "weekly": [
         {
@@ -13210,6 +14511,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 15
@@ -13218,9 +14524,9 @@
       "player_id": "2fed7a01277b4496a86f52fd504a9dcd",
       "player": "TR C.",
       "points": 12,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 1.7,
+      "avg_per_round": 1.5,
       "joined_round": 1,
       "weekly": [
         {
@@ -13257,6 +14563,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 17
@@ -13265,9 +14576,9 @@
       "player_id": "68f0f9e3004b481999ceb5b8f1ac79e4",
       "player": "Patrick C.",
       "points": 10,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 1.4,
+      "avg_per_round": 1.2,
       "joined_round": 1,
       "weekly": [
         {
@@ -13304,6 +14615,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 18
@@ -13312,9 +14628,9 @@
       "player_id": "76a55817271e454fad8f84efdc032dc5",
       "player": "Kevin D.",
       "points": 9,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 1.3,
+      "avg_per_round": 1.1,
       "joined_round": 1,
       "weekly": [
         {
@@ -13351,6 +14667,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 19
@@ -13359,9 +14680,9 @@
       "player_id": "c2de60ec7be74e74ba5ebbd9af18056a",
       "player": "Will B.",
       "points": 9,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 1.3,
+      "avg_per_round": 1.1,
       "joined_round": 1,
       "weekly": [
         {
@@ -13398,6 +14719,11 @@
           "round": 7,
           "points": 0,
           "rank": 13
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 19
@@ -13406,9 +14732,9 @@
       "player_id": "f9f6d12c4c7240ee83db9fd0774fc416",
       "player": "Danny C.",
       "points": 5,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
-      "avg_per_round": 0.7,
+      "avg_per_round": 0.6,
       "joined_round": 1,
       "weekly": [
         {
@@ -13445,6 +14771,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 21
@@ -13453,7 +14784,7 @@
       "player_id": "79cab84806c54bf0b59b34c5b2977d78",
       "player": "Henry L.",
       "points": 3,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
       "avg_per_round": 0.4,
       "joined_round": 1,
@@ -13492,6 +14823,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 22
@@ -13500,7 +14836,7 @@
       "player_id": "0795aaf6eeca40eaac6661edd291cce2",
       "player": "Brooks K.",
       "points": 0,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
       "avg_per_round": 0.0,
       "joined_round": 1,
@@ -13539,6 +14875,11 @@
           "round": 7,
           "points": 0,
           "rank": 13
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": 9
         }
       ],
       "rank": 23
@@ -13547,7 +14888,7 @@
       "player_id": "e004e6544dff44bdb1687ec8fb03f137",
       "player": "Will I.",
       "points": 0,
-      "rounds_played": 7,
+      "rounds_played": 8,
       "wins": 0,
       "avg_per_round": 0.0,
       "joined_round": 1,
@@ -13586,6 +14927,11 @@
           "round": 7,
           "points": 0,
           "rank": null
+        },
+        {
+          "round": 8,
+          "points": 0,
+          "rank": null
         }
       ],
       "rank": 23
@@ -13594,15 +14940,33 @@
   "voting_affinities": [
     {
       "voter": "Mills T.",
-      "submitter": "Ben Z.",
+      "submitter": "Chris V.",
       "total_pts": 11,
       "times": 7
     },
     {
       "voter": "Mills T.",
-      "submitter": "Chris V.",
+      "submitter": "Ben Z.",
+      "total_pts": 11,
+      "times": 7
+    },
+    {
+      "voter": "Ford L.",
+      "submitter": "Dray E.",
       "total_pts": 10,
-      "times": 6
+      "times": 10
+    },
+    {
+      "voter": "Emory L.",
+      "submitter": "Dray E.",
+      "total_pts": 10,
+      "times": 8
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Kennon S.",
+      "total_pts": 9,
+      "times": 9
     },
     {
       "voter": "Chris V.",
@@ -13617,6 +14981,30 @@
       "times": 6
     },
     {
+      "voter": "Dray E.",
+      "submitter": "Chris V.",
+      "total_pts": 9,
+      "times": 9
+    },
+    {
+      "voter": "Kennon S.",
+      "submitter": "Giles G.",
+      "total_pts": 9,
+      "times": 6
+    },
+    {
+      "voter": "Kennon S.",
+      "submitter": "Jack A.",
+      "total_pts": 9,
+      "times": 6
+    },
+    {
+      "voter": "Giles G.",
+      "submitter": "Kennon S.",
+      "total_pts": 9,
+      "times": 8
+    },
+    {
       "voter": "Schuyler M.",
       "submitter": "Mills T.",
       "total_pts": 9,
@@ -13629,16 +15017,28 @@
       "times": 7
     },
     {
-      "voter": "Ford L.",
-      "submitter": "Dray E.",
+      "voter": "Dray E.",
+      "submitter": "Giles G.",
+      "total_pts": 8,
+      "times": 8
+    },
+    {
+      "voter": "Dray E.",
+      "submitter": "Ford L.",
       "total_pts": 8,
       "times": 8
     },
     {
       "voter": "Kennon S.",
-      "submitter": "Giles G.",
+      "submitter": "Jake C.",
       "total_pts": 8,
       "times": 5
+    },
+    {
+      "voter": "Frank L.",
+      "submitter": "Chris V.",
+      "total_pts": 8,
+      "times": 4
     },
     {
       "voter": "Giles G.",
@@ -13659,40 +15059,22 @@
       "times": 7
     },
     {
-      "voter": "Emory L.",
-      "submitter": "Dray E.",
-      "total_pts": 8,
-      "times": 6
-    },
-    {
-      "voter": "Dray E.",
+      "voter": "Mills T.",
       "submitter": "Giles G.",
       "total_pts": 7,
-      "times": 7
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Ford L.",
-      "total_pts": 7,
-      "times": 7
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Kennon S.",
-      "total_pts": 7,
-      "times": 7
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Jake C.",
-      "total_pts": 7,
-      "times": 4
+      "times": 6
     },
     {
       "voter": "Jake C.",
       "submitter": "Chris V.",
       "total_pts": 7,
       "times": 6
+    },
+    {
+      "voter": "Ford L.",
+      "submitter": "Giles G.",
+      "total_pts": 7,
+      "times": 7
     },
     {
       "voter": "Jack A.",
@@ -13719,24 +15101,6 @@
       "times": 3
     },
     {
-      "voter": "Dray E.",
-      "submitter": "Chris V.",
-      "total_pts": 7,
-      "times": 7
-    },
-    {
-      "voter": "Kennon S.",
-      "submitter": "Jack A.",
-      "total_pts": 7,
-      "times": 5
-    },
-    {
-      "voter": "Giles G.",
-      "submitter": "Kennon S.",
-      "total_pts": 7,
-      "times": 6
-    },
-    {
       "voter": "Chris V.",
       "submitter": "Ford L.",
       "total_pts": 7,
@@ -13747,6 +15111,12 @@
       "submitter": "Ben Z.",
       "total_pts": 7,
       "times": 5
+    },
+    {
+      "voter": "Emory L.",
+      "submitter": "Coates C.",
+      "total_pts": 7,
+      "times": 7
     },
     {
       "voter": "Jack A.",
@@ -13765,6 +15135,18 @@
       "submitter": "Ben Z.",
       "total_pts": 7,
       "times": 6
+    },
+    {
+      "voter": "Frank L.",
+      "submitter": "Schuyler M.",
+      "total_pts": 7,
+      "times": 3
+    },
+    {
+      "voter": "Frank L.",
+      "submitter": "Coates C.",
+      "total_pts": 7,
+      "times": 3
     },
     {
       "voter": "Dray E.",
@@ -13786,19 +15168,25 @@
     },
     {
       "voter": "Mills T.",
+      "submitter": "Schuyler M.",
+      "total_pts": 6,
+      "times": 4
+    },
+    {
+      "voter": "Mills T.",
       "submitter": "Jake C.",
       "total_pts": 6,
       "times": 4
     },
     {
       "voter": "Mills T.",
-      "submitter": "Giles G.",
+      "submitter": "Ford L.",
       "total_pts": 6,
-      "times": 5
+      "times": 4
     },
     {
       "voter": "Mills T.",
-      "submitter": "Ford L.",
+      "submitter": "Jack A.",
       "total_pts": 6,
       "times": 4
     },
@@ -13839,58 +15227,16 @@
       "times": 4
     },
     {
+      "voter": "Kennon S.",
+      "submitter": "Dray E.",
+      "total_pts": 6,
+      "times": 6
+    },
+    {
       "voter": "Chris V.",
       "submitter": "Ben Z.",
       "total_pts": 6,
       "times": 5
-    },
-    {
-      "voter": "Jack A.",
-      "submitter": "Ben Z.",
-      "total_pts": 6,
-      "times": 4
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Emory L.",
-      "total_pts": 6,
-      "times": 5
-    },
-    {
-      "voter": "Frank L.",
-      "submitter": "Ben Z.",
-      "total_pts": 6,
-      "times": 2
-    },
-    {
-      "voter": "Frank L.",
-      "submitter": "Schuyler M.",
-      "total_pts": 6,
-      "times": 2
-    },
-    {
-      "voter": "Jake C.",
-      "submitter": "Emory L.",
-      "total_pts": 6,
-      "times": 5
-    },
-    {
-      "voter": "Frank L.",
-      "submitter": "Coates C.",
-      "total_pts": 6,
-      "times": 2
-    },
-    {
-      "voter": "Dray E.",
-      "submitter": "Mills T.",
-      "total_pts": 5,
-      "times": 5
-    },
-    {
-      "voter": "Chris V.",
-      "submitter": "Jack A.",
-      "total_pts": 5,
-      "times": 4
     }
   ],
   "hall_of_fame": [
@@ -14204,11 +15550,33 @@
           "unique_voters": 0,
           "track_id": "5QU1KClbk8kTHRMUCMFNtH",
           "spotify_url": "https://open.spotify.com/track/5QU1KClbk8kTHRMUCMFNtH"
+        },
+        {
+          "round": 8,
+          "title": "Russia Privjet",
+          "artist": "Basshunter",
+          "album": "LOL (International version)",
+          "total_pts": 4,
+          "forfeited": true,
+          "unique_voters": 3,
+          "track_id": "2SeEfO1x5p1Y2NCITLSokI",
+          "spotify_url": "https://open.spotify.com/track/2SeEfO1x5p1Y2NCITLSokI"
+        },
+        {
+          "round": 8,
+          "title": "Stella was a diver and she was always down",
+          "artist": "Interpol",
+          "album": "Turn On The Bright Lights",
+          "total_pts": 4,
+          "forfeited": true,
+          "unique_voters": 3,
+          "track_id": "4tZdPxjFCZepceY2iuoeKp",
+          "spotify_url": "https://open.spotify.com/track/4tZdPxjFCZepceY2iuoeKp"
         }
       ],
       "voting_history": [],
       "season_points": 0,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "0a831b84b60a4aaca7c6f3150bbccb88": {
       "name": "Dray E.",
@@ -14366,6 +15734,28 @@
           "unique_voters": 2,
           "track_id": "7vIfadMSMH3pz5GyKlzAgc",
           "spotify_url": "https://open.spotify.com/track/7vIfadMSMH3pz5GyKlzAgc"
+        },
+        {
+          "round": 8,
+          "title": "Dance of Maria",
+          "artist": "Elias Rahbani",
+          "album": "Mosaic of the Orient",
+          "total_pts": 3,
+          "forfeited": false,
+          "unique_voters": 3,
+          "track_id": "0f7iz1qAWSz61BdHTXbzvC",
+          "spotify_url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
+        },
+        {
+          "round": 8,
+          "title": "Abu Ali",
+          "artist": "Ziad Rahbani",
+          "album": "أجمل أغاني زياد الرحباني",
+          "total_pts": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "track_id": "2YNAizPH6rGrF4hz5khM5H",
+          "spotify_url": "https://open.spotify.com/track/2YNAizPH6rGrF4hz5khM5H"
         }
       ],
       "voting_history": [
@@ -14788,10 +16178,70 @@
           "song": "Six Blade Knife",
           "voted_for": "Chris V.",
           "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "El Matador",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Call Me The Breeze",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Chop Suey!",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Wake Me up When September Ends",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Toumast Tincha",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Let The Drummer Kick",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Everybody Wants To Rule The World",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Bsslama Hbibti",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Push Push (feat. Duane Allman)",
+          "voted_for": "Kennon S.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Tarhatazed",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 77,
-      "rounds_played": 7
+      "season_points": 82,
+      "rounds_played": 8
     },
     "25fef29f0b2243548626ee1713e3b1f9": {
       "name": "Blake A.",
@@ -14968,7 +16418,7 @@
         }
       ],
       "season_points": 14,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "2b989686f7054740af2017ae1a829d68": {
       "name": "Frank L.",
@@ -15104,6 +16554,28 @@
           "unique_voters": 0,
           "track_id": "7dMBU2Kf4vmvwfVLW6yb6P",
           "spotify_url": "https://open.spotify.com/track/7dMBU2Kf4vmvwfVLW6yb6P"
+        },
+        {
+          "round": 8,
+          "title": "Let The Drummer Kick",
+          "artist": "Citizen Cope",
+          "album": "Citizen Cope",
+          "total_pts": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "track_id": "4Nrg8EG7wWTiTOumtpw8gk",
+          "spotify_url": "https://open.spotify.com/track/4Nrg8EG7wWTiTOumtpw8gk"
+        },
+        {
+          "round": 8,
+          "title": "The Funeral",
+          "artist": "Band of Horses",
+          "album": "Everything All The Time",
+          "total_pts": 1,
+          "forfeited": false,
+          "unique_voters": 1,
+          "track_id": "5lRzWDEe7UuedU2QPsFg0K",
+          "spotify_url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
         }
       ],
       "voting_history": [
@@ -15280,10 +16752,40 @@
           "song": "Always",
           "voted_for": "Schuyler M.",
           "points_given": 3
+        },
+        {
+          "round": 8,
+          "song": "Punkrocker (feat. Iggy Pop)",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Majnuna",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Call Me The Breeze",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Wake Me up When September Ends",
+          "voted_for": "Chris V.",
+          "points_given": 4
+        },
+        {
+          "round": 8,
+          "song": "Sandstorm",
+          "voted_for": "Jack A.",
+          "points_given": 3
         }
       ],
-      "season_points": 25,
-      "rounds_played": 6
+      "season_points": 28,
+      "rounds_played": 7
     },
     "2fed7a01277b4496a86f52fd504a9dcd": {
       "name": "TR C.",
@@ -15476,7 +16978,7 @@
         }
       ],
       "season_points": 12,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "43941604052d45488a63065923e84f19": {
       "name": "Emory L.",
@@ -15590,6 +17092,28 @@
           "unique_voters": 3,
           "track_id": "7jZBPuJmkOsfPkwFD30dAA",
           "spotify_url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+        },
+        {
+          "round": 8,
+          "title": "Bsslama Hbibti",
+          "artist": "Fadoul",
+          "album": "Bsslama Hbibti / Argos Farfish",
+          "total_pts": 3,
+          "forfeited": false,
+          "unique_voters": 3,
+          "track_id": "4YuRyF9ThxiOQfcSV9CgMj",
+          "spotify_url": "https://open.spotify.com/track/4YuRyF9ThxiOQfcSV9CgMj"
+        },
+        {
+          "round": 8,
+          "title": "Majnuna",
+          "artist": "HUGEL, GROSSOMODDO, Randoree",
+          "album": "Majnuna",
+          "total_pts": 1,
+          "forfeited": false,
+          "unique_voters": 1,
+          "track_id": "0vRJHjSohvyNnhSQ3HI1Sl",
+          "spotify_url": "https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl"
         }
       ],
       "voting_history": [
@@ -15868,10 +17392,70 @@
           "song": "Smooth Operator - Single Version",
           "voted_for": "Coates C.",
           "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Dance of Maria",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "El Matador",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Call Me The Breeze",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Chop Suey!",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Russia Privjet",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Abu Ali",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Toumast Tincha",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Bike",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Evil Woman",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Push Push (feat. Duane Allman)",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 68,
-      "rounds_played": 5
+      "season_points": 72,
+      "rounds_played": 6
     },
     "4610c4dc5b5c44f09d2c378332135b67": {
       "name": "Jack A.",
@@ -16007,6 +17591,28 @@
           "unique_voters": 4,
           "track_id": "1oTHteQbmJw15rPxPVXUTv",
           "spotify_url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+        },
+        {
+          "round": 8,
+          "title": "Bike",
+          "artist": "Pink Floyd",
+          "album": "The Piper at the Gates of Dawn",
+          "total_pts": 7,
+          "forfeited": true,
+          "unique_voters": 5,
+          "track_id": "4gJrRkskBk1oyooA4qm67a",
+          "spotify_url": "https://open.spotify.com/track/4gJrRkskBk1oyooA4qm67a"
+        },
+        {
+          "round": 8,
+          "title": "Sandstorm",
+          "artist": "Darude",
+          "album": "Before the Storm, Special Edition",
+          "total_pts": 3,
+          "forfeited": true,
+          "unique_voters": 1,
+          "track_id": "6Sy9BUbgFse0n0LPA5lwy5",
+          "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
         }
       ],
       "voting_history": [
@@ -16276,7 +17882,7 @@
         }
       ],
       "season_points": 52,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "4c65c5fb8d1b4ea498df50e2d87a7da6": {
       "name": "Haris V.",
@@ -16375,6 +17981,28 @@
           "unique_voters": 1,
           "track_id": "7CpbhqKUedOIrcvc94p60Y",
           "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+        },
+        {
+          "round": 8,
+          "title": "Call Me The Breeze",
+          "artist": "Lynyrd Skynyrd",
+          "album": "Second Helping (Expanded Edition)",
+          "total_pts": 4,
+          "forfeited": false,
+          "unique_voters": 4,
+          "track_id": "12WiGqEs3t5hrzBJTe1K0P",
+          "spotify_url": "https://open.spotify.com/track/12WiGqEs3t5hrzBJTe1K0P"
+        },
+        {
+          "round": 8,
+          "title": "Evil Woman",
+          "artist": "Electric Light Orchestra",
+          "album": "All Over The World: The Very Best Of ELO",
+          "total_pts": 1,
+          "forfeited": false,
+          "unique_voters": 1,
+          "track_id": "4N6HYihypXOVL24bnaR4fp",
+          "spotify_url": "https://open.spotify.com/track/4N6HYihypXOVL24bnaR4fp"
         }
       ],
       "voting_history": [
@@ -16485,10 +18113,52 @@
           "song": "The Guitar Man",
           "voted_for": "Giles G.",
           "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Starburster",
+          "voted_for": "Mills T.",
+          "points_given": 3
+        },
+        {
+          "round": 8,
+          "song": "Chop Suey!",
+          "voted_for": "Ford L.",
+          "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "Wake Me up When September Ends",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Bike",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Gibraltar",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Roam",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Push Push (feat. Duane Allman)",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 27,
-      "rounds_played": 5
+      "season_points": 32,
+      "rounds_played": 6
     },
     "5838e19081f440598e554c420f257ab7": {
       "name": "Mills T.",
@@ -16646,6 +18316,28 @@
           "unique_voters": 0,
           "track_id": "7eqoqGkKwgOaWNNHx90uEZ",
           "spotify_url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+        },
+        {
+          "round": 8,
+          "title": "Starburster",
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "total_pts": 4,
+          "forfeited": false,
+          "unique_voters": 2,
+          "track_id": "09ttHg3ZNVgDlYBZa1ZBw0",
+          "spotify_url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
+        },
+        {
+          "round": 8,
+          "title": "I Wanna Be Adored - Remastered 2009",
+          "artist": "The Stone Roses",
+          "album": "The Stone Roses",
+          "total_pts": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "track_id": "758wEKVqfYopJIHYWdLVd4",
+          "spotify_url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
         }
       ],
       "voting_history": [
@@ -16954,10 +18646,52 @@
           "song": "Brain Damage",
           "voted_for": "Jack A.",
           "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "Punkrocker (feat. Iggy Pop)",
+          "voted_for": "Schuyler M.",
+          "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "Call Me The Breeze",
+          "voted_for": "Coates C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Bike",
+          "voted_for": "Jack A.",
+          "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "Everybody Wants To Rule The World",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Stella was a diver and she was always down",
+          "voted_for": "Brooks K.",
+          "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "The Funeral",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Mama - 2007 Remaster",
+          "voted_for": "Giles G.",
+          "points_given": 1
         }
       ],
-      "season_points": 67,
-      "rounds_played": 7
+      "season_points": 73,
+      "rounds_played": 8
     },
     "605a6a083d2d4ad781df783c4a21b505": {
       "name": "Hunter A.",
@@ -17124,7 +18858,7 @@
         }
       ],
       "season_points": 23,
-      "rounds_played": 6
+      "rounds_played": 7
     },
     "62ce05b4abe5441b9504d25b59208a99": {
       "name": "Jake C.",
@@ -17260,6 +18994,28 @@
           "unique_voters": 1,
           "track_id": "0bQ87lddGh1yp2bmPq9lM8",
           "spotify_url": "https://open.spotify.com/track/0bQ87lddGh1yp2bmPq9lM8"
+        },
+        {
+          "round": 8,
+          "title": "Toumast Tincha",
+          "artist": "Tinariwen",
+          "album": "Emmaar (Deluxe Edition)",
+          "total_pts": 3,
+          "forfeited": true,
+          "unique_voters": 3,
+          "track_id": "4aHv6x8P4EEWkIAkbQkIBh",
+          "spotify_url": "https://open.spotify.com/track/4aHv6x8P4EEWkIAkbQkIBh"
+        },
+        {
+          "round": 8,
+          "title": "Roam",
+          "artist": "The B-52's",
+          "album": "Cosmic Thing",
+          "total_pts": 2,
+          "forfeited": true,
+          "unique_voters": 2,
+          "track_id": "5fqcIHU6DhQtFKVO5XSdQs",
+          "spotify_url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
         }
       ],
       "voting_history": [
@@ -17553,7 +19309,7 @@
         }
       ],
       "season_points": 61,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "68f0f9e3004b481999ceb5b8f1ac79e4": {
       "name": "Patrick C.",
@@ -17802,7 +19558,7 @@
         }
       ],
       "season_points": 10,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "7167404f66594c58a6bda0cce98ca1f2": {
       "name": "Hilton H.",
@@ -18015,7 +19771,7 @@
         }
       ],
       "season_points": 14,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "76a55817271e454fad8f84efdc032dc5": {
       "name": "Kevin D.",
@@ -18196,7 +19952,7 @@
         }
       ],
       "season_points": 9,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "79cab84806c54bf0b59b34c5b2977d78": {
       "name": "Henry L.",
@@ -18309,7 +20065,7 @@
         }
       ],
       "season_points": 3,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "90defa7481ce45f4acfc02ba3792e834": {
       "name": "Schuyler M.",
@@ -18467,6 +20223,28 @@
           "unique_voters": 2,
           "track_id": "5QQCp4fQiU9I2FU9FvJVV2",
           "spotify_url": "https://open.spotify.com/track/5QQCp4fQiU9I2FU9FvJVV2"
+        },
+        {
+          "round": 8,
+          "title": "Punkrocker (feat. Iggy Pop)",
+          "artist": "Teddybears, Iggy Pop",
+          "album": "Punkrocker Featuring Iggy Pop (6-94402)",
+          "total_pts": 4,
+          "forfeited": true,
+          "unique_voters": 3,
+          "track_id": "0oLSxdlZ4q1iV82fth7uXu",
+          "spotify_url": "https://open.spotify.com/track/0oLSxdlZ4q1iV82fth7uXu"
+        },
+        {
+          "round": 8,
+          "title": "Alive!",
+          "artist": "Bakar",
+          "album": "Alive!",
+          "total_pts": 1,
+          "forfeited": true,
+          "unique_voters": 1,
+          "track_id": "6KzI6EM1QYyOq5oudPlcWT",
+          "spotify_url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
         }
       ],
       "voting_history": [
@@ -18820,7 +20598,7 @@
         }
       ],
       "season_points": 45,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "98834c6ee0d14f6594017b865fa4d1fb": {
       "name": "Ford L.",
@@ -18978,6 +20756,28 @@
           "unique_voters": 4,
           "track_id": "3A7MgVUJsbN9tQpLNZHvvO",
           "spotify_url": "https://open.spotify.com/track/3A7MgVUJsbN9tQpLNZHvvO"
+        },
+        {
+          "round": 8,
+          "title": "Chop Suey!",
+          "artist": "System Of A Down",
+          "album": "Toxicity",
+          "total_pts": 5,
+          "forfeited": false,
+          "unique_voters": 4,
+          "track_id": "2DlHlPMa4M17kufBvI2lEN",
+          "spotify_url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
+        },
+        {
+          "round": 8,
+          "title": "Gibraltar",
+          "artist": "Beirut",
+          "album": "No No No",
+          "total_pts": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "track_id": "56llQt0PCV67SUpmOTBLDs",
+          "spotify_url": "https://open.spotify.com/track/56llQt0PCV67SUpmOTBLDs"
         }
       ],
       "voting_history": [
@@ -19364,10 +21164,70 @@
           "song": "Found God in a Tomato",
           "voted_for": "Brooks K.",
           "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Dance of Maria",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "El Matador",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Russia Privjet",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Abu Ali",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Toumast Tincha",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Stella was a diver and she was always down",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Bsslama Hbibti",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Mama - 2007 Remaster",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "I Wanna Be Adored - Remastered 2009",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Tarhatazed",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 59,
-      "rounds_played": 7
+      "season_points": 66,
+      "rounds_played": 8
     },
     "aa8ede356a524849b6e3fe40fea7ea4f": {
       "name": "Ben Z.",
@@ -19884,7 +21744,7 @@
         }
       ],
       "season_points": 73,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "b250f6659575461db5ee96f4e5705023": {
       "name": "Kennon S.",
@@ -20042,6 +21902,28 @@
           "unique_voters": 2,
           "track_id": "4DR5MStkWtDYf17jBUOo0V",
           "spotify_url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
+        },
+        {
+          "round": 8,
+          "title": "Push Push (feat. Duane Allman)",
+          "artist": "Herbie Mann, Duane Allman",
+          "album": "Push Push (feat. Duane Allman)",
+          "total_pts": 4,
+          "forfeited": false,
+          "unique_voters": 4,
+          "track_id": "6OleMPl7kO0fyt9XsbrKcU",
+          "spotify_url": "https://open.spotify.com/track/6OleMPl7kO0fyt9XsbrKcU"
+        },
+        {
+          "round": 8,
+          "title": "Tarhatazed",
+          "artist": "Mdou Moctar",
+          "album": "Ilana (The Creator)",
+          "total_pts": 3,
+          "forfeited": false,
+          "unique_voters": 3,
+          "track_id": "7uY3z3xwpGM2sOdiElpQAU",
+          "spotify_url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
         }
       ],
       "voting_history": [
@@ -20338,10 +22220,64 @@
           "song": "Born Slippy (Nuxx)",
           "voted_for": "Giles G.",
           "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "Dance of Maria",
+          "voted_for": "Dray E.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Punkrocker (feat. Iggy Pop)",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "El Matador",
+          "voted_for": "Giles G.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Chop Suey!",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Bike",
+          "voted_for": "Jack A.",
+          "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "Bsslama Hbibti",
+          "voted_for": "Emory L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Gibraltar",
+          "voted_for": "Ford L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Roam",
+          "voted_for": "Jake C.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Alive!",
+          "voted_for": "Schuyler M.",
+          "points_given": 1
         }
       ],
-      "season_points": 72,
-      "rounds_played": 7
+      "season_points": 79,
+      "rounds_played": 8
     },
     "c220447f3f8d4e6aa50cbff707c6f3b1": {
       "name": "Giles G.",
@@ -20449,7 +22385,7 @@
           "round": 5,
           "title": "BDE Bonus",
           "artist": "Mac Miller",
-          "album": "Best Day Ever",
+          "album": "Best Day Ever (5th Anniversary Remastered Edition)",
           "total_pts": 4,
           "forfeited": false,
           "unique_voters": 3,
@@ -20499,6 +22435,28 @@
           "unique_voters": 5,
           "track_id": "5sHEmVAiepdGCj0rHtLYFO",
           "spotify_url": "https://open.spotify.com/track/5sHEmVAiepdGCj0rHtLYFO"
+        },
+        {
+          "round": 8,
+          "title": "El Matador",
+          "artist": "The Kingston Trio",
+          "album": "Sold Out",
+          "total_pts": 4,
+          "forfeited": false,
+          "unique_voters": 4,
+          "track_id": "0QijWQnEFPwZemuAVFPSqC",
+          "spotify_url": "https://open.spotify.com/track/0QijWQnEFPwZemuAVFPSqC"
+        },
+        {
+          "round": 8,
+          "title": "Mama - 2007 Remaster",
+          "artist": "Genesis",
+          "album": "Genesis (2007 Remaster)",
+          "total_pts": 2,
+          "forfeited": false,
+          "unique_voters": 2,
+          "track_id": "6kIwzLSiQU51taaaZ9zWSE",
+          "spotify_url": "https://open.spotify.com/track/6kIwzLSiQU51taaaZ9zWSE"
         }
       ],
       "voting_history": [
@@ -20783,10 +22741,64 @@
           "song": "Oh Yeah",
           "voted_for": "Kennon S.",
           "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Starburster",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Russia Privjet",
+          "voted_for": "Brooks K.",
+          "points_given": 2
+        },
+        {
+          "round": 8,
+          "song": "Bike",
+          "voted_for": "Jack A.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Let The Drummer Kick",
+          "voted_for": "Frank L.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Everybody Wants To Rule The World",
+          "voted_for": "Chris V.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Stella was a diver and she was always down",
+          "voted_for": "Brooks K.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Push Push (feat. Duane Allman)",
+          "voted_for": "Kennon S.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "I Wanna Be Adored - Remastered 2009",
+          "voted_for": "Mills T.",
+          "points_given": 1
+        },
+        {
+          "round": 8,
+          "song": "Tarhatazed",
+          "voted_for": "Kennon S.",
+          "points_given": 1
         }
       ],
-      "season_points": 48,
-      "rounds_played": 7
+      "season_points": 54,
+      "rounds_played": 8
     },
     "c2de60ec7be74e74ba5ebbd9af18056a": {
       "name": "Will B.",
@@ -20943,7 +22955,7 @@
         }
       ],
       "season_points": 9,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "e004e6544dff44bdb1687ec8fb03f137": {
       "name": "Will I.",
@@ -20973,7 +22985,7 @@
       ],
       "voting_history": [],
       "season_points": 0,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "f9f6d12c4c7240ee83db9fd0774fc416": {
       "name": "Danny C.",
@@ -21046,7 +23058,7 @@
         }
       ],
       "season_points": 5,
-      "rounds_played": 7
+      "rounds_played": 8
     },
     "fa73648bd3f34bc6980fe57087f351f5": {
       "name": "Chris V.",
@@ -21204,6 +23216,28 @@
           "unique_voters": 5,
           "track_id": "7f8mgCngOGhoRNAmhN6GIo",
           "spotify_url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
+        },
+        {
+          "round": 8,
+          "title": "Wake Me up When September Ends",
+          "artist": "Green Day",
+          "album": "American Idiot",
+          "total_pts": 6,
+          "forfeited": true,
+          "unique_voters": 3,
+          "track_id": "3ZffCQKLFLUvYM59XKLbVm",
+          "spotify_url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
+        },
+        {
+          "round": 8,
+          "title": "Everybody Wants To Rule The World",
+          "artist": "Tears For Fears",
+          "album": "Songs From The Big Chair (Super Deluxe Edition)",
+          "total_pts": 3,
+          "forfeited": true,
+          "unique_voters": 3,
+          "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+          "spotify_url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
         }
       ],
       "voting_history": [
@@ -21545,7 +23579,7 @@
         }
       ],
       "season_points": 71,
-      "rounds_played": 7
+      "rounds_played": 8
     }
   },
   "fun_metrics": {
@@ -21660,32 +23694,32 @@
         {
           "player1": "Dray E.",
           "player2": "Mills T.",
-          "overlap": "27%",
-          "detail": "26 shared of 95 total"
+          "overlap": "25%",
+          "detail": "28 shared of 110 total"
         },
         {
-          "player1": "Jake C.",
-          "player2": "Ford L.",
-          "overlap": "26%",
-          "detail": "23 shared of 89 total"
-        },
-        {
-          "player1": "Mills T.",
+          "player1": "Emory L.",
           "player2": "Ford L.",
           "overlap": "25%",
-          "detail": "23 shared of 92 total"
+          "detail": "26 shared of 104 total"
         },
         {
           "player1": "Dray E.",
           "player2": "Giles G.",
-          "overlap": "24%",
-          "detail": "23 shared of 94 total"
+          "overlap": "25%",
+          "detail": "27 shared of 109 total"
         },
         {
-          "player1": "Giles G.",
-          "player2": "Chris V.",
-          "overlap": "24%",
-          "detail": "20 shared of 83 total"
+          "player1": "Mills T.",
+          "player2": "Ford L.",
+          "overlap": "23%",
+          "detail": "25 shared of 107 total"
+        },
+        {
+          "player1": "Jake C.",
+          "player2": "Ford L.",
+          "overlap": "23%",
+          "detail": "23 shared of 99 total"
         }
       ]
     },
@@ -21695,8 +23729,8 @@
       "leaders": [
         {
           "player": "Emory L.",
-          "value": "6.8 avg",
-          "detail": "10 songs"
+          "value": "6.0 avg",
+          "detail": "12 songs"
         },
         {
           "player": "Hunter A.",
@@ -21704,33 +23738,33 @@
           "detail": "4 songs"
         },
         {
-          "player": "Dray E.",
-          "value": "5.5 avg",
-          "detail": "14 songs"
-        },
-        {
           "player": "Ben Z.",
           "value": "5.2 avg",
           "detail": "14 songs"
         },
         {
+          "player": "Dray E.",
+          "value": "5.1 avg",
+          "detail": "16 songs"
+        },
+        {
           "player": "Kennon S.",
-          "value": "5.1 avg",
-          "detail": "14 songs"
-        },
-        {
-          "player": "Jake C.",
-          "value": "5.1 avg",
-          "detail": "12 songs"
-        },
-        {
-          "player": "Chris V.",
-          "value": "5.1 avg",
-          "detail": "14 songs"
+          "value": "4.9 avg",
+          "detail": "16 songs"
         },
         {
           "player": "Mills T.",
-          "value": "4.8 avg",
+          "value": "4.6 avg",
+          "detail": "16 songs"
+        },
+        {
+          "player": "Chris V.",
+          "value": "4.4 avg",
+          "detail": "16 songs"
+        },
+        {
+          "player": "Jake C.",
+          "value": "4.4 avg",
           "detail": "14 songs"
         }
       ]
